@@ -80,7 +80,9 @@ Trois règles logistiques qui changent tout :
 2. L'icône **⚡** = besoin d'électricité → câblée au générateur. Encore une raison d'avoir un **générateur de secours** caché.
 3. Les tourelles montent en **niveaux** (niv. 1, 2…) via l'écran Tech — améliorez-les au fil de la saison.
 
-**L'armement de l'oignon : la Tourelle mitrailleuse portative** ✅ (fiche relevée en jeu PS5) — *« L'attaque est la meilleure des défenses. Déployez vos forces au sol, et cette tourelle attaquera les ennemis à portée. »* PV équivalents à **750 % d'intensité Psi**, dégâts **78 + 100 % d'intensité Psi**. Fabrication 20 s, matériaux courants (lingots, plastique, composants, Source protoplasmique) — produisez-en en série et placez-les dans l'espace tampon et aux angles morts. *(À vérifier : la version « portative » semble autonome — pas de câblage au générateur, contrairement aux tourelles fixes.)* Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
+**⚠️ Tourelle mitrailleuse portative = TEMPORAIRE (vérifié en jeu)** : elle **disparaît à la déconnexion** du joueur qui l'a posée. C'est un outil de **combat actif** (défense en direct, assaut, tenir un point pendant qu'on est en ligne — PV 750 % Psi, dégâts 78 + 100 % Psi, 20 s de fabrication), **pas** une défense permanente.
+
+**Pour la défense permanente de la zone, il faut les tourelles FIXES** de la catégorie Installation de combat (Fusil d'assaut niv. 1, Fusil de chasse niv. 1…), à **débloquer dans l'écran Tech** : elles restent en place hors connexion — câblées au générateur (⚡) et approvisionnées en munitions. Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
 
 À compléter pour la version parfaite :
 
