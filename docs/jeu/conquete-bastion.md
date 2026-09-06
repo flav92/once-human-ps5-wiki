@@ -31,6 +31,17 @@ Sur la carte, des **régions contestables** (bastions moyens et points de ressou
 
 Particularité : ces zones contestables ne sont **pas découpées en instances (« Mondes »)** — tous les joueurs du serveur s'y voient, et le PvP y est libre contre quiconque n'est pas de votre camp (l'icône rouge **« GVG »** s'affiche en haut à droite de l'écran quand vous y êtes).
 
+## Deux systèmes à ne pas confondre
+
+| | **Zone d'engagement** (sites d'extraction) | **Guerre de bastion déclarée** (frontières de faction) |
+|---|---|---|
+| Déclaration | ❌ Aucune — PvP libre permanent | ✅ Le chef déclare la guerre via l'interface |
+| Quand | À tout moment | Créneaux programmés (PC : mer/ven/dim à heure fixe) |
+| Objectif | Détruire les installations de l'occupant (relais, R.S.T…) puis **occuper le site d'extraction** | Détruire les **Entraves protoïdes** du défenseur avant la fin du chrono |
+| Qui prend | La **Ruche** (+ enchères) | La **faction armée** |
+
+Pour attaquer une zone d'engagement, **pas besoin de se « déclarer attaquant »** : on entre, on détruit, on occupe. La déclaration formelle ne concerne que les guerres de bastion programmées.
+
 ## Sur place : que faire dans la zone ?
 
 Une fois la faction créée et arrivé dans une zone contestable, deux cas :
@@ -106,7 +117,7 @@ Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone G
 | Explosif | Fabrication | Efficace contre | Limite |
 |---|---|---|---|
 | **Grenade** ✅ (fabriquée ×8, « dégâts modérés ») | Mémétiques → branche **Établi de synthèse**, 1er nœud (relevé en jeu PS5) — recette : lingots, poudre à canon, Source protoplasmique, carburant | Toutes cibles, mais dégâts de structure faibles | Anti-personnel avant tout — utilisable sur du bois en dépannage |
-| **Explosifs améliorés** (Improved Explosives) | **Établi de synthèse** : 10 plastique ignifugé + 10 caoutchouc + 3 Explosifs variés + 1 pièce électronique | Bois (stabilité niv. 2 max) | Dégâts réduits dès le niv. 3 (pierre) — ~2700 dégâts |
+| **Explosifs améliorés** (Improved Explosives) | **Établi de synthèse** : 10 plastique ignifugé + 10 caoutchouc + 3 Explosifs variés + 1 pièce électronique | Bois (stabilité niv. 2 max) | Dégâts réduits dès le niv. 3 (pierre) — **2683 dégâts** (fiche wikily FR) |
 | **Explosifs puissants** (High Explosives) | **Grand établi de synthèse** (Advanced Synthesis Bench) | Bois + pierre (stabilité niv. 3 max) | Dégâts réduits sur le niv. 4 (béton) |
 | **Lance-roquettes (RPG7), MGL, C4** | Armes lourdes, plus tard dans la progression | Le haut du panier pour percer les défenses | Coûteux, accessibles en milieu/fin de saison |
 
