@@ -38,6 +38,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Iron Ingot | Lingot de fer | ✅ **Lingot de fer** (confirmé en jeu, 06/09/2026) |
 | Parts | Pièces | ✅ **Pièces** (confirmé en jeu, 06/09/2026) |
 | Acid | Acide | ✅ **Acide** (confirmé en jeu, 06/09/2026 — Déviants et nature) |
+| Extraction site / Rig | Site d'extraction | ✅ **Site d'extraction** (message en jeu, 06/09/2026 — à occuper avant de pouvoir construire dans la zone) |
 | Power Cable | Câble d'alimentation | ✅ **Câble d'alimentation** (confirmé en jeu, 06/09/2026) |
 | Electronic Part | Pièce/Composant électronique | ✅ **Composant électronique** (confirmé en jeu, 06/09/2026) |
 | Portable Fuel Mix (?) | — | ✅ **Mélange de carburant portatif** (confirmé en jeu, 06/09/2026) |
