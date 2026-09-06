@@ -46,7 +46,9 @@ Le HUD de la zone affiche des compteurs (ex. `0/12`) avec les pseudos des occupa
 
 1. Le **générateur** ennemi → coupe le courant de tout ce qu'il alimente, **tourelles automatiques comprises**.
 2. Les **relais électriques** reliés au générateur (suivez les câbles).
-3. L'**Équipement de sécurité** ennemi — une tour « R.S.T » sur trépied à deux modules : c'est **elle** qui matérialise leurs droits sur la zone.
+3. Les **Entraves protoïdes** ✅ — des tours « R.S.T » sur trépied, **étiquetées « Entraves protoïdes » quand on les vise** (vérifié en jeu PS5). Ce sont elles les objectifs comptés par le HUD : détruisez-les toutes.
+
+Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?), `12/60`, `0/12` (icône pylône — relais ?), `0/12` et `1/1` (site d'extraction), avec les pseudos des occupants. **Après chaque destruction, regardez quel compteur bouge** — c'est votre liste d'objectifs en direct ; le permis de construire se débloque quand les conditions (compteurs + enchère/occupation) sont remplies.
 
 **Étape 3 — Remporter l'occupation.** Détruire ne suffit pas : la prise passe par le système d'**enchères** de la faction (interface de faction/carte) et/ou une interaction sur la foreuse. *(Écran d'enchères exact, monnaie et durées : à documenter — premiers retours bienvenus.)* C'est la **Ruche** qui devient propriétaire (patch notes officiels) : soyez groupés en Ruche.
 
