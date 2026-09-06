@@ -78,6 +78,16 @@ Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?)
 
 ## 4. La guerre de bastion déclarée (frontières)
 
+### L'interface de guerre (relevée en jeu PS5 ✅)
+
+Tout se pilote depuis **Factions armées → onglet Guerre** (autres onglets : Aperçu, Membres, Boutique, Classement) :
+
+- **Occupation : 0/10** — une faction peut occuper jusqu'à **10 frontières**.
+- La liste affiche chaque frontière avec ses **Points régionaux** (ce qu'elle rapporte au classement) et son **type** : **Frontière principale** ou **Petite frontière**.
+- Exemple relevé (serveur console EU, phase 1) : Frontière sud (3200, principale), Winding Ridge (4800, principale), Skelsen (6400, principale), Merlin Island (1600, principale), **Rippleby (1600, petite)**, Island Tail (3200, petite), Windward Point (4800, petite), Stonybrook (6400, petite).
+- En début de phase 1, chaque ligne affiche **« Déclaration de guerre non disponible »** et le statut *« Les enchères n'ont pas encore commencé dans la phase de scénario actuelle »* — le système ouvre plus tard dans la saison.
+- Stratégie : les frontières à 1600 points sont les moins disputées — parfaites pour une première prise de petite faction ; les 6400 attireront les grosses factions.
+
 Pour prendre une frontière **occupée par une faction ennemie** :
 
 1. Le chef **déclare la guerre** sur la zone (carte / interface de faction).

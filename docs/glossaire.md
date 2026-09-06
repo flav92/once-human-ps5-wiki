@@ -25,6 +25,9 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
 | Frontier | Frontière | ✅ **Frontière** (carte en jeu, 06/09/2026 — ex. « Frontière de Rippleby ») |
 | Attacker's base | Base de l'attaquant | ✅ **Base de l'attaquant** (marqueur de carte relevé en jeu, 06/09/2026) |
+| Main / Small Frontier | Frontière principale / Petite frontière | ✅ **Frontière principale** / **Petite frontière** (onglet Guerre, 06/09/2026) |
+| Regional points | Points régionaux | ✅ **Points régionaux** (onglet Guerre, 06/09/2026) |
+| War tab | Onglet Guerre | ✅ **Factions armées → Guerre** (Aperçu, Membres, Guerre, Boutique, Classement) |
 | Engagement Zone | Zone d'affrontement / d'engagement | ✅ **Zone d'engagement** (fiche de l'Équipement de sécurité, 06/09/2026) |
 | Staroid Restrainer (« beacon ») | Entraves protoïdes | ✅ **Entraves protoïdes** (confirmé en jeu, 06/09/2026 — l'objectif à détruire en Conquête de bastion) |
 | Staroid Resonator | Résonateur protoïde | ✅ **Résonateur protoïde** (wikily.gg FR — objet tactique de détection des Entraves) |
