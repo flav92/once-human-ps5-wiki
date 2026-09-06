@@ -28,8 +28,14 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
 | Supplies Workbench | Établi de fournitures | ❓ à vérifier |
-| Sophisticated Supplies Workbench | Établi de fournitures avancé | ✅ **Établi de fournitures sophistiqué** (confirmé en jeu, 06/09/2026 — c'est là que se fabriquent les roquettes de RPG7) |
+| Sophisticated Supplies Workbench (?) | Établi de fournitures sophistiqué | ❓ aperçu en jeu, rôle à confirmer |
 | Gear Workbench | Établi d'équipement | ❓ à vérifier |
+| Advanced Gear Workbench | Établi d'équipement avancé | ✅ **Établi d'équipement avancé** (confirmé en jeu, 06/09/2026 — fabrique les roquettes de lance-roquettes) |
+| Mixed Explosives | Explosifs mixtes | ✅ **Explosifs variés** (confirmé en jeu, 06/09/2026) |
+| Steel Ingot | Lingot d'acier | ✅ **Lingot d'acier** (confirmé en jeu, 06/09/2026) |
+| Electronic Part | Pièce/Composant électronique | ✅ **Composant électronique** (confirmé en jeu, 06/09/2026) |
+| Portable Fuel Mix (?) | — | ✅ **Mélange de carburant portatif** (confirmé en jeu, 06/09/2026) |
+| Protoplasm Source (?) | — | ✅ **Source protoplasmique** (confirmé en jeu, 06/09/2026) |
 | Electric Furnace | Four électrique | ❓ à vérifier |
 | Advanced Stove | Réchaud avancé | ❓ à vérifier |
 | Sanity | Santé mentale | ❓ à vérifier |

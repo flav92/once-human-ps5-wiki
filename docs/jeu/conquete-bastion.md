@@ -84,8 +84,45 @@ Les **explosifs mixtes** (l'ingrédient clé) demandent notamment du **soufre** 
 ### RPG7 : obtenir le lanceur et ses roquettes
 
 - **Le lanceur** : plan achetable dans les **Mémétiques** (onglet Fabrication, avec des points mémétiques), trouvable dans des coffres mystérieux aux points d'intérêt, ou via la **Machine à vœux** (Starchrom).
-- **Les roquettes** (*Rocket Warheads / Rocket Shells*) : se fabriquent à l'**Établi de fournitures sophistiqué** ✅ *(nom confirmé en jeu sur PS5)* — cherchez « roquette » dans la catégorie munitions. Matériaux à base de poudre à canon (donc du soufre), lingots de cuivre et pièces rouillées. Elles se **ramassent aussi en loot** (conteneurs, ennemis) dans la plupart des régions.
-- Le plan des munitions doit être débloqué dans les Mémétiques avant d'apparaître à l'établi. *À confirmer en jeu : quantités exactes de la recette.*
+- **Les roquettes** : se fabriquent à l'**Établi d'équipement avancé** ✅ *(recette relevée en jeu sur PS5, 06/09/2026)* :
+    - 10 × Lingot d'acier
+    - 5 × **Explosifs variés** (l'ingrédient au soufre — voir [Ressources](ressources.md#soufre))
+    - 15 × Source protoplasmique
+    - 10 × Composant électronique
+    - 15 × Mélange de carburant portatif
+- Elles se **ramassent aussi en loot** (conteneurs, ennemis) dans la plupart des régions, et s'achètent parfois aux **distributeurs** des autres joueurs contre des Liens d'énergie.
+- Astuce faction : un seul membre débloque/pose l'établi nécessaire, et toute la faction fabrique dessus via les permissions de base partagées.
+
+### Arbre de production des roquettes
+
+Du haut (l'objet final) vers le bas (les ressources à farmer) :
+
+```mermaid
+flowchart TD
+    R["🚀 ROQUETTE<br/>(Établi d'équipement avancé)"]
+
+    R --> A["10 × Lingot d'acier"]
+    R --> E["5 × Explosifs variés"]
+    R --> P["15 × Source protoplasmique"]
+    R --> C["10 × Composant électronique"]
+    R --> F["15 × Mélange de carburant portatif"]
+
+    A --> A1["Minerai de fer<br/>(rochers rouge sombre,<br/>Broken Delta)"]
+    A --> A2["Charbon<br/>(bois brûlé au fourneau)"]
+
+    E --> E1["Soufre<br/>(rochers à cristaux jaunes<br/>Broken Delta / Iron River,<br/>ou Déviant Garçon Digby)"]
+
+    C --> C1["Bric-à-brac techno<br/>(claviers, écrans, chiens robots)<br/>→ Bureau de démontage"]
+
+    P --> P1["❓ source à confirmer en jeu<br/>(butin de créatures ?)"]
+    F --> F1["❓ recette à confirmer en jeu<br/>(carburant / biofuel ?)"]
+
+    style R fill:#7c4dff,color:#fff
+    style P1 stroke-dasharray: 5 5
+    style F1 stroke-dasharray: 5 5
+```
+
+*Les feuilles marquées ❓ restent à confirmer en jeu — si vous voyez la recette exacte (fer/charbon du lingot d'acier, composition des explosifs variés, du carburant portatif et de la source protoplasmique), [contribuez](../contribuer.md) !*
 
 Conseils :
 
