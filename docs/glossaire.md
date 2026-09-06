@@ -28,6 +28,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
 | Supplies Workbench | Établi de fournitures | ❓ à vérifier |
+| Sophisticated Supplies Workbench | Établi de fournitures avancé | ✅ **Établi de fournitures sophistiqué** (confirmé en jeu, 06/09/2026 — c'est là que se fabriquent les roquettes de RPG7) |
 | Gear Workbench | Établi d'équipement | ❓ à vérifier |
 | Electric Furnace | Four électrique | ❓ à vérifier |
 | Advanced Stove | Réchaud avancé | ❓ à vérifier |
