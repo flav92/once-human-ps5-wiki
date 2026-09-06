@@ -96,6 +96,23 @@ La ligne clé de chaque fiche : *« Très efficace contre les structures de **ni
 
 *\* icône du plastique à confirmer. Les « Explosifs améliorés » décrits par les wikis PC n'ont pas été retrouvés sur PS5 en phase 1 — les Explosifs surpuissants les remplacent avantageusement.*
 
+### Les PV des structures — mesurés en jeu ✅
+
+Données relevées sur PS5 (06/09/2026) en visant les éléments ennemis :
+
+| Élément | PV (durabilité) | Coût constaté pour le détruire |
+|---|---|---|
+| **Quart de plafond en bois massif** | **3 200** | **3 × Explosifs surpuissants** (vérifié en conditions réelles) |
+| **Quart de fondations en marbre** | **6 400** | ~6 Explosifs surpuissants (estimation : PV doublés, marbre = pierre niv. 3, toujours « très efficace ») |
+
+Ce qu'on en déduit :
+
+- Un Explosif surpuissant inflige **~1 100 dégâts effectifs par PV de structure** sur du bois (3 200 ÷ 3) — le « 3639 » de la fiche est la valeur contre les créatures, les structures encaissent différemment.
+- **Dimensionnez vos stocks** : comptez ~3 surpuissants par élément en bois, ~6 par élément en marbre/pierre, puis doublez pour la marge (ratés, réparations du défenseur).
+- La durabilité de chaque élément s'affiche en le visant — vérifiez toujours les PV réels avant de dépenser vos bombes.
+
+*À compléter : coût mesuré sur le marbre, et PV des murs/portes.*
+
 ### Le goulot de toute la chaîne : les Explosifs variés
 
 Grenades, Explosifs surpuissants, Coquilles de roquette : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu de la faction se mesure donc en soufre : rochers à **cristaux jaunes** (Broken Delta, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](ressources.md#soufre). Faites tourner la file de production en continu.
