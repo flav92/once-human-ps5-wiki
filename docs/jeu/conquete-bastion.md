@@ -47,11 +47,9 @@ Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement
 !!! warning "Erreur « Aucun permis de construire pour cette zone » (rencontrée en jeu PS5)"
     Ce message signifie que la zone n'est **pas encore réclamable** par vous. Causes probables, dans l'ordre à vérifier :
 
-    1. **L'Équipement de sécurité ennemi est encore debout** quelque part — le générateur n'est pas lui : cherchez l'installation restante (recoins, étages, arrière des bâtiments) et détruisez-la pour libérer la zone.
-    2. **Vous n'êtes pas en Ruche** : l'occupation d'une zone d'affrontement passe par la Ruche (patch notes officiels) — créez/rejoignez une Ruche avec vos coéquipiers, et faites poser l'équipement par son chef.
-    3. La pose doit peut-être se faire à un **emplacement précis** de la zone (près du point central/de la foreuse).
+    **Cause identifiée sur le terrain (PS5, 06/09/2026)** : la prise de ces bastions passe par le système d'**enchères** de la faction — détruire les défenses ne suffit pas, il faut **remporter l'enchère sur la zone** (via l'interface de faction/carte) pour obtenir le droit d'y construire. Une fois l'enchère gagnée, la pose de l'Équipement de sécurité/des constructions se débloque.
 
-    *À confirmer en jeu : la cause exacte — dites-nous ce qui a marché !*
+    *À compléter : où se trouve exactement l'écran d'enchères sur PS5, la monnaie utilisée et les horaires/durées d'enchère.*
 
 ### La zone est libre (non occupée)
 
