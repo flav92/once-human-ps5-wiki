@@ -45,14 +45,20 @@ nav:
       - Manette DualSense et contrôles: ps5/manette-et-controles.md
       - Serveurs et régions: ps5/serveurs.md
       - Problèmes connus: ps5/problemes-connus.md
-  - Le jeu:
+  - Survie:
       - Premiers pas sur Nalcott: jeu/premiers-pas.md
       - Astuces de survie: jeu/astuces-survie.md
-      - Ressources — où trouver quoi: jeu/ressources.md
-      - Base et territoire: jeu/base-territoire.md
-      - Armes et équipement: jeu/armes-equipement.md
       - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
-      - Conquête de bastion (GvG): jeu/conquete-bastion.md
+  - Craft:
+      - Ressources — où trouver quoi: jeu/ressources.md
+      - Explosifs et munitions: craft/explosifs.md
+      - Armes et équipement: jeu/armes-equipement.md
+      - Base et territoire: jeu/base-territoire.md
+  - Guerre & territoires:
+      - Factions armées et Ruches: guerre/factions.md
+      - Prendre une zone d'affrontements: guerre/prise-de-zone.md
+      - Guerres de frontières et enchères: guerre/frontieres.md
+      - GvG — par où commencer: jeu/conquete-bastion.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer: contribuer.md
 

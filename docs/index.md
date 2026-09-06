@@ -33,14 +33,21 @@ Le jeu est sorti sur console le **25 août 2026** : les informations spécifique
 - [Serveurs et régions](ps5/serveurs.md)
 - [Problèmes connus et correctifs](ps5/problemes-connus.md)
 
-### Le jeu
+### Survie
 - [Premiers pas sur Nalcott](jeu/premiers-pas.md)
 - [Astuces de survie](jeu/astuces-survie.md)
-- [Ressources : où trouver quoi](jeu/ressources.md)
-- [Base et territoire](jeu/base-territoire.md)
-- [Armes, accessoires et équipement](jeu/armes-equipement.md)
 - [Multijoueur, PvP et phases de serveur](jeu/multijoueur-pvp.md)
-- [Conquête de bastion (GvG) et factions armées](jeu/conquete-bastion.md)
+
+### Craft
+- [Ressources : où trouver quoi](jeu/ressources.md)
+- [Explosifs et munitions](craft/explosifs.md)
+- [Armes, accessoires et équipement](jeu/armes-equipement.md)
+- [Base et territoire](jeu/base-territoire.md)
+
+### Guerre & territoires
+- [Factions armées et Ruches](guerre/factions.md)
+- [Prendre une zone d'affrontements — guide vérifié terrain](guerre/prise-de-zone.md)
+- [Guerres de frontières et enchères](guerre/frontieres.md)
 
 ### Communauté
 - [Glossaire FR/EN des menus](glossaire.md)
