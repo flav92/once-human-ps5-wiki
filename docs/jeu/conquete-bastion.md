@@ -50,7 +50,7 @@ Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement
     - 1 × Câble d'alimentation (exploration ou Boutique)
 
     ⚠️ Précision (patch notes officiels) : c'est la **Ruche (Hive)** qui prend possession d'une zone d'engagement, pas la faction armée — soyez groupés en Ruche avec vos coéquipiers.
-4. **Occuper le site d'extraction d'abord** : le jeu l'exige avant toute construction — message relevé en jeu PS5 : *« Pour poser un générateur : vous devez d'abord occuper un site d'extraction. »* La zone s'articule autour de son/ses **sites d'extraction** (les foreuses à ressources) : c'est leur occupation qui ouvre les droits de construire (générateur, défenses…).
+4. **Occuper le site d'extraction d'abord** : le jeu l'exige avant toute construction ET toute interaction avec les installations de la zone — messages relevés en jeu PS5 : *« Pour poser un générateur : vous devez d'abord occuper un site d'extraction »* et *« Aucun accès. Vous devez d'abord occuper un site d'extraction »* (en tentant d'utiliser un « Petit générateur solaire » au pied d'une foreuse). La zone s'articule autour de ses **sites d'extraction** (les foreuses) : leur occupation ouvre tous les droits (construction, accès aux installations). Le HUD de la zone affiche des compteurs (ex. 0/12) avec les noms des occupants — probablement le décompte des sites occupés par équipe. L'occupation semble passer par les **enchères** (voir l'encadré ci-dessous) et/ou une interaction directe sur la foreuse.
 5. **Défendre votre équipement** : s'il est détruit, vous perdez l'occupation à votre tour. Mines Claymore, sacs de sable et tourelles autour, et remontez des murs.
 
 !!! warning "Erreur « Aucun permis de construire pour cette zone » (rencontrée en jeu PS5)"
