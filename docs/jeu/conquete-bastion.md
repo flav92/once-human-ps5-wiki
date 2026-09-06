@@ -81,6 +81,12 @@ Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone G
 
 Les **explosifs mixtes** (l'ingrédient clé) demandent notamment du **soufre** — voir [Ressources : le soufre](ressources.md#soufre) pour le farmer efficacement.
 
+### RPG7 : obtenir le lanceur et ses roquettes
+
+- **Le lanceur** : plan achetable dans les **Mémétiques** (onglet Fabrication, avec des points mémétiques), trouvable dans des coffres mystérieux aux points d'intérêt, ou via la **Machine à vœux** (Starchrom).
+- **Les roquettes** (*Rocket Warheads / Rocket Shells*) : se fabriquent à l'**Établi de synthèse** (catégorie munitions — cherchez « roquette » dans le menu de fabrication), à base de poudre à canon (donc du soufre), lingots de cuivre et pièces rouillées. Elles se **ramassent aussi en loot** (conteneurs, ennemis) dans la plupart des régions.
+- Le plan des munitions doit être débloqué dans les Mémétiques avant d'apparaître à l'établi. *À confirmer en jeu : quantités exactes de la recette et nom FR affiché.*
+
 Conseils :
 
 - **Visez l'élément le plus faible** : une fondation ou un mur en bois cède bien plus vite que du béton — ouvrez une brèche au point le plus fragile plutôt que de taper le mur le plus épais.
