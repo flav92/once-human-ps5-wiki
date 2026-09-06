@@ -76,6 +76,9 @@ Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?)
 
 **Étape 5 — Fortifier immédiatement.** Votre équipement devient la cible : s'il est détruit, vous perdez la zone. Mines Claymore, sacs de sable, tourelles (avec un générateur à vous), murs. Les 10 premières minutes après la prise sont les plus dangereuses — la faction délogée revient souvent.
 
+!!! info "Découverte : les Entraves protoïdes se CONSTRUISENT (relevé en jeu PS5)"
+    Les tours « Entraves protoïdes » ne sont pas générées par le jeu : elles figurent dans le **menu de construction, catégorie Extérieur** (aux côtés de l'Équipement de sécurité, catégories relevées : Spécial / Appareil spécial / Extérieur). Ce sont donc les **défenseurs qui les posent** — elles matérialisent leur emprise, et c'est pour ça que les attaquants doivent les détruire. Une fois votre zone prise : posez vos propres Entraves (dans des positions défendables et cachées !) en plus de l'Équipement de sécurité.
+
 ---
 
 ## 4. La guerre de bastion déclarée (frontières)
