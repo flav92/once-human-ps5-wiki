@@ -14,6 +14,17 @@ Participer exige d'être membre d'une **faction armée** (*Warband*) — l'équi
 4. Rejoindre est **gratuit** ; en créer une coûte **800 Liens d'énergie**.
 5. Capacité initiale : **30 joueurs**, extensible au fil de la saison.
 
+### Côté chef : faire venir des joueurs dans votre faction
+
+Vous avez créé votre faction ? Les joueurs vous rejoignent par la même liste :
+
+- Ils ouvrent **« S'unir » → Faction armée**, tapent le **nom de votre faction** dans la barre de recherche (ou la trouvent dans la liste) et cliquent **Rejoindre**.
+- Ce qui se passe ensuite dépend du réglage choisi à la création :
+    - **Adhésion automatique** : ils deviennent membres immédiatement.
+    - **Sur candidature** : vous devez **valider leurs demandes** dans le menu de la faction (en tant que fondateur, vous y voyez les candidatures en attente).
+- Pour recruter activement, faites passer le nom exact de la faction à vos amis (chat du serveur, chat de proximité) — la recherche par nom est le moyen le plus fiable de vous trouver.
+- Un **tableau de recrutement** permet aussi d'annoncer sa faction aux joueurs sans guilde. *À confirmer en jeu sur PS5 : emplacement exact du tableau et des réglages d'adhésion après création.*
+
 ## Le principe du mode
 
 Sur la carte, des **régions contestables** (bastions moyens et points de ressources, appelés *Frontiers*) peuvent être **occupées par une faction armée**. La faction qui occupe une zone en tire des ressources — les autres factions peuvent la lui prendre en déclarant une **Conquête de bastion** : un combat attaque/défense entre deux factions.
