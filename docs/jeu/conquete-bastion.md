@@ -82,8 +82,14 @@ Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement
 - Les icônes **« Attaque »** sur la carte marquent les zones où votre faction a déclaré (ou subit) une bataille.
 - **Zone d'attaque** = un bastion occupé par une faction ennemie que votre faction attaque.
 - **Zone de défense** = un bastion que votre faction occupe et qu'une faction ennemie attaque.
-- **Objectif de l'attaquant** : détruire les **balises (beacons)** protégées par le défenseur **avant la fin du temps imparti** → la zone change de mains.
+- **Objectif de l'attaquant** : détruire les **Entraves protoïdes** ✅ (*Staroid Restrainers* — les « balises » protégées par le défenseur) **avant la fin du temps imparti** → la zone change de mains.
 - **Objectif du défenseur** : tenir jusqu'à la fin du chrono.
+
+### Trouver les Entraves protoïdes : le Résonateur protoïde
+
+Les Entraves sont cachées/protégées dans la zone. L'outil dédié est le **Résonateur protoïde** (objet tactique « conçu pour les conquêtes de bastion » : *détecte les entraves protoïdes dans un rayon de X mètres*). Sur la carte, une Entrave repérée apparaît comme un **cercle blanc** — le cercle indique la zone approximative, à affiner au Résonateur sur place.
+
+Recette du Résonateur (**Grand établi de synthèse**) : 25 bouts de ferraille + 25 adhésif + 25 caoutchouc + 10 composants électroniques + 15 Source protoplasmique. Léger (0,1), à usage unique — prévoyez-en plusieurs.
 
 ### La « base de l'attaquant »
 

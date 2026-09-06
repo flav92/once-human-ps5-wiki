@@ -25,7 +25,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
 | Frontier | Zone contestable / Frontier | ❓ à vérifier |
 | Engagement Zone | Zone d'affrontement / d'engagement | ✅ **Zone d'engagement** (fiche de l'Équipement de sécurité, 06/09/2026) |
-| Beacon | Balise | ❓ à vérifier |
+| Staroid Restrainer (« beacon ») | Entraves protoïdes | ✅ **Entraves protoïdes** (confirmé en jeu, 06/09/2026 — l'objectif à détruire en Conquête de bastion) |
+| Staroid Resonator | Résonateur protoïde | ✅ **Résonateur protoïde** (wikily.gg FR — objet tactique de détection des Entraves) |
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
 | Supplies Workbench | Établi de fournitures | ❓ à vérifier |
