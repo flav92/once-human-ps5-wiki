@@ -83,7 +83,7 @@ Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriq
 
 ### RPG7 : obtenir le lanceur et ses roquettes
 
-- **Le lanceur** : plan achetable dans les **Mémétiques** (onglet Fabrication, avec des points mémétiques), trouvable dans des coffres mystérieux aux points d'intérêt, ou via la **Machine à vœux** (Starchrom).
+- **Le lanceur** (« RPG7 — Schéma : lance-roquette » ✅) : plan achetable dans les **Mémétiques** (onglet Fabrication, avec des points mémétiques), trouvable dans des coffres mystérieux aux points d'intérêt, ou via la **Machine à vœux** (Starchrom). Stats relevées en jeu PS5 (rang II) : **297 DÉG**, chargeur de **1** (rechargement entre chaque tir), cadence 40, +25 % DÉG critiques et points faibles. Le trait du jeu confirme : *« Très efficace contre les structures de niv. 3 ou inférieur en stabilité »* — bois et pierre. L'arme existe en plusieurs **rangs** (II → V) : la refabriquer à un rang supérieur augmente ses dégâts au fil de la saison.
 - **Les roquettes** s'appellent **« Coquille de roquette »** ✅ (*Rocket Shell* — « ogive spéciale pour lance-roquettes », modifiable dans le sac à dos pour changer de type de munitions). Recette relevée en jeu sur PS5 (06/09/2026), fabrication en 5 s :
     - 10 × Lingot d'acier
     - 5 × **Explosifs variés** — se fabriquent au **Grand établi de synthèse** ✅ (ou à l'Établi de fournitures avancé en Mode Zone de Raid) ; c'est l'ingrédient au soufre, voir [Ressources](ressources.md#soufre)
