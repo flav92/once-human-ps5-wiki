@@ -28,7 +28,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
 | Supplies Workbench | Établi de fournitures | ❓ à vérifier |
-| Sophisticated Supplies Workbench (?) | Établi de fournitures sophistiqué | ❓ aperçu en jeu, rôle à confirmer |
+| Advanced Supplies Workbench | Établi de fournitures avancé | ✅ **Établi de fournitures avancé** (info-bulle en jeu, 06/09/2026 — utilisé en Mode Zone de Raid) |
 | Gear Workbench | Établi d'équipement | ❓ à vérifier |
 | Advanced Gear Workbench | Établi d'équipement avancé | ✅ **Établi d'équipement avancé** (confirmé en jeu, 06/09/2026 — fabrique les roquettes de lance-roquettes) |
 | Mixed Explosives | Explosifs mixtes | ✅ **Explosifs variés** (confirmé en jeu, 06/09/2026) |
@@ -44,6 +44,10 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Teleportation Tower | Tour de téléportation | ❓ à vérifier |
 | Vending Machine | Distributeur | ❓ à vérifier |
 | Echo Stone | Pierre d'Écho | ❓ à vérifier |
+| Rocket Shell | Coquille de roquette | ✅ **Coquille de roquette** (confirmé en jeu, 06/09/2026) |
+| Red Plasma Rocket Warhead | Ogive de fusée plasma rouge | ✅ **Ogive de fusée plasma rouge** (confirmé en jeu, 06/09/2026) |
+| Gunpowder | Poudre à canon | ✅ **Poudre à canon** (confirmé en jeu, 06/09/2026) |
+| Crafting queue | File de fabrication | ✅ **File d'attente** (confirmé en jeu, 06/09/2026) |
 | Synthesis Bench | Établi de synthèse | ❓ à vérifier |
 | Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |
 

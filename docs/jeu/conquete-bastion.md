@@ -84,9 +84,9 @@ Les **explosifs mixtes** (l'ingrédient clé) demandent notamment du **soufre** 
 ### RPG7 : obtenir le lanceur et ses roquettes
 
 - **Le lanceur** : plan achetable dans les **Mémétiques** (onglet Fabrication, avec des points mémétiques), trouvable dans des coffres mystérieux aux points d'intérêt, ou via la **Machine à vœux** (Starchrom).
-- **Les roquettes** : se fabriquent à l'**Établi d'équipement avancé** ✅ *(recette relevée en jeu sur PS5, 06/09/2026)* :
+- **Les roquettes** s'appellent **« Coquille de roquette »** ✅ (*Rocket Shell* — « ogive spéciale pour lance-roquettes », modifiable dans le sac à dos pour changer de type de munitions). Recette relevée en jeu sur PS5 (06/09/2026), fabrication en 5 s :
     - 10 × Lingot d'acier
-    - 5 × **Explosifs variés** (l'ingrédient au soufre — voir [Ressources](ressources.md#soufre))
+    - 5 × **Explosifs variés** — se fabriquent au **Grand établi de synthèse** ✅ (ou à l'Établi de fournitures avancé en Mode Zone de Raid) ; c'est l'ingrédient au soufre, voir [Ressources](ressources.md#soufre)
     - 15 × Source protoplasmique
     - 10 × Composant électronique
     - 15 × Mélange de carburant portatif
@@ -99,7 +99,7 @@ Du haut (l'objet final) vers le bas (les ressources à farmer) :
 
 ```mermaid
 flowchart TD
-    R["🚀 ROQUETTE<br/>(Établi d'équipement avancé)"]
+    R["🚀 COQUILLE DE ROQUETTE<br/>(Établi d'équipement avancé)"]
 
     R --> A["10 × Lingot d'acier"]
     R --> E["5 × Explosifs variés"]
@@ -110,7 +110,8 @@ flowchart TD
     A --> A1["Minerai de fer<br/>(rochers rouge sombre,<br/>Broken Delta)"]
     A --> A2["Charbon<br/>(bois brûlé au fourneau)"]
 
-    E --> E1["Soufre<br/>(rochers à cristaux jaunes<br/>Broken Delta / Iron River,<br/>ou Déviant Garçon Digby)"]
+    E --> E0["Grand établi de synthèse"]
+    E0 --> E1["Soufre<br/>(rochers à cristaux jaunes<br/>Broken Delta / Iron River,<br/>ou Déviant Garçon Digby)"]
 
     C --> C1["Bric-à-brac techno<br/>(claviers, écrans, chiens robots)<br/>→ Bureau de démontage"]
 
