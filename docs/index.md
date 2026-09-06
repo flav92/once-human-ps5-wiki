@@ -43,6 +43,7 @@ Le jeu est sorti sur console le **25 août 2026** : les informations spécifique
 - [Conquête de bastion (GvG) et factions armées](jeu/conquete-bastion.md)
 
 ### Communauté
+- [Glossaire FR/EN des menus](glossaire.md)
 - [Comment contribuer](contribuer.md)
 
 ## 🔗 Liens officiels

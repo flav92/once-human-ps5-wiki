@@ -53,6 +53,7 @@ nav:
       - Armes et équipement: jeu/armes-equipement.md
       - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
       - Conquête de bastion (GvG): jeu/conquete-bastion.md
+  - Glossaire FR/EN: glossaire.md
   - Contribuer: contribuer.md
 
 markdown_extensions:
