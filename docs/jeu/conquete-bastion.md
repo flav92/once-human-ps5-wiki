@@ -74,12 +74,15 @@ Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone G
 
 | Explosif | Fabrication | Efficace contre | Limite |
 |---|---|---|---|
-| **Explosifs** (Explosives, qualité 1) | Mémétiques → onglet Fabrication → nœud « objets explosifs à lancer » (*Explosive Throwables*, palier ~03, env. 5 chiffrements + 700 pts) | Bois (stabilité niv. 2 max) | Faibles dégâts (~1000) |
+| **Explosifs** (Explosives, qualité 1) | Mémétiques → branche **Établi de synthèse** ✅ : nœuds **Grenade → Mines Claymore → Grenade HE** (relevé en jeu PS5) | Bois (stabilité niv. 2 max) | Faibles dégâts (~1000) |
 | **Explosifs améliorés** (Improved Explosives) | **Établi de synthèse** : 10 plastique ignifugé + 10 caoutchouc + 3 Explosifs variés + 1 pièce électronique | Bois (stabilité niv. 2 max) | Dégâts réduits dès le niv. 3 (pierre) — ~2700 dégâts |
 | **Explosifs puissants** (High Explosives) | **Grand établi de synthèse** (Advanced Synthesis Bench) | Bois + pierre (stabilité niv. 3 max) | Dégâts réduits sur le niv. 4 (béton) |
 | **Lance-roquettes (RPG7), MGL, C4** | Armes lourdes, plus tard dans la progression | Le haut du panier pour percer les défenses | Coûteux, accessibles en milieu/fin de saison |
 
 Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriqués au **Grand établi de synthèse**) demandent notamment du **soufre** — voir [Ressources : le soufre](ressources.md#soufre) pour le farmer efficacement.
+
+!!! tip "La branche explosifs des Mémétiques (relevée en jeu PS5)"
+    Dans les Mémétiques, la ligne sous **« Établi de synthèse »** contient : **Grenade** → **Mines Claymore** → **Grenade HE**. La branche voisine **« Sacs de sable »** → **Protecteur** → **Mannequin de tir** sert à la défense. Les **Mines Claymore** sont d'ailleurs excellentes pour défendre votre propre zone/Équipement de sécurité une fois la zone prise.
 
 ### RPG7 : obtenir le lanceur et ses roquettes
 

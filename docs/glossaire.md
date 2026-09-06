@@ -49,7 +49,11 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Red Plasma Rocket Warhead | Ogive de fusée plasma rouge | ✅ **Ogive de fusée plasma rouge** (confirmé en jeu, 06/09/2026) |
 | Gunpowder | Poudre à canon | ✅ **Poudre à canon** (confirmé en jeu, 06/09/2026) |
 | Crafting queue | File de fabrication | ✅ **File d'attente** (confirmé en jeu, 06/09/2026) |
-| Synthesis Bench | Établi de synthèse | ❓ à vérifier |
+| Synthesis Bench | Établi de synthèse | ✅ **Établi de synthèse** (confirmé en jeu, 06/09/2026 — nœud des Mémétiques) |
+| Claymore Mines | Mines Claymore | ✅ **Mines Claymore** (confirmé en jeu, 06/09/2026) |
+| HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |
+| Sandbags | Sacs de sable | ✅ **Sacs de sable** (confirmé en jeu, 06/09/2026) |
+| Shooting Dummy | Mannequin de tir | ✅ **Mannequin de tir** (confirmé en jeu, 06/09/2026) |
 | Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |
 
 ## Lieux (noms de la carte)
