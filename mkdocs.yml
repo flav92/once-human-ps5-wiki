@@ -47,6 +47,11 @@ nav:
       - Problèmes connus: ps5/problemes-connus.md
   - Le jeu:
       - Premiers pas sur Nalcott: jeu/premiers-pas.md
+      - Astuces de survie: jeu/astuces-survie.md
+      - Ressources — où trouver quoi: jeu/ressources.md
+      - Base et territoire: jeu/base-territoire.md
+      - Armes et équipement: jeu/armes-equipement.md
+      - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
   - Contribuer: contribuer.md
 
 markdown_extensions:

@@ -35,6 +35,11 @@ Le jeu est sorti sur console le **25 août 2026** : les informations spécifique
 
 ### Le jeu
 - [Premiers pas sur Nalcott](jeu/premiers-pas.md)
+- [Astuces de survie](jeu/astuces-survie.md)
+- [Ressources : où trouver quoi](jeu/ressources.md)
+- [Base et territoire](jeu/base-territoire.md)
+- [Armes, accessoires et équipement](jeu/armes-equipement.md)
+- [Multijoueur, PvP et phases de serveur](jeu/multijoueur-pvp.md)
 
 ### Communauté
 - [Comment contribuer](contribuer.md)
