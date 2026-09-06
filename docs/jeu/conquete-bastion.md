@@ -91,6 +91,7 @@ Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriq
     - 10 × Composant électronique
     - 15 × Mélange de carburant portatif
 - Elles se **ramassent aussi en loot** (conteneurs, ennemis) dans la plupart des régions, et s'achètent parfois aux **distributeurs** des autres joueurs contre des Liens d'énergie.
+- **Variante anti-structures : l'Ogive de fusée plasma rouge** ✅ (*Red Plasma Rocket Warhead*, relevée en jeu PS5) : **+30 % de dégâts aux constructions**, +30 % aux véhicules, et dégâts massifs aux boucliers de la Peste d'argent (Prime War). Se fabrique au même établi (5 s) mais avec des matériaux plus rares (dont un lingot spécial et de la Source protoplasmique). C'est la munition à sortir contre les fondations coriaces (pierre/béton) — pour du simple bois, la Coquille de roquette standard ou les explosifs suffisent.
 - Astuce faction : un seul membre débloque/pose l'établi nécessaire, et toute la faction fabrique dessus via les permissions de base partagées.
 
 ### Arbre de production des roquettes

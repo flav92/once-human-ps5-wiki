@@ -45,6 +45,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Vending Machine | Distributeur | ❓ à vérifier |
 | Echo Stone | Pierre d'Écho | ❓ à vérifier |
 | Rocket Shell | Coquille de roquette | ✅ **Coquille de roquette** (confirmé en jeu, 06/09/2026) |
+| Silver Plague | Peste d'argent | ✅ **Peste d'argent** (confirmé en jeu, 06/09/2026) |
 | Red Plasma Rocket Warhead | Ogive de fusée plasma rouge | ✅ **Ogive de fusée plasma rouge** (confirmé en jeu, 06/09/2026) |
 | Gunpowder | Poudre à canon | ✅ **Poudre à canon** (confirmé en jeu, 06/09/2026) |
 | Crafting queue | File de fabrication | ✅ **File d'attente** (confirmé en jeu, 06/09/2026) |
