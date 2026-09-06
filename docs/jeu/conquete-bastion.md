@@ -31,6 +31,27 @@ Sur la carte, des **régions contestables** (bastions moyens et points de ressou
 
 Particularité : ces zones contestables ne sont **pas découpées en instances (« Mondes »)** — tous les joueurs du serveur s'y voient, et le PvP y est libre contre quiconque n'est pas de votre camp (l'icône rouge **« GVG »** s'affiche en haut à droite de l'écran quand vous y êtes).
 
+## Sur place : que faire dans la zone ?
+
+Une fois la faction créée et arrivé dans une zone contestable, deux cas :
+
+### La zone est libre (non occupée)
+
+- L'occupation passe par un système d'**enchères de la faction** : le chef mise de la monnaie via l'interface de la faction/de la carte pour prendre l'occupation d'une zone libre. On ne peut pas enchérir sur une zone déjà occupée par une autre faction — il faut alors lui déclarer la guerre.
+- Sur le terrain, la prise de possession se matérialise en posant un **Équipement de sécurité** : Mode construction → Installations → **Installations extérieures** (dernier onglet) → Équipement de sécurité. ⚠️ Si cet équipement est détruit, la faction **perd l'occupation** — défendez-le.
+- *À confirmer en jeu (PS5, version actuelle) : le détail exact enchères vs pose d'équipement selon le type de zone (bastion / point de ressources / zone d'engagement) — les retours communautaires divergent et l'interface a évolué depuis le lancement PC.*
+
+### La zone est occupée par une faction ennemie
+
+- Le chef **déclare la guerre** sur la zone visée depuis la carte/l'interface de faction.
+- La bataille n'a pas lieu immédiatement : elle est **programmée sur des créneaux fixes** (sur PC : mercredi, vendredi et dimanche, toujours à la même heure — *horaires exacts côté serveurs console EU à confirmer*).
+- Au créneau prévu, la zone devient champ de bataille : votre faction attaque depuis son **camp d'attaquant**, l'objectif est de **détruire les balises** du défenseur avant la fin du chrono (voir ci-dessous).
+
+### En attendant la bataille
+
+- Dans la zone, l'icône **GVG** signifie PvP libre : vous pouvez tuer (et être tué par) tout joueur qui n'est pas de votre camp, et **piller** les points de la zone.
+- Profitez-en pour repérer les lieux, les balises ennemies et les accès véhicules.
+
 ## Attaque et défense
 
 - Les icônes **« Attaque »** sur la carte marquent les zones où votre faction a déclaré (ou subit) une bataille.
