@@ -37,6 +37,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Teleportation Tower | Tour de téléportation | ❓ à vérifier |
 | Vending Machine | Distributeur | ❓ à vérifier |
 | Echo Stone | Pierre d'Écho | ❓ à vérifier |
+| Synthesis Bench | Établi de synthèse | ❓ à vérifier |
+| Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |
 
 ## Lieux (noms de la carte)
 
