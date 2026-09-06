@@ -1,0 +1,67 @@
+site_name: Wiki Once Human PS5
+site_description: Wiki communautaire francophone dédié à Once Human sur PlayStation 5 / PS5 Pro
+site_url: https://flav92.github.io/once-human-ps5-wiki/
+repo_url: https://github.com/flav92/once-human-ps5-wiki
+repo_name: flav92/once-human-ps5-wiki
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Passer en mode clair
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Passer en mode sombre
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.integrate
+
+nav:
+  - Accueil: index.md
+  - Démarrage:
+      - Installation et premier lancement: demarrage/installation.md
+      - Liaison de compte: demarrage/liaison-compte.md
+      - Crossplay et cross-progression: demarrage/crossplay.md
+  - Spécifique PS5:
+      - Performances (PS5 / PS5 Pro): ps5/performances.md
+      - Manette DualSense et contrôles: ps5/manette-et-controles.md
+      - Serveurs et régions: ps5/serveurs.md
+      - Problèmes connus: ps5/problemes-connus.md
+  - Le jeu:
+      - Premiers pas sur Nalcott: jeu/premiers-pas.md
+  - Contribuer: contribuer.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search:
+      lang: fr
+
+copyright: Wiki non officiel, sans affiliation avec NetEase / Starry Studio.

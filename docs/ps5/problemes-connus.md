@@ -2,7 +2,7 @@
 
 *Dernière mise à jour : 6 septembre 2026*
 
-Le jeu venant de sortir sur console, cette page est mise à jour au fil des patchs. Si vous rencontrez un bug non listé, [contribuez](../../CONTRIBUTING.md) !
+Le jeu venant de sortir sur console, cette page est mise à jour au fil des patchs. Si vous rencontrez un bug non listé, [contribuez](../contribuer.md) !
 
 ## Problèmes signalés depuis le lancement (25 août 2026)
 
