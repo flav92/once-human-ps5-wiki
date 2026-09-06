@@ -34,6 +34,9 @@ Dans les deux cas : ces zones ne sont **pas instanciées** — tout le serveur s
 
 ## 3. Prendre une zone d'engagement (guide vérifié terrain ✅)
 
+!!! success "Séquence validée par une prise réelle"
+    Ce guide n'est pas théorique : la séquence ci-dessous a été **exécutée avec succès le 06/09/2026** sur un serveur console EU (secteur de Rippleby) — destruction des Entraves protoïdes et installations adverses, puis prise de contrôle par la Ruche (« Ruche sous contrôle » affichée sur la carte). La zone produit ensuite ses ressources rares (Stardust, carburant premium) pour la Ruche propriétaire.
+
 Sur la carte, la zone s'appelle **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion » et un niveau suggéré, ex. 25). Son infobulle officielle tranche la question de la propriété : *« **La zone d'engagement ne peut être contrôlée que par la ruche.** »* L'infobulle affiche aussi la **« Ruche sous contrôle »** (le nom de la Ruche propriétaire) et les **Ressources** que la zone produit (deux ressources rares — d'après les patch notes PC : Stardust et carburant premium en barils, production boostée dans ces zones).
 
 La zone s'articule autour de ses **sites d'extraction** : tant que votre camp n'en occupe pas un, **tout est verrouillé** — construction ET interactions. Messages du jeu relevés sur PS5 : *« Aucun permis de construire pour cette zone »*, *« Pour poser un générateur : vous devez d'abord occuper un site d'extraction »*, *« Aucun accès. Vous devez d'abord occuper un site d'extraction »*.
