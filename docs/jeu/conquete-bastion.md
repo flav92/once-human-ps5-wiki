@@ -68,6 +68,25 @@ Quand votre faction est en position d'attaquant, un **camp d'attaque** est étab
 
 Dans le scénario PvP à phases (ex : Evolution's Call, 5 phases), le mode monte en puissance avec la saison : en **phase 1**, les premières zones contestables ouvrent dans les régions de départ, puis chaque phase ouvre de nouvelles régions (et de nouveaux bastions) — d'où les zones d'attaque/défense visibles dès maintenant sur votre serveur. Voir aussi [Phases de serveur](multijoueur-pvp.md#phases-de-serveur-le-mur-rouge).
 
+## Détruire les structures ennemies (fondations, murs…)
+
+Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone GvG, ses structures sont destructibles — mais **les armes classiques ne font quasiment rien aux bâtiments** : il faut des **explosifs**, et leur efficacité dépend du niveau de **stabilité** du matériau visé :
+
+| Explosif | Efficace contre | Limite |
+|---|---|---|
+| **Explosifs améliorés** (Improved Explosives) | Stabilité niv. 2 max (bois) | Dégâts réduits dès le niv. 3 |
+| **Explosifs puissants** (High Explosives) | Stabilité niv. 3 max (bois + pierre) | Dégâts réduits sur le niv. 4 (béton) |
+| **C4 / roquettes (RPG)** | Le haut du panier pour percer les défenses | Coûteux à produire |
+
+Conseils :
+
+- **Visez l'élément le plus faible** : une fondation ou un mur en bois cède bien plus vite que du béton — ouvrez une brèche au point le plus fragile plutôt que de taper le mur le plus épais.
+- Si les fondations **entourent un générateur ou l'Équipement de sécurité** de la faction ennemie (l'installation au milieu), c'est ça la vraie cible : détruire l'Équipement de sécurité fait **perdre l'occupation** à la faction adverse, et détruire un **générateur** coupe le courant de ce qu'il alimente (tourelles automatiques comprises) — le neutraliser en premier facilite tout le reste de l'assaut.
+- Arrivez en **véhicule**, posez les charges, reculez — et prévoyez un gros stock d'explosifs : les assauts en consomment beaucoup.
+- En défense, c'est l'inverse : multipliez les couches de murs (« honeycombing ») et montez en matériaux de stabilité élevée.
+
+*À confirmer en jeu : recettes/déblocage exact des explosifs dans les Mémétiques et dégâts précis par palier sur la version actuelle.*
+
 ## Tactiques de base
 
 **Attaquants :**
