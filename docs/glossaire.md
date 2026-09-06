@@ -24,6 +24,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Chaos State | État de Chaos | ❓ à vérifier |
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
 | Frontier | Zone contestable / Frontier | ❓ à vérifier |
+| Engagement Zone | Zone d'affrontement | ✅ **Zone d'affrontement** (confirmé en jeu, 06/09/2026) |
 | Beacon | Balise | ❓ à vérifier |
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |

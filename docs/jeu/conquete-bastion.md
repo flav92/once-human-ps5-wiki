@@ -35,6 +35,17 @@ Particularité : ces zones contestables ne sont **pas découpées en instances (
 
 Une fois la faction créée et arrivé dans une zone contestable, deux cas :
 
+### Prendre la zone : la marche à suivre (retour terrain PS5)
+
+Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement Zone*) :
+
+1. **Détruire les défenses ennemies** — et bonne surprise : dans ces zones, **les structures en bois tombent même sous les balles** (plafonds détruits à l'arme à feu, sans explosifs). Les explosifs restent utiles pour aller plus vite et pour les matériaux plus durs.
+2. **Détruire le générateur** ennemi (coupe les tourelles) puis son **Équipement de sécurité** s'il y en a un — c'est lui qui matérialise leur occupation.
+3. **Poser votre propre Équipement de sécurité** pour réclamer la zone : Mode construction → Installations → Installations extérieures (dernier onglet) → Équipement de sécurité.
+4. **Défendre votre équipement** : s'il est détruit, vous perdez l'occupation à votre tour. Mines Claymore, sacs de sable et tourelles autour, et remontez des murs.
+
+*Si l'option de pose n'apparaît pas : vérifiez qu'il ne reste pas un équipement ennemi debout quelque part dans la zone, et regardez l'interface de la faction/carte (certaines zones passent par une réclamation via la faction plutôt que par la pose directe).*
+
 ### La zone est libre (non occupée)
 
 - L'occupation passe par un système d'**enchères de la faction** : le chef mise de la monnaie via l'interface de la faction/de la carte pour prendre l'occupation d'une zone libre. On ne peut pas enchérir sur une zone déjà occupée par une autre faction — il faut alors lui déclarer la guerre.
@@ -70,7 +81,7 @@ Dans le scénario PvP à phases (ex : Evolution's Call, 5 phases), le mode monte
 
 ## Détruire les structures ennemies (fondations, murs…)
 
-Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone GvG, ses structures sont destructibles — mais **les armes classiques ne font quasiment rien aux bâtiments** : il faut des **explosifs**, et leur efficacité dépend du niveau de **stabilité** du matériau visé :
+Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone GvG, ses structures sont destructibles. Retour terrain PS5 : **dans les zones d'affrontement, le bois tombe même sous les balles** (lent mais gratuit) ; pour aller vite ou percer des matériaux plus durs, il faut des **explosifs**, et leur efficacité dépend du niveau de **stabilité** du matériau visé :
 
 | Explosif | Fabrication | Efficace contre | Limite |
 |---|---|---|---|
