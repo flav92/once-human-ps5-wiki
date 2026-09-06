@@ -53,7 +53,13 @@ Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?)
 **Étape 3 — Remporter l'enchère.** Détruire ne suffit pas : la prise passe par le système d'**enchères**. Tout se voit sur la carte : sélectionnez la frontière → **Détails (croix)** → onglets **Guerre / Ressources** ✅. L'écran affiche l'occupant actuel (ex. *« Inoccupé(e) — <Défenseur> »*), la mise (ex. **1600**), et le statut des enchères.
 
 !!! danger "LE point crucial découvert sur le terrain (PS5, phase 1)"
-    Statut relevé en jeu : *« **Les enchères n'ont pas encore commencé dans la phase de scénario actuelle.** »* — autrement dit, en début de saison, **personne ne peut encore réclamer les frontières**, même une zone « Inoccupée » aux défenses rasées. C'est ça (et pas une erreur de votre part) qui explique le message « Aucun permis de construire ». Les enchères ouvrent plus tard dans la saison (changement de phase ou date fixe — *à confirmer*). **Préparez-vous en attendant** : gardez ~1600 de mise en réserve, surveillez l'écran Détails de votre frontière cible, et soyez prêts à miser dès l'ouverture — vous connaissez déjà le terrain.
+    Statut relevé en jeu : *« **Les enchères n'ont pas encore commencé dans la phase de scénario actuelle.** »* — autrement dit, en début de saison, **personne ne peut encore réclamer les frontières**, même une zone « Inoccupée » aux défenses rasées. C'est ça (et pas une erreur de votre part) qui explique le message « Aucun permis de construire ». Les enchères ouvrent plus tard dans la saison — **aucune source publique ne documente la date exacte d'ouverture** (notre relevé d'écran est, à notre connaissance, la première documentation de ce statut). **Préparez-vous en attendant** : gardez ~1600 de mise en réserve, surveillez l'écran Détails de votre frontière cible, et soyez prêts à miser dès l'ouverture — vous connaissez déjà le terrain.
+
+    Ce que les sources communautaires (PC) confirment sur le système d'enchères :
+
+    - Les **guerres de frontières ont lieu à jours et heure fixes** — mercredi, vendredi et dimanche — et **les phases d'enchères se déroulent entre les guerres**.
+    - L'enchère est **à l'aveugle** (« private bid ») : on ne voit pas les mises des autres factions — misez ce que la zone vaut pour vous et espérez.
+    - Conséquence : les **grosses factions peuvent surenchérir massivement** sur les petites — visez des frontières à la mesure de votre trésorerie.
 
 **Étape 4 — Poser votre Équipement de sécurité** (fiche officielle ✅ : *« Équipement de sécurité pour gérer les droits de zone d'engagement »*). Recette :
 
