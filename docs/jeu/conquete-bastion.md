@@ -50,7 +50,10 @@ Le HUD de la zone affiche des compteurs (ex. `0/12`) avec les pseudos des occupa
 
 Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?), `12/60`, `0/12` (icône pylône — relais ?), `0/12` et `1/1` (site d'extraction), avec les pseudos des occupants. **Après chaque destruction, regardez quel compteur bouge** — c'est votre liste d'objectifs en direct ; le permis de construire se débloque quand les conditions (compteurs + enchère/occupation) sont remplies.
 
-**Étape 3 — Remporter l'occupation.** Détruire ne suffit pas : la prise passe par le système d'**enchères** de la faction (interface de faction/carte) et/ou une interaction sur la foreuse. *(Écran d'enchères exact, monnaie et durées : à documenter — premiers retours bienvenus.)* C'est la **Ruche** qui devient propriétaire (patch notes officiels) : soyez groupés en Ruche.
+**Étape 3 — Remporter l'enchère.** Détruire ne suffit pas : la prise passe par le système d'**enchères**. Tout se voit sur la carte : sélectionnez la frontière → **Détails (croix)** → onglets **Guerre / Ressources** ✅. L'écran affiche l'occupant actuel (ex. *« Inoccupé(e) — <Défenseur> »*), la mise (ex. **1600**), et le statut des enchères.
+
+!!! danger "LE point crucial découvert sur le terrain (PS5, phase 1)"
+    Statut relevé en jeu : *« **Les enchères n'ont pas encore commencé dans la phase de scénario actuelle.** »* — autrement dit, en début de saison, **personne ne peut encore réclamer les frontières**, même une zone « Inoccupée » aux défenses rasées. C'est ça (et pas une erreur de votre part) qui explique le message « Aucun permis de construire ». Les enchères ouvrent plus tard dans la saison (changement de phase ou date fixe — *à confirmer*). **Préparez-vous en attendant** : gardez ~1600 de mise en réserve, surveillez l'écran Détails de votre frontière cible, et soyez prêts à miser dès l'ouverture — vous connaissez déjà le terrain.
 
 **Étape 4 — Poser votre Équipement de sécurité** (fiche officielle ✅ : *« Équipement de sécurité pour gérer les droits de zone d'engagement »*). Recette :
 
