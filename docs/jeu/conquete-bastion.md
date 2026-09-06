@@ -41,10 +41,17 @@ Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement
 
 1. **Détruire les défenses ennemies** — et bonne surprise : dans ces zones, **les structures en bois tombent même sous les balles** (plafonds détruits à l'arme à feu, sans explosifs). Les explosifs restent utiles pour aller plus vite et pour les matériaux plus durs.
 2. **Détruire le générateur** ennemi (coupe les tourelles) puis son **Équipement de sécurité** s'il y en a un — c'est lui qui matérialise leur occupation.
-3. **Poser votre propre Équipement de sécurité** pour réclamer la zone : Mode construction → Installations → Installations extérieures (dernier onglet) → Équipement de sécurité.
+3. **Poser votre propre Équipement de sécurité** pour réclamer la zone : Mode construction → Installations → Installations extérieures (dernier onglet) → Équipement de sécurité. ⚠️ Précision (patch notes officiels) : c'est la **Ruche (Hive)** qui prend possession d'une zone d'affrontement, pas la faction armée — soyez groupés en Ruche avec vos coéquipiers.
 4. **Défendre votre équipement** : s'il est détruit, vous perdez l'occupation à votre tour. Mines Claymore, sacs de sable et tourelles autour, et remontez des murs.
 
-*Si l'option de pose n'apparaît pas : vérifiez qu'il ne reste pas un équipement ennemi debout quelque part dans la zone, et regardez l'interface de la faction/carte (certaines zones passent par une réclamation via la faction plutôt que par la pose directe).*
+!!! warning "Erreur « Aucun permis de construire pour cette zone » (rencontrée en jeu PS5)"
+    Ce message signifie que la zone n'est **pas encore réclamable** par vous. Causes probables, dans l'ordre à vérifier :
+
+    1. **L'Équipement de sécurité ennemi est encore debout** quelque part — le générateur n'est pas lui : cherchez l'installation restante (recoins, étages, arrière des bâtiments) et détruisez-la pour libérer la zone.
+    2. **Vous n'êtes pas en Ruche** : l'occupation d'une zone d'affrontement passe par la Ruche (patch notes officiels) — créez/rejoignez une Ruche avec vos coéquipiers, et faites poser l'équipement par son chef.
+    3. La pose doit peut-être se faire à un **emplacement précis** de la zone (près du point central/de la foreuse).
+
+    *À confirmer en jeu : la cause exacte — dites-nous ce qui a marché !*
 
 ### La zone est libre (non occupée)
 
