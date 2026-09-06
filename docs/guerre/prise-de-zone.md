@@ -62,6 +62,8 @@ Pourquoi ça marche :
 - **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
 - **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce l'anneau 1 se retrouve à découvert.
 
+**L'armement de l'oignon : la Tourelle mitrailleuse portative** ✅ (fiche relevée en jeu PS5) — *« L'attaque est la meilleure des défenses. Déployez vos forces au sol, et cette tourelle attaquera les ennemis à portée. »* PV équivalents à **750 % d'intensité Psi**, dégâts **78 + 100 % d'intensité Psi**. Fabrication 20 s, matériaux courants (lingots, plastique, composants, Source protoplasmique) — produisez-en en série et placez-les dans l'espace tampon et aux angles morts. *(À vérifier : la version « portative » semble autonome — pas de câblage au générateur, contrairement aux tourelles fixes.)* Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
+
 À compléter pour la version parfaite :
 
 - **Stock de réparation dans un coffre sur place** : la réparation est ridiculement bon marché (1 brique la fondation !) — un défenseur présent qui répare pendant le siège rend la percée quasi impossible. C'est votre plus gros avantage : exploitez-le.

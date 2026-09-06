@@ -65,6 +65,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Crafting queue | File de fabrication | ✅ **File d'attente** (confirmé en jeu, 06/09/2026) |
 | Synthesis Bench | Établi de synthèse | ✅ **Établi de synthèse** (confirmé en jeu, 06/09/2026 — nœud des Mémétiques) |
 | Claymore Mines | Mines Claymore | ✅ **Mines Claymore** (confirmé en jeu, 06/09/2026) |
+| Portable Machine Gun Turret | Tourelle mitrailleuse portative | ✅ **Tourelle mitrailleuse portative** (confirmé en jeu, 06/09/2026 — PV 750 % Psi, dégâts 78 + 100 % Psi) |
+| Decoy | Leurre | ✅ **Leurre** (aperçu en jeu, 06/09/2026 — rôle à documenter) |
 | HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |
 | High Explosives | Explosifs puissants | ✅ **Explosifs surpuissants** (confirmé en jeu, 06/09/2026 — 3639 dég., efficace bois+pierre, 180 points Tech) |
 | Tech Tree / Tech points | Arbre Tech / points Tech | ✅ **Arbre Tech** / **points Tech** (confirmé en jeu, 06/09/2026) |
