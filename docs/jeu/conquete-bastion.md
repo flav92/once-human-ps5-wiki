@@ -123,6 +123,15 @@ Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone G
 
 Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriqués au **Grand établi de synthèse**) demandent notamment du **soufre** — voir [Ressources : le soufre](ressources.md#soufre) pour le farmer efficacement.
 
+!!! warning "Blocage de la phase 1 : tous les explosifs ne sont pas disponibles"
+    L'arbre des Mémétiques est découpé en 5 paliers : **01 Éveil** et **02 Renforcement** sont ouverts dès le début de saison, mais **03 Ascendance, 04 Transcendance et 05 Illumination sont verrouillés jusqu'à la phase 2** (l'événement de mi-saison « Tame the Staroid » sur PC). Conséquences en phase 1 :
+
+    - ✅ Disponibles : **Grenade**, **Mines Claymore**, **Grenade HE** (branche débloquée constatée en jeu PS5), le **RPG7** et ses **Coquilles de roquette**.
+    - ❌ Probablement verrouillés : **Explosifs améliorés** (nœud de palier 03) et **Explosifs puissants** (palier 05) — inutile de les chercher à l'établi avant la phase 2.
+    - L'équipement de **palier 5** est aussi verrouillé en phase 1 (et lié au niveau 40).
+
+    **Arsenal anti-structures réel de la phase 1** : balles (efficaces sur le bois en zone d'engagement), Grenade HE, et les roquettes du RPG7. Vérifiez la ligne « structures de niv. X » de la Grenade HE dans sa fiche.
+
 !!! tip "La branche explosifs des Mémétiques (relevée en jeu PS5)"
     Dans les Mémétiques, la ligne sous **« Établi de synthèse »** contient : **Grenade** → **Mines Claymore** → **Grenade HE**. La branche voisine **« Sacs de sable »** → **Protecteur** → **Mannequin de tir** sert à la défense. Les **Mines Claymore** sont d'ailleurs excellentes pour défendre votre propre zone/Équipement de sécurité une fois la zone prise.
 
