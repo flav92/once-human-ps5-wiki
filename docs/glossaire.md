@@ -60,6 +60,9 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Synthesis Bench | Établi de synthèse | ✅ **Établi de synthèse** (confirmé en jeu, 06/09/2026 — nœud des Mémétiques) |
 | Claymore Mines | Mines Claymore | ✅ **Mines Claymore** (confirmé en jeu, 06/09/2026) |
 | HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |
+| High Explosives | Explosifs puissants | ✅ **Explosifs surpuissants** (confirmé en jeu, 06/09/2026 — 3639 dég., efficace bois+pierre, 180 points Tech) |
+| Tech Tree / Tech points | Arbre Tech / points Tech | ✅ **Arbre Tech** / **points Tech** (confirmé en jeu, 06/09/2026) |
+| Demolition Fuses (?) | Mèches de démolition | ✅ **Mèches de démolition** (nœud aperçu en jeu, 06/09/2026 — rôle à documenter) |
 | Sandbags | Sacs de sable | ✅ **Sacs de sable** (confirmé en jeu, 06/09/2026) |
 | Shooting Dummy | Mannequin de tir | ✅ **Mannequin de tir** (confirmé en jeu, 06/09/2026) |
 | Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |

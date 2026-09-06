@@ -126,11 +126,19 @@ Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriq
 !!! warning "Blocage de la phase 1 : tous les explosifs ne sont pas disponibles"
     L'arbre des Mémétiques est découpé en 5 paliers : **01 Éveil** et **02 Renforcement** sont ouverts dès le début de saison, mais **03 Ascendance, 04 Transcendance et 05 Illumination sont verrouillés jusqu'à la phase 2** (l'événement de mi-saison « Tame the Staroid » sur PC). Conséquences en phase 1 :
 
-    - ✅ Disponibles : **Grenade**, **Mines Claymore**, **Grenade HE** (branche débloquée constatée en jeu PS5), le **RPG7** et ses **Coquilles de roquette**.
-    - ❌ Probablement verrouillés : **Explosifs améliorés** (nœud de palier 03) et **Explosifs puissants** (palier 05) — inutile de les chercher à l'établi avant la phase 2.
-    - L'équipement de **palier 5** est aussi verrouillé en phase 1 (et lié au niveau 40).
+    - ✅ Disponibles : **Grenade**, **Mines Claymore**, **Grenade HE** (branche débloquée constatée en jeu PS5), le **RPG7** et ses **Coquilles de roquette** — et surtout les **Explosifs surpuissants** (voir ci-dessous), déblocables dès la phase 1 dans l'Arbre Tech.
+    - L'équipement de **palier 5** reste verrouillé en phase 1 (et lié au niveau 40), et certains nœuds coûteux s'ouvrent aux phases suivantes.
 
-    **Arsenal anti-structures réel de la phase 1** : balles (efficaces sur le bois en zone d'engagement), Grenade HE, et les roquettes du RPG7. Vérifiez la ligne « structures de niv. X » de la Grenade HE dans sa fiche.
+!!! success "LE nœud à débloquer en priorité : « Explosifs surpuissants » (relevé en jeu PS5)"
+    Trouvé dans l'**Arbre Tech** (voisin de : Drones améliorés, Piège de défense II/III, Matrix Bouclier, Mèches de démolition). Fiche officielle :
+
+    - **3639 dégâts + 800 % de l'intensité Psi**
+    - *« Très efficace contre les structures de niv. 3 ou inférieur en stabilité »* → **bois ET pierre**
+    - Dégâts réduits seulement sur le **niv. 4 (béton)**
+    - Se fabrique à un **établi de synthèse**
+    - **Déverrouillage : 180 points Tech** (ou par rétro-ingénierie d'un exemplaire trouvé) — accessible dès la **phase 1**
+
+    C'est le meilleur explosif à lancer de la phase 1, loin devant la Grenade HE : à débloquer dès que vous avez 180 points.
 
 !!! tip "La branche explosifs des Mémétiques (relevée en jeu PS5)"
     Dans les Mémétiques, la ligne sous **« Établi de synthèse »** contient : **Grenade** → **Mines Claymore** → **Grenade HE**. La branche voisine **« Sacs de sable »** → **Protecteur** → **Mannequin de tir** sert à la défense. Les **Mines Claymore** sont d'ailleurs excellentes pour défendre votre propre zone/Équipement de sécurité une fois la zone prise.
