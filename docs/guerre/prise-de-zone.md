@@ -62,6 +62,24 @@ Pourquoi ça marche :
 - **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
 - **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce l'anneau 1 se retrouve à découvert.
 
+### Les Installations de combat (catalogue relevé en jeu ✅)
+
+Le menu de construction a une catégorie dédiée **« Installation de combat »** — une douzaine d'unités. Ce qu'on en sait :
+
+| Installation | Munitions / rôle | Notes |
+|---|---|---|
+| **Tourelle « Fusil d'assaut » niv. 1+** | Visée auto, consomme des **munitions de fusil** — *« la meilleure arme qui soit pour protéger son territoire »* | Se débloque dans l'**écran Tech** |
+| **Tourelle « Fusil de chasse » niv. 1+** | Visée auto, munitions de **fusil à pompe** — *« attaquer sans retenue est la meilleure des défenses »* | Idéale à bout portant : couloirs et espace tampon |
+| **Tourelle opérée** (manuelle) | *« Puissance de feu colossale »* — un joueur monte dedans | Faible contre les structures (niv. 1) : anti-personnel |
+| **Caméra de surveillance** | Détection/alerte | ⚡ |
+| **Tourelle mitrailleuse portative** | Autonome, déployable | Voir ci-dessous |
+
+Trois règles logistiques qui changent tout :
+
+1. **Les tourelles à visée auto consomment VOS munitions** (fusil, pompe…) — approvisionnez-les, une tourelle à sec est un pot de fleurs.
+2. L'icône **⚡** = besoin d'électricité → câblée au générateur. Encore une raison d'avoir un **générateur de secours** caché.
+3. Les tourelles montent en **niveaux** (niv. 1, 2…) via l'écran Tech — améliorez-les au fil de la saison.
+
 **L'armement de l'oignon : la Tourelle mitrailleuse portative** ✅ (fiche relevée en jeu PS5) — *« L'attaque est la meilleure des défenses. Déployez vos forces au sol, et cette tourelle attaquera les ennemis à portée. »* PV équivalents à **750 % d'intensité Psi**, dégâts **78 + 100 % d'intensité Psi**. Fabrication 20 s, matériaux courants (lingots, plastique, composants, Source protoplasmique) — produisez-en en série et placez-les dans l'espace tampon et aux angles morts. *(À vérifier : la version « portative » semble autonome — pas de câblage au générateur, contrairement aux tourelles fixes.)* Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
 
 À compléter pour la version parfaite :

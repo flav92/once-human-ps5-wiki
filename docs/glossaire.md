@@ -66,6 +66,9 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Synthesis Bench | Établi de synthèse | ✅ **Établi de synthèse** (confirmé en jeu, 06/09/2026 — nœud des Mémétiques) |
 | Claymore Mines | Mines Claymore | ✅ **Mines Claymore** (confirmé en jeu, 06/09/2026) |
 | Portable Machine Gun Turret | Tourelle mitrailleuse portative | ✅ **Tourelle mitrailleuse portative** (confirmé en jeu, 06/09/2026 — PV 750 % Psi, dégâts 78 + 100 % Psi) |
+| Combat Installations | Installations de combat | ✅ **Installation de combat** (catégorie du menu construction, 06/09/2026) |
+| Assault Rifle Turret | Tourelle fusil d'assaut | ✅ **Fusil d'assaut niv. 1** (tourelle à visée auto, munitions de fusil — écran Tech, 06/09/2026) |
+| Shotgun Turret | Tourelle fusil de chasse | ✅ **Fusil de chasse niv. 1** (tourelle à visée auto, munitions de pompe — écran Tech, 06/09/2026) |
 | Decoy | Leurre | ✅ **Leurre** (aperçu en jeu, 06/09/2026 — rôle à documenter) |
 | HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |
 | High Explosives | Explosifs puissants | ✅ **Explosifs surpuissants** (confirmé en jeu, 06/09/2026 — 3639 dég., efficace bois+pierre, 180 points Tech) |
