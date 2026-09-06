@@ -50,7 +50,6 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Electronic Part | Pièce/Composant électronique | ✅ **Composant électronique** (confirmé en jeu, 06/09/2026) |
 | Portable Fuel Mix (?) | — | ✅ **Mélange de carburant portatif** (confirmé en jeu, 06/09/2026) |
 | Protoplasm Source (?) | — | ✅ **Source protoplasmique** (confirmé en jeu, 06/09/2026) |
-| Electric Furnace | Four électrique | ❓ à vérifier |
 | Advanced Stove | Réchaud avancé | ❓ à vérifier |
 | Sanity | Santé mentale | ❓ à vérifier |
 | Deviation / Deviant | Déviant | ✅ **Déviant** (confirmé en jeu, 06/09/2026) |
@@ -68,6 +67,9 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Portable Machine Gun Turret | Tourelle mitrailleuse portative | ✅ **Tourelle mitrailleuse portative** (confirmé en jeu, 06/09/2026 — PV 750 % Psi, dégâts 78 + 100 % Psi) |
 | Combat Installations | Installations de combat | ✅ **Installation de combat** (catégorie du menu construction, 06/09/2026) |
 | Assault Rifle Turret | Tourelle fusil d'assaut | ✅ **Fusil d'assaut niv. 1** (tourelle à visée auto, munitions de fusil — écran Tech, 06/09/2026) |
+| Medium Caliber Copper Bullet | Balle en cuivre de calibre moyen | ✅ **Balle en cuivre de calibre moyen** (confirmé en jeu, 06/09/2026 — établi de fournitures primaire ou avancé) |
+| Adhesive | Adhésif | ✅ **Adhésif** (confirmé en jeu, 06/09/2026) |
+| Electric Furnace | Four électrique | ✅ **Fourneau électrique** (mentionné en jeu, 06/09/2026 — fond le Lingot d'acier alliage) |
 | Shotgun Turret | Tourelle fusil de chasse | ✅ **Fusil de chasse niv. 1** (tourelle à visée auto, munitions de pompe — écran Tech, 06/09/2026) |
 | Decoy | Leurre | ✅ **Leurre** (aperçu en jeu, 06/09/2026 — rôle à documenter) |
 | HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |

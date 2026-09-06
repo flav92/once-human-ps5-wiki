@@ -68,7 +68,7 @@ Le menu de construction a une catégorie dédiée **« Installation de combat »
 
 | Installation | Munitions / rôle | Notes |
 |---|---|---|
-| **Tourelle « Fusil d'assaut » niv. 1+** | Visée auto, consomme des **munitions de fusil** — *« la meilleure arme qui soit pour protéger son territoire »* | Se débloque dans l'**écran Tech** |
+| **Tourelle « Fusil d'assaut » niv. 1+** | Visée auto, consomme des **munitions de fusil** — *« la meilleure arme qui soit pour protéger son territoire »* | Écran Tech. **Coût de pose relevé ✅** : 200 Balles en cuivre de calibre moyen (la tourelle arrive chargée) + 30 Lingots d'acier alliage (**fourneau électrique**) + 10 Pièces + 5 Lingots de cuivre + 5 Composants + 8 Adhésif |
 | **Tourelle « Fusil de chasse » niv. 1+** | Visée auto, munitions de **fusil à pompe** — *« attaquer sans retenue est la meilleure des défenses »* | Idéale à bout portant : couloirs et espace tampon |
 | **Tourelle opérée** (manuelle) | *« Puissance de feu colossale »* — un joueur monte dedans | Faible contre les structures (niv. 1) : anti-personnel |
 | **Caméra de surveillance** | Détection/alerte | ⚡ |
