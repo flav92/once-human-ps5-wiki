@@ -72,8 +72,9 @@ Le HUD de zone (relevé en jeu ✅) affiche notamment : `431/640` (structures ?)
 Pour prendre une frontière **occupée par une faction ennemie** :
 
 1. Le chef **déclare la guerre** sur la zone (carte / interface de faction).
-2. La bataille se joue au **créneau programmé**. Votre camp attaque depuis son **camp d'attaquant** en bordure de zone — votre point de réapparition pendant la bataille.
-3. **Objectif attaquant** : détruire les **Entraves protoïdes** ✅ (*Staroid Restrainers*) protégées par le défenseur avant la fin du chrono. **Objectif défenseur** : tenir.
+2. La bataille se joue au **créneau programmé**. Votre camp attaque depuis la **« Base de l'attaquant »** ✅ — un marqueur nommé qui apparaît sur la carte en bordure de la zone (relevé en jeu PS5, partageable à la faction via L3) : c'est votre point de ralliement/réapparition pendant la bataille.
+3. Les zones frontalières portent un nom sur la carte (ex. relevé : **« Frontière de Rippleby »**, niv. 7) — sélectionnez la zone et ouvrez **Détails (croix)** pour voir son état d'occupation et les infos de bataille.
+4. **Objectif attaquant** : détruire les **Entraves protoïdes** ✅ (*Staroid Restrainers*) protégées par le défenseur avant la fin du chrono. **Objectif défenseur** : tenir.
 
 **Trouver les Entraves :** elles sont cachées dans la zone — sur la carte, une Entrave repérée apparaît comme un **cercle blanc** (zone approximative). L'outil dédié est le **Résonateur protoïde** (objet tactique : *« détecte les entraves protoïdes dans un rayon de X mètres »*). Recette au **Grand établi de synthèse** : 25 bouts de ferraille + 25 adhésif + 25 caoutchouc + 10 composants électroniques + 15 Source protoplasmique. Usage unique — prévoyez-en plusieurs.
 

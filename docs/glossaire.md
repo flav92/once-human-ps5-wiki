@@ -23,7 +23,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Hive | Ruche | ❓ à vérifier |
 | Chaos State | État de Chaos | ❓ à vérifier |
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
-| Frontier | Zone contestable / Frontier | ❓ à vérifier |
+| Frontier | Frontière | ✅ **Frontière** (carte en jeu, 06/09/2026 — ex. « Frontière de Rippleby ») |
+| Attacker's base | Base de l'attaquant | ✅ **Base de l'attaquant** (marqueur de carte relevé en jeu, 06/09/2026) |
 | Engagement Zone | Zone d'affrontement / d'engagement | ✅ **Zone d'engagement** (fiche de l'Équipement de sécurité, 06/09/2026) |
 | Staroid Restrainer (« beacon ») | Entraves protoïdes | ✅ **Entraves protoïdes** (confirmé en jeu, 06/09/2026 — l'objectif à détruire en Conquête de bastion) |
 | Staroid Resonator | Résonateur protoïde | ✅ **Résonateur protoïde** (wikily.gg FR — objet tactique de détection des Entraves) |
