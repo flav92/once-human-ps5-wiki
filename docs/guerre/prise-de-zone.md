@@ -43,6 +43,31 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 - Mines Claymore, sacs de sable, tourelles + générateur protégé, couches de murs (« honeycombing ») en matériaux durs.
 - Collectez ensuite régulièrement les **ressources** de la zone.
 
+### La défense en oignon (schéma testé en zone ✅)
+
+Montage appliqué sur le terrain pour protéger un générateur, en **pierre** (stabilité niv. 3 — les balles n'y font rien, contrairement au bois) :
+
+```
+┌───────────────────────────┐  ← anneau 1 : mur extérieur pierre
+│   (espace tampon vide)    │  ← Claymores + zone de tir ici
+│   ┌───────┬───────┐       │  ← anneau 2 : petits murs + plafonds
+│   │ ⚡ GÉNÉRATEUR │       │     (toit = pas de tir en cloche ni de saut)
+│   └───────┴───────┘       │
+└───────────────────────────┘  + toit couvrant l'ensemble
+```
+
+Pourquoi ça marche :
+
+- **La pierre force l'explosif** : chaque quart de fondation marbre = 6 400 PV (~6 Explosifs surpuissants). Trois anneaux = un raid hors de prix pour l'attaquant.
+- **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
+- **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce l'anneau 1 se retrouve à découvert.
+
+À compléter pour la version parfaite :
+
+- **Stock de réparation dans un coffre sur place** : la réparation est ridiculement bon marché (1 brique la fondation !) — un défenseur présent qui répare pendant le siège rend la percée quasi impossible. C'est votre plus gros avantage : exploitez-le.
+- **Séparez les cibles** : Équipement de sécurité et Entraves protoïdes dans d'AUTRES bunkers du même type, pas tous avec le générateur — l'attaquant devra tout percer.
+- **Doublez le générateur** : un générateur de secours caché ailleurs, câblé aux tourelles, pour que la perte du premier ne coupe pas toute la défense.
+
 ## Combien de PV ont les structures ? (mesuré en jeu ✅)
 
 | Élément | PV | Coût constaté |
