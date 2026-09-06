@@ -52,6 +52,7 @@ nav:
       - Base et territoire: jeu/base-territoire.md
       - Armes et équipement: jeu/armes-equipement.md
       - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
+      - Conquête de bastion (GvG): jeu/conquete-bastion.md
   - Contribuer: contribuer.md
 
 markdown_extensions:

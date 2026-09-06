@@ -40,6 +40,7 @@ Le jeu est sorti sur console le **25 août 2026** : les informations spécifique
 - [Base et territoire](jeu/base-territoire.md)
 - [Armes, accessoires et équipement](jeu/armes-equipement.md)
 - [Multijoueur, PvP et phases de serveur](jeu/multijoueur-pvp.md)
+- [Conquête de bastion (GvG) et factions armées](jeu/conquete-bastion.md)
 
 ### Communauté
 - [Comment contribuer](contribuer.md)
