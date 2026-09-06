@@ -72,11 +72,14 @@ Dans le scénario PvP à phases (ex : Evolution's Call, 5 phases), le mode monte
 
 Une faction ennemie a posé des fondations autour de l'objectif ? Dans la zone GvG, ses structures sont destructibles — mais **les armes classiques ne font quasiment rien aux bâtiments** : il faut des **explosifs**, et leur efficacité dépend du niveau de **stabilité** du matériau visé :
 
-| Explosif | Efficace contre | Limite |
-|---|---|---|
-| **Explosifs améliorés** (Improved Explosives) | Stabilité niv. 2 max (bois) | Dégâts réduits dès le niv. 3 |
-| **Explosifs puissants** (High Explosives) | Stabilité niv. 3 max (bois + pierre) | Dégâts réduits sur le niv. 4 (béton) |
-| **C4 / roquettes (RPG)** | Le haut du panier pour percer les défenses | Coûteux à produire |
+| Explosif | Fabrication | Efficace contre | Limite |
+|---|---|---|---|
+| **Explosifs** (Explosives, qualité 1) | Recette simple, tôt dans la partie | Bois (stabilité niv. 2 max) | Faibles dégâts (~1000) |
+| **Explosifs améliorés** (Improved Explosives) | **Établi de synthèse** : 10 plastique ignifugé + 10 caoutchouc + 3 explosifs mixtes + 1 pièce électronique | Bois (stabilité niv. 2 max) | Dégâts réduits dès le niv. 3 (pierre) — ~2700 dégâts |
+| **Explosifs puissants** (High Explosives) | **Établi de synthèse avancé** | Bois + pierre (stabilité niv. 3 max) | Dégâts réduits sur le niv. 4 (béton) |
+| **Lance-roquettes (RPG7), MGL, C4** | Armes lourdes, plus tard dans la progression | Le haut du panier pour percer les défenses | Coûteux, accessibles en milieu/fin de saison |
+
+Les **explosifs mixtes** (l'ingrédient clé) demandent notamment du **soufre** — voir [Ressources : le soufre](ressources.md#soufre) pour le farmer efficacement.
 
 Conseils :
 
