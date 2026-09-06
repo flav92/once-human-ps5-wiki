@@ -41,7 +41,15 @@ Constaté en jeu le 06/09/2026 dans une **zone d'affrontement** ✅ (*Engagement
 
 1. **Détruire les défenses ennemies** — et bonne surprise : dans ces zones, **les structures en bois tombent même sous les balles** (plafonds détruits à l'arme à feu, sans explosifs). Les explosifs restent utiles pour aller plus vite et pour les matériaux plus durs.
 2. **Détruire le générateur** ennemi (coupe les tourelles) puis son **Équipement de sécurité** s'il y en a un — c'est lui qui matérialise leur occupation.
-3. **Poser votre propre Équipement de sécurité** pour réclamer la zone : Mode construction → Installations → Installations extérieures (dernier onglet) → Équipement de sécurité. ⚠️ Précision (patch notes officiels) : c'est la **Ruche (Hive)** qui prend possession d'une zone d'affrontement, pas la faction armée — soyez groupés en Ruche avec vos coéquipiers.
+3. **Poser votre propre Équipement de sécurité** pour réclamer la zone. Sa fiche officielle (relevée en jeu PS5) : *« Équipement de sécurité pour gérer les droits de zone d'engagement »*. Recette :
+    - 20 × Lingot de cuivre (à fondre au fourneau)
+    - 10 × Lingot de fer (à fondre au fourneau)
+    - 8 × Pièces (exploration / démontage de déchets)
+    - 3 × Composants électroniques
+    - 5 × **Acide** (exploration de la nature ou élimination de **Déviants**)
+    - 1 × Câble d'alimentation (exploration ou Boutique)
+
+    ⚠️ Précision (patch notes officiels) : c'est la **Ruche (Hive)** qui prend possession d'une zone d'engagement, pas la faction armée — soyez groupés en Ruche avec vos coéquipiers.
 4. **Défendre votre équipement** : s'il est détruit, vous perdez l'occupation à votre tour. Mines Claymore, sacs de sable et tourelles autour, et remontez des murs.
 
 !!! warning "Erreur « Aucun permis de construire pour cette zone » (rencontrée en jeu PS5)"

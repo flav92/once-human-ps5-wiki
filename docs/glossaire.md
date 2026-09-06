@@ -17,14 +17,14 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Journey | Périple (Voyage) | ❓ à vérifier |
 | Build Mode | Mode construction | ❓ à vérifier |
 | Facilities → Outdoor Facilities | Installations → Installations extérieures | ❓ à vérifier |
-| Security Equipment | Équipement de sécurité | ❓ à vérifier |
+| Security Equipment | Équipement de sécurité | ✅ **Équipement de sécurité** (confirmé en jeu, 06/09/2026 — « pour gérer les droits de zone d'engagement ») |
 | Territory | Territoire | ❓ à vérifier |
 | Move Territory | Déplacer le territoire | ❓ à vérifier |
 | Hive | Ruche | ❓ à vérifier |
 | Chaos State | État de Chaos | ❓ à vérifier |
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
 | Frontier | Zone contestable / Frontier | ❓ à vérifier |
-| Engagement Zone | Zone d'affrontement | ✅ **Zone d'affrontement** (confirmé en jeu, 06/09/2026) |
+| Engagement Zone | Zone d'affrontement / d'engagement | ✅ **Zone d'engagement** (fiche de l'Équipement de sécurité, 06/09/2026) |
 | Beacon | Balise | ❓ à vérifier |
 | Energy Links | Liens d'énergie | ❓ à vérifier |
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
@@ -34,13 +34,18 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Advanced Gear Workbench | Établi d'équipement avancé | ✅ **Établi d'équipement avancé** (confirmé en jeu, 06/09/2026 — fabrique les roquettes de lance-roquettes) |
 | Mixed Explosives | Explosifs mixtes | ✅ **Explosifs variés** (confirmé en jeu, 06/09/2026) |
 | Steel Ingot | Lingot d'acier | ✅ **Lingot d'acier** (confirmé en jeu, 06/09/2026) |
+| Copper Ingot | Lingot de cuivre | ✅ **Lingot de cuivre** (confirmé en jeu, 06/09/2026) |
+| Iron Ingot | Lingot de fer | ✅ **Lingot de fer** (confirmé en jeu, 06/09/2026) |
+| Parts | Pièces | ✅ **Pièces** (confirmé en jeu, 06/09/2026) |
+| Acid | Acide | ✅ **Acide** (confirmé en jeu, 06/09/2026 — Déviants et nature) |
+| Power Cable | Câble d'alimentation | ✅ **Câble d'alimentation** (confirmé en jeu, 06/09/2026) |
 | Electronic Part | Pièce/Composant électronique | ✅ **Composant électronique** (confirmé en jeu, 06/09/2026) |
 | Portable Fuel Mix (?) | — | ✅ **Mélange de carburant portatif** (confirmé en jeu, 06/09/2026) |
 | Protoplasm Source (?) | — | ✅ **Source protoplasmique** (confirmé en jeu, 06/09/2026) |
 | Electric Furnace | Four électrique | ❓ à vérifier |
 | Advanced Stove | Réchaud avancé | ❓ à vérifier |
 | Sanity | Santé mentale | ❓ à vérifier |
-| Deviation / Deviant | Déviant | ❓ à vérifier |
+| Deviation / Deviant | Déviant | ✅ **Déviant** (confirmé en jeu, 06/09/2026) |
 | Change World | Changer de monde | ❓ à vérifier |
 | Teleportation Tower | Tour de téléportation | ❓ à vérifier |
 | Vending Machine | Distributeur | ❓ à vérifier |
