@@ -20,7 +20,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Security Equipment | Équipement de sécurité | ✅ **Équipement de sécurité** (confirmé en jeu, 06/09/2026 — « pour gérer les droits de zone d'engagement ») |
 | Territory | Territoire | ❓ à vérifier |
 | Move Territory | Déplacer le territoire | ❓ à vérifier |
-| Hive | Ruche | ❓ à vérifier |
+| Hive | Ruche | ✅ **Ruche** (infobulle de carte, 06/09/2026) |
 | Chaos State | État de Chaos | ❓ à vérifier |
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
 | Frontier | Frontière | ✅ **Frontière** (carte en jeu, 06/09/2026 — ex. « Frontière de Rippleby ») |
@@ -28,7 +28,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Main / Small Frontier | Frontière principale / Petite frontière | ✅ **Frontière principale** / **Petite frontière** (onglet Guerre, 06/09/2026) |
 | Regional points | Points régionaux | ✅ **Points régionaux** (onglet Guerre, 06/09/2026) |
 | War tab | Onglet Guerre | ✅ **Factions armées → Guerre** (Aperçu, Membres, Guerre, Boutique, Classement) |
-| Engagement Zone | Zone d'affrontement / d'engagement | ✅ **Zone d'engagement** (fiche de l'Équipement de sécurité, 06/09/2026) |
+| Engagement Zone | Zone d'affrontements / d'engagement | ✅ **« Zone d'affrontements »** sur la carte, **« zone d'engagement »** dans les descriptions (les deux relevés en jeu, 06/09/2026) |
+| Hive in control | Ruche sous contrôle | ✅ **Ruche sous contrôle** (infobulle de carte, 06/09/2026 — « La zone d'engagement ne peut être contrôlée que par la ruche ») |
 | Staroid Restrainer (« beacon ») | Entraves protoïdes | ✅ **Entraves protoïdes** (confirmé en jeu, 06/09/2026 — l'objectif à détruire en Conquête de bastion) |
 | Staroid Resonator | Résonateur protoïde | ✅ **Résonateur protoïde** (wikily.gg FR — objet tactique de détection des Entraves) |
 | Energy Links | Liens d'énergie | ❓ à vérifier |
