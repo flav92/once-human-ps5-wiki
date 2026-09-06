@@ -172,6 +172,19 @@ Conseils :
 
 *À confirmer en jeu : recettes/déblocage exact des explosifs dans les Mémétiques et dégâts précis par palier sur la version actuelle.*
 
+## Préparer son raid : la checklist
+
+Leçon apprise sur le terrain (un premier assaut PS5 s'est arrêté… faute de munitions) — avant de partir, chaque membre emporte :
+
+- [ ] **Munitions en masse** : comptez large — les structures en bois se détruisent aux balles dans les zones d'engagement, et ça en consomme énormément. Le double de ce que vous pensez suffire.
+- [ ] **Explosifs améliorés / Grenades HE** : plus efficaces que les balles contre les structures, économisent les chargeurs.
+- [ ] **Coquilles de roquette** si le RPG7 est de sortie (5 s de fabrication pièce, faites tourner la file d'attente).
+- [ ] **Résonateurs protoïdes** (×2-3) pour localiser les Entraves.
+- [ ] **Kit de prise** : l'Équipement de sécurité pré-fabriqué, un générateur, des Mines Claymore et des murs pour fortifier immédiatement après la prise.
+- [ ] **Soins et nourriture** — un siège dure plus longtemps qu'on croit.
+
+Et à la base arrière : quelqu'un qui continue de produire munitions/explosifs pendant l'assaut, pour ravitailler via les allers-retours.
+
 ## Tactiques de base
 
 **Attaquants :**
