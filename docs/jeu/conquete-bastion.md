@@ -140,6 +140,8 @@ Les **Explosifs variés** ✅ (*Mixed Explosives*, l'ingrédient clé — fabriq
 
     C'est le meilleur explosif à lancer de la phase 1, loin devant la Grenade HE : à débloquer dès que vous avez 180 points.
 
+    **Recette relevée en jeu PS5** (fabrication 30 s) : 15 × Lingot d'acier alliage + 3 × Explosifs variés + 10 × (plastique — icône à confirmer) + 2 × Composant électronique. Le Lingot d'acier alliage se produit au fourneau ; comme toujours, le goulot est l'**Explosif varié** (soufre).
+
 !!! tip "La branche explosifs des Mémétiques (relevée en jeu PS5)"
     Dans les Mémétiques, la ligne sous **« Établi de synthèse »** contient : **Grenade** → **Mines Claymore** → **Grenade HE**. La branche voisine **« Sacs de sable »** → **Protecteur** → **Mannequin de tir** sert à la défense. Les **Mines Claymore** sont d'ailleurs excellentes pour défendre votre propre zone/Équipement de sécurité une fois la zone prise.
 

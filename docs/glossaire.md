@@ -36,6 +36,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Mixed Explosives | Explosifs mixtes | ✅ **Explosifs variés** (confirmé en jeu, 06/09/2026) |
 | Steel Ingot | Lingot d'acier | ✅ **Lingot d'acier** (confirmé en jeu, 06/09/2026) |
 | Copper Ingot | Lingot de cuivre | ✅ **Lingot de cuivre** (confirmé en jeu, 06/09/2026) |
+| Alloy Steel Ingot | Lingot d'acier alliage | ✅ **Lingot d'acier alliage** (confirmé en jeu, 06/09/2026) |
 | Iron Ingot | Lingot de fer | ✅ **Lingot de fer** (confirmé en jeu, 06/09/2026) |
 | Parts | Pièces | ✅ **Pièces** (confirmé en jeu, 06/09/2026) |
 | Acid | Acide | ✅ **Acide** (confirmé en jeu, 06/09/2026 — Déviants et nature) |
