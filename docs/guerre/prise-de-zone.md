@@ -43,27 +43,26 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 - Vos propres **Entraves protoïdes** ✅ (elles se **construisent** : menu construction, catégorie **Extérieur**) — dispersées et **cachées** derrière des murs, jamais à découvert.
 - Mines Claymore, sacs de sable, tourelles + générateur protégé, couches de murs (« honeycombing ») en matériaux durs.
-- **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker en double enceinte autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
+- **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker multicouche autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
 - **Passez récupérer les ressources FRÉQUEMMENT** ✅ : la production de la zone s'accumule sur place — ce qui n'est pas ramassé peut être perdu (ou pillé). Faites-en une tournée de routine de la Ruche.
 
-### La défense en double enceinte (schéma testé en zone ✅)
+### La défense multicouche (montage réel testé en zone ✅)
 
-Montage appliqué sur le terrain pour protéger un générateur, en **pierre** (stabilité niv. 3 — les balles n'y font rien, contrairement au bois) :
+Le montage appliqué sur le terrain pour protéger le générateur, tout en **pierre** (stabilité niv. 3 — insensible aux balles, contrairement au bois) :
+
+- **3 murs d'épaisseur sur chaque côté** (les couches se touchent)
+- **4 plafonds empilés sur le toit**
+- Le **générateur au centre**
 
 ```
-┌───────────────────────────┐  ← enceinte extérieure en pierre
-│   (espace tampon vide)    │  ← Claymores + zone de tir ici
-│   ┌───────┬───────┐       │  ← enceinte intérieure : petits murs + plafonds
-│   │ ⚡ GÉNÉRATEUR │       │     (toit = pas de tir en cloche ni de saut)
-│   └───────┴───────┘       │
-└───────────────────────────┘  + toit couvrant l'ensemble
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓  ← toit : 4 couches de plafonds
+        ▓▓▓▓▓▓▓▓▓▓▓▓▓     (pas de tir en cloche, pas d'accès par le haut)
+  ▓▓▓ ┌─────────────┐ ▓▓▓
+  ▓▓▓ │ ⚡ GÉNÉRATEUR │ ▓▓▓  ← côtés : 3 murs d'épaisseur
+  ▓▓▓ └─────────────┘ ▓▓▓
 ```
 
-Pourquoi ça marche :
-
-- **La pierre force l'explosif** : chaque quart de fondation marbre = 6 400 PV (~6 Explosifs surpuissants). Deux enceintes de pierre + le toit = un raid hors de prix pour l'attaquant.
-- **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
-- **L'espace tampon** entre les deux enceintes : posez-y des Mines Claymore et gardez-y un angle de tir depuis l'enceinte intérieure — l'attaquant qui perce le mur extérieur se retrouve à découvert.
+Le calcul qui dissuade l'attaquant : chaque couche de pierre ≈ 6 400 PV (~6 Explosifs surpuissants). **Percer un côté = 3 couches ≈ 18 surpuissants ; par le toit = 4 couches ≈ 24.** Ajoutez la réparation quasi gratuite côté défenseur (1 brique la couche) et le raid devient économiquement absurde. Complétez avec Mines Claymore aux abords et tourelles fixes.
 
 ### Les Installations de combat (catalogue relevé en jeu ✅)
 
