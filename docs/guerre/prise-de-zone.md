@@ -46,23 +46,28 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 - **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker multicouche autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
 - **Passez récupérer les ressources FRÉQUEMMENT** ✅ : la production de la zone s'accumule sur place — ce qui n'est pas ramassé peut être perdu (ou pillé). Faites-en une tournée de routine de la Ruche.
 
-### La défense multicouche (montage réel testé en zone ✅)
+### Le bunker à générateur (recette de construction testée en zone ✅)
 
-Le montage appliqué sur le terrain pour protéger le générateur, tout en **pierre** (stabilité niv. 3 — insensible aux balles, contrairement au bois) :
+Le montage réel appliqué sur le terrain, tout en **pierre** (stabilité niv. 3 — insensible aux balles) :
 
-- **3 murs d'épaisseur sur chaque côté** (les couches se touchent)
-- **4 plafonds empilés sur le toit**
-- Le **générateur au centre**
+1. Posez **8 quarts de fondation** en carré 3×3 en laissant **le centre vide**.
+2. Placez le **générateur au sol, dans le trou central** — il est enchâssé sous le niveau des fondations.
+3. Entourez-le de **petits murs** et couvrez d'un **plafond**.
+4. **Montez 3 étages** par-dessus (murs + plafonds à chaque niveau).
+5. **Toit tout autour**, puis **mur extérieur** sur le pourtour des fondations.
 
 ```
-        ▓▓▓▓▓▓▓▓▓▓▓▓▓  ← toit : 4 couches de plafonds
-        ▓▓▓▓▓▓▓▓▓▓▓▓▓     (pas de tir en cloche, pas d'accès par le haut)
-  ▓▓▓ ┌─────────────┐ ▓▓▓
-  ▓▓▓ │ ⚡ GÉNÉRATEUR │ ▓▓▓  ← côtés : 3 murs d'épaisseur
-  ▓▓▓ └─────────────┘ ▓▓▓
+            ▓▓▓ TOIT ▓▓▓
+   ║  ┌───┐┌───┐┌───┐  ║
+   ║  │       étage 3      │  ║
+   ║  │       étage 2      │  ║   ║ = mur extérieur
+   ║  │       étage 1      │  ║
+▓▓▓▓▓▓▓╔═══╗▓▓▓▓▓▓▓   ▓ = quarts de fondation (×8)
+▓ fonda ║ ⚡GÉN ║ fonda ▓   ╔═╗ = petits murs + plafond
+▓▓▓▓▓▓▓╚═══╝▓▓▓▓▓▓▓
 ```
 
-Le calcul qui dissuade l'attaquant : chaque couche de pierre ≈ 6 400 PV (~6 Explosifs surpuissants). **Percer un côté = 3 couches ≈ 18 surpuissants ; par le toit = 4 couches ≈ 24.** Ajoutez la réparation quasi gratuite côté défenseur (1 brique la couche) et le raid devient économiquement absurde. Complétez avec Mines Claymore aux abords et tourelles fixes.
+Pourquoi c'est redoutable : le générateur est **enchâssé au cœur de la structure**, sous le niveau du sol de la tour. Pour l'atteindre, l'attaquant doit soit percer les **fondations latérales** (6 400 PV pièce, ~6 Explosifs surpuissants chacune), soit descendre **à travers 4 niveaux de plafonds** depuis le toit. Dans les deux cas : un coût en explosifs énorme, pendant que le défenseur répare chaque élément pour une brique. Complétez avec Mines Claymore aux abords et tourelles fixes.
 
 ### Les Installations de combat (catalogue relevé en jeu ✅)
 

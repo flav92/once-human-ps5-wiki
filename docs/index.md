@@ -78,7 +78,7 @@
 
 <a class="oh-card" href="guerre/prise-de-zone/" markdown>
 <span class="oh-card-title">🏭 Prendre une zone <span class="oh-verified">VÉRIFIÉ TERRAIN</span></span>
-<span class="oh-card-desc">La séquence de prise complète, les PV des structures mesurés, la checklist de raid, la défense multicouche.</span>
+<span class="oh-card-desc">La séquence de prise complète, les PV des structures mesurés, la checklist de raid, le bunker à générateur.</span>
 </a>
 
 <a class="oh-card" href="guerre/frontieres/" markdown>
