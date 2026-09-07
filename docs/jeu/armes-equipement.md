@@ -7,9 +7,10 @@
 
 ## Accessoires d'armes (viseurs, silencieux…)
 
-- **Ils ne se fabriquent pas** : ils se **débloquent de manière permanente**.
-- **Obtention** : résolvez des énigmes dans le monde ouvert (caméras sur trépied, lotus violets) ou complétez des défis de bas niveau dans le menu **Périple (Voyage)**.
-- **Installation (PS5)** : menu Équipement → survolez l'arme → touche « Accessoires » (**Triangle**) pour passer en vue 3D → installez gratuitement.
+⚠️ **Non vérifié sur PS5** — info issue des guides PC, pas encore retrouvée en jeu par la communauté du wiki :
+
+- Ils ne se fabriqueraient pas mais se **débloqueraient de manière permanente** (énigmes du monde ouvert, défis du menu Périple).
+- *Si vous trouvez comment les obtenir sur PS5, [contribuez](../contribuer.md) !*
 
 ## Mods et caisses de sélection
 
@@ -29,9 +30,9 @@ Ces pièces **ne se fabriquent pas** — elles se trouvent dans les caisses d'ar
 - Pour réparer une arme ou un outil (ex : la Foreuse), utilisez l'**Établi d'équipement**, onglet **Réparation**.
 - Une foreuse avancée demande un Établi d'équipement de niveau intermédiaire/avancé.
 
-## Moto (véhicule)
+## Véhicules
 
-S'obtient **gratuitement** en suivant la quête principale (« Welcome Back » / « The Eve of Evolution ») auprès du PNJ **Mary à Deadsville**.
+⚠️ Correction (retour terrain PS5) : le véhicule gratuit du début est le **VÉLO** — pas la moto (erreur reprise des guides PC). *À documenter : comment s'obtient la moto sur PS5.*
 
 ## Sources
 

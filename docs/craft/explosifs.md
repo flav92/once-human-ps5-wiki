@@ -14,7 +14,7 @@ La ligne clé : *« Très efficace contre les structures de **niv. X** ou infér
 |---|---|---|---|
 | 🥇 **Balles** | — | **Bois** (vérifié en zone d'affrontements ✅) | Quasi gratuit — l'option éco quand la zone est calme |
 | 🥈 **Explosifs surpuissants** ✅ | **3639** + 800 % Psi (~1100 effectifs/structure) | **Bois + pierre** (niv. 3) | **Arbre Tech, 180 points** — dispo dès la phase 1. Établi de synthèse, 30 s : 15 lingots d'acier alliage + 3 Explosifs variés + 10 plastique* + 2 composants |
-| 🥉 **Coquille de roquette** ✅ (RPG7) | 297/tir (rang II) | **Bois + pierre** (niv. 3) | Établi d'équipement avancé, 5 s : 10 lingots d'acier + 5 Explosifs variés + 15 Source protoplasmique + 10 composants + 15 carburant portatif. Sa valeur : **la distance** (chargeur de 1 → couvert entre les tirs) |
+| **Coquille de roquette** ✅ (RPG7) | 297/tir (rang II) | **Bois + pierre** (niv. 3) | ⚠️ **Retour terrain : peu rentable** comparée aux Explosifs surpuissants — coût élevé (5 Explosifs variés + acier + protoplasme/tir) pour moins d'effet. À réserver au tir à **distance** (tourelles actives) |
 | **Ogive de fusée plasma rouge** ✅ | **+30 % dégâts constructions** | Cibles coriaces | Même établi, matériaux rares — à réserver pierre/béton |
 | **Grenade HE** ✅ | — | *Vérifiez sa ligne « niv. X » en jeu* | Débloquée (branche Établi de synthèse des Mémétiques) |
 | ❌ **Grenade** de base ✅ (×8/craft) | 698 | **Niv. 1 seulement** — inefficace sur le bois | Pour les joueurs et créatures uniquement |
@@ -58,6 +58,14 @@ flowchart TD
 - **Le lanceur** (« RPG7 — Schéma : lance-roquette » ✅) : Mémétiques (points mémétiques), coffres mystérieux, ou Machine à vœux. Stats rang II relevées : **297 DÉG**, chargeur de **1**, +25 % critique/points faibles, trait *« très efficace contre les structures de niv. 3 ou inférieur »*. Existe en rangs II → V — refabriquez-le à un rang supérieur au fil de la saison.
 - **Les Coquilles de roquette** se **lootent** aussi (conteneurs, ennemis) et s'achètent aux **distributeurs** d'autres joueurs.
 - Le **Résonateur protoïde** (détection des Entraves en guerre de frontières) se fabrique au Grand établi de synthèse — voir [Guerres de frontières](../guerre/frontieres.md).
+
+## Munitions : l'acide et la Source protoplasmique sont stratégiques
+
+Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acide** et de la **Source protoplasmique** (les fioles roses/violettes). Ces deux ressources ne servent donc pas qu'aux explosifs — **stockez-les en priorité** : Acide sur les Déviants et dans la nature, Source protoplasmique en butin. *(Recette exacte des balles en acier : à relever en jeu.)*
+
+## La rétro-ingénierie : l'autre voie de déblocage
+
+**Très important** (retour terrain) : la **recherche/rétro-ingénierie** permet de débloquer des technologies **sans dépenser de points Tech** — en analysant des **produits finis trouvés en jeu** (la fiche des Explosifs surpuissants le dit : *« cherchez des produits finis pour la rétro-ingénierie, ou déverrouillez manuellement dans l'Arbre Tech »*). Ramenez donc les objets ennemis lootés au lieu de les broyer. *(À documenter : où se fait la rétro-ingénierie exactement et son interface.)*
 
 ## Déblocages et verrous de phase
 
