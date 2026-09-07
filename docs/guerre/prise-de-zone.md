@@ -21,7 +21,7 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 **2. Détruire ce qui tient la zone**, dans l'ordre :
 
-1. Le **générateur** ennemi → coupe tourelles et installations alimentées.
+1. **LE GÉNÉRATEUR ENNEMI D'ABORD — la règle n°1** ✅ : l'Équipement de sécurité est **branché au générateur** (vérifié terrain). Couper le courant ne désactive donc pas que les tourelles : ça met **hors service l'installation même qui tient leurs droits sur la zone**. Un seul générateur détruit peut faire tomber toute l'occupation.
 2. Les **relais électriques** reliés (suivez les câbles).
 3. Les **Entraves protoïdes** ✅ — tours « R.S.T » sur trépied, étiquetées quand on les vise. Ce sont les objectifs comptés par le HUD : toutes.
 4. L'**Équipement de sécurité** ennemi s'il y en a un.
@@ -43,7 +43,8 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 - Vos propres **Entraves protoïdes** ✅ (elles se **construisent** : menu construction, catégorie **Extérieur**) — dispersées et **cachées** derrière des murs, jamais à découvert.
 - Mines Claymore, sacs de sable, tourelles + générateur protégé, couches de murs (« honeycombing ») en matériaux durs.
-- Collectez ensuite régulièrement les **ressources** de la zone.
+- **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker en oignon autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
+- **Passez récupérer les ressources FRÉQUEMMENT** ✅ : la production de la zone s'accumule sur place — ce qui n'est pas ramassé peut être perdu (ou pillé). Faites-en une tournée de routine de la Ruche.
 
 ### La défense en oignon (schéma testé en zone ✅)
 
