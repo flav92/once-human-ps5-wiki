@@ -43,17 +43,17 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 - Vos propres **Entraves protoïdes** ✅ (elles se **construisent** : menu construction, catégorie **Extérieur**) — dispersées et **cachées** derrière des murs, jamais à découvert.
 - Mines Claymore, sacs de sable, tourelles + générateur protégé, couches de murs (« honeycombing ») en matériaux durs.
-- **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker en oignon autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
+- **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker en double enceinte autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
 - **Passez récupérer les ressources FRÉQUEMMENT** ✅ : la production de la zone s'accumule sur place — ce qui n'est pas ramassé peut être perdu (ou pillé). Faites-en une tournée de routine de la Ruche.
 
-### La défense en oignon (schéma testé en zone ✅)
+### La défense en double enceinte (schéma testé en zone ✅)
 
 Montage appliqué sur le terrain pour protéger un générateur, en **pierre** (stabilité niv. 3 — les balles n'y font rien, contrairement au bois) :
 
 ```
-┌───────────────────────────┐  ← anneau 1 : mur extérieur pierre
+┌───────────────────────────┐  ← enceinte extérieure en pierre
 │   (espace tampon vide)    │  ← Claymores + zone de tir ici
-│   ┌───────┬───────┐       │  ← anneau 2 : petits murs + plafonds
+│   ┌───────┬───────┐       │  ← enceinte intérieure : petits murs + plafonds
 │   │ ⚡ GÉNÉRATEUR │       │     (toit = pas de tir en cloche ni de saut)
 │   └───────┴───────┘       │
 └───────────────────────────┘  + toit couvrant l'ensemble
@@ -61,9 +61,9 @@ Montage appliqué sur le terrain pour protéger un générateur, en **pierre** (
 
 Pourquoi ça marche :
 
-- **La pierre force l'explosif** : chaque quart de fondation marbre = 6 400 PV (~6 Explosifs surpuissants). Trois anneaux = un raid hors de prix pour l'attaquant.
+- **La pierre force l'explosif** : chaque quart de fondation marbre = 6 400 PV (~6 Explosifs surpuissants). Deux enceintes de pierre + le toit = un raid hors de prix pour l'attaquant.
 - **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
-- **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce l'anneau 1 se retrouve à découvert.
+- **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce le mur extérieur se retrouve à découvert.
 
 ### Les Installations de combat (catalogue relevé en jeu ✅)
 
