@@ -8,31 +8,37 @@ edit_uri: edit/main/docs/
 theme:
   name: material
   language: fr
+  font:
+    text: Inter
+    code: JetBrains Mono
   palette:
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: deep purple
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-sunny
         name: Passer en mode clair
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: deep purple
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/weather-night
         name: Passer en mode sombre
   icon:
     repo: fontawesome/brands/github
+    logo: material/sword-cross
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
     - navigation.top
     - navigation.footer
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - content.action.edit
-    - toc.integrate
 
 nav:
   - Accueil: index.md
@@ -62,8 +68,12 @@ nav:
   - Glossaire FR/EN: glossaire.md
   - Contribuer: contribuer.md
 
+extra_css:
+  - stylesheets/extra.css
+
 markdown_extensions:
   - admonition
+  - md_in_html
   - attr_list
   - tables
   - toc:

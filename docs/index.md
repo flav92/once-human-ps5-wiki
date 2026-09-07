@@ -1,64 +1,116 @@
-# Wiki Once Human — PS5 🎮
+# Accueil
 
-Wiki communautaire francophone dédié à **Once Human sur PlayStation 5 / PS5 Pro**.
+<div class="oh-hero" markdown>
 
-Le jeu est sorti sur console le **25 août 2026** : les informations spécifiques PS5 sont encore rares et dispersées. Ce wiki centralise tout ce qui est **vérifié** sur la version PS5, et sera enrichi au fil des patchs et des découvertes de la communauté.
+<h1>WIKI ONCE HUMAN — PS5</h1>
 
-> ⚠️ Jeu récent = infos qui bougent vite. Chaque page indique ses sources et sa date de dernière mise à jour. Les sections marquées **À compléter** attendent vos contributions.
+<p>Le wiki communautaire francophone dédié à la version PlayStation 5 / PS5 Pro. Construit et vérifié <strong>en jeu</strong>, capture après capture — pas recopié des wikis PC.</p>
 
-## 📌 L'essentiel en 30 secondes
+<div class="oh-badges">
+<span class="oh-badge">✅ 50+ termes FR vérifiés en jeu</span>
+<span class="oh-badge">⚔️ Guides testés sur le terrain</span>
+<span class="oh-badge oh-badge--amber">🎮 Sortie PS5 : 25 août 2026</span>
+<span class="oh-badge oh-badge--amber">📱 Crossplay total</span>
+</div>
+
+</div>
+
+## Par où commencer ?
+
+<div class="oh-grid" markdown>
+
+<a class="oh-card" href="demarrage/liaison-compte/" markdown>
+<span class="oh-card-title">🔗 Liaison de compte</span>
+<span class="oh-card-desc">À lire AVANT de créer un personnage si vous venez du PC/mobile — une erreur peut coûter vos personnages.</span>
+</a>
+
+<a class="oh-card" href="demarrage/installation/" markdown>
+<span class="oh-card-title">📥 Installation</span>
+<span class="oh-card-desc">Free-to-play, ~80 Go, PS Plus non requis. Premier lancement, choix du serveur et du scénario.</span>
+</a>
+
+<a class="oh-card" href="ps5/performances/" markdown>
+<span class="oh-card-title">⚡ Performances PS5</span>
+<span class="oh-card-desc">Mode Qualité 4K/60 fps ou Performance 120 fps, HDR, support PS5 Pro.</span>
+</a>
+
+<a class="oh-card" href="jeu/premiers-pas/" markdown>
+<span class="oh-card-title">🌍 Premiers pas</span>
+<span class="oh-card-desc">Débuter sur Nalcott : quête principale, Déviants, construction, vue à la première personne.</span>
+</a>
+
+</div>
+
+## Craft & production
+
+<div class="oh-grid" markdown>
+
+<a class="oh-card" href="jeu/ressources/" markdown>
+<span class="oh-card-title">⛏️ Ressources</span>
+<span class="oh-card-desc">Où trouver soufre, cuivre, fer, acide… et les meilleures zones de fouille du début de partie.</span>
+</a>
+
+<a class="oh-card" href="craft/explosifs/" markdown>
+<span class="oh-card-title">💥 Explosifs & munitions</span>
+<span class="oh-card-desc">Comparatif de rentabilité, recettes vérifiées, arbre de production des roquettes, verrous de phase.</span>
+</a>
+
+<a class="oh-card" href="jeu/armes-equipement/" markdown>
+<span class="oh-card-title">🔫 Armes & équipement</span>
+<span class="oh-card-desc">Accessoires, mods, corps d'armes, réparation, la moto gratuite.</span>
+</a>
+
+<a class="oh-card" href="jeu/base-territoire/" markdown>
+<span class="oh-card-title">🏠 Base & territoire</span>
+<span class="oh-card-desc">Électricité, établis, déménagement de territoire (avec l'astuce manette PS5).</span>
+</a>
+
+</div>
+
+## Guerre & territoires
+
+<div class="oh-grid" markdown>
+
+<a class="oh-card" href="guerre/factions/" markdown>
+<span class="oh-card-title">🛡️ Factions & Ruches</span>
+<span class="oh-card-desc">Rejoindre ou créer une faction armée, le rôle de la Ruche, les règles du PvP.</span>
+</a>
+
+<a class="oh-card" href="guerre/prise-de-zone/" markdown>
+<span class="oh-card-title">🏭 Prendre une zone <span class="oh-verified">VÉRIFIÉ TERRAIN</span></span>
+<span class="oh-card-desc">La séquence de prise complète, les PV des structures mesurés, la checklist de raid, la défense en oignon.</span>
+</a>
+
+<a class="oh-card" href="guerre/frontieres/" markdown>
+<span class="oh-card-title">⚔️ Guerres de frontières</span>
+<span class="oh-card-desc">Enchères, batailles programmées, Entraves protoïdes, la liste des frontières du serveur.</span>
+</a>
+
+<a class="oh-card" href="glossaire/" markdown>
+<span class="oh-card-title">📖 Glossaire FR/EN</span>
+<span class="oh-card-desc">Les noms exacts des menus PS5 en français, vérifiés à l'écran — la référence anti-confusion.</span>
+</a>
+
+</div>
+
+## L'essentiel en 30 secondes
 
 | Info | Détail |
 |---|---|
 | Sortie PS5 | 25 août 2026 (11h00 PT) |
-| Plateformes | PS5, PS5 Pro, Xbox Series X\|S (+ PC et mobile déjà sortis) |
-| Prix | Free-to-play (cosmétiques et Battle Pass payants, pas de pay-to-win) |
+| Plateformes | PS5, PS5 Pro, Xbox Series X\|S (+ PC et mobile) |
+| Prix | Free-to-play (cosmétiques et Battle Pass, pas de pay-to-win) |
 | PS Plus requis | ❌ Non |
 | Taille | ~80 Go sur PS5 |
 | Modes graphiques | Qualité (4K/60 fps) ou Performance (120 fps), HDR |
-| Crossplay | ✅ Complet avec PC, Xbox et mobile (dans la même région) |
-| Cross-progression | ✅ Via liaison de compte (attention, voir la page dédiée !) |
+| Crossplay | ✅ Complet avec PC, Xbox et mobile (même région) |
+| Cross-progression | ✅ Via liaison de compte — voir la page dédiée ! |
 | Nouveauté console | Vue à la première personne (basculable à tout moment) |
 
-## 📖 Sommaire du wiki
+## Liens officiels
 
-### Démarrage
-- [Installation et premier lancement](demarrage/installation.md)
-- [Liaison de compte (à lire AVANT de créer un personnage !)](demarrage/liaison-compte.md)
-- [Crossplay et cross-progression](demarrage/crossplay.md)
-
-### Spécifique PS5
-- [Performances et modes graphiques (PS5 / PS5 Pro)](ps5/performances.md)
-- [Manette DualSense et contrôles](ps5/manette-et-controles.md)
-- [Serveurs et régions](ps5/serveurs.md)
-- [Problèmes connus et correctifs](ps5/problemes-connus.md)
-
-### Survie
-- [Premiers pas sur Nalcott](jeu/premiers-pas.md)
-- [Astuces de survie](jeu/astuces-survie.md)
-- [Multijoueur, PvP et phases de serveur](jeu/multijoueur-pvp.md)
-
-### Craft
-- [Ressources : où trouver quoi](jeu/ressources.md)
-- [Explosifs et munitions](craft/explosifs.md)
-- [Armes, accessoires et équipement](jeu/armes-equipement.md)
-- [Base et territoire](jeu/base-territoire.md)
-
-### Guerre & territoires
-- [Factions armées et Ruches](guerre/factions.md)
-- [Prendre une zone d'affrontements — guide vérifié terrain](guerre/prise-de-zone.md)
-- [Guerres de frontières et enchères](guerre/frontieres.md)
-
-### Communauté
-- [Glossaire FR/EN des menus](glossaire.md)
-- [Comment contribuer](contribuer.md)
-
-## 🔗 Liens officiels
-
-- [Site officiel Once Human](https://www.oncehuman.game/)
-- [Page PlayStation Store](https://store.playstation.com/en-us/concept/10015762/)
-- [FAQ officielle du lancement console](https://www.oncehuman.game/news/update/20260820/40780_1311772.html)
-- [Annonce du lancement console](https://www.oncehuman.game/news/update/20260825/40780_1312198.html)
+- [Site officiel Once Human](https://www.oncehuman.game/) · [PlayStation Store](https://store.playstation.com/en-us/concept/10015762/) · [FAQ du lancement console](https://www.oncehuman.game/news/update/20260820/40780_1311772.html)
+- Wiki communautaire : [contribuer](contribuer.md) — le jeu vient de sortir, chaque info vérifiée compte !
 
 ---
-*Wiki non officiel, sans affiliation avec NetEase / Starry Studio. Once Human est une marque de leurs détenteurs respectifs.*
+*Wiki non officiel, sans affiliation avec NetEase / Starry Studio.*
