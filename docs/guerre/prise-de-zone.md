@@ -9,6 +9,8 @@
 
 Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion » et un niveau suggéré, ex. 25). Son infobulle officielle : *« **La zone d'engagement ne peut être contrôlée que par la ruche.** »* Elle affiche la **« Ruche sous contrôle »** et les **Ressources** produites (Stardust, carburant premium en barils — production boostée).
 
+**Les emplacements d'Équipement de sécurité varient selon la zone** ✅ : une zone accepte **plusieurs** Équipements de sécurité (2-3 posés sur la nôtre), et **certaines zones offrent plus d'emplacements** que d'autres — vraisemblablement lié au « Niveau de gestion ». Plus d'emplacements = prise plus solide (il faut tous les détruire pour vous déloger) mais aussi plus chère à équiper.
+
 - **PvP libre permanent** (icône rouge **GVG** à l'écran) : tout le serveur s'y croise, pas d'instances, aucune déclaration de guerre nécessaire — on entre, on détruit, on occupe.
 - La zone s'articule autour de ses **sites d'extraction** (foreuses) : tant que votre Ruche n'en contrôle pas, **tout est verrouillé**. Messages du jeu ✅ : *« Aucun permis de construire pour cette zone »*, *« Aucun accès. Vous devez d'abord occuper un site d'extraction »*.
 - **Le HUD de zone est votre boussole** : compteurs relevés `431/640` (structures), `12/60`, `0/12`, `0/12`, `1/1` avec les pseudos des occupants. Après chaque destruction, regardez quel compteur bouge.
@@ -79,6 +81,8 @@ Trois règles logistiques qui changent tout :
 1. **Les tourelles à visée auto consomment VOS munitions** (fusil, pompe…) — approvisionnez-les, une tourelle à sec est un pot de fleurs.
 2. L'icône **⚡** = besoin d'électricité → câblée au générateur. Encore une raison d'avoir un **générateur de secours** caché.
 3. Les tourelles montent en **niveaux** (niv. 1, 2…) via l'écran Tech — améliorez-les au fil de la saison.
+
+*(Persistance des **Mines Claymore** hors connexion : pas encore testée — à vérifier.)*
 
 **⚠️ Tourelle mitrailleuse portative = TEMPORAIRE (vérifié en jeu)** : elle **disparaît à la déconnexion** du joueur qui l'a posée. C'est un outil de **combat actif** (défense en direct, assaut, tenir un point pendant qu'on est en ligne — PV 750 % Psi, dégâts 78 + 100 % Psi, 20 s de fabrication), **pas** une défense permanente.
 
