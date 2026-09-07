@@ -63,7 +63,7 @@ Pourquoi ça marche :
 
 - **La pierre force l'explosif** : chaque quart de fondation marbre = 6 400 PV (~6 Explosifs surpuissants). Deux enceintes de pierre + le toit = un raid hors de prix pour l'attaquant.
 - **Le toit** interdit les lancers d'explosifs en cloche et l'accès par le dessus (la faille classique).
-- **L'espace tampon** entre les anneaux : posez-y des Mines Claymore et gardez-y un angle de tir — l'attaquant qui perce le mur extérieur se retrouve à découvert.
+- **L'espace tampon** entre les deux enceintes : posez-y des Mines Claymore et gardez-y un angle de tir depuis l'enceinte intérieure — l'attaquant qui perce le mur extérieur se retrouve à découvert.
 
 ### Les Installations de combat (catalogue relevé en jeu ✅)
 
