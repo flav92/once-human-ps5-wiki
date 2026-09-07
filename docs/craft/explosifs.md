@@ -65,7 +65,13 @@ Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acid
 
 ## La rétro-ingénierie : l'autre voie de déblocage
 
-**Très important** (retour terrain) : la **recherche/rétro-ingénierie** permet de débloquer des technologies **sans dépenser de points Tech** — en analysant des **produits finis trouvés en jeu** (la fiche des Explosifs surpuissants le dit : *« cherchez des produits finis pour la rétro-ingénierie, ou déverrouillez manuellement dans l'Arbre Tech »*). Ramenez donc les objets ennemis lootés au lieu de les broyer. *(À documenter : où se fait la rétro-ingénierie exactement et son interface.)*
+**Le système, vérifié terrain PS5 ✅** — c'est un **établi dédié** :
+
+1. Placez-y les objets marqués d'une **icône jaune** (lootés en exploration ou récupérés sur les installations ennemies).
+2. **La première fois** qu'un objet y passe → son **craft se débloque** (sans dépenser de points Tech !).
+3. **Les fois suivantes**, le même objet donne des **ossements** — la monnaie qui sert à **acquérir de nouveaux crafts** (c'est probablement elle qui chiffre les gros déblocages, comme l'établi de munitions vu à « 6000 »).
+
+**Doctrine de la faction** : *favoriser la récupération des installations et la rétro-ingénierie* — en raid comme en exploration, **ramenez tout objet à icône jaune** au lieu de le broyer, et récupérez les installations ennemies quand c'est possible plutôt que de tout détruire. Chaque objet analysé = un craft gratuit ou des ossements.
 
 ## Déblocages et verrous de phase
 

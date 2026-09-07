@@ -32,7 +32,10 @@ Ces pièces **ne se fabriquent pas** — elles se trouvent dans les caisses d'ar
 
 ## Véhicules
 
-⚠️ Correction (retour terrain PS5) : le véhicule gratuit du début est le **VÉLO** — pas la moto (erreur reprise des guides PC). *À documenter : comment s'obtient la moto sur PS5.*
+Vérifié terrain PS5 ✅ :
+
+- Le véhicule gratuit du début est le **vélo** (pas la moto — erreur classique des guides PC).
+- La **moto se débloque au garage**.
 
 ## Sources
 

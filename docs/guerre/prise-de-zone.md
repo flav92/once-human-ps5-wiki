@@ -112,6 +112,8 @@ Leçon du premier assaut (arrêté faute de munitions) — chaque membre emporte
 
 Répartition : 1-2 démolisseurs, 1 guetteur, 1 porteur du kit qui re-teste la prise après chaque destruction. À la base arrière : un membre **produit pendant l'assaut**.
 
+**Doctrine de butin ✅** : ne détruisez pas tout — **récupérez les installations ennemies** et tout objet à **icône jaune** quand c'est possible : passés à l'établi de [rétro-ingénierie](../craft/explosifs.md#la-retro-ingenierie-lautre-voie-de-deblocage), ils débloquent des crafts gratuits ou donnent des **ossements**.
+
 **Astuce logistique** : déplacez le **territoire** d'un membre (déménagement gratuit, ~10 min de recharge) en bordure de zone → base avancée avec établis, coffres et lit de réapparition. C'est comme ça que les grosses équipes ont leurs forteresses sur place.
 
 ## Voir aussi
