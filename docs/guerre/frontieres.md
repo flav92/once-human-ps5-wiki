@@ -30,6 +30,19 @@ Chaque frontière a des **Points régionaux** et un **type** — visibles dans *
 
 Stratégie : les frontières à 1600 seront moins disputées que les 6400 — une cible réaliste pour une petite faction.
 
+## Les 6 phases du scénario (relevées en jeu ✅)
+
+Écran **Progression du scénario** (menu du scénario) — chaque phase affiche son chrono « Se termine dans Xj Xh » :
+
+1. **Monde nouveau** — gameplay dispo : situation de crise, atelier, maison ambulante de Hale, bataille pour cargaison, **zone d'affrontements**, silo de confinement. Verrouillé : Chalk Peak, Lone Wolf Wastes, région de Blackheart.
+2. **Naissance du conflit** — le nom dit tout : c'est très probablement ici que les **guerres de frontières et les enchères ouvrent**. *(À confirmer dès l'ouverture !)*
+3. **L'avènement des seigneurs de guerre**
+4. **Agression ultime**
+5. **Combat décisif**
+6. **L'appel du pouvoir**
+
+Consultez le chrono de votre phase pour planifier : la trésorerie et les stocks doivent être prêts **avant** la bascule.
+
 ## ⚠️ En début de saison : les enchères sont FERMÉES
 
 !!! danger "Constaté en jeu (phase 1) — première documentation publique"

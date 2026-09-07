@@ -75,7 +75,11 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | HE Grenade | Grenade HE | ✅ **Grenade HE** (confirmé en jeu, 06/09/2026) |
 | High Explosives | Explosifs puissants | ✅ **Explosifs surpuissants** (confirmé en jeu, 06/09/2026 — 3639 dég., efficace bois+pierre, 180 points Tech) |
 | Tech Tree / Tech points | Arbre Tech / points Tech | ✅ **Arbre Tech** / **points Tech** (confirmé en jeu, 06/09/2026) |
-| Reverse engineering | Rétro-ingénierie | ✅ **Rétro-ingénierie** (établi dédié — objets à icône jaune : 1ʳᵉ fois = craft débloqué, ensuite = ossements, 07/09/2026) |
+| Reverse engineering | Rétro-ingénierie | ✅ **Rétro-ingénierie** (onglet du Banc de synthèse technologique — objets à icône jaune : 1ʳᵉ fois = craft débloqué, ensuite = ossements, 07/09/2026) |
+| Tech Synthesis Bench | Banc de synthèse technologique | ✅ **Banc de synthèse technologique** (confirmé en jeu, 07/09/2026 — onglets Rétro-ingénierie / Inventions technologiques) |
+| Tech Inventions | Inventions technologiques | ✅ **Inventions technologiques** (confirmé en jeu, 07/09/2026 — combiner des matériaux pour inventer, ~3 min) |
+| Special Invitation Code | Code d'invitation spéciale | ✅ **Code d'invitation spéciale** (profil, 5 invités max, 07/09/2026) |
+| Scenario phases (EC) | Phases du scénario | ✅ **Monde nouveau → Naissance du conflit → L'avènement des seigneurs de guerre → Agression ultime → Combat décisif → L'appel du pouvoir** (07/09/2026) |
 | (currency) | Ossements | ✅ **Ossements** (monnaie de la rétro-ingénierie, sert à acquérir de nouveaux crafts, 07/09/2026) |
 | Garage | Garage | ✅ **Garage** (débloque la moto, 07/09/2026) |
 | Demolition Fuses (?) | Mèches de démolition | ✅ **Mèches de démolition** (nœud aperçu en jeu, 06/09/2026 — rôle à documenter) |
@@ -90,8 +94,10 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Dayton Wetlands | Zone humide de Dayton | ❓ à vérifier |
 | Broken Delta | Delta Brisé | ❓ à vérifier |
 | Iron River | Rivière de Fer / Iron River | ❓ à vérifier |
-| Chalk Peak | Pic de Craie | ❓ à vérifier |
+| Chalk Peak | Pic de Craie | ✅ **Chalk Peak** (le nom anglais est conservé en FR — écran de scénario, 07/09/2026) |
 | Deadsville | Deadsville | ❓ à vérifier |
+| Lone Wolf Wastes | — | ✅ **Lone Wolf Wastes** (nom conservé en FR — écran de scénario, 07/09/2026) |
+| Blackheart Region | Région de Blackheart | ✅ **Région de Blackheart** (écran de scénario, 07/09/2026) |
 | Meyer's Market | Marché de Meyer | ❓ à vérifier |
 
 ## Comment contribuer à cette page

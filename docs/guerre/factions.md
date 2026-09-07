@@ -21,6 +21,10 @@ Deux structures de groupe coexistent, avec des rôles différents :
 - Le chef valide les **candidatures** dans le menu de la faction et peut annoncer la faction via le **tableau de recrutement**. *(Emplacement exact du tableau sur PS5 : à confirmer.)*
 - Pour recruter : faites circuler le nom exact de la faction (chat serveur/proximité).
 
+## Recruter via le Code d'invitation spéciale ✅
+
+Chaque joueur dispose d'un **Code d'invitation spéciale** (profil → « Voir le code d'invitation spéciale ») valable pour **5 invités maximum**. Partagez-le aux nouveaux joueurs que vous recrutez — vraisemblablement avec des récompenses de parrainage à la clé. *(Récompenses exactes : à documenter.)*
+
 ## L'onglet Guerre (relevé en jeu ✅)
 
 **Factions armées → Guerre** (onglets : Aperçu, Membres, Guerre, Boutique, Classement) :

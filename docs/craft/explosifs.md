@@ -65,11 +65,15 @@ Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acid
 
 ## La rétro-ingénierie : l'autre voie de déblocage
 
-**Le système, vérifié terrain PS5 ✅** — c'est un **établi dédié** :
+**Le système, vérifié terrain PS5 ✅** — l'établi s'appelle le **« Banc de synthèse technologique »** et a **deux onglets** :
+
+**Onglet « Rétro-ingénierie »** :
 
 1. Placez-y les objets marqués d'une **icône jaune** (lootés en exploration ou récupérés sur les installations ennemies).
 2. **La première fois** qu'un objet y passe → son **craft se débloque** (sans dépenser de points Tech !).
 3. **Les fois suivantes**, le même objet donne des **ossements** — la monnaie qui sert à **acquérir de nouveaux crafts** (c'est probablement elle qui chiffre les gros déblocages, comme l'établi de munitions vu à « 6000 »).
+
+**Onglet « Inventions technologiques »** ✅ : on y place des **matériaux** (« Matériaux d'invention ») → l'« Aperçu du résultat de l'invention » montre les machines/objets que la combinaison peut produire → **« Activer l'invention »** (~3 min). C'est une seconde voie de découverte : expérimentez des combinaisons de matériaux pour inventer de nouvelles installations. *(À documenter : les combinaisons connues.)*
 
 **Doctrine de la faction** : *favoriser la récupération des installations et la rétro-ingénierie* — en raid comme en exploration, **ramenez tout objet à icône jaune** au lieu de le broyer, et récupérez les installations ennemies quand c'est possible plutôt que de tout détruire. Chaque objet analysé = un craft gratuit ou des ossements.
 
