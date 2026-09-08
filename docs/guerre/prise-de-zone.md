@@ -92,7 +92,7 @@ Trois règles logistiques qui changent tout :
 
 **⚠️ Tourelle mitrailleuse portative = TEMPORAIRE (vérifié en jeu)** : elle **disparaît à la déconnexion** du joueur qui l'a posée. C'est un outil de **combat actif** (défense en direct, assaut, tenir un point pendant qu'on est en ligne — PV 750 % Psi, dégâts 78 + 100 % Psi, 20 s de fabrication), **pas** une défense permanente.
 
-**Pour la défense permanente de la zone, il faut les tourelles FIXES** de la catégorie Installation de combat (Fusil d'assaut niv. 1, Fusil de chasse niv. 1…), à **débloquer dans l'écran Tech** : elles restent en place hors connexion — câblées au générateur (⚡) et approvisionnées en munitions. Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
+**Pour la défense permanente de la zone, il faut les tourelles FIXES** de la catégorie Installation de combat (Fusil d'assaut niv. 1, Fusil de chasse niv. 1…), à **débloquer dans l'écran Tech** — câblées au générateur (⚡) et approvisionnées en munitions. ⚠️ *Qu'elles restent bien en place hors connexion est une déduction logique (sinon aucune défense permanente n'existerait) — mais **pas encore testé** : à vérifier par une déco/reco.* Un **Leurre** existe aussi dans la même catégorie de fabrication — à documenter.
 
 À compléter pour la version parfaite :
 
