@@ -63,11 +63,25 @@ flowchart TD
 - **Les Coquilles de roquette** se **lootent** aussi (conteneurs, ennemis) et s'achètent aux **distributeurs** d'autres joueurs.
 - Le **Résonateur protoïde** (détection des Entraves en guerre de frontières) se fabrique au Grand établi de synthèse — voir [Guerres de frontières](../guerre/frontieres.md).
 
-## Munitions : l'acide et la Source protoplasmique sont stratégiques
+## Munitions : les recettes exactes (capturées ✅ 08/09/2026)
 
-Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acide** et de la **Source protoplasmique** (les fioles roses/violettes) — **stockez-les en priorité**.
+Tout se fabrique à l'**Établi de fournitures avancé** (5 s par craft) :
 
-**La voie industrielle de l'acide ✅** : plutôt que de chasser l'acide sur les Déviants, produisez-le en chaîne — **pompes à eau → eau contaminée → Filtre à eau compact (2:1) → Acide impur → purification en Acide** (noms et taux capturés ✅ 08/09/2026). Une [ferme à eau](../jeu/base-territoire.md#la-ferme-a-eau-retour-terrain-ps5-08092026) à 8 pompes ≈ 40 000 eaux contaminées/semaine = un approvisionnement d'acide quasi illimité pour les munitions. *(Recette exacte des balles en acier et station de la 2ᵉ étape Acide impur → Acide : à relever.)*
+| Munition (×240/craft) | Recette | Bonus |
+|---|---|---|
+| **Munitions à noyau d'acier de calibre moyen** | 7 Lingots d'acier + 2 Poudre à canon + 12 Source protoplasmique | +8 % DÉG par tir, +8 % Intensité Psi |
+| **Munitions perforantes de calibre moyen** | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **+20 % contre les unités blindées** |
+
+Les ingrédients intermédiaires :
+
+| Ingrédient | Recette | Où |
+|---|---|---|
+| **Poudre à canon** (×1) | 6 Soufre + 3 Charbon + **3 Acide** | Établi de fournitures avancé |
+| **Lingot de tungstène** | 5 Minerais de tungstène + **1 Acide** | **Fourneau électrique** |
+
+L'**Acide** n'entre donc pas directement dans les balles : il passe par la **poudre à canon** et le **tungstène** — mais chaque craft de 240 perforantes coûte au total ~13 acides en amont. La **Source protoplasmique** (fioles roses/violettes) reste à stocker en priorité : 12 à 20 par craft.
+
+**La voie industrielle de l'acide ✅ (chaîne complète capturée)** : **pompes à eau → eau contaminée → Filtre à eau compact (2:1) → Eau purifiée → Cuve de brassage (10:1) → Acide**. Une [ferme à eau](../jeu/base-territoire.md#la-ferme-a-eau-retour-terrain-ps5-08092026) à 8 pompes ≈ 40 000 eaux/semaine ≈ **2 000 acides/semaine** — de quoi alimenter poudre, tungstène et Équipements de sécurité sans chasser un seul Déviant.
 
 ## La rétro-ingénierie : l'autre voie de déblocage
 

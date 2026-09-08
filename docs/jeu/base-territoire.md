@@ -24,8 +24,8 @@ Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (géné
 |---|---|---|---|
 | **Bureau de démontage** | — | tôt | Indispensable : recycle le bric-à-brac en matériaux (pièces électroniques, ferraille, caoutchouc). Utilisez « Tout insérer » pour gagner du temps |
 | **Réchaud avancé** | Logistique (icône sac/feu de camp) | 3–4 | Doit être relié à l'électricité ; cuisine des plats complexes et des conserves |
-| **Four électrique** | 1er onglet (icône pioche) | 4 | À relier par câble à un générateur ; fond l'alliage d'aluminium |
-| **Fonte du tungstène** | 1er onglet | 5 | Débloque le tungstène |
+| **Fourneau électrique** ✅ (nom exact capturé 08/09/2026) | 1er onglet (icône pioche) | 4 | À relier par câble (« Fixer le fil électrique ») ; produit charbon, lingots (cuivre, fer, acier, acier alliage, **tungstène** = 5 minerais + 1 acide), verre et **brique en terre cuite** |
+| **Fonte du tungstène** | 1er onglet | 5 | Débloque le tungstène (le lingot se fond ensuite au Fourneau électrique) |
 
 ## Objets particuliers
 
@@ -44,13 +44,17 @@ Stratégie testée : **une petite base dédiée à la production d'eau**, posée
 
 **Rendement mesuré** : ~**900 eaux contaminées en 2-3 heures** avec la première configuration. Projection calculée : **~40 000 par semaine avec 8 pompes à eau**. C'est une usine.
 
-**À quoi ça sert — la chaîne de l'acide (capturé en jeu ✅ 08/09/2026) :**
+**À quoi ça sert — la chaîne de l'acide COMPLÈTE (capturée en jeu ✅ 08/09/2026) :**
 
 ```
-Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Acide impur → purification → ACIDE
+Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Eau purifiée / Acide impur
+                                            → CUVE DE BRASSAGE (10:1) → ACIDE
 ```
 
-La station est le **Filtre à eau compact** : on y choisit la **sortie de ressources** — **Acide impur** (taux de conversion **2:1** : 2 eaux contaminées → 1 acide impur) ou **Eau purifiée** (2:1). Fiche de l'Acide impur : *« Solution acide extraite d'eau contaminée, elle peut être purifiée davantage pour en faire de l'acide. »* L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sécurité…) : cette ferme le **produit industriellement**. *(Reste à capturer : la station de la 2ᵉ étape, Acide impur → Acide.)*
+- **Filtre à eau compact** : sortie au choix — **Acide impur** (2:1) ou **Eau purifiée** (2:1). Fiche de l'Acide impur : *« Solution acide extraite d'eau contaminée, elle peut être purifiée davantage pour en faire de l'acide. »*
+- **Cuve de brassage** : recette affichée **« Eau purifiée >> Acide — Taux de conversion 10:1 »** (deux emplacements d'entrée, capacité 4 000 chacun ; le rôle exact du 2ᵉ emplacement — acide impur en complément ? — reste à préciser). Une seconde recette y est verrouillée derrière *« la technologie d'extraction minière du Caillot de… »* (Étoffe de M… — à documenter).
+
+**Le rendement en bout de chaîne** : à 2:1 puis 10:1, il faut ~20 eaux contaminées par acide → les ~900 eaux/2-3 h ≈ **45 acides**, et les ~40 000/semaine ≈ **2 000 acides/semaine**. C'est exactement ce que consomme l'industrie : la [poudre à canon (3 acides), le lingot de tungstène (1 acide)](../craft/explosifs.md#munitions--les-recettes-exactes-capturees-) et l'Équipement de sécurité (5 acides).
 
 **Les matériaux — PV mesurés sur fiches (capturé ✅ 08/09/2026)** :
 

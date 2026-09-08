@@ -26,8 +26,10 @@
 ## ⚗️ Craft et établis
 
 - [x] ~~**Station de conversion de l'eau**~~ ✅ 08/09 : **Filtre à eau compact** → **Acide impur** ou Eau purifiée, taux **2:1**
-- [ ] 🔥 **La 2ᵉ étape : Acide impur → Acide** → quelle station, quel taux ?
-- [ ] 🔥 **Recette des balles en acier** (fiche à l'établi) → ingrédients exacts (acide ? Source protoplasmique ? quantités ?)
+- [x] ~~**La 2ᵉ étape de l'acide**~~ ✅ 08/09 : **Cuve de brassage**, « Eau purifiée >> Acide, taux 10:1 »
+- [ ] **Le 2ᵉ emplacement d'entrée de la Cuve de brassage** → l'Acide impur y entre-t-il en complément de l'Eau purifiée ? (les deux slots 0/4000)
+- [ ] **La recette verrouillée de la Cuve** (« Étoffe de M… », nécessite la technologie d'extraction minière du Caillot de…) → nom complet et utilité
+- [x] ~~**Recette des balles en acier**~~ ✅ 08/09 : Établi de fournitures avancé — noyau d'acier ×240 = 7 acier + 2 poudre + 12 protoplasme ; perforantes ×240 = 7 tungstène + 2 poudre + 20 protoplasme ; poudre = 6 soufre + 3 charbon + 3 acide
 - [ ] **Recette des Explosifs variés** au Grand établi de synthèse → quantité exacte de soufre (c'est le goulot de toute la chaîne)
 - [ ] **Recette des Explosifs surpuissants en gros plan** → nom exact du matériau à l'icône « plastique »
 - [ ] **Fiche de la Grenade HE** → sa ligne « très efficace niv. X »

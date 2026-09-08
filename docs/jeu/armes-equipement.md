@@ -29,7 +29,7 @@ Ces pièces **ne se fabriquent pas** — elles se trouvent dans les caisses d'ar
 
 ## Réparation d'équipement
 
-- L'**Établi de fournitures** ne fait que munitions et soins.
+- L'**Établi de fournitures** (et sa version **Établi de fournitures avancé** ✅) ne fait que munitions, poudre à canon et soins.
 - Pour réparer une arme ou un outil (ex : la Foreuse), utilisez l'**Établi d'équipement**, onglet **Réparation**.
 - Une foreuse avancée demande un Établi d'équipement de niveau intermédiaire/avancé.
 

@@ -59,6 +59,15 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Contaminated water | Eau contaminée | ✅ **Eau contaminée** (produite par les pompes — ~900 en 2-3 h mesuré, 08/09/2026) |
 | Impure acid | Acide impur | ✅ **Acide impur** (fiche capturée 08/09/2026 — étape intermédiaire eau contaminée → acide ; « Acide non utilisable » était une erreur de mémoire) |
 | Compact Water Filter | Filtre à eau compact | ✅ **Filtre à eau compact** (capturé 08/09/2026 — convertit l'eau contaminée en Acide impur ou Eau purifiée, taux 2:1) |
+| Brewing Vat | Cuve de brassage | ✅ **Cuve de brassage** (capturé 08/09/2026 — Eau purifiée >> Acide, taux 10:1) |
+| Advanced Supplies Workbench | Établi de fournitures avancé | ✅ **Établi de fournitures avancé** (capturé 08/09/2026 — munitions, poudre à canon, soins) |
+| Medium Caliber Steel Core Ammo | Munitions à noyau d'acier de calibre moyen | ✅ **Munitions à noyau d'acier de calibre moyen** (capturé 08/09/2026) |
+| Medium Caliber Armor-Piercing Ammo | Munitions perforantes de calibre moyen | ✅ **Munitions perforantes de calibre moyen** (capturé 08/09/2026) |
+| Gunpowder | Poudre à canon | ✅ **Poudre à canon** (capturé 08/09/2026 — 6 soufre + 3 charbon + 3 acide) |
+| Electric Furnace | Fourneau électrique | ✅ **Fourneau électrique** (capturé 08/09/2026 — « Four électrique » était approximatif) |
+| Tungsten Ingot | Lingot de tungstène | ✅ **Lingot de tungstène** (capturé 08/09/2026 — 5 minerais + 1 acide au Fourneau électrique) |
+| Steel Alloy Ingot | Lingot d'acier alliage | ✅ **Lingot d'acier alliage** (capturé 08/09/2026 — liste du Fourneau électrique) |
+| Clay Brick | Brique en terre cuite | ✅ **Brique en terre cuite** (capturé 08/09/2026 — nom exact de la « brique ») |
 | Purified Water | Eau purifiée | ✅ **Eau purifiée** (capturé 08/09/2026) |
 | Territory Terminal | Terminal de territoire | ✅ **Terminal de territoire** (capturé 08/09/2026 — réparation, amélioration, permissions, extension) |
 | Corrosion | Corrosion | ✅ **Corrosion** (capturé 08/09/2026 — le nom officiel de la « dégradation des structures ») |
