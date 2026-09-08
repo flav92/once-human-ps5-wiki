@@ -69,6 +69,10 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Assault Rifle Turret | Tourelle fusil d'assaut | ✅ **Fusil d'assaut niv. 1** (tourelle à visée auto, munitions de fusil — écran Tech, 06/09/2026) |
 | Medium Caliber Copper Bullet | Balle en cuivre de calibre moyen | ✅ **Balle en cuivre de calibre moyen** (confirmé en jeu, 06/09/2026 — établi de fournitures primaire ou avancé) |
 | Adhesive | Adhésif | ✅ **Adhésif** (confirmé en jeu, 06/09/2026) |
+| Muzzle Brake | Grand frein de bouche | ✅ **Grand frein de bouche** (accessoire « Bouche », +10 % vitesse de balle / +22 % Précision, 08/09/2026) |
+| Precision Components | Composants de Précision | ✅ **Composants de Précision** (monnaie de déblocage des accessoires — récompenses de Niveau de collection du système de Schémas, 08/09/2026) |
+| Accessory interface | Interface Acc | ✅ **Interface Acc** (déblocage des accessoires d'armes, 08/09/2026) |
+| Blueprint system / Collection level | Système de Schémas / Niveau de collection | ✅ **Système de Schémas — Niveau de collection** (08/09/2026) |
 | Electric Furnace | Four électrique | ✅ **Fourneau électrique** (mentionné en jeu, 06/09/2026 — fond le Lingot d'acier alliage) |
 | Shotgun Turret | Tourelle fusil de chasse | ✅ **Fusil de chasse niv. 1** (tourelle à visée auto, munitions de pompe — écran Tech, 06/09/2026) |
 | Decoy | Leurre | ✅ **Leurre** (aperçu en jeu, 06/09/2026 — rôle à documenter) |

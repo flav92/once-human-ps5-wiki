@@ -5,12 +5,15 @@
 !!! note
     Astuces issues de l'expérience en jeu sur PS5. À confirmer/compléter.
 
-## Accessoires d'armes (viseurs, silencieux…)
+## Accessoires d'armes (viseurs, freins de bouche, silencieux…)
 
-⚠️ **Non vérifié sur PS5** — info issue des guides PC, pas encore retrouvée en jeu par la communauté du wiki :
+**Système vérifié en jeu PS5 ✅** (08/09/2026) — différent de ce que décrivaient les guides PC :
 
-- Ils ne se fabriqueraient pas mais se **débloqueraient de manière permanente** (énigmes du monde ouvert, défis du menu Périple).
-- *Si vous trouvez comment les obtenir sur PS5, [contribuez](../contribuer.md) !*
+- Les accessoires se **déverrouillent dans l'interface Acc** (accessoires), en dépensant des **composants de Précision**.
+- Les **composants de Précision** s'obtiennent via le **système de Schémas** — ce sont les **récompenses de Niveau de collection** (plus vous collectionnez de schémas, plus vous gagnez de composants). Un bouton « Obtenir des composants de Précision » dans l'interface pointe vers la source.
+- Chaque accessoire a un **coût de déverrouillage** (ex. 4 composants) et, une fois débloqué, est utilisable de façon permanente.
+
+**Exemple relevé — « Grand frein de bouche »** (emplacement Bouche) : **+10 % vitesse de balle, +22 % Précision** ; équipable sur fusils d'assaut, mitrailleuses légères et fusils de sniper. Coût : 4 composants de Précision.
 
 ## Mods et caisses de sélection
 
