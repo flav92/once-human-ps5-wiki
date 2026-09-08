@@ -32,6 +32,20 @@ Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (géné
 - **Chien robot** : simple jouet du bric-à-brac — sa seule utilité est d'être démantelé (pièces électroniques).
 - **Hôte de Rosetta** : purement décoratif, aucune utilité fonctionnelle.
 
+## La ferme à eau (retour terrain PS5 ✅, 08/09/2026)
+
+Stratégie testée : **une petite base dédiée à la production d'eau**, posée au bord de l'eau.
+
+**Le montage :**
+
+1. Supprimez/déplacez votre base (la démolition **rend les matériaux dans l'inventaire**) et reconstruisez **compact** au bord de l'eau.
+2. **Générateur hydraulique** (la roue à eau — interaction « Utilisation de la roue ») + **pompes à eau** câblées : jusqu'à **9-10 appareils alimentés** sur un seul générateur.
+3. Laissez tourner : la production continue **hors connexion**.
+
+**Rendement mesuré** : ~**900 eaux contaminées en 2-3 heures** avec la première configuration. Projection calculée : **~40 000 par semaine avec 8 pompes à eau**. C'est une usine.
+
+**Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. Si vous êtes avancés en métaux (tungstène…), le coût est absorbable — mais choisissez le matériau de la ferme en connaissance de cause, et gardez une base **compacte** : moins de surface = moins de réparations.
+
 ## Aquarium et pêche
 
 - Le **plan de l'aquarium** s'obtient chez **Margerie** (Deadsville ou Marché de Meyer) via une ligne de dialogue cachée : « l'Échange de poissons ».

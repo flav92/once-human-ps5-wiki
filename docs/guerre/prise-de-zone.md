@@ -45,7 +45,7 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 - Mines Claymore, sacs de sable, tourelles + générateur protégé, couches de murs (« honeycombing ») en matériaux durs.
 - **Le générateur est votre talon d'Achille** ✅ : votre Équipement de sécurité y est branché — s'il tombe, vos droits sur la zone tombent avec. Le bunker multicouche autour du générateur n'est pas du luxe, et le **générateur de secours caché** est **obligatoire**, pas optionnel.
 - **Passez récupérer les ressources FRÉQUEMMENT** ✅ : la production de la zone s'accumule sur place — ce qui n'est pas ramassé peut être perdu (ou pillé). Faites-en une tournée de routine de la Ruche.
-- **Statut « Dégradation des structures »** ✅ (affiché en rose dans le HUD) : les structures posées dans certaines zones **se dégradent avec le temps**. Retour terrain : une installation de production qui tourne toute la nuit **vaut le coût de la dégradation** — prévoyez juste le stock de réparation en conséquence. *(Cause exacte de la dégradation — zone, absence, ou usure normale : à préciser.)*
+- **Statut « Dégradation des structures »** ✅ (affiché en rose dans le HUD) : les structures de base **se dégradent avec le temps**, et le coût de réparation **dépend du matériau** (brique = cher, pierre = moins cher). Retour terrain : une installation de production qui tourne toute la nuit **vaut largement ce coût** — prévoyez le stock de réparation, c'est tout.
 
 ### Le bunker à générateur (recette de construction testée en zone ✅)
 
