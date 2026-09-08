@@ -66,7 +66,9 @@ nav:
       - Guerres de frontières et enchères: guerre/frontieres.md
       - GvG — par où commencer: jeu/conquete-bastion.md
   - Glossaire FR/EN: glossaire.md
-  - Contribuer: contribuer.md
+  - Contribuer:
+      - Comment contribuer: contribuer.md
+      - 📸 Captures à faire: captures-a-faire.md
 
 extra_css:
   - stylesheets/extra.css
