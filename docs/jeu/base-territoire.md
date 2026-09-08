@@ -56,7 +56,7 @@ L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sé
 
 **Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. La ferme testée est construite **en bois** (réparation bon marché) — le compromis : le bois est fragile si la base s'avère **raidable** (à vérifier selon l'emplacement ; rappel : hors zones GvG et hors État de Chaos, les bases personnelles sont normalement impillables). Gardez la base **compacte** : moins de surface = moins de réparations.
 
-⚠️ **La dégradation touche aussi les coffres** ✅ (retour terrain 08/09/2026) : les coffres de stockage **s'abîment avec le temps** comme le reste — ne considérez jamais un coffre comme un stockage « gratuit » à entretenir zéro. *(Rythme et coût de réparation des coffres : relevé de dégâts en cours — à chiffrer.)*
+⚠️ **La dégradation touche aussi les coffres** ✅ (retour terrain 08/09/2026) : les coffres de stockage **s'abîment avec le temps** comme le reste — ne considérez jamais un coffre comme un stockage « gratuit » à entretenir zéro. Premiers ordres de grandeur (estimation terrain, **à confirmer par mesure**) : un coffre a **500 PV** et la dégradation tournerait autour de **~1 PV/minute** — à ce rythme, un coffre non entretenu serait à sec en **~8 heures**. Si ça se vérifie, un coffre exige un passage de réparation **quotidien** au minimum.
 
 ## Stockage et encombrement
 
