@@ -19,7 +19,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Facilities → Outdoor Facilities | Installations → Installations extérieures | ❓ à vérifier |
 | Security Equipment | Équipement de sécurité | ✅ **Équipement de sécurité** (confirmé en jeu, 06/09/2026 — « pour gérer les droits de zone d'engagement ») |
 | Territory | Territoire | ❓ à vérifier |
-| Move Territory | Déplacer le territoire | ❓ à vérifier |
+| Move Territory | Déplacer le territoire | ✅ **Déplacer le territoire** (capturé 08/09/2026 — icône en haut à droite du mode construction) |
 | Hive | Ruche | ✅ **Ruche** (infobulle de carte, 06/09/2026) |
 | Chaos State | État de Chaos | ❓ à vérifier |
 | Stronghold Conquest | Conquête de bastion | ❓ à vérifier |
@@ -57,7 +57,18 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Hydraulic generator | Générateur hydraulique | ✅ **Générateur hydraulique** (roue à eau — alimente 9-10 appareils, 08/09/2026) |
 | Water pump | Pompe à eau | ✅ **Pompe à eau** (production d'eau contaminée en continu, 08/09/2026) |
 | Contaminated water | Eau contaminée | ✅ **Eau contaminée** (produite par les pompes — ~900 en 2-3 h mesuré, 08/09/2026) |
-| Unusable acid | Acide non utilisable | ✅ **Acide non utilisable** (étape intermédiaire eau contaminée → acide, se brasse en acide, 08/09/2026) |
+| Impure acid | Acide impur | ✅ **Acide impur** (fiche capturée 08/09/2026 — étape intermédiaire eau contaminée → acide ; « Acide non utilisable » était une erreur de mémoire) |
+| Compact Water Filter | Filtre à eau compact | ✅ **Filtre à eau compact** (capturé 08/09/2026 — convertit l'eau contaminée en Acide impur ou Eau purifiée, taux 2:1) |
+| Purified Water | Eau purifiée | ✅ **Eau purifiée** (capturé 08/09/2026) |
+| Territory Terminal | Terminal de territoire | ✅ **Terminal de territoire** (capturé 08/09/2026 — réparation, amélioration, permissions, extension) |
+| Corrosion | Corrosion | ✅ **Corrosion** (capturé 08/09/2026 — le nom officiel de la « dégradation des structures ») |
+| Territory Reinforcement | Renforcement de territoire | ✅ **Renforcement de territoire** (capturé 08/09/2026 — protection temporaire contre la Corrosion) |
+| Small/Large Storage Crate | Petite/Grande caisse de rangement | ✅ **Petite caisse de rangement** / **Grande caisse de rangement** (capturé 08/09/2026 — 500 PV chacune) |
+| Build Score | Note de construction | ✅ **Note de construction** (capturé 08/09/2026 — le score en haut du mode construction) |
+| Grid Anchor | Ancrage de grille | ✅ **Ancrage de grille** (capturé 08/09/2026 — mode construction, R3) |
+| Free Camera | Caméra libre | ✅ **Caméra libre** (capturé 08/09/2026 — mode construction) |
+| Stone Wall/Ceiling 01 | Mur/Plafond en pierre 01 | ✅ **Mur en pierre 01 / Plafond en pierre 01** (capturé 08/09/2026 — description en jeu : « Mur de briques » ! pierre = brique) |
+| Concrete Wall 01 | Mur en béton 01 | ✅ **Mur en béton 01** (capturé 08/09/2026 — 3 200 PV) |
 | Forgetting Lord (?) | Seigneur de l'oubli | ✅ **Seigneur de l'oubli** (boss de l'histoire principale « Il était là », 08/09/2026) |
 | Deviation / Deviant | Déviant | ✅ **Déviant** (confirmé en jeu, 06/09/2026) |
 | Change World | Changer de monde | ❓ à vérifier |

@@ -38,25 +38,39 @@ Stratégie testée : **une petite base dédiée à la production d'eau**, posée
 
 **Le montage :**
 
-1. Supprimez/déplacez votre base (la démolition **rend les matériaux dans l'inventaire**) et reconstruisez **compact** au bord de l'eau.
+1. Supprimez/déplacez votre base (la démolition **rend les matériaux dans l'inventaire**) et reconstruisez **compact** au bord de l'eau. Le **Terminal de territoire** ✅ est le cœur de la base : il l'agrandit (« Extension du territoire »), affiche vos quotas de construction et gère réparation et permissions.
 2. Alimentation mixte : **2 générateurs hydrauliques** (les roues à eau — interaction « Utilisation de la roue ») **+ 3 panneaux solaires** → **9/10 appareils alimentés** (pompes à eau et le reste).
 3. Laissez tourner : la production continue **hors connexion**.
 
 **Rendement mesuré** : ~**900 eaux contaminées en 2-3 heures** avec la première configuration. Projection calculée : **~40 000 par semaine avec 8 pompes à eau**. C'est une usine.
 
-**À quoi ça sert — la chaîne de l'acide ✅ :**
+**À quoi ça sert — la chaîne de l'acide (capturé en jeu ✅ 08/09/2026) :**
 
 ```
-Pompe à eau → Eau contaminée → conversion → Acide non utilisable → brassage → ACIDE
+Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Acide impur → purification → ACIDE
 ```
 
-L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sécurité…) : plutôt que de le chasser sur les Déviants, cette ferme le **produit industriellement**. *(Stations exactes de conversion et de brassage : à préciser.)*
+La station est le **Filtre à eau compact** : on y choisit la **sortie de ressources** — **Acide impur** (taux de conversion **2:1** : 2 eaux contaminées → 1 acide impur) ou **Eau purifiée** (2:1). Fiche de l'Acide impur : *« Solution acide extraite d'eau contaminée, elle peut être purifiée davantage pour en faire de l'acide. »* L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sécurité…) : cette ferme le **produit industriellement**. *(Reste à capturer : la station de la 2ᵉ étape, Acide impur → Acide.)*
 
-**Les matériaux, du plus fragile au plus solide (échelle terrain ✅)** : **bois (niv. 1)** → brique/pierre → **béton** (le plus résistant constructible — pas de niv. 4 joueur). Dégradation : réparation bois la moins chère, brique chère, pierre modérée, béton à chiffrer. Règle simple : **production en zone sûre = bois ; tout ce qui est raidable ou contient vos coffres = béton**.
+**Les matériaux — PV mesurés sur fiches (capturé ✅ 08/09/2026)** :
 
-**Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. La ferme testée est en construction mixte ✅ : **murs et fondations en béton, plafonds en brique** (réparation chère, mais le joueur était déjà au tungstène avec un gros stock de métaux — le coût passe). Si vous partez de zéro : la **pierre** offre un meilleur rapport solidité/coût de réparation. Gardez la base **compacte** : moins de surface = moins de réparations. *(Test comparatif en cours ✅ : deux fermes tournent en parallèle, une en **béton + brique** et une **tout bois** — chiffres de dégradation et de réparation comparés à venir.)*
+| Élément | PV (Durabilité) | Coût de réparation relevé |
+|---|---|---|
+| Mur/Plafond **« en pierre 01 »** | **1 800** | 1 brique en terre cuite (+ 1 bois pour le mur) |
+| **Mur en béton 01** | **3 200** | 1 brique + 1 bois + 1 lingot d'acier |
+| Petite / Grande **caisse de rangement** | **500** | — |
+| **Terminal de territoire** | **9 999** | — |
 
-⚠️ **La dégradation touche aussi les coffres** ✅ (retour terrain 08/09/2026) : les coffres de stockage **s'abîment avec le temps** comme le reste — ne considérez jamais un coffre comme un stockage « gratuit » à entretenir zéro. Premiers ordres de grandeur (estimation terrain, **à confirmer par mesure**) : un coffre a **500 PV** et la dégradation tournerait autour de **~1 PV/minute** — à ce rythme, un coffre non entretenu serait à sec en **~8 heures**. Si ça se vérifie, un coffre exige un passage de réparation **quotidien** au minimum.
+⚠️ **Piège de nommage vérifié** : le « Mur en pierre 01 » a pour description *« Mur de briques »* — dans le jeu, **le palier « pierre » EST la brique** (une seule et même chose). Et les fiches de structures n'affichent **aucun « niveau de stabilité »** (Durabilité + Coût seulement) — les niveaux 1/2/3 n'apparaissent que sur les fiches d'explosifs. Ordre de solidité constaté : bois < pierre/brique (1 800) < **béton (3 200)**. Règle simple : **production en zone sûre = bois ou pierre ; tout ce qui est raidable ou contient vos coffres = béton**.
+
+**La dégradation s'appelle officiellement la « Corrosion » (Terminal de territoire, capturé ✅ 08/09/2026).** Les règles affichées en jeu :
+
+1. *« Les effets de Corrosion réduiront progressivement la Durabilité de toutes les structures dans le Territoire jusqu'à une destruction complète. Une fois détruites, tous les actifs dépassant la capacité du coffre seront perdus. »*
+2. *« Les Renforts peuvent temporairement empêcher la Corrosion. »* Le bouton **« Renforcement de territoire »** (Terminal, touche Carré) achète cette protection temporaire — et la Corrosion augmente avec **le nombre de bâtiments** et la **valeur de pollution** du territoire.
+
+**La réparation se fait en un clic depuis le Terminal de territoire** ✅ (onglet **« Réparation du territoire »**) : sélection par catégorie (Structures, Installation, Meubles et décor, Production de courant) avec « Réparation maximale »/« Tout sélectionner » — pas besoin de viser pièce par pièce. Coût relevé pour ~28 structures d'une nuit : **25 briques + 19 lingots d'acier + 14 bois** et quelques unités diverses — c'est bon marché, même en béton. La ferme testée (murs/fondations **béton**, plafonds **pierre/brique**) est donc tout à fait tenable. Gardez la base **compacte** : moins de bâtiments = moins de Corrosion (règle n°2 ci-dessus). *(Test comparatif en cours : ferme béton+brique vs ferme tout bois — chiffres à comparer.)*
+
+⚠️ **La Corrosion touche aussi les coffres** ✅ : **500 PV confirmés sur fiche** (Petite ET Grande caisse de rangement — même durabilité). Le rythme (~1 PV/min estimé) reste à mesurer, mais la règle du Terminal est claire : coffre détruit = **le contenu au-delà de la capacité restante est perdu**. Réparez-les en priorité dans l'écran de Réparation du territoire.
 
 ## Stockage et encombrement
 

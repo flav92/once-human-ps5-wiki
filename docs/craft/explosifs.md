@@ -8,7 +8,7 @@ Tout ce qui explose : quoi débloquer, quoi fabriquer, à quel coût — et lequ
 
 La ligne clé : *« Très efficace contre les structures de **niv. X** ou inférieur en stabilité »*. C'est la **stabilité du matériau visé** (rien à voir avec votre niveau).
 
-**Échelle corrigée terrain ✅** : **bois = niv. 1** (pas 2 comme le disaient les guides PC), pierre et béton aux niveaux supérieurs (béton > pierre — numéros exacts à relever sur les fiches), et **il n'existe pas de matériau constructible de niv. 4** : le « béton niv. 4 » cité par certaines fiches désigne les bâtiments du monde, pas les constructions de joueurs.
+**Échelle corrigée terrain ✅** : **bois = niv. 1** (pas 2 comme le disaient les guides PC), pierre et béton aux niveaux supérieurs, et **il n'existe pas de matériau constructible de niv. 4** : le « béton niv. 4 » cité par certaines fiches désigne les bâtiments du monde, pas les constructions de joueurs. ⚠️ Vérifié sur fiches (08/09/2026) : les fiches de **structures** n'affichent **pas** de numéro de stabilité (Durabilité + Coût seulement) — ces niveaux ne se lisent que sur les fiches d'**explosifs**. Autre piège : dans le jeu, le palier « **pierre** » s'appelle « Mur/Plafond en pierre 01 » mais sa description dit *« Mur de briques »* — **pierre et brique sont un seul et même palier** (1 800 PV, contre 3 200 au béton).
 
 Conséquence : la **Grenade** de base (« très efficace niv. 1 ») devrait donc être **efficace sur le bois** — à re-tester avant de la disqualifier. Aucun explosif n'est « anti-joueurs uniquement » — tout touche tout, seule l'efficacité change.
 
@@ -67,7 +67,7 @@ flowchart TD
 
 Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acide** et de la **Source protoplasmique** (les fioles roses/violettes) — **stockez-les en priorité**.
 
-**La voie industrielle de l'acide ✅** : plutôt que de chasser l'acide sur les Déviants, produisez-le en chaîne — **pompes à eau → eau contaminée → conversion en acide non utilisable → brassage en acide**. Une [ferme à eau](../jeu/base-territoire.md#la-ferme-a-eau-retour-terrain-ps5-08092026) à 8 pompes ≈ 40 000 eaux contaminées/semaine = un approvisionnement d'acide quasi illimité pour les munitions. *(Recette exacte des balles en acier et stations de conversion/brassage : à relever.)*
+**La voie industrielle de l'acide ✅** : plutôt que de chasser l'acide sur les Déviants, produisez-le en chaîne — **pompes à eau → eau contaminée → Filtre à eau compact (2:1) → Acide impur → purification en Acide** (noms et taux capturés ✅ 08/09/2026). Une [ferme à eau](../jeu/base-territoire.md#la-ferme-a-eau-retour-terrain-ps5-08092026) à 8 pompes ≈ 40 000 eaux contaminées/semaine = un approvisionnement d'acide quasi illimité pour les munitions. *(Recette exacte des balles en acier et station de la 2ᵉ étape Acide impur → Acide : à relever.)*
 
 ## La rétro-ingénierie : l'autre voie de déblocage
 

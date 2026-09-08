@@ -13,7 +13,7 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 - **PvP libre permanent** (icône rouge **GVG** à l'écran) : tout le serveur s'y croise, pas d'instances, aucune déclaration de guerre nécessaire — on entre, on détruit, on occupe.
 - La zone s'articule autour de ses **sites d'extraction** (foreuses) : tant que votre Ruche n'en contrôle pas, **tout est verrouillé**. Messages du jeu ✅ : *« Aucun permis de construire pour cette zone »*, *« Aucun accès. Vous devez d'abord occuper un site d'extraction »*.
-- **Le HUD de zone est votre boussole** : compteurs relevés `431/640` (structures), `12/60`, `0/12`, `0/12`, `1/1` avec les pseudos des occupants. Après chaque destruction, regardez quel compteur bouge.
+- **Le HUD de zone est votre boussole** : compteurs relevés `431/640` (structures), `12/60`, `0/12`, `0/12`, `1/1` avec les pseudos des occupants. Après chaque destruction, regardez quel compteur bouge. Piste sérieuse ✅ : sur un territoire personnel, la même rangée d'icônes correspond aux **quotas de construction** (Structures x/1400, Meubles et décor x/900, Installation x/250, Production de courant 5/5, Terminal 1/1) — les compteurs de zone sont donc probablement **les quotas de construction de l'occupant**, avec des plafonds propres à la zone. À confirmer sur place en visant chaque catégorie.
 
 ## La séquence de prise
 
@@ -104,8 +104,12 @@ Trois règles logistiques qui changent tout :
 
 | Élément | PV | Coût constaté |
 |---|---|---|
-| Quart de plafond en bois massif | **3 200** | **3 × Explosifs surpuissants** (vérifié) |
-| Quart de fondations en marbre | **6 400** | ~6 Explosifs surpuissants (estimation) |
+| Quart de plafond en bois massif (en zone) | **3 200** | **3 × Explosifs surpuissants** (vérifié) |
+| Quart de fondations en marbre (en zone) | **6 400** | ~6 Explosifs surpuissants (estimation) |
+| Mur/Plafond « en pierre 01 » (base perso) ✅ | **1 800** | fiche relevée 08/09/2026 |
+| Mur en béton 01 (base perso) ✅ | **3 200** | fiche relevée 08/09/2026 |
+
+⚠️ **Incohérence à élucider** : un plafond *bois* mesuré à 3 200 PV en zone d'affrontements, contre 1 800 PV pour un plafond *pierre* de base personnelle — soit les structures en zone GvG ont des PV différents (bonus de zone ?), soit le « plafond bois » de la zone était en réalité d'un autre matériau. À re-vérifier en visant les fiches sur place.
 
 - Visez un élément pour afficher sa durabilité — comptez vos cibles **avant** de dépenser.
 - ⚠️ La **réparation est très bon marché** pour le défenseur (4 bois le plafond, 1 brique la fondation) : concentrez le feu sur UN point et engouffrez-vous, ne saupoudrez jamais.
