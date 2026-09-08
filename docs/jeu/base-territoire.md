@@ -42,6 +42,10 @@ Stratégie testée : **une petite base dédiée à la production d'eau**, posée
 2. Alimentation mixte : **2 générateurs hydrauliques** (les roues à eau — interaction « Utilisation de la roue ») **+ 3 panneaux solaires** → **9/10 appareils alimentés** (pompes à eau et le reste).
 3. Laissez tourner : la production continue **hors connexion**.
 
+**Coût d'une Pompe à eau (fiche capturée ✅ 08/09/2026)** : 35 Lingots d'acier + 20 Fibres + 20 Pièces + 20 Composants électroniques — comptez ×8 pour l'usine complète (280 lingots…). Sa fiche précise aussi qu'elle **pompe le pétrole brut sur les champs de pétrole** et l'eau non potable en zone de pollution : la même machine servira pour une future ferme à pétrole.
+
+**Emplacement de la ferme testée** : Delta de Broken (zone niv. 12, une zone de départ — donc hors GvG, normalement impillable).
+
 **Rendement mesuré** : ~**900 eaux contaminées en 2-3 heures** avec la première configuration. Projection calculée : **~40 000 par semaine avec 8 pompes à eau**. C'est une usine.
 
 **À quoi ça sert — la chaîne de l'acide COMPLÈTE (capturée en jeu ✅ 08/09/2026) :**

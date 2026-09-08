@@ -27,7 +27,7 @@ Conséquence : la **Grenade** de base (« très efficace niv. 1 ») devrait donc
 
 ## Le goulot de toute la chaîne : Explosifs variés → soufre
 
-Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Broken Delta, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../jeu/ressources.md#soufre). File de production en continu !
+Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Delta de Broken, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../jeu/ressources.md#soufre). File de production en continu !
 
 ## Arbre de production des roquettes
 
@@ -41,11 +41,11 @@ flowchart TD
     R --> C["10 × Composant électronique"]
     R --> F["15 × Mélange de carburant portatif"]
 
-    A --> A1["Minerai de fer<br/>(rochers rouge sombre,<br/>Broken Delta)"]
+    A --> A1["Minerai de fer<br/>(rochers rouge sombre,<br/>Delta de Broken)"]
     A --> A2["Charbon<br/>(bois brûlé au fourneau)"]
 
     E --> E0["Grand établi de synthèse"]
-    E0 --> E1["Soufre<br/>(rochers à cristaux jaunes<br/>Broken Delta / Iron River,<br/>ou Déviant Garçon Digby)"]
+    E0 --> E1["Soufre<br/>(rochers à cristaux jaunes<br/>Delta de Broken / Iron River,<br/>ou Déviant Garçon Digby)"]
 
     C --> C1["Bric-à-brac techno<br/>(claviers, écrans, chiens robots)<br/>→ Bureau de démontage"]
 

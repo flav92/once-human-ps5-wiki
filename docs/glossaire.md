@@ -123,7 +123,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Nom anglais | Nom utilisé sur le wiki | Nom exact en jeu (PS5 FR) |
 |---|---|---|
 | Dayton Wetlands | Zone humide de Dayton | ❓ à vérifier |
-| Broken Delta | Delta Brisé | ❓ à vérifier |
+| Broken Delta | Delta de Broken | ✅ **Delta de Broken** (carte capturée 08/09/2026 — « Delta Brisé » était une erreur) |
 | Iron River | Rivière de Fer / Iron River | ❓ à vérifier |
 | Chalk Peak | Pic de Craie | ✅ **Chalk Peak** (le nom anglais est conservé en FR — écran de scénario, 07/09/2026) |
 | Deadsville | Deadsville | ❓ à vérifier |

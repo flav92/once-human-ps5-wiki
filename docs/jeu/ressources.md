@@ -3,16 +3,16 @@
 *Dernière mise à jour : 6 septembre 2026*
 
 !!! note
-    Localisations constatées en jeu (zones de départ : Dayton Wetlands, Broken Delta, Iron River). À confirmer/compléter.
+    Localisations constatées en jeu (zones de départ : Dayton Wetlands, Delta de Broken, Iron River). À confirmer/compléter.
 
 ## Ressources de base
 
 | Ressource | Où / comment |
 |---|---|
 | **Gravier** | Automatique en cassant les rochers gris classiques |
-| **Cuivre** | Rochers avec incrustations jaune/orange oxydé (très présents en zones de départ : Dayton Wetlands, Broken Delta). À fondre au Fourneau |
-| **Étain** | Rochers argentés (Broken Delta) |
-| **Fer** | Rochers rouge sombre (Broken Delta) |
+| **Cuivre** | Rochers avec incrustations jaune/orange oxydé (très présents en zones de départ : Dayton Wetlands, Delta de Broken). À fondre au Fourneau |
+| **Étain** | Rochers argentés (Delta de Broken) |
+| **Fer** | Rochers rouge sombre (Delta de Broken) |
 | **Algues** | Eaux peu profondes et plages (ex : l'île au sud de la carte) |
 | **Maïs** | Autour des anciennes zones agricoles (Marché de Meyer, ferme de Dayton Wetlands) |
 | **Caoutchouc** | Recyclage de bric-à-brac (pneus, gants) à l'Atelier de démontage. Les zones niveau 20+ (Iron River) en regorgent |
@@ -23,18 +23,18 @@
 
 ## Soufre
 
-- **Exploration** : détruisez les gros rochers parsemés de **cristaux jaunes**, très présents dans le Broken Delta et à Iron River.
+- **Exploration** : détruisez les gros rochers parsemés de **cristaux jaunes**, très présents dans le Delta de Broken et à Iron River.
 - **Automatique** : placez le Déviant **Garçon Digby** dans une unité de confinement pour farmer passivement autour de la base.
 
 ## Graines de pommier (agriculture)
 
-En zone de départ (Dayton Wetlands / Broken Delta) :
+En zone de départ (Dayton Wetlands / Delta de Broken) :
 
 - **Abattre des pommiers sauvages** autour de Deadsville et du Marché de Meyer (taux de drop faible — hache ou tronçonneuse).
 - **Fouiller les réfrigérateurs** dans les maisons (ex : Brookham).
 - **Distributeurs de joueurs** : achetables avec des Liens d'énergie dans les Vending Machines des camps d'autres joueurs.
 
-## Meilleures zones de fouille (Broken Delta)
+## Meilleures zones de fouille (Delta de Broken)
 
 Pour les « trash runs » (fouille de meubles) en solo :
 
@@ -51,7 +51,7 @@ Pour les « trash runs » (fouille de meubles) en solo :
 | Niveau | Région | Cibles |
 |---|---|---|
 | 1–10 | Dayton Wetlands (Deadsville) | Cerfs autour des lacs |
-| 10–21 | Broken Delta (Marché de Meyer) | Crocodiles dans les marécages, sangliers |
+| 10–21 | Delta de Broken (Marché de Meyer) | Crocodiles dans les marécages, sangliers |
 
 ## Sources
 

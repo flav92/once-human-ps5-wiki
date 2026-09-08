@@ -17,7 +17,7 @@
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
 - [ ] **La « valeur de pollution »** du territoire → où elle s'affiche, ce qui la fait monter (elle accélère la Corrosion)
 - [x] ~~**Fiche d'un coffre de stockage**~~ ✅ 08/09 : Petite ET Grande caisse de rangement = **500/500 PV**. *(Coût de réparation d'un coffre abîmé : encore à voir.)*
-- [ ] **Infobulle de la zone de la ferme à eau sur la carte** → statut raidable ou non de l'emplacement
+- [ ] **Infobulle de la zone de la ferme à eau sur la carte** → statut raidable ou non (acquis 08/09 : c'est **Delta de Broken, niv. 12**, zone de départ — reste à voir l'infobulle exacte)
 - [ ] **Compteur de production des pompes à eau** (avec heure) → confirmer le rendement ~900 eaux contaminées / 2-3 h
 - [ ] **Écran de démolition d'une structure** → confirme-t-il un remboursement à **100 %** des matériaux ?
 - [ ] **Écran « Déplacer le territoire »** → confirmer gratuité + temps de recharge (~10 min, de mémoire)
