@@ -15,7 +15,7 @@
 - [ ] **Écran de réparation d'une structure en brique** → coût exact de réparation (idem pierre et béton dès que possible)
 - [ ] **Même structure visée à 2 moments notés** (ex. avant déco / au réveil, heures connues) → **vrai rythme de dégradation** en PV/heure
 - [ ] **Fiche d'un coffre de stockage** → PV réels (500 estimé, jamais mesuré) + coût de réparation
-- [ ] **Comparatif brique vs bois** : écran de réparation des deux fermes jumelles après une même nuit → coût réel de chaque matériau, même durée
+- [ ] **Comparatif matériaux** : écran de réparation des deux fermes après une même nuit (ferme 1 : béton + plafonds brique / ferme 2 : tout bois) → coût réel par matériau, même durée
 - [ ] **Infobulle de la zone de la ferme à eau sur la carte** → statut raidable ou non de l'emplacement
 - [ ] **Compteur de production des pompes à eau** (avec heure) → confirmer le rendement ~900 eaux contaminées / 2-3 h
 
