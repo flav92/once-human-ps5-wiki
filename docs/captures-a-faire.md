@@ -1,6 +1,6 @@
 # 📸 Captures à faire — la liste de vérification
 
-*Dernière mise à jour : 8 septembre 2026 — liste complète après relecture intégrale du wiki*
+*Dernière mise à jour : 8 septembre 2026 — liste complète après double relecture intégrale du wiki (toutes pages + glossaire)*
 
 !!! warning "Pourquoi cette page"
     Ce wiki ne garde que des infos **prouvées par capture d'écran PS5**. Tout ce qui est listé ici est actuellement **incertain, estimé, hérité des guides PC ou basé sur la mémoire** — donc potentiellement faux. Une capture = une ligne rayée de cette liste et un ✅ daté sur le wiki.
@@ -18,6 +18,8 @@
 - [ ] **Infobulle de la zone de la ferme à eau sur la carte** → statut raidable ou non de l'emplacement
 - [ ] **Compteur de production des pompes à eau** (avec heure) → confirmer le rendement ~900 eaux contaminées / 2-3 h
 - [ ] **Écran de démolition d'une structure** → confirme-t-il un remboursement à **100 %** des matériaux ?
+- [ ] **Écran « Déplacer le territoire »** → confirmer gratuité + temps de recharge (~10 min, de mémoire)
+- [ ] **Écran Mémétiques** → paliers exacts du Réchaud avancé, du Four électrique et de la Fonte du tungstène (chiffres actuels de mémoire)
 
 ## ⚗️ Craft et établis
 
@@ -31,6 +33,9 @@
 - [ ] **Fiche du Résonateur protoïde** au Grand établi → confirmer la recette console (25 ferraille + 25 adhésif + 25 caoutchouc + 10 composants + 15 protoplasme vient en partie de sources PC)
 - [ ] **Banc de synthèse technologique avec un objet jaune inséré** → coût en ossements affiché, ce qu'on débloque
 - [ ] **Onglet Inventions technologiques** : une combinaison de matériaux qui marche → « Aperçu du résultat » + ce que ça produit
+- [ ] **Un corps d'arme de calibre moyen Palier III ou IV en loot** → confirmer les lieux d'obtention console (zones citées héritées des guides PC)
+- [ ] **Écran du marchand Nisa (caisses de sélection de mods)** → confirmer l'existence et le contenu sur console
+- [ ] **Dialogue de Margerie « l'Échange de poissons »** → confirmer l'obtention du plan de l'aquarium sur console
 
 ## 💥 Tests de terrain (guerre)
 
@@ -75,6 +80,16 @@
 - [ ] **Écran des réglages de sensibilité / aim assist** → les valeurs par défaut et ce qui est réglable
 - [ ] **Écran des modes graphiques** (Qualité/Performance) → noms et descriptions exacts affichés sur PS5
 - [ ] **Écran de sélection de serveur** → la liste réelle des serveurs Console EU
+
+## 🧭 Démarrage et compte
+
+- [ ] **Écran de choix du scénario au premier lancement** (ou depuis un reroll) → la liste exacte des scénarios proposés côté console
+- [ ] **Le menu réel de liaison de compte sur PS5** → le chemin « Paramètres → Compte » vient des guides PC — capturer le vrai menu console
+- [ ] **Écran de sélection de serveur EU** → serveurs « Console » réellement listés (doublon assumé avec la section PS5 — c'est la même capture)
+
+## 📖 Glossaire — 27 termes à confirmer
+
+Le [glossaire](glossaire.md) compte encore **27 entrées « ❓ à vérifier »** : le nom français exact affiché sur PS5 pour Faction armée, « S'unir », Mémétiques, Mode construction, Établi de fournitures/d'équipement, Bureau de démontage, Liens d'énergie, État de Chaos, Tour de téléportation, Distributeur, Pierre d'Écho, Santé mentale, et les noms de zones (Dayton Wetlands, Broken Delta, Iron River, Deadsville, Marché de Meyer…). **Toute capture de menu ou de carte où l'un de ces termes apparaît** permet de rayer une ligne — pas besoin de captures dédiées, vos captures d'autres items feront l'affaire si le terme y est lisible.
 
 ## Comment envoyer
 
