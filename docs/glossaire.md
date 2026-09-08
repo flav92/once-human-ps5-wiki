@@ -57,6 +57,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Hydraulic generator | Générateur hydraulique | ✅ **Générateur hydraulique** (roue à eau — alimente 9-10 appareils, 08/09/2026) |
 | Water pump | Pompe à eau | ✅ **Pompe à eau** (production d'eau contaminée en continu, 08/09/2026) |
 | Contaminated water | Eau contaminée | ✅ **Eau contaminée** (produite par les pompes — ~900 en 2-3 h mesuré, 08/09/2026) |
+| Unusable acid | Acide non utilisable | ✅ **Acide non utilisable** (étape intermédiaire eau contaminée → acide, se brasse en acide, 08/09/2026) |
 | Forgetting Lord (?) | Seigneur de l'oubli | ✅ **Seigneur de l'oubli** (boss de l'histoire principale « Il était là », 08/09/2026) |
 | Deviation / Deviant | Déviant | ✅ **Déviant** (confirmé en jeu, 06/09/2026) |
 | Change World | Changer de monde | ❓ à vérifier |

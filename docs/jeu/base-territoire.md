@@ -44,6 +44,14 @@ Stratégie testée : **une petite base dédiée à la production d'eau**, posée
 
 **Rendement mesuré** : ~**900 eaux contaminées en 2-3 heures** avec la première configuration. Projection calculée : **~40 000 par semaine avec 8 pompes à eau**. C'est une usine.
 
+**À quoi ça sert — la chaîne de l'acide ✅ :**
+
+```
+Pompe à eau → Eau contaminée → conversion → Acide non utilisable → brassage → ACIDE
+```
+
+L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sécurité…) : plutôt que de le chasser sur les Déviants, cette ferme le **produit industriellement**. *(Stations exactes de conversion et de brassage : à préciser.)*
+
 **Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. Si vous êtes avancés en métaux (tungstène…), le coût est absorbable — mais choisissez le matériau de la ferme en connaissance de cause, et gardez une base **compacte** : moins de surface = moins de réparations.
 
 ## Aquarium et pêche

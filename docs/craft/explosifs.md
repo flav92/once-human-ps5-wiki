@@ -61,7 +61,9 @@ flowchart TD
 
 ## Munitions : l'acide et la Source protoplasmique sont stratégiques
 
-Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acide** et de la **Source protoplasmique** (les fioles roses/violettes). Ces deux ressources ne servent donc pas qu'aux explosifs — **stockez-les en priorité** : Acide sur les Déviants et dans la nature, Source protoplasmique en butin. *(Recette exacte des balles en acier : à relever en jeu.)*
+Retour terrain PS5 : la fabrication des **balles en acier** consomme de l'**Acide** et de la **Source protoplasmique** (les fioles roses/violettes) — **stockez-les en priorité**.
+
+**La voie industrielle de l'acide ✅** : plutôt que de chasser l'acide sur les Déviants, produisez-le en chaîne — **pompes à eau → eau contaminée → conversion en acide non utilisable → brassage en acide**. Une [ferme à eau](../jeu/base-territoire.md#la-ferme-a-eau-retour-terrain-ps5-08092026) à 8 pompes ≈ 40 000 eaux contaminées/semaine = un approvisionnement d'acide quasi illimité pour les munitions. *(Recette exacte des balles en acier et stations de conversion/brassage : à relever.)*
 
 ## La rétro-ingénierie : l'autre voie de déblocage
 
