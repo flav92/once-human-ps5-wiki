@@ -56,6 +56,14 @@ L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sé
 
 **Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. La ferme testée est construite **en bois** (réparation bon marché) — le compromis : le bois est fragile si la base s'avère **raidable** (à vérifier selon l'emplacement ; rappel : hors zones GvG et hors État de Chaos, les bases personnelles sont normalement impillables). Gardez la base **compacte** : moins de surface = moins de réparations.
 
+⚠️ **La dégradation touche aussi les coffres** ✅ (retour terrain 08/09/2026) : les coffres de stockage **s'abîment avec le temps** comme le reste — ne considérez jamais un coffre comme un stockage « gratuit » à entretenir zéro. *(Rythme et coût de réparation des coffres : relevé de dégâts en cours — à chiffrer.)*
+
+## Stockage et encombrement
+
+- L'encombrement de l'inventaire peut exploser vite (relevé terrain : **1 400 %** en transportant toute une base démontée !) — au-delà de 100 %, les malus rendent le personnage pénible à jouer.
+- **Astuce d'équipe testée ✅** : demandez **une pièce chez un allié** (coéquipier de Ruche/faction) pour y poser vos coffres et vous délester. Le stockage mutualisé entre membres est la solution naturelle quand une base spécialisée (ferme à eau compacte) n'a pas la place pour tout le loot.
+- Rappel : la **démolition rend les matériaux** dans l'inventaire — démontez plutôt que de détruire quand vous déménagez.
+
 ## Aquarium et pêche
 
 - Le **plan de l'aquarium** s'obtient chez **Margerie** (Deadsville ou Marché de Meyer) via une ligne de dialogue cachée : « l'Échange de poissons ».
