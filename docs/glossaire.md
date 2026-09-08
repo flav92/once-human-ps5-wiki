@@ -52,6 +52,9 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Protoplasm Source (?) | — | ✅ **Source protoplasmique** (confirmé en jeu, 06/09/2026) |
 | Advanced Stove | Réchaud avancé | ❓ à vérifier |
 | Sanity | Santé mentale | ❓ à vérifier |
+| Structure decay | Dégradation des structures | ✅ **Dégradation des structures** (statut HUD, 08/09/2026) |
+| Use wheel | Utilisation de la roue | ✅ **Utilisation de la roue** (interaction sur les structures à roue à eau, 08/09/2026) |
+| Forgetting Lord (?) | Seigneur de l'oubli | ✅ **Seigneur de l'oubli** (boss de l'histoire principale « Il était là », 08/09/2026) |
 | Deviation / Deviant | Déviant | ✅ **Déviant** (confirmé en jeu, 06/09/2026) |
 | Change World | Changer de monde | ❓ à vérifier |
 | Teleportation Tower | Tour de téléportation | ❓ à vérifier |

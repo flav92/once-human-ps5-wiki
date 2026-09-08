@@ -12,6 +12,11 @@ Once Human est un jeu de **survie multijoueur post-apocalyptique** dans un monde
 
 Les développeurs annoncent **plus de 300 heures de contenu** disponibles dès le lancement console.
 
+## Lire la carte (retours terrain)
+
+- **Zones noircies sur la carte** : a priori ce sont les **zones irradiées/polluées** (hypothèse terrain à confirmer — prudence en s'y engageant : vérifiez votre équipement de protection).
+- Icône **maison verte** = votre territoire ; **maison bleue** = territoire d'un coéquipier ; tracé **jaune pointillé** = itinéraire ; marqueurs **roses/rouges** = éléments ennemis ou dangers.
+
 ## Conseils pour bien débuter sur PS5
 
 1. **Réglez la liaison de compte d'abord** si vous venez du PC/mobile → [Liaison de compte](../demarrage/liaison-compte.md).
