@@ -52,6 +52,8 @@ Pompe à eau → Eau contaminée → conversion → Acide non utilisable → bra
 
 L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sécurité…) : plutôt que de le chasser sur les Déviants, cette ferme le **produit industriellement**. *(Stations exactes de conversion et de brassage : à préciser.)*
 
+**Les matériaux, du plus fragile au plus solide (échelle terrain ✅)** : **bois (niv. 1)** → brique/pierre → **béton** (le plus résistant constructible — pas de niv. 4 joueur). Dégradation : réparation bois la moins chère, brique chère, pierre modérée, béton à chiffrer. Règle simple : **production en zone sûre = bois ; tout ce qui est raidable ou contient vos coffres = béton**.
+
 **Le coût : la dégradation des structures.** Elle s'applique aux structures de la base et la réparation **dépend du matériau** : la **brique coûte cher**, la **pierre est moins chère**. La ferme testée est construite **en bois** (réparation bon marché) — le compromis : le bois est fragile si la base s'avère **raidable** (à vérifier selon l'emplacement ; rappel : hors zones GvG et hors État de Chaos, les bases personnelles sont normalement impillables). Gardez la base **compacte** : moins de surface = moins de réparations.
 
 ## Aquarium et pêche

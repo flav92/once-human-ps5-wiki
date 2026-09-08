@@ -6,7 +6,11 @@ Tout ce qui explose : quoi débloquer, quoi fabriquer, à quel coût — et lequ
 
 ## Comment lire une fiche d'explosif
 
-La ligne clé : *« Très efficace contre les structures de **niv. X** ou inférieur en stabilité »*. C'est la **stabilité du matériau visé** (rien à voir avec votre niveau) : **bois = niv. 2, pierre = niv. 3, béton = niv. 4**. Pas de ligne, ou « dégâts modérés » = mauvais outil de démolition. Aucun explosif n'est « anti-joueurs uniquement » — tout touche tout, seule l'efficacité change.
+La ligne clé : *« Très efficace contre les structures de **niv. X** ou inférieur en stabilité »*. C'est la **stabilité du matériau visé** (rien à voir avec votre niveau).
+
+**Échelle corrigée terrain ✅** : **bois = niv. 1** (pas 2 comme le disaient les guides PC), pierre et béton aux niveaux supérieurs (béton > pierre — numéros exacts à relever sur les fiches), et **il n'existe pas de matériau constructible de niv. 4** : le « béton niv. 4 » cité par certaines fiches désigne les bâtiments du monde, pas les constructions de joueurs.
+
+Conséquence : la **Grenade** de base (« très efficace niv. 1 ») devrait donc être **efficace sur le bois** — à re-tester avant de la disqualifier. Aucun explosif n'est « anti-joueurs uniquement » — tout touche tout, seule l'efficacité change.
 
 ## Le comparatif (phase 1), du plus au moins rentable contre les structures
 
@@ -17,7 +21,7 @@ La ligne clé : *« Très efficace contre les structures de **niv. X** ou infér
 | **Coquille de roquette** ✅ (RPG7) | 297/tir (rang II) | **Bois + pierre** (niv. 3) | ⚠️ **Retour terrain : peu rentable** comparée aux Explosifs surpuissants — coût élevé (5 Explosifs variés + acier + protoplasme/tir) pour moins d'effet. À réserver au tir à **distance** (tourelles actives) |
 | **Ogive de fusée plasma rouge** ✅ | **+30 % dégâts constructions** | Cibles coriaces | Même établi, matériaux rares — à réserver pierre/béton |
 | **Grenade HE** ✅ | — | *Vérifiez sa ligne « niv. X » en jeu* | Débloquée (branche Établi de synthèse des Mémétiques) |
-| ❌ **Grenade** de base ✅ (×8/craft) | 698 | **Niv. 1 seulement** — inefficace sur le bois | Pour les joueurs et créatures uniquement |
+| **Grenade** de base ✅ (×8/craft) | 698 | Niv. 1 = **le bois** (échelle corrigée) — à re-tester sur fondations bois | Anti-personnel, et peut-être plus utile qu'on ne le pensait |
 
 *\* icône du plastique à confirmer. Les « Explosifs améliorés » des wikis PC n'ont pas été retrouvés sur PS5 — les Explosifs surpuissants les remplacent.*
 
