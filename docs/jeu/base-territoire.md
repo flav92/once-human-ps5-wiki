@@ -61,7 +61,8 @@ L'**Acide** est un ingrédient stratégique (balles en acier, Équipement de sé
 ## Stockage et encombrement
 
 - L'encombrement de l'inventaire peut exploser vite (relevé terrain : **1 400 %** en transportant toute une base démontée !) — au-delà de 100 %, les malus rendent le personnage pénible à jouer.
-- **Astuce d'équipe testée ✅** : demandez **une pièce chez un allié** (coéquipier de Ruche/faction) pour y poser vos coffres et vous délester. Le stockage mutualisé entre membres est la solution naturelle quand une base spécialisée (ferme à eau compacte) n'a pas la place pour tout le loot.
+- **Règle de prudence ✅** : ne laissez **jamais tout votre stuff dans une base posée en zone dont vous n'avez pas confirmé la sécurité** (raidable ou pas — à vérifier sur place avant d'y stocker quoi que ce soit). Tant que le doute existe, mieux vaut le garder sur soi, même sur-encombré.
+- **Astuce d'équipe testée ✅** : demandez **une pièce chez un allié** (coéquipier de Ruche/faction) dont la base est en **zone sûre confirmée**, pour y poser vos coffres et vous délester. Le stockage mutualisé entre membres est la solution naturelle quand une base spécialisée (ferme à eau compacte) est posée dans une zone non vérifiée ou n'a pas la place pour tout le loot.
 - Rappel : la **démolition rend les matériaux** dans l'inventaire — démontez plutôt que de détruire quand vous déménagez.
 
 ## Aquarium et pêche
