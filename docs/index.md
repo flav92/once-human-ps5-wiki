@@ -4,118 +4,117 @@
 
 <h1>WIKI ONCE HUMAN — PS5</h1>
 
-<p>La référence francophone <strong>de terrain</strong> sur la version console : prises de zones exécutées en raid, PV des structures mesurés fiche par fiche, chaînes de production chiffrées en jeu. Rien n'est recopié des wikis PC — et ce qui n'est pas prouvé par capture est marqué comme tel.</p>
+<p>Documentation de terrain de la version PlayStation 5, en français. Les données publiées ici sont relevées en jeu, captures d'écran à l'appui : points de vie des structures, recettes de fabrication, mécaniques territoriales. Les informations non vérifiées sont explicitement signalées comme telles.</p>
 
 <div class="oh-badges">
-<span class="oh-badge">⚔️ Prise de zone validée en raid réel</span>
-<span class="oh-badge">📐 PV mesurés : béton 3200 · pierre 1800 · coffre 500</span>
-<span class="oh-badge">⚗️ Chaîne de l'acide chiffrée : 20 eaux → 1 acide</span>
-<span class="oh-badge oh-badge--amber">🔎 80+ termes FR vérifiés à l'écran</span>
+<span class="oh-badge">Données mesurées en jeu, datées</span>
+<span class="oh-badge">Guides validés en conditions réelles</span>
+<span class="oh-badge oh-badge--amber">Terminologie française vérifiée à l'écran</span>
 </div>
 
 </div>
 
-## Dernières découvertes vérifiées
+## Dernières observations
 
-| Date | Découverte |
+| Date | Observation |
 |---|---|
-| 08/09 | La « dégradation » s'appelle la **Corrosion** : elle détruit jusqu'au bout, le **Renforcement de territoire** la bloque temporairement, et elle augmente avec le nombre de bâtiments et la pollution |
-| 08/09 | **« Pierre » = brique** dans le jeu (description de fiche : « Mur de briques ») — le débat brique/pierre était un faux débat |
-| 08/09 | Chaîne de l'acide complète : **Filtre à eau compact (2:1) → Cuve de brassage (10:1)** — une ferme à 8 pompes ≈ 2 000 acides/semaine |
-| 08/09 | Recettes de munitions exactes à l'**Établi de fournitures avancé** — dont les **perforantes** (+20 % anti-blindés) au tungstène |
-| 06/09 | Première documentation publique : **les enchères de frontières sont fermées en phase 1** — seule la couche « zone d'affrontements » (Ruche) est active |
-| 06/09 | Un plafond bois en zone = **3 Explosifs surpuissants** — et la réparation défensive coûte une brique |
+| 08/09 | La dégradation des structures est nommée **Corrosion** dans le jeu. Elle progresse jusqu'à destruction complète, s'accélère avec le nombre de bâtiments et la valeur de pollution, et peut être suspendue temporairement par le **Renforcement de territoire**. |
+| 08/09 | Le palier de construction « pierre » correspond à la brique : la fiche du « Mur en pierre 01 » le décrit comme « Mur de briques ». Il n'existe pas deux paliers distincts. |
+| 08/09 | Chaîne de production de l'acide établie : Filtre à eau compact (2:1) puis Cuve de brassage (10:1), soit 20 eaux contaminées par unité d'acide. |
+| 08/09 | Recettes de munitions relevées à l'Établi de fournitures avancé, dont les munitions perforantes au tungstène (+20 % contre les unités blindées). |
+| 06/09 | Les enchères de guerres de frontières sont fermées durant la phase 1 du scénario. Seule la couche « zone d'affrontements », contrôlée par la Ruche, est active. |
+| 06/09 | Destruction d'un quart de plafond en bois en zone d'affrontements : 3 Explosifs surpuissants. La réparation côté défenseur coûte une fraction de ce montant. |
 
-## ⚔️ Guerre & territoires — les guides de terrain
+## Guerre et territoires
 
 <div class="oh-grid" markdown>
 
 <a class="oh-card" href="guerre/prise-de-zone/" markdown>
-<span class="oh-card-title">🏭 Prendre une zone <span class="oh-verified">VALIDÉ EN RAID</span></span>
-<span class="oh-card-desc">La séquence complète exécutée en jeu : générateur d'abord, Entraves protoïdes, Équipement de sécurité, bunker à générateur, checklist de raid.</span>
+<span class="oh-card-title">Prendre une zone d'affrontements <span class="oh-verified">VALIDÉ EN JEU</span></span>
+<span class="oh-card-desc">Séquence de prise complète, exécutée et vérifiée : neutralisation du générateur, Entraves protoïdes, pose de l'Équipement de sécurité, fortification.</span>
 </a>
 
 <a class="oh-card" href="craft/explosifs/" markdown>
-<span class="oh-card-title">💥 Explosifs & munitions</span>
-<span class="oh-card-desc">Comparatif de rentabilité mesuré, recettes capturées (surpuissants, perforantes, poudre), arbre de production des roquettes.</span>
+<span class="oh-card-title">Explosifs et munitions</span>
+<span class="oh-card-desc">Comparatif de rentabilité contre les structures, recettes relevées en jeu, arbre de production des roquettes, déblocages par phase.</span>
 </a>
 
 <a class="oh-card" href="guerre/frontieres/" markdown>
-<span class="oh-card-title">⚔️ Guerres de frontières</span>
-<span class="oh-card-desc">Les 8 frontières du serveur et leurs points, les 6 phases du scénario, le système d'enchères — et pourquoi tout est verrouillé en phase 1.</span>
+<span class="oh-card-title">Guerres de frontières</span>
+<span class="oh-card-desc">Les huit frontières du serveur et leurs points régionaux, les six phases du scénario, le fonctionnement des enchères.</span>
 </a>
 
 <a class="oh-card" href="guerre/factions/" markdown>
-<span class="oh-card-title">🛡️ Factions & Ruches</span>
-<span class="oh-card-desc">Ruche vs faction armée : qui contrôle quoi, créer et recruter, les règles PvP réelles.</span>
+<span class="oh-card-title">Factions armées et Ruches</span>
+<span class="oh-card-desc">Répartition des rôles entre Ruche et faction armée, création et recrutement, règles du PvP.</span>
 </a>
 
 </div>
 
-## 🏭 Production & base
+## Production et base
 
 <div class="oh-grid" markdown>
 
 <a class="oh-card" href="jeu/base-territoire/" markdown>
-<span class="oh-card-title">🏠 Base, Corrosion & ferme à eau <span class="oh-verified">CHIFFRÉ</span></span>
-<span class="oh-card-desc">La ferme à eau industrielle (900 eaux/2-3 h), la chaîne de l'acide complète, les règles officielles de la Corrosion, PV et coûts de réparation mesurés.</span>
+<span class="oh-card-title">Base, Corrosion et production d'eau <span class="oh-verified">CHIFFRÉ</span></span>
+<span class="oh-card-desc">Ferme à eau industrielle et rendements constatés, chaîne de l'acide, règles de la Corrosion, points de vie et coûts de réparation mesurés.</span>
 </a>
 
 <a class="oh-card" href="jeu/ressources/" markdown>
-<span class="oh-card-title">⛏️ Ressources</span>
-<span class="oh-card-desc">Soufre, cuivre, fer, tungstène, acide : où farmer, quelles zones de fouille, quels Déviants.</span>
+<span class="oh-card-title">Ressources</span>
+<span class="oh-card-desc">Localisation du soufre, du cuivre, du fer et de l'acide ; zones de fouille et méthodes de collecte automatisée.</span>
 </a>
 
 <a class="oh-card" href="jeu/armes-equipement/" markdown>
-<span class="oh-card-title">🔫 Armes & équipement</span>
-<span class="oh-card-desc">Le système d'accessoires réel de la version PS5 (composants de Précision), mods, réparation.</span>
+<span class="oh-card-title">Armes et équipement</span>
+<span class="oh-card-desc">Système d'accessoires de la version console, composants de Précision, réparation, obtention des corps d'arme.</span>
 </a>
 
 <a class="oh-card" href="glossaire/" markdown>
-<span class="oh-card-title">📖 Glossaire FR/EN</span>
-<span class="oh-card-desc">Les noms exacts des menus PS5, vérifiés à l'écran — l'arme anti-confusion face aux guides PC mal traduits.</span>
+<span class="oh-card-title">Glossaire FR / EN</span>
+<span class="oh-card-desc">Correspondance entre la terminologie anglaise des guides et les intitulés exacts des menus PS5 en français.</span>
 </a>
 
 </div>
 
-## 🌍 Débuter sur PS5
+## Démarrer sur PS5
 
 <div class="oh-grid" markdown>
 
 <a class="oh-card" href="demarrage/liaison-compte/" markdown>
-<span class="oh-card-title">🔗 Liaison de compte</span>
-<span class="oh-card-desc">À lire AVANT de créer un personnage si vous venez du PC/mobile — une erreur peut coûter vos personnages.</span>
+<span class="oh-card-title">Liaison de compte</span>
+<span class="oh-card-desc">À lire avant toute création de personnage pour les joueurs venant du PC ou du mobile : certaines manipulations sont irréversibles.</span>
 </a>
 
 <a class="oh-card" href="demarrage/installation/" markdown>
-<span class="oh-card-title">📥 Installation</span>
-<span class="oh-card-desc">Free-to-play, ~80 Go, PS Plus non requis. Serveurs « Console », choix du scénario.</span>
+<span class="oh-card-title">Installation</span>
+<span class="oh-card-desc">Free-to-play, environ 80 Go, PS Plus non requis. Choix de la région, des serveurs « Console » et du scénario.</span>
 </a>
 
 <a class="oh-card" href="jeu/premiers-pas/" markdown>
-<span class="oh-card-title">🌍 Premiers pas</span>
-<span class="oh-card-desc">Débuter sur Nalcott, lire la carte, survivre aux premières nuits.</span>
+<span class="oh-card-title">Premiers pas</span>
+<span class="oh-card-desc">Notions de base sur Nalcott : lecture de la carte, progression initiale, survie.</span>
 </a>
 
 <a class="oh-card" href="captures-a-faire/" markdown>
-<span class="oh-card-title">📸 Contribuer une capture</span>
-<span class="oh-card-desc">La liste de ce qui reste à prouver en jeu — chaque capture traitée devient une donnée ✅ datée.</span>
+<span class="oh-card-title">Contribuer</span>
+<span class="oh-card-desc">Liste des données restant à vérifier en jeu. Toute capture exploitable est intégrée, datée et créditée.</span>
 </a>
 
 </div>
 
-## Les chiffres de référence (mesurés en jeu)
+## Données de référence
 
-| Donnée | Valeur |
+| Donnée | Valeur relevée |
 |---|---|
-| Mur en béton 01 | **3 200 PV** — réparation : 1 brique + 1 bois + 1 lingot d'acier |
-| Mur/Plafond « en pierre 01 » (= brique) | **1 800 PV** |
-| Caisse de rangement (petite ou grande) | **500 PV** — la Corrosion les touche aussi |
-| Plafond bois en zone GvG | 3 200 PV = **3 Explosifs surpuissants** |
-| Explosifs surpuissants | 3639 dég. — Arbre Tech, 180 pts, **dispo phase 1** |
-| Munitions perforantes ×240 | 7 tungstène + 2 poudre + 20 protoplasme — **+20 % anti-blindés** |
-| Acide | 20 eaux contaminées → 1 acide (2:1 puis 10:1) |
-| Équipement de sécurité | 20 cuivre + 10 fer + 8 pièces + 3 composants + 5 acide + 1 câble |
+| Mur en béton 01 | 3 200 PV — réparation : 1 brique, 1 bois, 1 lingot d'acier |
+| Mur / plafond « en pierre 01 » (brique) | 1 800 PV |
+| Caisse de rangement (petite ou grande) | 500 PV — soumise à la Corrosion |
+| Quart de plafond en bois, zone d'affrontements | 3 200 PV, soit 3 Explosifs surpuissants |
+| Explosifs surpuissants | 3 639 dégâts — Arbre technologique, 180 points, accessible en phase 1 |
+| Munitions perforantes (×240) | 7 lingots de tungstène, 2 poudres à canon, 20 Sources protoplasmiques |
+| Acide | 20 eaux contaminées par unité (conversions 2:1 puis 10:1) |
+| Équipement de sécurité | 20 cuivre, 10 fer, 8 pièces, 3 composants, 5 acide, 1 câble |
 
 ---
-*Wiki non officiel, sans affiliation avec NetEase / Starry Studio. Version PS5 sortie le 25 août 2026 — crossplay complet, free-to-play.*
+*Wiki non officiel, sans affiliation avec NetEase ou Starry Studio. Version PS5 disponible depuis le 25 août 2026 — crossplay complet, free-to-play.*
