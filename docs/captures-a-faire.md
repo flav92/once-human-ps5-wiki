@@ -9,11 +9,11 @@
 
 ## 🏠 Base, matériaux et Corrosion
 
-- [ ] 🔥 **Comparatif matériaux** : écran de réparation des deux fermes après une même nuit (ferme 1 : **béton** + plafonds pierre / ferme 2 : **pierre** — confirmé par les captures GENESIS-RUSH1) → coût réel béton vs pierre, même durée. *(Le coût du **bois** reste sans donnée : personne n'a construit en bois.)*
-- [ ] **Même structure visée à 2 moments notés** (heures connues) → **vrai rythme de Corrosion** en PV/heure — premiers points le 08/09 : mur béton 3161/3200, plafonds pierre 1780/1800 et 1773/1800 (heure exacte non notée)
+- [x] ~~**Comparatif matériaux**~~ ✅ 09/09 : coûts unitaires relevés (béton = brique + bois + acier ; pierre = brique + bois ; plafond pierre = brique). Et surtout : **−10 %/jour** sur la base à Note de construction 129 contre **−1,2 %** sur celle à Note 55 → la Corrosion est un pourcentage des PV max, accéléré par la taille de la base. *(Bois : toujours aucune donnée.)*
+- [ ] **Même structure visée à 2 moments HORODATÉS** → affiner le rythme de Corrosion (mesuré 08→09/09 : ~10 %/jour à Note de construction 129, ~1,2 %/jour à Note 55 — heures exactes non notées)
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
-- [ ] **La « valeur de pollution »** du territoire → où elle s'affiche, ce qui la fait monter (elle accélère la Corrosion)
-- [ ] **Fiche d'un coffre abîmé** → coût de réparation d'un coffre (PV 500 déjà confirmés)
+- [ ] **La « valeur de pollution »** du territoire → où elle s'affiche — la **Note de construction** (129 vs 55) semble être le facteur principal du rythme de Corrosion, la pollution reste à situer
+- [x] ~~**Fiche d'un coffre abîmé**~~ ✅ 09/09 : grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce ; petite caisse = 2 bois + 1 bout de ferraille
 - [ ] **Compteur de production des pompes à eau** (avec heure) → confirmer le rendement ~900 eaux contaminées / 2-3 h
 - [ ] **Infobulle de la zone de la ferme sur la carte** → statut raidable ou non (acquis : Delta de Broken, niv. 12, zone de départ)
 - [x] ~~Fiche béton~~ ✅ 08/09 : **Mur en béton 01 = 3 200 PV** (pas de numéro de stabilité sur les fiches de structures)

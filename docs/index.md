@@ -18,6 +18,8 @@
 
 | Date | Observation |
 |---|---|
+| 09/09 | Rythme de Corrosion mesuré sur deux bases : environ **10 % des PV max par jour** sur une base à Note de construction 129, contre **1,2 %** sur une base à Note 55. La perte est proportionnelle aux PV max de chaque élément. |
+| 09/09 | Coûts de réparation unitaires relevés : mur en béton (brique + bois + lingot d'acier), mur en pierre (brique + bois), caisses de rangement (fer + caoutchouc + pièce, ou bois + ferraille). |
 | 08/09 | La dégradation des structures est nommée **Corrosion** dans le jeu. Elle progresse jusqu'à destruction complète, s'accélère avec le nombre de bâtiments et la valeur de pollution, et peut être suspendue temporairement par le **Renforcement de territoire**. |
 | 08/09 | Le palier de construction « pierre » correspond à la brique : la fiche du « Mur en pierre 01 » le décrit comme « Mur de briques ». Il n'existe pas deux paliers distincts. |
 | 08/09 | Chaîne de production de l'acide établie : Filtre à eau compact (2:1) puis Cuve de brassage (10:1), soit 20 eaux contaminées par unité d'acide. |
