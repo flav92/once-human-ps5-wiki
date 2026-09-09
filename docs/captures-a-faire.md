@@ -9,7 +9,7 @@
 
 ## 🏠 Base, matériaux et Corrosion
 
-- [ ] 🔥 **Comparatif matériaux** : écran de réparation des deux fermes après une même nuit (ferme 1 : béton + plafonds pierre / ferme 2 : tout bois) → coût réel par matériau, même durée
+- [ ] 🔥 **Comparatif matériaux** : écran de réparation des deux fermes après une même nuit (ferme 1 : **béton** + plafonds pierre / ferme 2 : **pierre** — confirmé par les captures GENESIS-RUSH1) → coût réel béton vs pierre, même durée. *(Le coût du **bois** reste sans donnée : personne n'a construit en bois.)*
 - [ ] **Même structure visée à 2 moments notés** (heures connues) → **vrai rythme de Corrosion** en PV/heure — premiers points le 08/09 : mur béton 3161/3200, plafonds pierre 1780/1800 et 1773/1800 (heure exacte non notée)
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
 - [ ] **La « valeur de pollution »** du territoire → où elle s'affiche, ce qui la fait monter (elle accélère la Corrosion)
