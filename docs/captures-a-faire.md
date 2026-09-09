@@ -1,6 +1,6 @@
 # 📸 Captures à faire — la liste de vérification
 
-*Dernière mise à jour : 8 septembre 2026 — liste complète après double relecture intégrale du wiki (toutes pages + glossaire)*
+*Dernière mise à jour : 9 septembre 2026 — 3ᵉ relecture intégrale : ajout des sujets Survie, objets et partages*
 
 !!! warning "Pourquoi cette page"
     Ce wiki ne garde que des infos **prouvées par capture d'écran PS5**. Tout ce qui est listé ici est actuellement **incertain, estimé, hérité des guides PC ou basé sur la mémoire** — donc potentiellement faux. Une capture = une ligne rayée de cette liste et un ✅ daté sur le wiki.
@@ -41,6 +41,10 @@
 - [ ] **Un corps d'arme de calibre moyen Palier III ou IV en loot** → confirmer les lieux d'obtention console (zones citées héritées des guides PC)
 - [ ] **Écran du marchand Nisa (caisses de sélection de mods)** → confirmer l'existence et le contenu sur console
 - [ ] **Dialogue de Margerie « l'Échange de poissons »** → confirmer l'obtention du plan de l'aquarium sur console
+- [ ] **Écran du garage** → comment la moto se débloque exactement (coût ? quête ?)
+- [ ] **Écran d'obtention du schéma RPG7** → ses vraies sources console (« Mémétiques / coffres mystérieux / Machine à vœux » vient en partie des guides PC)
+- [ ] **Message de verrou de l'équipement palier 5** → la condition exacte affichée (« niveau 40 + phases suivantes » vient des guides PC)
+- [ ] **Écran « Gérer les partages »** (aperçu dans le menu construction le 08/09) → ce qu'on peut partager à la Ruche/aux amis (établis ? coffres ?)
 
 ## 💥 Tests de terrain (guerre)
 
@@ -58,6 +62,7 @@
 - [ ] **Écran de pose de l'Équipement de sécurité dans une zone** → nombre d'emplacements affiché, et son lien supposé avec le « Niveau de gestion »
 - [ ] **Écran de récolte des ressources de la zone** → ce que produit la zone exactement (Stardust, barils…), à quel rythme, et que devient le non-ramassé
 - [ ] **Fiche du Câble d'alimentation** → sa vraie source (« Exploration ou Boutique » à confirmer)
+- [ ] **Écran de réparation d'une structure EN zone d'affrontements** → confirmer les coûts « 4 bois le plafond, 1 brique la fondation » (chiffres de mémoire, jamais capturés)
 
 ## ⚔️ Frontières et phases (dès la phase 2 !)
 
@@ -74,6 +79,16 @@
 - [ ] **Écran d'extension de capacité de la faction** → comment on dépasse les 30 places (« extensible » vient des guides PC)
 - [ ] **Écran Niveau de collection / Schémas** → confirmer le rythme d'obtention des composants de Précision
 
+## 🌿 Survie et objets (page entière issue des guides Gemini — rien de capturé)
+
+- [ ] **Fiche des Gommes de santé mentale** → nom FR exact + effet réel sur la barre grise
+- [ ] **Fiche/recette de l'Activateur** à l'Établi de fournitures → soigne quoi, coûte quoi
+- [ ] **La tente de campement déployée** (roue des outils de survie) → durée réelle (10 min ?) + confirmation du point de réapparition
+- [ ] **Écran du feu de camp** → nom FR exact de l'eau bouillie + recette
+- [ ] **Fiche d'un plat cuisiné** → la durée de péremption affichée
+- [ ] **Message de blocage du PvP sous le niveau 10** + **fiche de la Pierre d'Écho** (active-t-elle vraiment l'État de Chaos automatiquement ?) — les deux viennent des guides PC
+- [ ] **Écran de l'unité de confinement avec le Garçon Digby** → rendement réel du farm passif de soufre
+
 ## 🗺️ Carte et exploration
 
 - [ ] **Entrée dans une zone noircie de la carte** (HUD visible) → confirmer l'hypothèse « zones irradiées » (message de danger ? dégâts ?)
@@ -85,6 +100,8 @@
 - [ ] **Écran des réglages de sensibilité / aim assist** → les valeurs par défaut et ce qui est réglable
 - [ ] **Écran des modes graphiques** (Qualité/Performance) → noms et descriptions exacts affichés sur PS5
 - [ ] **Écran de sélection de serveur** → la liste réelle des serveurs Console EU
+- [ ] **Écran des notes de mise à jour en jeu** → le détail réel du patch console du 31/08 (jamais lu, seulement rapporté par la presse)
+- [ ] **Retour d'expérience** (pas une capture) : le mode Performance 120 fps est-il stable depuis le patch du 31/08 ?
 
 ## 🧭 Démarrage et compte
 
