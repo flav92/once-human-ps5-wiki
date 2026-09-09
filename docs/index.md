@@ -18,6 +18,7 @@
 
 | Date | Observation |
 |---|---|
+| 09/09 | L'arbre Tech Combat contient des **Munitions de démolition** (quatre variantes anti-structure) et le nœud **Voile de la tranquillité** (4 000 points), qui crée des zones sûres dans les Zones de Pollution. |
 | 09/09 | Le béton n'est pas le palier maximal : l'onglet **Amélioration de structure** du Terminal ouvre des filières supérieures (Pierre, Métallique, Alliage — dont des fondations en marbre), verrouillées par technologies. |
 | 09/09 | La sortie d'une pompe à eau dépend de sa zone : eau contaminée en zone de pollution, pétrole brut en champ pétrolifère, eau de mer en zone océanique. Cadence relevée : une unité toutes les 98 s par pompe. |
 | 09/09 | Rythme de Corrosion mesuré sur deux bases : environ **10 % des PV max par jour** sur une base à Note de construction 129, contre **1,2 %** sur une base à Note 55. La perte est proportionnelle aux PV max de chaque élément. |

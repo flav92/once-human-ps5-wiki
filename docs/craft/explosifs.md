@@ -97,6 +97,15 @@ L'**Acide** n'entre donc pas directement dans les balles : il passe par la **pou
 
 **Doctrine de la faction** : *favoriser la récupération des installations et la rétro-ingénierie* — en raid comme en exploration, **ramenez tout objet à icône jaune** au lieu de le broyer, et récupérez les installations ennemies quand c'est possible plutôt que de tout détruire. Chaque objet analysé = un craft gratuit ou des ossements.
 
+## L'arbre Tech Combat (relevé ✅ 09/09/2026)
+
+Nœuds observés dans l'onglet Combat de l'écran Tech (personnage niveau 37, Niveau de technologie 10) :
+
+- **Munitions de démolition** en quatre variantes — pistolet, fusil de chasse, **calibre moyen**, fusil de précision — plus des **Flèches de démolition**. Des munitions spécialisées anti-structure jamais documentées : leur rapport coût/dégâts face aux Explosifs surpuissants est **la prochaine donnée à établir** (fiches à capturer).
+- **Piège de défense – III**, **Matrix Bouclier**, **Lance-flammes Feu grégeois**, **Missiles plasmiques en argent**, lance-roquettes de M. W… — à documenter.
+- **Voile de la tranquillité** (4 000 points de tech) : *« Débloque la capacité de créer des zones sûres dans les Zones de Pollution »* — installation alimentée par le minerai de Protoplasme. Voir [Base et territoire](../jeu/base-territoire.md).
+- Confirmé par message du jeu : **l'Amélioration de structure exige le nœud Tech correspondant** (« Vous devez débloquer le nœud Tech correspondant avant d'améliorer »).
+
 ## Déblocages et verrous de phase
 
 - **Explosifs surpuissants : PAS bloqués en phase 1** (vérifié ✅) — Arbre Tech, 180 points Tech, à débloquer en priorité absolue.

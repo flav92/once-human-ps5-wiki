@@ -70,7 +70,12 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Clay Brick | Brique en terre cuite | ✅ **Brique en terre cuite** (capturé 08/09/2026 — nom exact de la « brique ») |
 | Purified Water | Eau purifiée | ✅ **Eau purifiée** (capturé 08/09/2026) |
 | Territory Terminal | Terminal de territoire | ✅ **Terminal de territoire** (capturé 08/09/2026 — réparation, amélioration, permissions, extension) |
-| Structure Upgrade | Amélioration de structure | ✅ **Amélioration de structure** (capturé 09/09/2026 — filières Structure en Pierre / Métallique / en alliage) |
+| Structure Upgrade | Amélioration de structure | ✅ **Amélioration de structure** (capturé 09/09/2026 — filières Structure en Pierre / Métallique / en alliage, verrouillées par nœud Tech) |
+| Demolition Ammo | Munitions de démolition | ✅ **Munitions de démolition** (arbre Tech Combat capturé 09/09/2026 — variantes pistolet, fusil de chasse, calibre moyen, fusil de précision) |
+| Veil of Tranquility | Voile de la tranquillité | ✅ **Voile de la tranquillité** (nœud Tech capturé 09/09/2026 — zones sûres dans les Zones de Pollution, 4 000 points) |
+| Protoplasm Ingot | Lingot de protoplasme | ✅ **Lingot de protoplasme** (fiche capturée 09/09/2026 — minerai de protoplasme + Source protoplasmique au Fourneau électrique) |
+| Street Motorcycle | Moto de rue | ✅ **Moto de rue** (garage, onglet Confectionner, capturé 09/09/2026) |
+| Tech Level | Niveau de technologie | ✅ **Niveau de technologie** (écran Tech capturé 09/09/2026) |
 | Marble Foundations | Fondations en marbre 01 | ✅ **Fondations en marbre 01** (capturé 09/09/2026 — palier d'amélioration) |
 | Crude Oil | Pétrole brut | ✅ **Pétrole brut** (capturé 09/09/2026 — sortie de pompe en Zone de Champ Pétrolifère) |
 | Non-potable Water | Eau non potable | ✅ **Eau non potable** (capturé 09/09/2026 — sortie de pompe, toutes zones) |

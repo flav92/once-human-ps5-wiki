@@ -30,6 +30,9 @@
 - [ ] **Fiche de la Grenade HE** → sa ligne « très efficace niv. X »
 - [ ] **Fiche de la Source protoplasmique** → où ça s'obtient réellement (12 à 20 par craft de munitions — c'est le prochain goulot)
 - [ ] **Recette du Mélange de carburant portatif** → ingrédients exacts (pour les roquettes)
+- [ ] 🔥 **Fiches des Munitions de démolition** (arbre Tech Combat) → dégâts contre les structures et coût — le comparatif face aux Explosifs surpuissants peut changer la doctrine de raid
+- [ ] **Voile de la tranquillité une fois posée** → effet exact de la « zone sûre » en zone de pollution (protège-t-elle de la Corrosion ? des raids ?)
+- [ ] **Conditions du nœud « Tech avancée »** (bouton en bas de l'écran Tech) → ce qu'il contient
 - [ ] **Banc de synthèse technologique avec un objet jaune inséré** → coût en ossements affiché, ce qu'on débloque
 - [ ] **Écran « Gérer les partages »** (menu construction) → ce qu'on peut partager à la Ruche (établis ? coffres ?) — clé pour la stratégie « un seul membre débloque et produit pour tous »
 - [x] ~~Chaîne de l'acide~~ ✅ 08/09 : Filtre à eau compact (2:1) → Cuve de brassage « Eau purifiée >> Acide, 10:1 »
@@ -68,7 +71,7 @@
 
 - [ ] **Entrée dans une zone noircie de la carte** → confirmer l'hypothèse « zones irradiées » avant de s'y faire piéger
 - [ ] **Écran de l'unité de confinement avec le Garçon Digby** → rendement réel du farm passif de soufre (alimente tous les explosifs)
-- [ ] **Écran du garage** → comment la moto se débloque exactement
+- [x] ~~**Écran du garage**~~ ✅ 09/09 : les véhicules se **fabriquent** (onglet Confectionner) — Moto de rue, Ailes biplace, Pieds, Coupé rétro, Tout-terrain de montagne. *(Coût complet de la Moto de rue : à relever.)*
 
 **Et le [glossaire](glossaire.md)** : ~25 termes encore « ❓ » — pas besoin de captures dédiées, n'importe quelle capture où le terme est lisible suffit.
 

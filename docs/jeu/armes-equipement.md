@@ -38,7 +38,9 @@ Ces pièces **ne se fabriquent pas** — elles se trouvent dans les caisses d'ar
 Vérifié terrain PS5 ✅ :
 
 - Le véhicule gratuit du début est le **vélo** (pas la moto — erreur classique des guides PC).
-- La **moto se débloque au garage**.
+- Les véhicules se **fabriquent au garage** (écran capturé 09/09/2026, onglets Gérer les véhicules / **Confectionner** / Exposition de Garage). Véhicules fabricables relevés : **Moto de rue**, **Ailes biplace** (buggy), **Pieds** (cadre de vélo), **Coupé rétro**, **Tout-terrain de montagne**.
+- Coût partiel relevé pour les Ailes biplace : 40 fibres, **40 Lingots de protoplasme**, 40 pièces mécaniques, **1 000 Sources protoplasmiques**, 80 minerais dorés, 1 module — les véhicules avancés sont de gros investissements.
+- **Lingot de protoplasme** (fiche capturée ✅) : *« matériau spécial, dense et stable, créé en infusant le minerai de protoplasme avec la Source protoplasmique »* — se fond au **Fourneau électrique**.
 
 ## Sources
 
