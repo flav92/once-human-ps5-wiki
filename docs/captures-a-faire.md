@@ -9,8 +9,9 @@
 
 ## 🏠 Base, matériaux et Corrosion
 
-- [x] ~~**Comparatif matériaux**~~ ✅ 09/09 : coûts unitaires relevés (béton = brique + bois + acier ; pierre = brique + bois ; plafond pierre = brique). Et surtout : **−10 %/jour** sur la base à Note de construction 129 contre **−1,2 %** sur celle à Note 55 → la Corrosion est un pourcentage des PV max, accéléré par la taille de la base. *(Bois : toujours aucune donnée.)*
-- [ ] **Même structure visée à 2 moments HORODATÉS** → affiner le rythme de Corrosion (mesuré 08→09/09 : ~10 %/jour à Note de construction 129, ~1,2 %/jour à Note 55 — heures exactes non notées)
+- [x] ~~**Comparatif matériaux**~~ ✅ 09/09 : coûts de réparation unitaires relevés (béton = brique + bois + acier ; pierre = brique + bois ; plafond pierre = brique). Rythme mesuré : **−10 %/jour** des PV max (base à Note 129), identique mur et caisse. *(Bois : toujours aucune donnée.)*
+- [ ] **Effet de la taille de base sur la Corrosion** → refaire la comparaison avec la base voisine (Note 55) **sans réparation entre les deux relevés** — la mesure du 09/09 a été invalidée (réparation probable le matin)
+- [ ] **Même structure visée à 2 moments HORODATÉS** → affiner le rythme de Corrosion (mesuré 08→09/09 : ~10 %/jour à Note de construction 129, heures exactes non notées)
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
 - [ ] **La « valeur de pollution »** du territoire → où elle s'affiche — la **Note de construction** (129 vs 55) semble être le facteur principal du rythme de Corrosion, la pollution reste à situer
 - [x] ~~**Fiche d'un coffre abîmé**~~ ✅ 09/09 : grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce ; petite caisse = 2 bois + 1 bout de ferraille

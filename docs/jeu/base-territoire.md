@@ -82,15 +82,14 @@ Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Eau purifi�
 
 **La réparation se fait en un clic depuis le Terminal de territoire** ✅ (onglet **« Réparation du territoire »**) : sélection par catégorie (Structures, Installation, Meubles et décor, Production de courant) avec « Réparation maximale »/« Tout sélectionner » — pas besoin de viser pièce par pièce. Coût relevé pour ~28 structures d'une nuit : **25 briques + 19 lingots d'acier + 14 bois** et quelques unités diverses — c'est bon marché, même en béton. La ferme testée (murs/fondations **béton**, plafonds **pierre/brique**) est donc tout à fait tenable. Gardez la base **compacte** : moins de bâtiments = moins de Corrosion (règle n°2 ci-dessus). *(Test comparatif en cours : ferme en **béton** vs ferme en **pierre** — les captures du 08/09 montrent bien les structures « en pierre 01 » du coéquipier. Chiffres de réparation à comparer ; le **bois** n'a pas de donnée, personne n'a construit en bois.)*
 
-**Le rythme de la Corrosion, mesuré sur deux bases (relevés des 08-09/09/2026 ✅).** Sur une même période d'environ une journée (heures exactes non notées) :
+**Le rythme de la Corrosion, mesuré (relevés des 08-09/09/2026 ✅).** Sur environ une journée (heures exactes non notées), sur la même base (Note de construction 129) :
 
-| Base | Note de construction | Élément | Perte relevée | Soit |
-|---|---|---|---|---|
-| Base 1 | 129 | Mur en béton (3 200 PV max) | 3 161 → 2 837 | **−10,1 %** |
-| Base 1 | 129 | Caisses de rangement (500 PV max) | 500 → 451 | **−9,8 %** |
-| Base 2 | 55 | Mur en pierre (1 800 PV max) | 1 773 → 1 752 | **−1,2 %** |
+| Élément | Perte relevée | Soit |
+|---|---|---|
+| Mur en béton (3 200 PV max) | 3 161 → 2 837 | **−10,1 %** |
+| Caisses de rangement (500 PV max) | 500 → 451 | **−9,8 %** |
 
-Deux conclusions provisoires, cohérentes avec les règles affichées au Terminal : la Corrosion retire un **pourcentage des PV max** (identique pour un mur et une caisse de la même base), et son rythme **dépend fortement de la taille de la base** (Note de construction 129 : ~10 % par jour ; Note 55 : ~1 %). À affiner avec des relevés horodatés.
+Conclusion provisoire : la Corrosion retire un **pourcentage des PV max**, identique pour un mur et une caisse de la même base — de l'ordre de **10 % par jour** sur cette base. Le lien entre le rythme et la taille de la base (règle n°2 du Terminal) reste **à mesurer proprement** : la comparaison avec une base voisine plus petite a été invalidée, une réparation étant probablement intervenue entre les deux relevés. À refaire avec des relevés horodatés et sans réparation intermédiaire.
 
 **Coûts de réparation unitaires relevés ✅** : mur en béton = 1 brique + 1 bois + 1 lingot d'acier ; mur en pierre = 1 brique + 1 bois ; plafond en pierre = 1 brique ; **grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce** ; **petite caisse = 2 bois + 1 bout de ferraille**.
 

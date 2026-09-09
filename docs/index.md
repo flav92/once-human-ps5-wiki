@@ -21,7 +21,7 @@
 | 09/09 | L'arbre Tech Combat contient des **Munitions de démolition** (quatre variantes anti-structure) et le nœud **Voile de la tranquillité** (4 000 points), qui crée des zones sûres dans les Zones de Pollution. |
 | 09/09 | Le béton n'est pas le palier maximal : l'onglet **Amélioration de structure** du Terminal ouvre des filières supérieures (Pierre, Métallique, Alliage — dont des fondations en marbre), verrouillées par technologies. |
 | 09/09 | La sortie d'une pompe à eau dépend de sa zone : eau contaminée en zone de pollution, pétrole brut en champ pétrolifère, eau de mer en zone océanique. Cadence relevée : une unité toutes les 98 s par pompe. |
-| 09/09 | Rythme de Corrosion mesuré sur deux bases : environ **10 % des PV max par jour** sur une base à Note de construction 129, contre **1,2 %** sur une base à Note 55. La perte est proportionnelle aux PV max de chaque élément. |
+| 09/09 | Rythme de Corrosion mesuré : environ **10 % des PV max par jour** (base à Note de construction 129), perte proportionnelle aux PV max de chaque élément — identique pour un mur et une caisse. |
 | 09/09 | Coûts de réparation unitaires relevés : mur en béton (brique + bois + lingot d'acier), mur en pierre (brique + bois), caisses de rangement (fer + caoutchouc + pièce, ou bois + ferraille). |
 | 08/09 | La dégradation des structures est nommée **Corrosion** dans le jeu. Elle progresse jusqu'à destruction complète, s'accélère avec le nombre de bâtiments et la valeur de pollution, et peut être suspendue temporairement par le **Renforcement de territoire**. |
 | 08/09 | Le palier de construction « pierre » correspond à la brique : la fiche du « Mur en pierre 01 » le décrit comme « Mur de briques ». Il n'existe pas deux paliers distincts. |
