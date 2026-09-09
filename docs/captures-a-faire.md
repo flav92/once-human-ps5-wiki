@@ -14,8 +14,10 @@
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
 - [ ] **La « valeur de pollution »** du territoire → où elle s'affiche — la **Note de construction** (129 vs 55) semble être le facteur principal du rythme de Corrosion, la pollution reste à situer
 - [x] ~~**Fiche d'un coffre abîmé**~~ ✅ 09/09 : grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce ; petite caisse = 2 bois + 1 bout de ferraille
-- [ ] **Compteur de production des pompes à eau** (avec heure) → confirmer le rendement ~900 eaux contaminées / 2-3 h
-- [ ] **Infobulle de la zone de la ferme sur la carte** → statut raidable ou non (acquis : Delta de Broken, niv. 12, zone de départ)
+- [x] ~~**Compteur de production des pompes**~~ ✅ 09/09 : « Temps nécessaire : 01:38 »/unité (efficacité 0,8) ≈ 37/h par pompe — cohérent avec les 900/2-3 h
+- [ ] **Infobulle de la zone de la ferme sur la carte** → statut raidable ou non (acquis : Delta de Broken niv. 12, et le menu de la pompe confirme une **Zone de pollution**)
+- [ ] **Conditions de déblocage des filières d'Amélioration de structure** (Métallique, Alliage, marbre) → quelles technologies, quel coût d'amélioration par pièce
+- [ ] **Fiche d'une pièce améliorée** (ex. Fondations en marbre 01 posée) → PV exacts par filière
 - [x] ~~Fiche béton~~ ✅ 08/09 : **Mur en béton 01 = 3 200 PV** (pas de numéro de stabilité sur les fiches de structures)
 - [x] ~~Fiche brique/pierre~~ ✅ 08/09 : « Mur/Plafond en pierre 01 » = **1 800 PV** — description « Mur de briques » : **pierre = brique en jeu**
 - [x] ~~Fiche coffre~~ ✅ 08/09 : Petite ET Grande caisse de rangement = **500/500 PV**

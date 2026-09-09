@@ -70,6 +70,10 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Clay Brick | Brique en terre cuite | ✅ **Brique en terre cuite** (capturé 08/09/2026 — nom exact de la « brique ») |
 | Purified Water | Eau purifiée | ✅ **Eau purifiée** (capturé 08/09/2026) |
 | Territory Terminal | Terminal de territoire | ✅ **Terminal de territoire** (capturé 08/09/2026 — réparation, amélioration, permissions, extension) |
+| Structure Upgrade | Amélioration de structure | ✅ **Amélioration de structure** (capturé 09/09/2026 — filières Structure en Pierre / Métallique / en alliage) |
+| Marble Foundations | Fondations en marbre 01 | ✅ **Fondations en marbre 01** (capturé 09/09/2026 — palier d'amélioration) |
+| Crude Oil | Pétrole brut | ✅ **Pétrole brut** (capturé 09/09/2026 — sortie de pompe en Zone de Champ Pétrolifère) |
+| Non-potable Water | Eau non potable | ✅ **Eau non potable** (capturé 09/09/2026 — sortie de pompe, toutes zones) |
 | Corrosion | Corrosion | ✅ **Corrosion** (capturé 08/09/2026 — le nom officiel de la « dégradation des structures ») |
 | Territory Reinforcement | Renforcement de territoire | ✅ **Renforcement de territoire** (capturé 08/09/2026 — protection temporaire contre la Corrosion) |
 | Small/Large Storage Crate | Petite/Grande caisse de rangement | ✅ **Petite caisse de rangement** / **Grande caisse de rangement** (capturé 08/09/2026 — 500 PV chacune) |

@@ -42,7 +42,11 @@ Stratégie testée : **une petite base dédiée à la production d'eau**, posée
 2. Alimentation mixte : **2 générateurs hydrauliques** (les roues à eau — interaction « Utilisation de la roue ») **+ 3 panneaux solaires** → **9/10 appareils alimentés** (pompes à eau et le reste).
 3. Laissez tourner : la production continue **hors connexion**.
 
-**Coût d'une Pompe à eau (fiche capturée ✅ 08/09/2026)** : 35 Lingots d'acier + 20 Fibres + 20 Pièces + 20 Composants électroniques — comptez ×8 pour l'usine complète (280 lingots…). Sa fiche précise aussi qu'elle **pompe le pétrole brut sur les champs de pétrole** et l'eau non potable en zone de pollution : la même machine servira pour une future ferme à pétrole.
+**Coût d'une Pompe à eau (fiche capturée ✅ 08/09/2026)** : 35 Lingots d'acier + 20 Fibres + 20 Pièces + 20 Composants électroniques — comptez ×8 pour l'usine complète (280 lingots…).
+
+**La sortie de la pompe dépend de la zone où elle est posée (menu capturé ✅ 09/09/2026)** : **Eau contaminée** (uniquement en *Zone de pollution* — c'est le cas de l'emplacement testé), **Eau non potable** (toutes les zones), **Eau de mer** (zone océanique), **Pétrole brut** (*Zone de Champ Pétrolifère*), plus une sortie verrouillée par la technologie d'extraction minière. Le choix d'emplacement détermine donc ce que produit la ferme — une ferme à pétrole utilisera exactement le même matériel sur un champ pétrolifère.
+
+**Cadence relevée** : « Temps nécessaire : 01:38 » par unité (efficacité 0,8), soit environ **37 unités/heure par pompe** — cohérent avec les ~900 eaux contaminées produites en 2-3 h par la première configuration.
 
 **Emplacement de la ferme testée** : Delta de Broken (zone niv. 12, une zone de départ — donc hors GvG, normalement impillable).
 
@@ -88,7 +92,11 @@ Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Eau purifi�
 
 Deux conclusions provisoires, cohérentes avec les règles affichées au Terminal : la Corrosion retire un **pourcentage des PV max** (identique pour un mur et une caisse de la même base), et son rythme **dépend fortement de la taille de la base** (Note de construction 129 : ~10 % par jour ; Note 55 : ~1 %). À affiner avec des relevés horodatés.
 
-**Coûts de réparation unitaires relevés ✅** : mur en béton = 1 brique + 1 bois + 1 lingot d'acier ; mur en pierre = 1 brique + 1 bois ; plafond en pierre = 1 brique ; **grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce** ; **petite caisse = 2 bois + 1 bout de ferraille**. Réparation complète d'une nuit pour ~28 structures : ~25 briques + 19 lingots d'acier + 16 bois.
+**Coûts de réparation unitaires relevés ✅** : mur en béton = 1 brique + 1 bois + 1 lingot d'acier ; mur en pierre = 1 brique + 1 bois ; plafond en pierre = 1 brique ; **grande caisse = 2 lingots de fer + 1 caoutchouc + 1 pièce** ; **petite caisse = 2 bois + 1 bout de ferraille**.
+
+**La facture complète d'une journée (écran « Toutes les pièces », capturé ✅ 09/09/2026)** : la réparation couvre quatre catégories — Structures, Installation, Meubles et décor, Production de courant — et **ce sont les installations et les meubles qui coûtent le plus cher**, pas les murs : pour l'ensemble du territoire (Note de construction 129), de l'ordre de 71 bois, ~109 lingots, 37 pièces, 33 composants électroniques et 27 briques (quantités lues sur les icônes, certaines à confirmer). Les structures seules ne représentaient que ~25 briques + 19 lingots + 16 bois. Budget d'entretien à prévoir en conséquence.
+
+**Au-dessus du béton : l'Amélioration de structure (capturé ✅ 09/09/2026).** Le deuxième onglet du Terminal, « Amélioration de structure », propose trois filières — **Structure en Pierre, Structure Métallique, Structure en alliage** — avec notamment des **Fondations en marbre 01**, la plupart verrouillées (technologies à débloquer). Le béton n'est donc **pas** le sommet : les structures s'améliorent vers des paliers supérieurs. C'est l'explication probable des fondations en marbre à 6 400 PV observées sur les bases fortifiées en zone d'affrontements.
 
 ⚠️ **La Corrosion touche aussi les coffres** ✅ (500 PV, pertes mesurées ci-dessus). La règle du Terminal est claire : coffre détruit = **le contenu au-delà de la capacité restante est perdu**. Réparez-les en priorité — et gardez un petit stock de réparation SUR PLACE, la panne du 09/09 (tous les matériaux stockés ailleurs, réparation impossible) l'a montré.
 

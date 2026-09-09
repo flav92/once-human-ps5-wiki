@@ -109,7 +109,7 @@ Trois règles logistiques qui changent tout :
 | Mur/Plafond « en pierre 01 » (base perso) ✅ | **1 800** | fiche relevée 08/09/2026 |
 | Mur en béton 01 (base perso) ✅ | **3 200** | fiche relevée 08/09/2026 |
 
-⚠️ **Incohérence à élucider** : un plafond *bois* mesuré à 3 200 PV en zone d'affrontements, contre 1 800 PV pour un plafond *pierre* de base personnelle — soit les structures en zone GvG ont des PV différents (bonus de zone ?), soit le « plafond bois » de la zone était en réalité d'un autre matériau. À re-vérifier en visant les fiches sur place.
+⚠️ **Écart partiellement expliqué (09/09/2026)** : le système d'**Amélioration de structure** (Terminal de territoire — filières Pierre, Métallique, Alliage, fondations en marbre) montre que les structures existent en plusieurs paliers améliorés aux PV supérieurs. Le « plafond bois 3 200 PV » et les « fondations en marbre 6 400 PV » vus en zone étaient vraisemblablement des pièces améliorées. À confirmer en visant les fiches sur place lors de la prochaine sortie.
 
 - Visez un élément pour afficher sa durabilité — comptez vos cibles **avant** de dépenser.
 - ⚠️ La **réparation est très bon marché** pour le défenseur (4 bois le plafond, 1 brique la fondation) : concentrez le feu sur UN point et engouffrez-vous, ne saupoudrez jamais.
