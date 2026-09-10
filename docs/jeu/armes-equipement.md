@@ -37,7 +37,9 @@ La statistique **Résistance à la pollution** se trouve sur les **casques, armu
 | **Heavy Duty** | Trésors mystiques (Chalk Peak) | Dégâts élémentaires |
 | **Shelterer** | Machine à vœux | Dégâts élémentaires (version supérieure) |
 
-⚠️ Noms français PS5, disponibilité par phase et valeurs exactes : **à vérifier en jeu** — ces données viennent de guides PC/web.
+Convergence des classements 2026 (quatre guides recoupés) : **Lonewolf** domine en dégâts toutes situations, **Savior** est l'ensemble défensif de référence (soins), **Bastille** et **Heavy Duty** assurent la survie (Bastille en position statique — profil adapté à la défense de bunker, Heavy Duty avec réduction de dégâts de proximité et +10 % PV max), **Falcon** couvre le PvP d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques (régénération de PV en Fortress Warfare) + fusil AWS.338.
+
+⚠️ Noms français PS5, disponibilité par phase et valeurs exactes : **à vérifier en jeu** — ces données viennent de guides PC/web. Les coffres « Trésors mystiques » de Chalk Peak et Red Sands sont derrière le mur rouge en phase 1 ; ceux d'**Iron River (ensemble Agent)** sont accessibles dès maintenant.
 
 ## Mods et caisses de sélection
 
