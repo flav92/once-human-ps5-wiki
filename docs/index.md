@@ -18,6 +18,7 @@
 
 | Date | Observation |
 |---|---|
+| 10/09 | **La Ruche est plafonnée à 8 membres** sur console (les guides PC annoncent 12), la faction armée à 30. Comme seule la Ruche contrôle les zones d'affrontements, ces 8 places sont la vraie ressource rare d'une faction. |
 | 10/09 | Les **effets d'ensemble sont identiques quel que soit l'emplacement** (vérifié en comparant 11 capuches et 11 vestes) ; seules les statistiques de base changent : casque 740 PV / 12 pollution, haut **1 924 PV / 16 pollution**. |
 | 10/09 | Découverte d'une seconde famille d'équipement, les **« Protections clés »** : pas d'effet d'ensemble mais un **effet clé unique** (un seul actif à la fois), ignorée par tous les guides. |
 | 10/09 | **Onze ensembles d'armure relevés palier par palier.** Le meilleur ensemble défensif du jeu est la **Tenue des marées traîtresses** — −10 % de dégâts d'arme subis en permanence, bouclier automatique de 20 % des PV max sous 40 % de PV — un ensemble qu'aucun guide anglophone ne mentionne. |

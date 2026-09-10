@@ -17,7 +17,7 @@ Deux structures de groupe coexistent, avec des rôles différents :
 
 ## Créer et gérer sa faction
 
-- Création : **800 Liens d'énergie**. Capacité initiale **30 joueurs**, extensible au fil de la saison.
+- Création : **800 Liens d'énergie**. Capacité **30 joueurs** ✅ (confirmé en jeu), extensible au fil de la saison d'après les guides PC — à vérifier.
 - Le chef valide les **candidatures** dans le menu de la faction et peut annoncer la faction via le **tableau de recrutement**. *(Emplacement exact du tableau sur PS5 : à confirmer.)*
 - Pour recruter : faites circuler le nom exact de la faction (chat serveur/proximité).
 
@@ -35,9 +35,26 @@ Chaque joueur dispose d'un **Code d'invitation spéciale** (profil → « Voir l
 
 ## La Ruche
 
+- **Capacité : 8 membres maximum** ✅ (relevé en jeu 10/09/2026 — les guides PC parlant de 12 sont faux sur console).
 - Créez une Ruche avec vos coéquipiers, **collez vos territoires** et partagez les permissions → grande base commune, production mutualisée.
 - C'est la **Ruche** (pas la faction) qui prend le contrôle des [zones d'affrontements](prise-de-zone.md).
 - Astuce budget : un seul membre débloque un nœud/établi coûteux et **produit pour tout le monde** sur ses établis partagés.
+
+## La contrainte structurante : Ruche 8 places, faction 30 ✅
+
+**Relevé en jeu (10/09/2026) : la Ruche est plafonnée à 8 membres**, la faction armée à 30. Les guides PC évoquant des Ruches de 12 sont donc faux pour la version console.
+
+Cette différence de taille change toute l'organisation, parce que les deux structures ne servent pas à la même chose :
+
+| | **Ruche — 8 places** | **Faction armée — 30 places** |
+|---|---|---|
+| Ce qu'elle contrôle | Les **zones d'affrontements** (« La zone d'engagement ne peut être contrôlée que par la ruche ») | Les **guerres de frontières**, les enchères, le classement de saison |
+| Qui doit y être | Le **noyau de combat** : ceux qui prennent et tiennent le terrain au quotidien | Tout le monde : combattants, producteurs, recrues |
+| Quand ça compte | **Dès maintenant**, en phase 1 | À l'ouverture des enchères (phase 2) |
+
+**Conséquence pratique** : les 8 places de Ruche sont la ressource rare. Ce sont elles qui déterminent votre capacité à prendre des zones aujourd'hui — pas les 30 de la faction. Réservez-les aux joueurs équipés, disponibles et complémentaires ; les autres membres montent en puissance dans la faction, produisent, et intègrent la Ruche quand une place se libère ou qu'une seconde Ruche se monte.
+
+**À 30 membres, plusieurs Ruches sont nécessaires** : 30 joueurs ne tiennent pas dans une Ruche de 8. Une faction complète peut donc s'organiser en **trois ou quatre Ruches** — chacune capable de contrôler ses propres zones d'affrontements — réunies sous la même bannière pour les guerres de frontières.
 
 ## Organiser une faction de 30 : la répartition des rôles
 
