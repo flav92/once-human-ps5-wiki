@@ -79,7 +79,19 @@ Le tableau ci-dessus contient la démonstration la plus utile de toute cette pag
 
 Relevé sur la même configuration : une **Veste tactique de givre** (Protection clé, obtenue en butin) affiche **2 026 PV**, contre **1 924 PV** pour un haut Rang V fabriqué depuis un schéma. Une pièce de butin bien roulée dépasse donc le plafond des schémas au Protochrome — et elle apporte en plus un **effet clé** (ici : des pics de glace supplémentaires lors de la création d'un Vortex de givre, pour 120 % de l'Intensité Psi en dégâts de Gel).
 
-À retenir avant de dépenser 2 000 Protochrome sur un schéma : **vérifier d'abord ce qu'on a déjà en butin sur cet emplacement**. Le Protochrome se justifie sur les emplacements faibles, pas sur ceux déjà couverts par une bonne pièce trouvée.
+⚠️ **Mais une pièce de butin n'est pas un équipement, c'est un consommable** — nuance de terrain, 10/09/2026. Deux conditions décident si une pièce mérite qu'on compte dessus :
+
+| Condition | Pièce de schéma | Pièce de butin |
+|---|---|---|
+| **Refabricable** quand elle est usée ou dépassée | ✅ oui, autant de fois qu'on veut | ❌ non — une fois perdue, il faut la retrouver |
+| **Réparable** à l'Établi d'équipement | ✅ oui | ❓ **à vérifier** |
+| **Améliorable** en rang supérieur | ✅ via le schéma, au Protochrome | ❓ **à vérifier** |
+
+Tant que ces deux points d'interrogation ne sont pas levés, le raisonnement correct est : **la statistique brute d'une pièce de butin ne compte que si elle est réparable**. Une veste de butin à 2 026 PV mais à 191/400 de durabilité et non réparable vaut **moins** qu'un haut de schéma à 1 924 PV qu'on refait à volonté — c'est un équipement qui s'éteint.
+
+**Conséquence sur l'ordre de dépense du Protochrome** : ne pas repousser l'achat d'un schéma sous prétexte qu'une pièce de butin couvre déjà l'emplacement, sauf si cette pièce est confirmée réparable. Le schéma est le seul équipement dont on est sûr qu'il durera.
+
+*(Capture à faire : ouvrir l'Établi d'équipement → onglet Réparation avec une pièce de butin usée dans l'inventaire, et photographier si elle apparaît dans la liste et à quel coût.)*
 
 ### L'équipement s'use ✅
 
@@ -87,6 +99,7 @@ Chaque pièce affiche une **durabilité** (ex. 191/400, 84/240, 360/400). Elle d
 
 - La durabilité maximale **dépend du rang** : **400** pour du Rang V, **240** pour du Rang IV. C'est un avantage supplémentaire du rang, rarement mentionné.
 - Une pièce descendue très bas (84/240, soit 35 %) est à réparer en priorité. *À vérifier en jeu : ce que le jeu applique exactement quand la durabilité atteint zéro — perte de statistiques progressive ou pièce désactivée.*
+- **La question décisive reste ouverte** : l'onglet Réparation accepte-t-il une pièce **obtenue en butin**, ou seulement celles issues d'un schéma déverrouillé ? Toute la valeur des pièces de butin en dépend (voir ci-dessus).
 
 **Tenue Bastille** — le set défensif que les guides avaient mal compris :
 
@@ -320,6 +333,14 @@ Ces pièces **ne se fabriquent pas** — elles se trouvent dans les caisses d'ar
 - L'**Établi de fournitures** (et sa version **Établi de fournitures avancé** ✅) ne fait que munitions, poudre à canon et soins.
 - Pour réparer une arme ou un outil (ex : la Foreuse), utilisez l'**Établi d'équipement**, onglet **Réparation**.
 - Une foreuse avancée demande un Établi d'équipement de niveau intermédiaire/avancé.
+- **Les armures s'usent aussi** ✅ : chaque pièce a une durabilité (400 en Rang V, 240 en Rang IV) qui décroît à l'usage.
+
+❓ **Deux inconnues qui décident de la valeur réelle d'une pièce** (à photographier) :
+
+1. **Une pièce de butin est-elle réparable ?** Si elle ne l'est pas, elle est condamnée à s'user sans remplacement possible, quelles que soient ses statistiques.
+2. **Que coûte une réparation d'armure ?** Matériaux, Protochrome, ou une pièce identique consommée ? Le coût change l'arbitrage entre porter une pièce de butin rare et une pièce de schéma refabricable.
+
+Règle de prudence en attendant : **ne construire sa configuration que sur des pièces issues de schémas déverrouillés**, et traiter les pièces de butin comme un bonus temporaire.
 
 ## Véhicules
 

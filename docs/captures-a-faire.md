@@ -90,6 +90,9 @@
 - [ ] **Comment applique-t-on le statut « Surtension » ?** → condition du contrôle de foule du Moment Magnétique (7 m)
 - [x] ~~**Statistiques de base des gants**~~ ✅ 10/09 : gants Rang V = 1 414 PV / 12 pollution / 88 Psi (relevé sur des *Gants de faucon*, pièce de butin)
 - [ ] **Statistiques de base du pantalon et du masque en Rang V** — seuls relevés à ce jour : pantalon Rang IV = 768/11/48, masque Rang IV = 160/14/75. Acquis en Rang V : haut 1 924/16/64, chaussures 1 480/12/46, gants 1 414/12/88, casque 740/12/92
+- [ ] ⭐ **Une pièce d'armure obtenue en BUTIN est-elle réparable ?** → Établi d'équipement, onglet Réparation, avec la *Veste tactique de givre* (191/400) dans l'inventaire. Photographier si elle apparaît dans la liste. **C'est la capture la plus importante du moment** : elle décide si les pièces de butin valent qu'on compte dessus ou si seuls les schémas font une configuration durable
+- [ ] ⭐ **Coût exact d'une réparation d'armure** → matériaux ? Protochrome ? une pièce identique consommée ? Photographier l'écran de confirmation
+- [ ] **Une pièce de butin peut-elle monter en rang ?** → chercher la *Veste tactique de givre* dans l'écran des schémas / d'amélioration. Si elle n'y est pas, elle est plafonnée à vie
 - [ ] **Que se passe-t-il quand la durabilité d'une pièce atteint zéro ?** → perte progressive de statistiques, ou pièce simplement désactivée ? Laisser descendre une pièce secondaire et photographier la fiche
 - [ ] **Où trouve-t-on la Tenue de faucon ?** → elle n'est pas dans les schémas au Protochrome mais existe en butin (Gants Rang V relevés). Photographier la source exacte (coffre, trésor mystique, zone) le jour où une autre pièce tombe
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)

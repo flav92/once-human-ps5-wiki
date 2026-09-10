@@ -19,7 +19,7 @@
 | Date | Observation |
 |---|---|
 | 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
-| 10/09 | **Une pièce de butin peut dépasser un schéma** : une *Veste tactique de givre* (Protection clé) affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué. Avant de dépenser 2 000 Protochrome sur un emplacement, vérifier ce qu'on y porte déjà. |
+| 10/09 | **Une pièce de butin peut dépasser un schéma** en statistiques brutes — une *Veste tactique de givre* affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué — **mais elle ne vaut que si elle est réparable et refabricable**, ce qui reste à vérifier. Une pièce qu'on ne peut pas refaire est un consommable, pas un équipement. |
 | 10/09 | **Correction — la Tenue de faucon existe sur console**, contrairement à ce que cette page indiquait : elle n'apparaît pas dans les schémas au Protochrome parce qu'elle s'obtient **en butin**. Des *Gants de faucon* Rang V ont été relevés en jeu. |
 | 10/09 | L'équipement possède une **durabilité** qui décroît à l'usage et se restaure à l'Établi d'équipement : **400 points en Rang V, 240 en Rang IV** — un avantage du rang que ne mentionne aucun guide. |
 | 10/09 | **La Ruche est plafonnée à 8 membres** sur console (les guides PC annoncent 12), la faction armée à 30. Comme seule la Ruche contrôle les zones d'affrontements, ces 8 places sont la vraie ressource rare d'une faction. |
