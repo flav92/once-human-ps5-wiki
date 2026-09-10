@@ -40,7 +40,9 @@ Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la 
 | **Tenue de faucon** | Falcon | Trésors mystiques, **Red Sands — zone niv. 40+** | Critique, coût d'endurance réduit ; cité comme le meilleur set épique PvP |
 | **Tenue d'éclaireur** | Scout | — | Discrétion |
 
-⚠️ **Les classements anglophones ne couvrent qu'une partie du jeu** : une base de données française recense **19 ensembles** — au-delà des précédents, on trouve Blackstone, marée gravitationnelle, marées traîtresses, lien fantôme, panthère des neiges, anti-explosion, brave-tempête, assaut, sécurité, protectrice, résonance des ténèbres et rudimentaire. Aucun guide consulté ne les commente : les « top 10 » sont donc des extraits, pas des classements complets.
+✅ **Vérifié à l'écran des schémas console (10/09/2026)** — onze ensembles présents : **Loup solitaire, Bastille, Renégat, Sauveur, Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme**. La **Tenue de faucon n'a pas été trouvée**, ce qui colle à son obtention annoncée à Red Sands (zone niveau 40+, hors de portée en phase 1).
+
+⚠️ Conséquence : **sept de ces onze ensembles ne sont commentés par aucun guide anglophone**. Les classements « top 10 » des sites de guides ignorent une partie du contenu réellement accessible sur console — leurs recommandations sont donc à prendre comme partielles. Les bonus de set de chaque ensemble restent à relever en jeu.
 
 Tendance générale des classements 2026, avec les réserves ci-dessus : **Lonewolf** revient le plus souvent en tête pour les dégâts, **Savior** est présenté comme l'ensemble de soutien/survie, **Bastille** et **Heavy Duty** comme des options défensives (Bastille en position statique — profil qui rappellerait la défense de bunker), **Falcon** pour le jeu d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques + fusil AWS.338. Aucun de ces ensembles n'a été vu sur console pour l'instant.
 

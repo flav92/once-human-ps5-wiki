@@ -122,6 +122,7 @@ Ces points-là recoupent nos propres observations de terrain, ce qui les rend pl
 4. **Le meilleur ensemble défensif** : Savior (soins) selon TheGamer, Heavy Duty (réduction de dégâts) ou Bastille selon d'autres, Renegade dans le build tank de ScreenRant. Aucun consensus.
 5. **Résistance à la pollution** : les valeurs 9 / 12 / 16 points circulent dans plusieurs articles, mais le dev blog officiel de janvier 2026 annonce explicitement une **réduction de la résistance apportée par l'équipement** — ces chiffres sont probablement périmés.
 6. **Les listes de compétences** varient d'un guide à l'autre selon la version et le scénario.
+7. **Les classements d'armure sont incomplets** ✅ (vérifié console 10/09/2026) : sur onze ensembles vus dans l'écran des schémas, **sept ne sont commentés par aucun guide** (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme). Et la **Tenue de faucon**, présentée comme « le meilleur ensemble à tous les stades » par deux guides, **n'a pas été trouvée** — son obtention à Red Sands la place hors de portée en phase 1.
 
 Quand deux sources se contredisent, le wiki ne tranche pas : c'est une capture en jeu qui tranchera.
 

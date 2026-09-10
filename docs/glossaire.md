@@ -129,19 +129,24 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 
 ## Ensembles d'armure (correspondance FR/EN)
 
-*Noms français issus d'une base de données communautaire — **à confirmer à l'écran sur PS5**.*
+**Relevé dans l'écran des schémas console le 10/09/2026 ✅** — onze ensembles vus à l'écran :
 
-| Nom anglais des guides | Nom français répertorié | Statut |
+| Nom français vu en jeu | Nom anglais des guides | Statut console |
 |---|---|---|
-| Lonewolf | **Tenue de loup solitaire** | ❓ à confirmer en jeu |
-| Falcon | **Tenue de faucon** | ❓ à confirmer en jeu |
-| Bastille | **Tenue Bastille** | ❓ à confirmer en jeu |
-| Savior | **Tenue de sauveur** | ❓ à confirmer en jeu |
-| Renegade | **Tenue de renégat** | ❓ à confirmer en jeu |
-| Agent | **Tenue d'agent** | ❓ à confirmer en jeu |
-| Scout | **Tenue d'éclaireur** | ❓ à confirmer en jeu |
+| **Loup solitaire** | Lonewolf | ✅ présent |
+| **Bastille** | Bastille | ✅ présent |
+| **Renégat** | Renegade | ✅ présent |
+| **Sauveur** | Savior | ✅ présent |
+| **Protectrice** | — (absent des guides EN) | ✅ présent |
+| **Brave-tempête** | — | ✅ présent |
+| **Blackstone** | — | ✅ présent |
+| **Marées traîtresses** | — | ✅ présent |
+| **Gravité** (marée gravitationnelle ?) | — | ✅ présent |
+| **Résonance des ténèbres** | — | ✅ présent |
+| **Lien fantôme** | — | ✅ présent |
+| **Faucon** | Falcon | ❌ **pas trouvé** — cohérent avec une obtention à Red Sands (zone niv. 40+, derrière le mur rouge en phase 1) |
 
-Autres ensembles répertoriés, absents des guides anglophones : Blackstone, marée gravitationnelle, marées traîtresses, lien fantôme, panthère des neiges, anti-explosion, brave-tempête, assaut, sécurité, protectrice, résonance des ténèbres, rudimentaire.
+**Ce que ça apprend** : la moitié des ensembles disponibles sur console (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme) **n'est commentée par aucun guide anglophone**. Les classements « top 10 » ignorent donc une partie du contenu réellement accessible. Bonus de set de chacun : à relever.
 
 ## Lieux (noms de la carte)
 
