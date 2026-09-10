@@ -1,95 +1,129 @@
-# Builds, combos et compétences (méta 2026)
+# Builds, combos et compétences — hypothèses de travail
 
 *Dernière mise à jour : 10 septembre 2026*
 
-!!! warning "Origine des données"
-    Cette page est une **synthèse de sources web et PC** (une quinzaine de guides croisés, liens en bas de page). Les noms d'objets sont ceux des guides anglophones : intitulés français PS5, disponibilité par phase et valeurs exactes restent **à vérifier en jeu**. Rien ici n'a encore été validé sur console.
+!!! danger "Statut : hypothèses, pas des recommandations"
+    **Rien sur cette page n'a été vérifié sur PS5.** Tout provient de guides web et PC (une vingtaine de sources croisées), et ces sources **se contredisent sur plusieurs points** — voir la section « Où les sources divergent ». À lire comme des pistes à tester, jamais comme des consignes. Les noms sont ceux des guides anglophones ; les intitulés français console restent à relever.
 
-## Le principe commun à tous les builds
+## Trois réserves qui touchent toute la page
 
-Les sources s'accordent sur une structure identique : **arme secondaire pour poser un débuff → bascule sur l'arme principale pendant la fenêtre de buff**. Le changement d'arme est lui-même une source de dégâts (compétence *Tactical Combo* : +25 % pendant 4 s après un changement d'arme ou un rechargement). Arme, ensemble d'armure, mods, Déviant et compétences se choisissent **comme un système**, jamais pièce par pièce.
+**1. Ces builds sont liés à des scénarios précis.** Les guides consultés parlent de Manibus, Way of Winter, Prismverse Clash, Lunacy ou Endless Dream. Le serveur console suit son propre scénario, avec ses phases : la disponibilité des armes, des ensembles et des nœuds Tech peut être différente.
 
-## Les builds de référence
+**2. L'équipement se ré-acquiert à chaque saison.** D'après plusieurs sources, les **schémas, fragments de schémas, accessoires et mods se conservent** entre saisons, mais **l'équipement fabriqué et les Mémétiques sont remis à zéro**. Un « meilleur build » est donc toujours un build de fin de saison, pas quelque chose qu'on possède d'emblée.
 
-| Build | Arme principale | Secondaire | Armure | Usage |
+**3. Les listes de compétences sont partielles.** Une base de données recense **168 compétences du Berceau** ; les guides n'en commentent qu'une poignée, et un correctif 1.4 en a ajouté. Ce qui est listé ci-dessous est un extrait, pas un classement exhaustif.
+
+## Le principe que toutes les sources partagent
+
+C'est le point sur lequel elles s'accordent le plus : **arme secondaire pour poser un débuff, puis bascule sur l'arme principale pendant la fenêtre de buff**. Le changement d'arme est lui-même une source de dégâts si la compétence *Tactical Combo* est équipée (+25 % pendant 4 s après un changement d'arme ou un rechargement). Corollaire répété partout : arme, armure, mods, Déviant et compétences se choisissent **comme un système**.
+
+Si une seule idée de cette page mérite d'être testée en jeu, c'est celle-là — elle ne dépend ni du scénario ni de la saison.
+
+## Les builds cités (avec la source de chacun)
+
+| Build | Arme principale | Secondaire | Armure annoncée | Source |
 |---|---|---|---|---|
-| **Shrapnel** (meilleur PvE) | SOCR – The Last Valor | Recurve Crossbow | Lonewolf ×4 (+ Beret, 1 pièce Bastille) | Viser ~50 % de critique : chaque proc d'éclats frappe les parties non touchées |
-| **Unstable Bomber** (meilleur PvP) | DE.50 – Jaws | AWS.338 / Bingo | Falcon + torse Shaman Vulture | Poser Bull's Eye au fusil, achever au pistolet explosif — 4-5 tirs par cible |
-| **Sniper** | AWS.338 – Bullseye | DE.50 – Wildfire | Renegade ×3 | Cumul points faibles : +4 % par tir consécutif, jusqu'à ×10 |
-| **Power Surge** | SOCR – Outsider | Recurve Crossbow | Falcon | Foudre en chaîne ; composants issus de sources basses — l'endgame accessible |
-| **Div-Evo** | MPS7 Div-Evo (SMG) | SOCR – The Last Valor | Mixte + pantalon Renegade | Mobilité et dégâts soutenus |
-| **Fast Gunner** (début) | MG4 – Predator (LMG) | Recurve Crossbow | Falcon | Simple et tolérant : cadence et munitions, sans dépendre du critique |
-| **Tank Fortress Warfare** | AWS.338 Black Panther | S870 Sandstorm | Renegade ×4 + bottes en cuir uniques | Régénération 2,5 % PV/s en Fortress Warfare (doublée sous 50 % PV) |
+| **Shrapnel** (PvE) | SOCR – The Last Valor | Recurve Crossbow | **Lonewolf ×4** + Beret + 1 Bastille | ScreenRant |
+| **Shrapnel** (même build) | SOCR – The Last Valor | Recurve Crossbow | **Falcon ×4** | Skycoach |
+| **Unstable Bomber** (PvP) | DE.50 – Jaws | AWS.338 / Bingo | Falcon + torse Shaman Vulture | Skycoach |
+| **Sniper** | AWS.338 – Bullseye | DE.50 – Wildfire | Renegade ×3 | Skycoach |
+| **Power Surge** | SOCR – Outsider | Recurve Crossbow | Falcon | Skycoach, Sportskeeda |
+| **Fast Gunner** (début) | MG4 – Predator | Recurve Crossbow | Falcon | Skycoach, Raidrig |
+| **Tank Fortress Warfare** | AWS.338 Black Panther | S870 Sandstorm | Renegade ×4 + bottes en cuir uniques | ScreenRant |
 
-### Le combo Shrapnel détaillé (le mieux documenté)
+Notez la première ligne et la deuxième : **deux guides décrivent le même build avec deux ensembles d'armure différents**. C'est représentatif de l'ensemble.
 
-1. **Hache longue**, attaque lourde → active *Fortress Warfare* (+20 % dégâts d'arme, super-armure) ; chaque cible touchée donne +8 % de taux critique, cumulable 3 fois.
-2. **Arbalète Recurve** sur un point faible → applique **The Bull's Eye** : +15 % de taux critique toutes armes contre cette cible pendant 10 s.
-3. **SOCR – The Last Valor** en continu : chaque critique compte double pour déclencher les éclats et empile *Lone Shadow* (+6 % dégâts critiques, jusqu'à 10 piles avec Lonewolf ×4).
-4. Les éclats frappent les parties non touchées ; le mod **Obliterate** ajoute +15 % par partie touchée, le **Beret** ajoute une partie.
-5. Tous les 20 éclats, le mod **Explosive Shrapnel** déclenche une explosion à **+300 % de dégâts** en critique.
-6. Survie : Déviant **Festering Gel** (mur de fortification + soin de zone, restaure aussi la santé mentale).
+### Le combo Shrapnel, tel que décrit par ScreenRant
 
-## Armes : la hiérarchie des classements
+Le plus détaillé des combos trouvés, à prendre comme illustration du principe plus que comme une recette :
 
-- **Palier supérieur (S+)** : SOCR – The Last Valor (PvE), AWS.338 – Bullseye (sniper), **KAM – Abyss Glance** (PvP, contrôle Frost Vortex), KVD – Boom! Boom! (LMG de zone, farm).
-- **Excellents (S)** : MG4 – Predator, DE.50 Jaws et Wildfire, MPS7 – Outer Space, DBSG – Doombringer, DB12 – Raining Cash, The Fabled Masamune (mêlée).
-- **Solides avec build dédié (A)** : Recurve Crossbow (points faibles), HAMR – Brahminy, SN700, KAM – Burning Rage (Burn), R500 – Memento.
+1. Hache longue, attaque lourde → *Fortress Warfare* (+20 % dégâts d'arme, super-armure) ; +8 % de taux critique par cible touchée, cumulable 3 fois.
+2. Arbalète Recurve sur un point faible → **Bull's Eye** : +15 % de taux critique toutes armes contre cette cible pendant 10 s.
+3. SOCR – The Last Valor en continu : chaque critique compterait double pour déclencher les éclats et empilerait *Lone Shadow* (+6 % dégâts critiques par pile).
+4. Mod **Obliterate** : +15 % par partie touchée. Mod **Explosive Shrapnel** : tous les 20 éclats, explosion à +300 % en critique.
+5. Survie : Déviant **Festering Gel** (mur de fortification, soin de zone, restaure la santé mentale).
 
-## Mods : les pièces qui font les combos
+## Armes : ce que dit la tier list la plus détaillée
 
-| Mod | Effet rapporté | Obtention rapportée |
+Une seule source donne un classement complet (TopUpLive, 2026) — aucune autre ne permet de la recouper, donc à considérer comme un avis, pas un consensus :
+
+- **S+** : SOCR – The Last Valor (PvE), AWS.338 – Bullseye (sniper), **KAM – Abyss Glance** (PvP, contrôle Frost Vortex), KVD – Boom! Boom! (zone/farm).
+- **S** : MG4 – Predator, DE.50 Jaws et Wildfire, MPS7 – Outer Space, DBSG – Doombringer, DB12 – Raining Cash, The Fabled Masamune (mêlée).
+- **A** : Recurve Crossbow, HAMR – Brahminy, SN700, KAM – Burning Rage, R500 – Memento.
+
+## Mods cités
+
+| Mod | Effet annoncé | Obtention annoncée |
 |---|---|---|
 | **Obliterate** | +15 % de dégâts par partie touchée (éclats) | Shadow Hound |
 | **Explosive Shrapnel** (masque) | Le 20ᵉ éclat explose : +300 % en critique | — |
 | **Vulnerability Amplifier** (arbalète) | Bull's Eye ajoute +8 % de vulnérabilité | Arachsiam en Difficile/Pro |
-| **Targeted Strike** (masque) | +10 % taux critique et +25 % dégâts critiques sur cible marquée | — |
-| **Momentum Up / Crit Boost / Crit Amplifier / Deadshot** | Cadence, dégâts et taux critiques | — |
+| **Targeted Strike** (masque) | +10 % taux critique, +25 % dégâts critiques sur cible marquée | — |
 
-Sous-stats à prioriser : **dégâts critiques, dégâts d'arme, capacité de chargeur, dégâts aux points faibles, PV max**.
+Sous-stats que les guides priorisent : dégâts critiques, dégâts d'arme, capacité de chargeur, dégâts aux points faibles, PV max.
 
-⚠️ **Changement majeur de janvier 2026** : la calibration s'applique désormais **au moment de la fabrication de l'arme** — on ne peut plus calibrer ni changer un plan de calibration après coup sur une arme déjà fabriquée. À confirmer sur console.
+⚠️ **Hypothèse importante à vérifier avant de fabriquer une arme** : d'après un guide, la mise à jour de janvier 2026 aurait déplacé la calibration **au moment de la fabrication** — plus possible de calibrer ou de changer un plan après coup. Si c'est vrai sur console, une arme mal calibrée est définitive.
 
-## Compétences du Berceau (Cradle Overrides)
+## Compétences du Berceau (extrait)
 
-Buffs passifs débloqués après le premier boss de région (~niveau 10), **8 emplacements maximum**.
+Débloquées après le premier boss de région (~niveau 10), **8 emplacements** d'après les guides.
 
-| Compétence | Effet rapporté | Intérêt |
+| Compétence | Effet annoncé | Pourquoi elle nous intéresserait |
 |---|---|---|
-| **Tactical Combo** | +25 % dégâts d'arme pendant 4 s après changement d'arme ou rechargement | Présent dans quasiment tous les builds — le pivot des combos |
-| **Long-Range Enhancement** | +20 % dégâts (snipers, arbalètes) ; 30 % de chance de recharger 1 balle par kill | Builds sniper |
-| **Automatic Weapon Enhancement** | +20 % dégâts (SMG, fusils, LMG) ; recharge 10 % du chargeur par kill | Builds automatiques |
-| **Brawl Boost** | −20 % de dégâts subis des humains (effet réduit après avoir tué un joueur) | **La compétence PvP/GvG** |
-| **Agility** | +15 % de réduction de dégâts pendant 4 s après une roulade | Duels et boss |
-| **Master Tactician** | +dégâts contre les Grands Anciens après un objet tactique | Boss |
-| **Deviation Master** | +dégâts contre les Déviants quand le vôtre est invoqué | Farm |
-| **Deadly Combo / Bullet Hunt / Rifle Amplify / Steady Hand** | Amplifications critique et fusil | Socle Shrapnel / Power Surge |
+| **Tactical Combo** | +25 % dégâts d'arme pendant 4 s après changement d'arme ou rechargement | Citée dans presque tous les builds |
+| **Brawl Boost** | −20 % de dégâts subis des humains (effet réduit après avoir tué un joueur) | La seule explicitement PvP — donc GvG |
+| **Long-Range Enhancement** | +20 % dégâts snipers/arbalètes ; 30 % de chance de recharger 1 balle par kill | Builds sniper |
+| **Automatic Weapon Enhancement** | +20 % dégâts SMG/fusils/LMG ; recharge 10 % du chargeur par kill | Builds automatiques |
+| **Agility** | +15 % de réduction de dégâts pendant 4 s après une roulade | Survie en duel |
 
-## Déviants : synergies
+## Déviants cités
 
-| Déviant | Rôle |
+| Déviant | Rôle annoncé |
 |---|---|
-| **Lonewolf's Whisper** | Meilleurs dégâts mono-cible ; se duplique à chaque ennemi tué |
-| **Butterfly's Emissary** | Met en évidence les points faibles — builds Renegade/Sniper |
-| **Festering Gel** | Défensif : mur de fortification, soin de zone, restaure la santé mentale |
-| **Invincible Sun** | Builds Burn/Blaze (ACS12 – Pyroclasm, KAM – Burning Rage) |
-| **Snowsprite** | Builds Frost (Frozen Northern Pike, KAM – Abyss Glance) |
+| **Lonewolf's Whisper** | Dégâts mono-cible ; se duplique à chaque ennemi tué |
+| **Butterfly's Emissary** | Met en évidence les points faibles |
+| **Festering Gel** | Mur de fortification, soin de zone, santé mentale |
+| **Invincible Sun** / **Snowsprite** | Builds Burn / Frost |
 | **Nutcracker** | **Défense de base** : jusqu'à 20 posés, difficiles à tuer, retardent les assaillants |
 
-## Défense de territoire en PvP (recoupé sources)
+Le **Nutcracker** est la piste la plus intéressante pour nous : si l'unité existe sur console et **persiste hors connexion**, elle répondrait au problème des tourelles portatives qui disparaissent. Rien ne le confirme pour l'instant.
 
-- **Tourelles automatiques aux points de passage obligés** ; les tourelles Gatling sont citées comme les plus efficaces, en particulier contre les véhicules.
-- **Déviants Nutcracker** en première ligne (jusqu'à 20), combinés aux tourelles et aux pièges.
-- **Murs en nid d'abeille** (couches successives) et exploitation du relief : falaises, ponts, goulots.
-- **Le réseau électrique doit tenir la charge** : les défenses tombent avec le courant — d'où le générateur de secours (voir [Prendre une zone](../guerre/prise-de-zone.md)).
-- **Ne stockez pas près des murs extérieurs** : les ressources de valeur vont au cœur de la structure, dans les parties difficiles d'accès.
-- **Base de production en zone sûre**, base de combat en zone PvP : les sources déconseillent de tout mettre au même endroit.
-- Coordination : rôles assignés dans la Ruche, déplacements en groupe, surveillance des téléporteurs et zones d'impact.
+## Défense de territoire en PvP (pistes recoupées)
 
-## Lecture pour notre contexte GvG console
+Points sur lesquels au moins deux sources convergent :
 
-En attendant vérification sur PS5 : la compétence **Brawl Boost** et le profil **Unstable Bomber** sont les priorités à tester pour les zones d'affrontements ; le build **Tank Fortress Warfare** correspond au rôle de défenseur de bunker ; les **Nutcrackers** sont la piste la plus prometteuse pour tenir une zone hors connexion, à confirmer (persistance non testée, comme les tourelles). Contrainte de phase : Falcon et Heavy Duty viennent des Trésors mystiques de Red Sands et Chalk Peak, **derrière le mur rouge en phase 1** — prévoir Agent (Iron River) ou la Machine à vœux en substitution.
+- Tourelles automatiques **aux passages obligés** (Gatling citées comme les plus efficaces, notamment contre les véhicules).
+- **Déviants Nutcracker** en première ligne, combinés aux tourelles et aux pièges.
+- Murs **en couches successives** et exploitation du relief : falaises, ponts, goulots.
+- **Le réseau électrique doit tenir la charge** : les défenses tombent avec le courant — cohérent avec ce qu'on a constaté en zone (générateur = point faible).
+- **Ne rien stocker près des murs extérieurs** ; les ressources de valeur au cœur de la structure.
+- **Séparer production (zone sûre) et combat (zone PvP)** — cohérent avec notre organisation actuelle.
+
+Ces points-là recoupent nos propres observations de terrain, ce qui les rend plus crédibles que le reste de la page.
+
+## Où les sources divergent
+
+À garder en tête avant de dépenser des ressources :
+
+1. **Quel ensemble pour le build Shrapnel** : Lonewolf ×4 (ScreenRant) contre Falcon ×4 (Skycoach) — pour un build identique par ailleurs.
+2. **Quel est « le meilleur ensemble »** : Lonewolf pour les uns, Falcon « le meilleur à tous les stades » pour les autres.
+3. **Bastille** : classé parmi les ensembles défensifs par deux guides, relégué 8ᵉ et jugé risqué (immobilité) par un troisième.
+4. **Le meilleur ensemble défensif** : Savior (soins) selon TheGamer, Heavy Duty (réduction de dégâts) ou Bastille selon d'autres, Renegade dans le build tank de ScreenRant. Aucun consensus.
+5. **Résistance à la pollution** : les valeurs 9 / 12 / 16 points circulent dans plusieurs articles, mais le dev blog officiel de janvier 2026 annonce explicitement une **réduction de la résistance apportée par l'équipement** — ces chiffres sont probablement périmés.
+6. **Les listes de compétences** varient d'un guide à l'autre selon la version et le scénario.
+
+Quand deux sources se contredisent, le wiki ne tranche pas : c'est une capture en jeu qui tranchera.
+
+## Ce qu'on en retient pour XR1
+
+Trois pistes à tester en priorité, dans l'ordre de ce qu'elles coûteraient à vérifier :
+
+1. **Brawl Boost** — chercher la compétence dans l'écran du Berceau et lire son effet réel : si les −20 % de dégâts des humains existent sur console, c'est gratuit et directement utile en zone d'affrontements.
+2. **Le principe du combo** (débuff au secondaire, dégâts au principal, bascule pendant *Tactical Combo*) — testable avec les armes qu'on a déjà.
+3. **Le Nutcracker** — vérifier son existence, le nombre posable et sa persistance hors connexion.
+
+Le reste (ensembles d'armure, armes S+, mods) dépend d'objets qu'on ne possède pas et de scénarios qui ne sont peut-être pas les nôtres : à ne pas planifier tant que rien n'est vérifié en jeu.
 
 ## Sources
 
-[Skycoach — builds méta](https://skycoach.gg/blog/once-human/articles/best-once-human-builds) · [Raidrig — combos armes/Déviants](https://raidrig.com/guides/once-human-best-builds-guide) · [TopUpLive — tier list armes 2026](https://www.topuplive.com/news/once-human-best-weapons-tier-list-2026.html) · [ScreenRant — build Shrapnel](https://screenrant.com/once-human-best-shrapnel-build/) · [ScreenRant — build tank](https://screenrant.com/once-human-best-fortress-warfare-tank-build/) · [The Nerd Stash — Cradle Overrides](https://thenerdstash.com/best-cradle-overrides-in-once-human-cradle-override-guide/) · [Game8 — Cradle](https://game8.co/games/Once-Human/archives/468460) · [Game8 — mods](https://game8.co/games/Once-Human/archives/468371) · [GAMES.GG — calibration et mods](https://games.gg/once-human/guides/once-human-calibration-mods-guide/) · [GAMES.GG — Déviants](https://games.gg/once-human/guides/once-human-deviants-tier-list/) · [DualShockers — PvP territorial](https://www.dualshockers.com/once-human-prismverse-clash-tips/) · [DualShockers — armures](https://www.dualshockers.com/best-once-human-armor-sets/) · [OnceHumanBase — armures 2026](https://oncehumanbase.com/blog/top-10-once-human-armor-sets-for-2026-the-ultimate-guide-to-dominate-manibus) · [TheGamer](https://www.thegamer.com/once-human-best-armor-sets-list/) · [Upcomer — Shrapnel saison 2](https://upcomer.com/complete-guide-to-the-shrapnel-build-in-once-human/) · [Game Truth — PvP](https://www.gametruth.com/guides/once-human-guide-how-to-win-in-pvp/)
+[Skycoach](https://skycoach.gg/blog/once-human/articles/best-once-human-builds) · [Raidrig](https://raidrig.com/guides/once-human-best-builds-guide) · [TopUpLive — tier list armes](https://www.topuplive.com/news/once-human-best-weapons-tier-list-2026.html) · [ScreenRant — Shrapnel](https://screenrant.com/once-human-best-shrapnel-build/) · [ScreenRant — tank](https://screenrant.com/once-human-best-fortress-warfare-tank-build/) · [ScreenRant — reset de saison](https://screenrant.com/once-human-prepare-season-reset/) · [The Nerd Stash — Cradle](https://thenerdstash.com/best-cradle-overrides-in-once-human-cradle-override-guide/) · [Game8 — Cradle](https://game8.co/games/Once-Human/archives/468460) · [Once Human Database — 168 compétences](https://www.oncehumandb.com/cradle-overrides) · [GAMES.GG — calibration et mods](https://games.gg/once-human/guides/once-human-calibration-mods-guide/) · [GAMES.GG — Déviants](https://games.gg/once-human/guides/once-human-deviants-tier-list/) · [DualShockers — PvP territorial](https://www.dualshockers.com/once-human-prismverse-clash-tips/) · [DualShockers — armures](https://www.dualshockers.com/best-once-human-armor-sets/) · [OnceHumanBase](https://oncehumanbase.com/blog/top-10-once-human-armor-sets-for-2026-the-ultimate-guide-to-dominate-manibus) · [TheGamer — armures](https://www.thegamer.com/once-human-best-armor-sets-list/) · [PC Gamer — resets de serveur](https://www.pcgamer.com/games/survival-crafting/once-human-season-reset/) · [GameRant — ce qui est conservé](https://gamerant.com/once-human-season-reset-what-carries-over/) · [Dev blog officiel — Zones de Pollution](https://www.oncehuman.game/news/devBlog/20260115/40781_1282049.html)
