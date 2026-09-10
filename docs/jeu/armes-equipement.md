@@ -59,10 +59,12 @@ Deux systèmes distincts, qu'il est facile de confondre :
 
 | Emplacement (Rang V) | PV | Résistance à la pollution | Intensité Psi |
 |---|---|---|---|
-| **Capuche / casque** | 740 | 12 | 92 |
 | **Veste / haut** | **1 924** | **16** | 64 |
+| **Chaussures** | 1 480 | 12 | 46 |
+| **Capuche / casque** | 740 | 12 | 92 |
+| Pantalon, gants, masque | *à relever* | | |
 
-À retenir : le **torse porte 2,6 fois plus de PV** que le casque et davantage de résistance à la pollution, mais moins d'Intensité Psi. Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur **6 emplacements** (casque, masque, haut, pantalon, gants, bottes).
+Ces valeurs sont **identiques quel que soit l'ensemble** — vérifié sur les onze ensembles pour les capuches, les hauts et les chaussures. À retenir : le **haut est de loin la pièce la plus lourde** (2,6 fois les PV d'un casque et la meilleure résistance à la pollution), les **chaussures viennent ensuite** (1 480 PV), et le **casque compense en Intensité Psi** (92, le double des chaussures). Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur **6 emplacements** (casque, masque, haut, pantalon, gants, bottes).
 
 **Tenue Bastille** — le set défensif que les guides avaient mal compris :
 

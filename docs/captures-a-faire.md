@@ -88,7 +88,7 @@
 - [ ] **Statistiques d'un masque, pantalon, gants et bottes** → pour chiffrer la résistance à la pollution d'une tenue complète
 - [ ] **Liste complète des « Protections clés »** → cinq relevées (Congère, Envoûté Mag, Cape de doyen, Mine explosive, **Moment Magnétique**), combien y en a-t-il ?
 - [ ] **Comment applique-t-on le statut « Surtension » ?** → condition du contrôle de foule du Moment Magnétique (7 m)
-- [ ] 🔥 **Statistiques de base des emplacements manquants** : pantalon, gants, bottes, masque → onglets suivants de l'écran Schémas de protection. Acquis : casque 740/12/92, haut 1 924/16/64
+- [ ] **Statistiques de base des trois derniers emplacements** : pantalon, gants, masque. Acquis : haut 1 924/16/64, chaussures 1 480/12/46, casque 740/12/92
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
 - [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
