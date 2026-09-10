@@ -49,7 +49,9 @@ Deux systèmes distincts, qu'il est facile de confondre :
 
 **Autrement dit** : améliorer l'établi ne rend pas une même recette meilleure, il en débloque de nouvelles. Ce qui rend l'objet plus puissant, c'est le **rang du schéma** — et c'est là que passe le Protochrome.
 
-*(Reste à vérifier : si un établi de palier supérieur modifie malgré tout le résultat d'une recette identique — rien ne l'indique, mais rien ne l'exclut formellement. Et le fonctionnement précis des rangs de schéma, dont la signification des étoiles affichées sous le nom.)*
+**Priorité d'investissement du Protochrome ✅ (retour terrain 10/09/2026)** : déverrouiller un schéma coûte **2 000**, mais **monter les étoiles d'un schéma coûte beaucoup plus cher**. Tant qu'aucun ensemble n'est complet, la largeur bat donc la profondeur : **quatre schémas d'un même ensemble** (8 000 Protochrome) débloquent les **quatre paliers de bonus**, ce qui pèse bien plus lourd qu'un rang supplémentaire sur une pièce isolée. Les améliorations d'étoiles se justifient plus tard, une fois l'ensemble monté.
+
+*(Reste à vérifier : si un établi de palier supérieur modifie malgré tout le résultat d'une recette identique — rien ne l'indique, mais rien ne l'exclut formellement. Et le coût chiffré d'un rang d'étoile.)*
 
 ### Bonus de set relevés en jeu ✅ (10/09/2026)
 
