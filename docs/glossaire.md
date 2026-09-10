@@ -137,6 +137,10 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | **Conversion de schéma** | ✅ Système à compteur de tentatives (9/18 relevé) — fonctionnement à documenter |
 | **Ombre solitaire** | ✅ « Lone Shadow » des guides — cumul de dégâts critiques de la Tenue de loup solitaire |
 | **État Bastille** | ✅ État obtenu accroupi et immobile 0,5 s (Tenue Bastille) |
+| **Protection clé** | ✅ Famille d'équipement sans effet d'ensemble, dotée d'un **« Effet clé (un seul actif) »** |
+| **Sync / Surcharge** | ✅ Cumul de dégâts et dégâts de zone (Tenue du lien fantôme) |
+| **Tireur rapide** | ✅ État cité par la pièce clé « Envoûté Mag » |
+| **Bombe instable** | ✅ Objet cité par la pièce clé « Haut de mine explosive » |
 | **Concentration d'archer** | ✅ Cumul de dégâts aux points faibles (Tenue de renégat) |
 | **Énergie déviante** | ✅ Cumul de dégâts élémentaires (Tenue protectrice) |
 | **Protection énergétique** | ✅ Cumul de réduction de dégâts (Tenue brave-tempête) |
@@ -160,7 +164,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | **Marées traîtresses** | — | ✅ bonus relevés — meilleure réduction de dégâts du jeu |
 | **Marée de gravité** | — | ✅ bonus relevés |
 | **Résonance des Os des Ténèbres** | — | ✅ présent, bonus relevés |
-| **Lien fantôme** | — | ⏳ présent, bonus à relever |
+| **Lien fantôme** | — | ✅ bonus relevés — Sync et Surcharge (dégâts de zone) |
 | **Faucon** | Falcon | ❌ **pas trouvé** — cohérent avec une obtention à Red Sands (zone niv. 40+, derrière le mur rouge en phase 1) |
 
 **Ce que ça apprend** : la moitié des ensembles disponibles sur console (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme) **n'est commentée par aucun guide anglophone**. Les classements « top 10 » ignorent donc une partie du contenu réellement accessible. Bonus de set de chacun : à relever.

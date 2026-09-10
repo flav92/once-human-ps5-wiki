@@ -40,7 +40,14 @@ D'après ces sources, la statistique **Résistance à la pollution** se trouvera
 
 ### Bonus de set relevés en jeu ✅ (10/09/2026)
 
-**Statistiques de base d'une capuche Rang V** (identiques sur les deux ensembles) : **740 PV, 12 Résistance à la pollution, 92 Intensité Psi**. Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur 6 emplacements d'armure.
+**Les effets d'ensemble ne dépendent PAS de l'emplacement** ✅ (vérifié 10/09/2026 en comparant les onze capuches et onze vestes) : les quatre paliers sont **rigoureusement identiques**, mot pour mot, qu'on ouvre la fiche de la capuche ou celle de la veste. Seules les **statistiques de base** changent selon l'emplacement.
+
+| Emplacement (Rang V) | PV | Résistance à la pollution | Intensité Psi |
+|---|---|---|---|
+| **Capuche / casque** | 740 | 12 | 92 |
+| **Veste / haut** | **1 924** | **16** | 64 |
+
+À retenir : le **torse porte 2,6 fois plus de PV** que le casque et davantage de résistance à la pollution, mais moins d'Intensité Psi. Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur **6 emplacements** (casque, masque, haut, pantalon, gants, bottes).
 
 **Tenue Bastille** — le set défensif que les guides avaient mal compris :
 
@@ -184,7 +191,29 @@ D'où la combinaison : **4 pièces Brave-tempête + 2 pièces Marées traîtress
 
 *(Question ouverte : le rang du schéma — Rang V sur toutes les fiches relevées — et les améliorations payées en Protochrome modifient-ils les **statistiques de base** de la pièce, les **effets d'ensemble**, ou les deux ? À élucider.)*
 
-*(Ensemble **Lien fantôme** : pas encore relevé.)*
+**Tenue du lien fantôme** — le onzième ensemble, relevé le 10/09/2026 :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Taux de coup critique **+3 %** |
+| 2 | Efficacité de rechargement **+15 %** |
+| 3 | Chaque touche donne 1 cumul de **Sync** : dégâts d'arme **+3 %**, cumulable **10 fois**, buff de 5 s |
+| 4 | À 10 cumuls de Sync, attaquer applique **Surcharge** : dégâts de statut égaux à **50 % de l'Intensité Psi par seconde**, à la cible **et aux ennemis dans un rayon de 3 m**, pendant 5 s |
+
+C'est le seul ensemble à infliger des **dégâts de zone automatiques** — intéressant contre un groupe de défenseurs massés, mais il faut maintenir 10 cumuls (5 s chacun) pour y accéder.
+
+### Les « Protections clés » : une seconde famille d'équipement ✅
+
+L'onglet des schémas de protection contient aussi des pièces marquées **« Protection clé »** au lieu de « Ensemble » : elles n'ont **pas d'effet d'ensemble** mais un **« Effet clé (un seul actif) »** — autrement dit, **un seul effet clé peut être actif à la fois**, quel que soit le nombre de pièces portées. Mêmes statistiques de base (1 924 PV / 16 / 64 sur un haut Rang V) et même coût (2 000 Protochrome).
+
+| Pièce | Effet clé |
+|---|---|
+| **Congère** | À la collecte de particules Déviantes : une charge supplémentaire, et dégâts d'arme et de statut **+25 % pendant 25 s** |
+| **Envoûté Mag** | En état **Tireur rapide**, plus les munitions sont basses, plus la chance de tirer une balle supplémentaire est élevée — **jusqu'à 40 %** |
+| **Cape de doyen** | Quand l'effet **Gelé** prend fin sur une cible, elle subit des dégâts de Gel égaux à **50 % des dégâts totaux infligés pendant le Gel** |
+| **Haut de mine explosive** | **Bombe instable** : délai d'explosion +0,3 s et **multiplicateur de dégâts +30 %** |
+
+Ces pièces ouvrent une piste que les guides ignorent totalement : mélanger un **ensemble à 4 pièces** avec **une pièce clé** dont l'effet unique est puissant. Le **Congère** (+25 % de dégâts pendant 25 s) et le **Haut de mine explosive** (+30 % sur les Bombes instables) méritent un test.
 
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
 

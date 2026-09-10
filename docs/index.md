@@ -18,7 +18,9 @@
 
 | Date | Observation |
 |---|---|
-| 10/09 | **Dix ensembles d'armure relevés palier par palier.** Le meilleur ensemble défensif du jeu est la **Tenue des marées traîtresses** — −10 % de dégâts d'arme subis en permanence, bouclier automatique de 20 % des PV max sous 40 % de PV — un ensemble qu'aucun guide anglophone ne mentionne. |
+| 10/09 | Les **effets d'ensemble sont identiques quel que soit l'emplacement** (vérifié en comparant 11 capuches et 11 vestes) ; seules les statistiques de base changent : casque 740 PV / 12 pollution, haut **1 924 PV / 16 pollution**. |
+| 10/09 | Découverte d'une seconde famille d'équipement, les **« Protections clés »** : pas d'effet d'ensemble mais un **effet clé unique** (un seul actif à la fois), ignorée par tous les guides. |
+| 10/09 | **Onze ensembles d'armure relevés palier par palier.** Le meilleur ensemble défensif du jeu est la **Tenue des marées traîtresses** — −10 % de dégâts d'arme subis en permanence, bouclier automatique de 20 % des PV max sous 40 % de PV — un ensemble qu'aucun guide anglophone ne mentionne. |
 | 10/09 | **Tenue Bastille** : son 4ᵉ palier, absent de tous les guides consultés, accorde jusqu'à **60 charges de Protection** valant chacune 1 % des PV max en bouclier — soit +60 % de PV effectifs en position de tir. |
 | 10/09 | Les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 l'unité, limite hebdomadaire 30 000) et non via une « Machine à vœux » comme l'écrivent les guides PC. Les plans sont partagés entre tous les personnages du compte. |
 | 10/09 | Onze ensembles d'armure relevés dans l'écran des schémas console. **Sept d'entre eux ne sont commentés par aucun guide anglophone**, et la Tenue de faucon — présentée ailleurs comme le meilleur ensemble — est absente en phase 1. |
@@ -131,6 +133,7 @@
 | Équipement de sécurité | 20 cuivre, 10 fer, 8 pièces, 3 composants, 5 acide, 1 câble |
 | Schéma d'armure (déverrouillage) | 2 000 Protochrome — limite hebdomadaire 30 000 |
 | Capuche Rang V | 740 PV, 12 Résistance à la pollution, 92 Intensité Psi |
+| Haut Rang V | 1 924 PV, 16 Résistance à la pollution, 64 Intensité Psi |
 
 ---
 *Wiki non officiel, sans affiliation avec NetEase ou Starry Studio. Version PS5 disponible depuis le 25 août 2026 — crossplay complet, free-to-play.*

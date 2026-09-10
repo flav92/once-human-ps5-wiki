@@ -77,12 +77,14 @@
 - [x] ~~**Fiches Bastille et Loup solitaire**~~ ✅ 10/09 : bonus de set complets relevés — Bastille donne jusqu'à **60 % de PV max en bouclier**, Loup solitaire **+60 % de dégâts critiques** à pleine pile
 - [x] ~~**Machine à vœux**~~ ✅ 10/09 : n'existe pas sous ce nom — les schémas s'achètent en **Protochrome** (2 000 l'unité)
 - [x] ~~**Fiches des ensembles inconnus des guides**~~ ✅ 10/09 : neuf relevés (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Marée de gravité, Résonance des Os des Ténèbres, Renégat, Sauveur + les deux déjà faits). **Marées traîtresses** ressort comme le meilleur set défensif du jeu
-- [ ] **Fiche de la Tenue Lien fantôme** → le dernier ensemble non relevé
+- [x] ~~**Fiche de la Tenue Lien fantôme**~~ ✅ 10/09 : Sync (+3 %/cumul, 10 max) puis **Surcharge**, dégâts de zone à 50 % de l'Intensité Psi/s dans 3 m
 - [ ] **Statistiques de base d'un torse et d'un masque** → la résistance à la pollution par emplacement (12 sur la capuche ; les autres emplacements donnent normalement plus)
 - [x] ~~**Test de mélange d'ensembles**~~ ✅ 10/09 : le cumul de deux ensembles partiels **est autorisé**, et le nombre de pièces portées = le nombre de paliers actifs (vu sur les fiches « 1/4 » et « 2/4 »)
 - [ ] 🔥 **Le « boost d'équipement du même type »** → écran et fonctionnement exacts, à capturer
 - [ ] **Effet du rang de schéma (Rang V) et des améliorations Protochrome** → modifient-ils les statistiques de base, les effets d'ensemble, ou les deux ?
-- [ ] **Statistiques de base d'un torse et d'un masque** → résistance à la pollution par emplacement, pour chiffrer une tenue complète
+- [x] ~~**Statistiques de base d'un torse**~~ ✅ 10/09 : haut Rang V = 1 924 PV / 16 pollution / 64 Psi (contre 740 / 12 / 92 au casque)
+- [ ] **Statistiques d'un masque, pantalon, gants et bottes** → pour chiffrer la résistance à la pollution d'une tenue complète
+- [ ] **Liste complète des « Protections clés »** → quatre relevées (Congère, Envoûté Mag, Cape de doyen, Mine explosive), combien y en a-t-il ?
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
 - [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
