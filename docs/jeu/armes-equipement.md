@@ -151,6 +151,24 @@ C'est le point où les guides anglophones se trompent le plus : **quatre ensembl
 
 **Lecture pour la défense de zone GvG** : les **Marées traîtresses** sont le seul ensemble à offrir une réduction de dégâts **permanente et inconditionnelle**, doublée d'un filet de sécurité automatique sous 40 % de PV — et son palier 3 en fait le seul set qui reste performant en zone de pollution, puisqu'il compense la perte de PV max due à la santé mentale. **Bastille** reste supérieur pour tenir un point de tir fixe (60 % de PV en bouclier), **Brave-tempête** pour un défenseur mobile qui encaisse en continu. Combinaisons à tester : rien n'empêche de mélanger 2 pièces de deux ensembles pour cumuler leurs paliers 1 et 2.
 
+### Brave-tempête : le plus polyvalent, avec une réserve
+
+C'est le seul des dix ensembles qui fonctionne **aussi bien en attaque qu'en défense mobile** : ses effets se déclenchent en encaissant et en roulant, deux choses qu'on fait dans les deux rôles. Mais deux limites ressortent de sa fiche :
+
+1. **Ses paliers 3 et 4 se disputent la même ressource.** Le palier 3 accumule des charges de Protection énergétique (−4 % de dégâts subis chacune, jusqu'à 6 = **−24 %**), et le palier 4 en **consomme 3 par roulade** pour l'explosion et le soin. Rouler pour repousser et se soigner revient donc à **sacrifier la moitié de sa réduction de dégâts**. On ne bénéficie pas des deux en même temps. *(Lecture probable des deux fiches — à confirmer en jeu.)*
+2. **Sa réduction de dégâts monte progressivement.** Il faut subir des coups à répétition pour atteindre 6 cumuls (10 s chacun). Contre un pic de dégâts — le moment précis où un assaillant se fait concentrer — la protection n'est pas encore là.
+
+Là où les **Marées traîtresses** offrent −10 % **dès la première seconde**, sans condition, plus un bouclier automatique qui se déclenche tout seul sous 40 % de PV.
+
+### La combinaison à tester : 4 Brave-tempête + 2 Marées traîtresses
+
+Les ensembles comptent **4 paliers** pour **6 emplacements d'armure** — il reste donc **2 emplacements libres** une fois un ensemble complété. Or les deux ensembles ont leur valeur à des paliers opposés :
+
+- **Brave-tempête** met ses effets forts aux **paliers 3 et 4** (réduction cumulative, roulade explosive) : il faut donc **4 pièces**.
+- **Marées traîtresses** met les siens aux **paliers 1 et 2** (**−10 % de dégâts subis permanents**, **+12 % de dégâts sous 70 % de PV**) : **2 pièces suffisent**.
+
+D'où l'hypothèse : **4 pièces Brave-tempête + 2 pièces Marées traîtresses** cumuleraient la réduction progressive, la roulade explosive, la réduction permanente et le bonus de dégâts en mauvaise posture — sans rien perdre. **À vérifier en jeu** : rien ne confirme encore que le jeu autorise le cumul de deux ensembles partiels.
+
 *(Ensemble **Lien fantôme** : pas encore relevé.)*
 
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
