@@ -60,6 +60,25 @@ Deux couches de spécialisation, qui n'obéissent pas aux mêmes règles :
 
 Les rôles **démolisseur** (explosifs), **guetteur** et **producteur arrière** se superposent à cette grille : ils dépendent de l'inventaire et de la position, pas de l'armure.
 
+### Exemple de répartition sur un noyau de quatre joueurs
+
+Cas réel (XR1, septembre 2026), avec le rôle que chacun veut tenir :
+
+| Joueur | Rôle voulu | Ensemble principal | Complément (2 pièces) | Raison |
+|---|---|---|---|---|
+| **Dégâts bruts** | Frapper fort en continu | **Loup solitaire ×4** | Bastille ×2 | +60 % de dégâts critiques à pleine pile ; les paliers 1-2 de Bastille (+10 % de dégâts au-dessus de 70 % de PV, +15 % de rechargement) s'obtiennent **sans la contrainte d'immobilité**, qui n'arrive qu'au palier 3 |
+| **Anti-joueurs** | Tuer les défenseurs | **Lien fantôme ×4** | Marées traîtresses ×2 | Sync monte en **10 touches** (contre 20 coups critiques pour Loup solitaire) : le bon rythme pour un duel court. Et Surcharge frappe **tous les ennemis dans 3 m** — décisif quand les défenseurs se regroupent |
+| **Tank** | Tenir le point | **Bastille ×4** | Marées traîtresses ×2 | La combinaison la plus résistante du jeu : **60 % des PV max en bouclier** accroupi, **−10 % permanents** et un second bouclier automatique sous 40 % de PV |
+| **Démolisseur** | Détruire les structures | **Sauveur ×4** | Marées traîtresses ×2 | ⚠️ **Aucun ensemble n'augmente les dégâts aux structures** — le démolisseur est immobile et vulnérable pendant qu'il pose ses charges. Le **soin automatique sous 30 % de PV** est ce qui le maintient debout sans qu'il quitte sa cible des yeux |
+
+**Ce que cette répartition donne à l'escouade** : trois des quatre portent les paliers 1-2 des Marées traîtresses, donc **−10 % de dégâts subis en permanence pour presque tout le monde**, sans que personne n'y consacre son ensemble principal. Chacun garde sa spécialité, et le socle défensif est mutualisé.
+
+**Le trou à combler** : personne ne joue **brise-ligne** (Brave-tempête ×4). Tant que l'escouade tient à quatre, le tank peut ouvrir ; dès qu'un cinquième arrive, c'est le rôle à lui donner.
+
+**Coût par joueur** : 6 schémas = **12 000 Protochrome**, soit moins d'une semaine de plafond (30 000).
+
+**Rappel pour le démolisseur** : sa puissance ne vient pas de l'armure mais de son inventaire — Explosifs surpuissants, et surtout les **Munitions de démolition** de l'arbre Tech Combat, dont le rapport coût/dégâts contre les structures reste à mesurer.
+
 ### Spécialisation de production (à l'échelle des 30)
 
 Une seule personne par filière suffit à alimenter tout le monde. Répartition suggérée :
