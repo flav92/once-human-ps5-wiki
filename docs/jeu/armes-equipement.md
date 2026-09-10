@@ -38,6 +38,19 @@ D'après ces sources, la statistique **Résistance à la pollution** se trouvera
 - Un système de **Conversion de schéma** existe (compteur de tentatives, 9/18 relevé) — fonctionnement à documenter.
 - Le **Niveau de collection** (12 relevé) monte en déverrouillant ou en optimisant des plans ; c'est lui qui alimente les composants de Précision des accessoires (voir plus haut).
 
+### Établi ou schéma : qu'est-ce qui rend un objet plus puissant ?
+
+Deux systèmes distincts, qu'il est facile de confondre :
+
+| Système | Ce qu'il change | Preuve |
+|---|---|---|
+| **Le palier de l'établi** (Établi de fournitures → **avancé** ; fourneau → **Fourneau électrique**) | **Ce que vous pouvez fabriquer** : chaque palier ouvre de nouvelles recettes. Le Fourneau électrique donne accès au tungstène et à l'acier alliage, l'Établi de fournitures avancé aux munitions perforantes et à la poudre à canon | Recettes relevées en jeu ✅ |
+| **L'amélioration du schéma** (au Protochrome) | **La puissance de l'objet fabriqué** — le jeu l'écrit explicitement : *« Utilisez des Protochromes pour améliorer les plans, afin que les armes nouvellement fabriquées soient plus puissantes dès le départ. »* | Texte de l'écran Schémas ✅ |
+
+**Autrement dit** : améliorer l'établi ne rend pas une même recette meilleure, il en débloque de nouvelles. Ce qui rend l'objet plus puissant, c'est le **rang du schéma** — et c'est là que passe le Protochrome.
+
+*(Reste à vérifier : si un établi de palier supérieur modifie malgré tout le résultat d'une recette identique — rien ne l'indique, mais rien ne l'exclut formellement. Et le fonctionnement précis des rangs de schéma, dont la signification des étoiles affichées sous le nom.)*
+
 ### Bonus de set relevés en jeu ✅ (10/09/2026)
 
 **Les effets d'ensemble ne dépendent PAS de l'emplacement** ✅ (vérifié 10/09/2026 en comparant les onze capuches et onze vestes) : les quatre paliers sont **rigoureusement identiques**, mot pour mot, qu'on ouvre la fiche de la capuche ou celle de la veste. Seules les **statistiques de base** changent selon l'emplacement.

@@ -81,7 +81,9 @@
 - [ ] **Statistiques de base d'un torse et d'un masque** → la résistance à la pollution par emplacement (12 sur la capuche ; les autres emplacements donnent normalement plus)
 - [x] ~~**Test de mélange d'ensembles**~~ ✅ 10/09 : le cumul de deux ensembles partiels **est autorisé**, et le nombre de pièces portées = le nombre de paliers actifs (vu sur les fiches « 1/4 » et « 2/4 »)
 - [ ] 🔥 **Le « boost d'équipement du même type »** → écran et fonctionnement exacts, à capturer
-- [ ] **Effet du rang de schéma (Rang V) et des améliorations Protochrome** → modifient-ils les statistiques de base, les effets d'ensemble, ou les deux ?
+- [ ] 🔥 **Écran d'amélioration d'un schéma au Protochrome** → coût par rang, et ce que gagne l'objet fabriqué (statistiques de base ? effets d'ensemble ? les deux ?)
+- [ ] **Signification des étoiles** affichées sous le nom d'un schéma (rangée de 6) → rang actuel contre rang maximum ?
+- [ ] **Même recette fabriquée sur deux paliers d'établi** → le résultat diffère-t-il, ou l'établi ne fait-il qu'ouvrir des recettes ?
 - [x] ~~**Statistiques de base d'un torse**~~ ✅ 10/09 : haut Rang V = 1 924 PV / 16 pollution / 64 Psi (contre 740 / 12 / 92 au casque)
 - [ ] **Statistiques d'un masque, pantalon, gants et bottes** → pour chiffrer la résistance à la pollution d'une tenue complète
 - [ ] **Liste complète des « Protections clés »** → quatre relevées (Congère, Envoûté Mag, Cape de doyen, Mine explosive), combien y en a-t-il ?
