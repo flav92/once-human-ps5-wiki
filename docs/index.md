@@ -18,6 +18,7 @@
 
 | Date | Observation |
 |---|---|
+| 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
 | 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
 | 10/09 | **Une pièce de butin peut dépasser un schéma** en statistiques brutes — une *Veste tactique de givre* affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué — **mais elle ne vaut que si elle est réparable et refabricable**, ce qui reste à vérifier. Une pièce qu'on ne peut pas refaire est un consommable, pas un équipement. |
 | 10/09 | **Correction — la Tenue de faucon existe sur console**, contrairement à ce que cette page indiquait : elle n'apparaît pas dans les schémas au Protochrome parce qu'elle s'obtient **en butin**. Des *Gants de faucon* Rang V ont été relevés en jeu. |

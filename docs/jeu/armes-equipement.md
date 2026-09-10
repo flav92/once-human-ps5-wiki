@@ -75,6 +75,24 @@ Le tableau ci-dessus contient la démonstration la plus utile de toute cette pag
 
 **Conséquence pratique** : tant qu'il reste une pièce de Rang IV dans la configuration, **la remplacer par n'importe quelle pièce de Rang V rapporte plus que n'importe quel palier d'ensemble**. Un palier d'ensemble donne typiquement −10 % de dégâts subis ou +12 % de dégâts ; passer une pièce de IV à V ajoute plusieurs centaines de PV bruts. La bonne séquence est donc : **d'abord tout monter en Rang V, ensuite optimiser la cohérence d'ensemble**.
 
+### Quel emplacement monter en premier ? Les chaussures ✅
+
+Une fois les valeurs par emplacement connues, le classement des emplacements par poids défensif tombe tout seul :
+
+| Rang | Emplacement | PV en Rang V | Part des PV d'une tenue |
+|---|---|---|---|
+| 1 | **Veste / haut** | 1 924 | le plus lourd, de loin |
+| 2 | **Chaussures** | **1 480** | 77 % d'un haut |
+| 3 | **Gants** | 1 414 | 73 % d'un haut |
+| 4 | **Capuche / casque** | 740 | 38 % d'un haut |
+| — | Pantalon, masque | *Rang V à relever* | |
+
+**Les chaussures sont le deuxième emplacement le plus important du jeu**, et c'est contre-intuitif : on les traite spontanément comme une pièce secondaire, alors qu'elles valent **deux fois un casque**. Sur une configuration réelle relevée le 10/09/2026, remplacer des chaussures Rang IV (640 PV) par du Rang V (1 480 PV) rapporte **+840 PV**, soit **+12,7 % de points de vie totaux** pour une seule pièce.
+
+**La règle qui en découle** : montez les emplacements dans l'ordre haut → chaussures → gants → casque, et à l'intérieur de cet ordre, traitez d'abord les pièces de Rang inférieur. Un haut de Rang V déjà en place ne se remplace pas ; des chaussures de Rang IV, si.
+
+*(Non vérifié : l'emplacement chaussures a-t-il un effet sur la vitesse de déplacement, l'endurance ou le poids transportable, comme dans beaucoup de jeux de survie ? Aucune fiche relevée ne le mentionne — les chaussures n'affichent que PV, résistance à la pollution et Intensité Psi, comme les autres emplacements. À confirmer.)*
+
 ### Une pièce de butin peut battre un schéma ✅
 
 Relevé sur la même configuration : une **Veste tactique de givre** (Protection clé, obtenue en butin) affiche **2 026 PV**, contre **1 924 PV** pour un haut Rang V fabriqué depuis un schéma. Une pièce de butin bien roulée dépasse donc le plafond des schémas au Protochrome — et elle apporte en plus un **effet clé** (ici : des pics de glace supplémentaires lors de la création d'un Vortex de givre, pour 120 % de l'Intensité Psi en dégâts de Gel).
