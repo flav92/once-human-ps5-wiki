@@ -30,16 +30,17 @@ D'après ces sources, la statistique **Résistance à la pollution** se trouvera
 
 Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la place de plusieurs d'entre eux : voir le détail des divergences sur la page [Builds, combos et compétences](../craft/builds.md#ou-les-sources-divergent).
 
-| Ensemble | Obtention rapportée | Orientation |
-|---|---|---|
-| **Savior** | Machine à vœux | Survie : Activateur automatique (3 pièces), défense et agilité accrues après soin (4 pièces) — cité comme le meilleur ensemble défensif |
-| **Bastille** | Machine à vœux | Dégâts d'arme (+10 % / +40 % en position statique) |
-| **Lonewolf** | Machine à vœux | Critique (jusqu'à +48 % de dégâts critiques) |
-| **Renegade** | Machine à vœux | Dégâts sur points faibles (boss/élites) |
-| **Agent** | Trésors mystiques (Iron River) | Points faibles, cadence et rechargement |
-| **Falcon** | Trésors mystiques (Red Sands) | Critique, coût d'endurance réduit |
-| **Heavy Duty** | Trésors mystiques (Chalk Peak) | Dégâts élémentaires |
-| **Shelterer** | Machine à vœux | Dégâts élémentaires (version supérieure) |
+| Nom FR (base de données) | Nom EN des guides | Obtention rapportée | Orientation |
+|---|---|---|---|
+| **Tenue de sauveur** | Savior | Machine à vœux | Survie : Activateur automatique (3 pièces), défense et agilité après soin (4 pièces) |
+| **Tenue Bastille** | Bastille | Machine à vœux | Dégâts d'arme, bonus accroupi/immobile |
+| **Tenue de loup solitaire** | Lonewolf | Machine à vœux | Critique (jusqu'à +48 % de dégâts critiques) |
+| **Tenue de renégat** | Renegade | Machine à vœux | Dégâts sur points faibles (boss/élites) |
+| **Tenue d'agent** | Agent | Trésors mystiques (Iron River) | Points faibles, cadence et rechargement |
+| **Tenue de faucon** | Falcon | Trésors mystiques, **Red Sands — zone niv. 40+** | Critique, coût d'endurance réduit ; cité comme le meilleur set épique PvP |
+| **Tenue d'éclaireur** | Scout | — | Discrétion |
+
+⚠️ **Les classements anglophones ne couvrent qu'une partie du jeu** : une base de données française recense **19 ensembles** — au-delà des précédents, on trouve Blackstone, marée gravitationnelle, marées traîtresses, lien fantôme, panthère des neiges, anti-explosion, brave-tempête, assaut, sécurité, protectrice, résonance des ténèbres et rudimentaire. Aucun guide consulté ne les commente : les « top 10 » sont donc des extraits, pas des classements complets.
 
 Tendance générale des classements 2026, avec les réserves ci-dessus : **Lonewolf** revient le plus souvent en tête pour les dégâts, **Savior** est présenté comme l'ensemble de soutien/survie, **Bastille** et **Heavy Duty** comme des options défensives (Bastille en position statique — profil qui rappellerait la défense de bunker), **Falcon** pour le jeu d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques + fusil AWS.338. Aucun de ces ensembles n'a été vu sur console pour l'instant.
 

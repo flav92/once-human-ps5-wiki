@@ -127,6 +127,22 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Shooting Dummy | Mannequin de tir | ✅ **Mannequin de tir** (confirmé en jeu, 06/09/2026) |
 | Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |
 
+## Ensembles d'armure (correspondance FR/EN)
+
+*Noms français issus d'une base de données communautaire — **à confirmer à l'écran sur PS5**.*
+
+| Nom anglais des guides | Nom français répertorié | Statut |
+|---|---|---|
+| Lonewolf | **Tenue de loup solitaire** | ❓ à confirmer en jeu |
+| Falcon | **Tenue de faucon** | ❓ à confirmer en jeu |
+| Bastille | **Tenue Bastille** | ❓ à confirmer en jeu |
+| Savior | **Tenue de sauveur** | ❓ à confirmer en jeu |
+| Renegade | **Tenue de renégat** | ❓ à confirmer en jeu |
+| Agent | **Tenue d'agent** | ❓ à confirmer en jeu |
+| Scout | **Tenue d'éclaireur** | ❓ à confirmer en jeu |
+
+Autres ensembles répertoriés, absents des guides anglophones : Blackstone, marée gravitationnelle, marées traîtresses, lien fantôme, panthère des neiges, anti-explosion, brave-tempête, assaut, sécurité, protectrice, résonance des ténèbres, rudimentaire.
+
 ## Lieux (noms de la carte)
 
 | Nom anglais | Nom utilisé sur le wiki | Nom exact en jeu (PS5 FR) |

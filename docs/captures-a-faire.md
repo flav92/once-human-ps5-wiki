@@ -74,7 +74,9 @@
 ## 🎯 Builds et compétences (page [Builds](builds.md) — 100 % sources web, rien de vérifié console)
 
 - [ ] 🔥 **Écran des compétences du Berceau** → noms FR exacts et effets réels ; confirmer en priorité **Tactical Combo** (+25 % après changement d'arme) et **Brawl Boost** (−20 % dégâts des humains, la compétence GvG)
-- [ ] **Écran de la Machine à vœux** → quels ensembles d'armure y sont réellement proposés sur console
+- [ ] 🔥 **Fiches des trois ensembles en jeu** : chercher **« loup solitaire »**, **« faucon »** et **« Bastille »** dans l'écran des schémas → capturer les **bonus de set réels (2/3/4 pièces)** pour trancher les contradictions entre guides
+- [ ] **Écran de la Machine à vœux** → quels ensembles y sont réellement proposés sur console
+- [ ] **Liste complète des ensembles dans l'écran des schémas** → confirmer les 19 ensembles répertoriés (les guides n'en commentent que 10)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
 - [ ] **Écran de fabrication d'une arme avec calibration** → confirmer que la calibration s'applique bien **à la fabrication** (changement de janvier 2026) et non après coup
 - [ ] **Écran des mods d'arme** → noms FR des mods clés (Obliterate, Vulnerability Amplifier, Explosive Shrapnel)
