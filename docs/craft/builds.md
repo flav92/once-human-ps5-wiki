@@ -101,6 +101,17 @@ Points sur lesquels au moins deux sources convergent :
 
 Ces points-là recoupent nos propres observations de terrain, ce qui les rend plus crédibles que le reste de la page.
 
+**Principes de fortification décrits par les guides de construction** (à tester, jamais vérifiés console) :
+
+- Défense **en couches successives** : périmètre extérieur → détection → défenses actives (tourelles) → goulots → sanctuaire central. Le but affiché n'est pas d'être imprenable mais de rendre le raid **économiquement absurde** pour l'attaquant.
+- **Doubles couches de murs en quinconce** autour des éléments critiques (générateur, résonateurs) plutôt qu'une seule couche épaisse.
+- **Une seule entrée renforcée** avec un mur intérieur formant un couloir de tir, plutôt que plusieurs accès.
+- **Tourelles en position surélevée** avec champs de tir qui se recoupent ; alimentation de secours prévue.
+- **Loot réparti** en plusieurs points, pas concentré près des murs extérieurs ; le toit protégé au même niveau que les murs.
+- Un guide décrit une place forte de **quatre territoires joueurs réunis** sur un plateau (approche en montée, à découvert), avec trois rangées de murs et un poste central pour réduire les angles morts — ordre de grandeur cité : ~2 700 briques et 600 lingots d'acier pour un bunker défensif.
+
+⚠️ **Réserve de fiabilité** : un des guides de construction consultés emploie un vocabulaire qui n'appartient pas à Once Human (armoires à outils, sas à codes, « béton armé »), typique des guides de Rust. Son contenu est donc **peu fiable** et n'a été retenu que pour les principes généraux, pas pour les noms d'objets.
+
 ## Où les sources divergent
 
 À garder en tête avant de dépenser des ressources :
