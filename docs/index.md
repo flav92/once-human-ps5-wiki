@@ -18,13 +18,17 @@
 
 | Date | Observation |
 |---|---|
+| 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
+| 10/09 | **Une pièce de butin peut dépasser un schéma** : une *Veste tactique de givre* (Protection clé) affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué. Avant de dépenser 2 000 Protochrome sur un emplacement, vérifier ce qu'on y porte déjà. |
+| 10/09 | **Correction — la Tenue de faucon existe sur console**, contrairement à ce que cette page indiquait : elle n'apparaît pas dans les schémas au Protochrome parce qu'elle s'obtient **en butin**. Des *Gants de faucon* Rang V ont été relevés en jeu. |
+| 10/09 | L'équipement possède une **durabilité** qui décroît à l'usage et se restaure à l'Établi d'équipement : **400 points en Rang V, 240 en Rang IV** — un avantage du rang que ne mentionne aucun guide. |
 | 10/09 | **La Ruche est plafonnée à 8 membres** sur console (les guides PC annoncent 12), la faction armée à 30. Comme seule la Ruche contrôle les zones d'affrontements, ces 8 places sont la vraie ressource rare d'une faction. |
 | 10/09 | Les **effets d'ensemble sont identiques quel que soit l'emplacement** (vérifié sur 11 capuches, 11 vestes et 11 paires de chaussures) ; seules les statistiques de base changent : haut 1 924 PV / 16 pollution, chaussures 1 480 / 12, casque 740 / 12. |
 | 10/09 | Découverte d'une seconde famille d'équipement, les **« Protections clés »** : pas d'effet d'ensemble mais un **effet clé unique** (un seul actif à la fois), ignorée par tous les guides. |
 | 10/09 | **Onze ensembles d'armure relevés palier par palier.** Le meilleur ensemble défensif du jeu est la **Tenue des marées traîtresses** — −10 % de dégâts d'arme subis en permanence, bouclier automatique de 20 % des PV max sous 40 % de PV — un ensemble qu'aucun guide anglophone ne mentionne. |
 | 10/09 | **Tenue Bastille** : son 4ᵉ palier, absent de tous les guides consultés, accorde jusqu'à **60 charges de Protection** valant chacune 1 % des PV max en bouclier — soit +60 % de PV effectifs en position de tir. |
 | 10/09 | Les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 l'unité, limite hebdomadaire 30 000) et non via une « Machine à vœux » comme l'écrivent les guides PC. Les plans sont partagés entre tous les personnages du compte. |
-| 10/09 | Onze ensembles d'armure relevés dans l'écran des schémas console. **Sept d'entre eux ne sont commentés par aucun guide anglophone**, et la Tenue de faucon — présentée ailleurs comme le meilleur ensemble — est absente en phase 1. |
+| 10/09 | Onze ensembles d'armure relevés dans l'écran des schémas console. **Sept d'entre eux ne sont commentés par aucun guide anglophone** — les classements « top 10 » des sites de guides ignorent une partie du contenu réellement accessible sur console. |
 | 09/09 | L'arbre Tech Combat contient des **Munitions de démolition** (quatre variantes anti-structure) et le nœud **Voile de la tranquillité** (4 000 points), qui crée des zones sûres dans les Zones de Pollution. |
 | 09/09 | Le béton n'est pas le palier maximal : l'onglet **Amélioration de structure** du Terminal ouvre des filières supérieures (Pierre, Métallique, Alliage — dont des fondations en marbre), verrouillées par technologies. |
 | 09/09 | La sortie d'une pompe à eau dépend de sa zone : eau contaminée en zone de pollution, pétrole brut en champ pétrolifère, eau de mer en zone océanique. Cadence relevée : une unité toutes les 98 s par pompe. |
@@ -136,6 +140,9 @@
 | Capuche Rang V | 740 PV, 12 Résistance à la pollution, 92 Intensité Psi |
 | Haut Rang V | 1 924 PV, 16 Résistance à la pollution, 64 Intensité Psi |
 | Chaussures Rang V | 1 480 PV, 12 Résistance à la pollution, 46 Intensité Psi |
+| Gants Rang V | 1 414 PV, 12 Résistance à la pollution, 88 Intensité Psi |
+| Chaussures Rang IV (comparaison) | 640 PV — soit 43 % d'un Rang V |
+| Durabilité maximale | 400 en Rang V, 240 en Rang IV |
 
 ---
 *Wiki non officiel, sans affiliation avec NetEase ou Starry Studio. Version PS5 disponible depuis le 25 août 2026 — crossplay complet, free-to-play.*

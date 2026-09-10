@@ -166,7 +166,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | **Marée de gravité** | — | ✅ bonus relevés |
 | **Résonance des Os des Ténèbres** | — | ✅ présent, bonus relevés |
 | **Lien fantôme** | — | ✅ bonus relevés — Sync et Surcharge (dégâts de zone) |
-| **Faucon** | Falcon | ❌ **pas trouvé** — cohérent avec une obtention à Red Sands (zone niv. 40+, derrière le mur rouge en phase 1) |
+| **Faucon** | Falcon | ✅ **existe sur console, en butin uniquement** — absent de la liste des schémas au Protochrome, mais des *Gants de faucon* Rang V ont été relevés en jeu (10/09/2026) |
 
 **Ce que ça apprend** : la moitié des ensembles disponibles sur console (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme) **n'est commentée par aucun guide anglophone**. Les classements « top 10 » ignorent donc une partie du contenu réellement accessible. Bonus de set de chacun : à relever.
 

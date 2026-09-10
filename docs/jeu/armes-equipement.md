@@ -57,14 +57,36 @@ Deux systèmes distincts, qu'il est facile de confondre :
 
 **Les effets d'ensemble ne dépendent PAS de l'emplacement** ✅ (vérifié 10/09/2026 en comparant les onze capuches et onze vestes) : les quatre paliers sont **rigoureusement identiques**, mot pour mot, qu'on ouvre la fiche de la capuche ou celle de la veste. Seules les **statistiques de base** changent selon l'emplacement.
 
-| Emplacement (Rang V) | PV | Résistance à la pollution | Intensité Psi |
-|---|---|---|---|
-| **Veste / haut** | **1 924** | **16** | 64 |
-| **Chaussures** | 1 480 | 12 | 46 |
-| **Capuche / casque** | 740 | 12 | 92 |
-| Pantalon, gants, masque | *à relever* | | |
+| Emplacement | PV | Résistance à la pollution | Intensité Psi | Rang |
+|---|---|---|---|---|
+| **Veste / haut** | **1 924** | **16** | 64 | V (schéma) |
+| **Chaussures** | 1 480 | 12 | 46 | V (schéma) |
+| **Gants** | 1 414 | 12 | 88 | V (pièce de butin, Faucon) |
+| **Capuche / casque** | 740 | 12 | 92 | V (schéma) |
+| Pantalon | 768 | 11 | 48 | **IV** — Rang V à relever |
+| Chaussures | 640 | 11 | 30 | **IV** (même emplacement que la ligne 1 480 PV) |
+| Masque | 160 | 14 | 75 | **IV** — Rang V à relever |
 
 Ces valeurs sont **identiques quel que soit l'ensemble** — vérifié sur les onze ensembles pour les capuches, les hauts et les chaussures. À retenir : le **haut est de loin la pièce la plus lourde** (2,6 fois les PV d'un casque et la meilleure résistance à la pollution), les **chaussures viennent ensuite** (1 480 PV), et le **casque compense en Intensité Psi** (92, le double des chaussures). Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur **6 emplacements** (casque, masque, haut, pantalon, gants, bottes).
+
+### Le rang prime sur l'ensemble ✅ (relevé 10/09/2026)
+
+Le tableau ci-dessus contient la démonstration la plus utile de toute cette page : **des chaussures Rang IV valent 640 PV, des chaussures Rang V en valent 1 480**. Soit **+131 % de points de vie pour un seul rang d'écart**, sur le même emplacement.
+
+**Conséquence pratique** : tant qu'il reste une pièce de Rang IV dans la configuration, **la remplacer par n'importe quelle pièce de Rang V rapporte plus que n'importe quel palier d'ensemble**. Un palier d'ensemble donne typiquement −10 % de dégâts subis ou +12 % de dégâts ; passer une pièce de IV à V ajoute plusieurs centaines de PV bruts. La bonne séquence est donc : **d'abord tout monter en Rang V, ensuite optimiser la cohérence d'ensemble**.
+
+### Une pièce de butin peut battre un schéma ✅
+
+Relevé sur la même configuration : une **Veste tactique de givre** (Protection clé, obtenue en butin) affiche **2 026 PV**, contre **1 924 PV** pour un haut Rang V fabriqué depuis un schéma. Une pièce de butin bien roulée dépasse donc le plafond des schémas au Protochrome — et elle apporte en plus un **effet clé** (ici : des pics de glace supplémentaires lors de la création d'un Vortex de givre, pour 120 % de l'Intensité Psi en dégâts de Gel).
+
+À retenir avant de dépenser 2 000 Protochrome sur un schéma : **vérifier d'abord ce qu'on a déjà en butin sur cet emplacement**. Le Protochrome se justifie sur les emplacements faibles, pas sur ceux déjà couverts par une bonne pièce trouvée.
+
+### L'équipement s'use ✅
+
+Chaque pièce affiche une **durabilité** (ex. 191/400, 84/240, 360/400). Elle décroît à l'usage et se restaure à l'**Établi d'équipement, onglet Réparation**. Deux observations :
+
+- La durabilité maximale **dépend du rang** : **400** pour du Rang V, **240** pour du Rang IV. C'est un avantage supplémentaire du rang, rarement mentionné.
+- Une pièce descendue très bas (84/240, soit 35 %) est à réparer en priorité. *À vérifier en jeu : ce que le jeu applique exactement quand la durabilité atteint zéro — perte de statistiques progressive ou pièce désactivée.*
 
 **Tenue Bastille** — le set défensif que les guides avaient mal compris :
 
@@ -271,7 +293,9 @@ Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la 
 | **Tenue de faucon** | Falcon | Trésors mystiques, **Red Sands — zone niv. 40+** | Critique, coût d'endurance réduit ; cité comme le meilleur set épique PvP |
 | **Tenue d'éclaireur** | Scout | — | Discrétion |
 
-✅ **Vérifié à l'écran des schémas console (10/09/2026)** — onze ensembles présents : **Loup solitaire, Bastille, Renégat, Sauveur, Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme**. La **Tenue de faucon n'a pas été trouvée**, ce qui colle à son obtention annoncée à Red Sands (zone niveau 40+, hors de portée en phase 1).
+✅ **Vérifié à l'écran des schémas console (10/09/2026)** — onze ensembles achetables au Protochrome : **Loup solitaire, Bastille, Renégat, Sauveur, Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme**.
+
+⚠️ **Correction (10/09/2026)** — la **Tenue de faucon existe bel et bien sur console**, elle n'est simplement **pas dans la liste des schémas au Protochrome** : des **Gants de faucon Rang V** ont été relevés sur un personnage niveau 41, avec le compteur d'ensemble « Tenue de faucon (1/4) ». Elle s'obtient donc **par butin** (coffres / trésors mystiques), pas par déverrouillage de plan. Une première version de cette page concluait à tort à son absence : l'écran des schémas ne liste **pas** tout l'équipement du jeu.
 
 ⚠️ Conséquence : **sept de ces onze ensembles ne sont commentés par aucun guide anglophone**. Les classements « top 10 » des sites de guides ignorent une partie du contenu réellement accessible sur console — leurs recommandations sont donc à prendre comme partielles. Les bonus de set de chaque ensemble restent à relever en jeu.
 

@@ -71,7 +71,7 @@
 - [ ] **Récompenses du Code d'invitation spéciale** → ce que gagnent le parrain et l'invité (utile pour recruter)
 - [ ] **Écran Niveau de collection / Schémas** → rythme d'obtention des composants de Précision (accessoires d'armes)
 
-## 🎯 Builds et compétences (page [Builds](builds.md) — 100 % sources web, rien de vérifié console)
+## 🎯 Builds et compétences (page [Builds](craft/builds.md) — 100 % sources web, rien de vérifié console)
 
 - [ ] 🔥 **Écran des compétences du Berceau** → noms FR exacts et effets réels ; confirmer en priorité **Tactical Combo** (+25 % après changement d'arme) et **Brawl Boost** (−20 % dégâts des humains, la compétence GvG)
 - [x] ~~**Fiches Bastille et Loup solitaire**~~ ✅ 10/09 : bonus de set complets relevés — Bastille donne jusqu'à **60 % de PV max en bouclier**, Loup solitaire **+60 % de dégâts critiques** à pleine pile
@@ -88,7 +88,10 @@
 - [ ] **Statistiques d'un masque, pantalon, gants et bottes** → pour chiffrer la résistance à la pollution d'une tenue complète
 - [ ] **Liste complète des « Protections clés »** → cinq relevées (Congère, Envoûté Mag, Cape de doyen, Mine explosive, **Moment Magnétique**), combien y en a-t-il ?
 - [ ] **Comment applique-t-on le statut « Surtension » ?** → condition du contrôle de foule du Moment Magnétique (7 m)
-- [ ] **Statistiques de base des trois derniers emplacements** : pantalon, gants, masque. Acquis : haut 1 924/16/64, chaussures 1 480/12/46, casque 740/12/92
+- [x] ~~**Statistiques de base des gants**~~ ✅ 10/09 : gants Rang V = 1 414 PV / 12 pollution / 88 Psi (relevé sur des *Gants de faucon*, pièce de butin)
+- [ ] **Statistiques de base du pantalon et du masque en Rang V** — seuls relevés à ce jour : pantalon Rang IV = 768/11/48, masque Rang IV = 160/14/75. Acquis en Rang V : haut 1 924/16/64, chaussures 1 480/12/46, gants 1 414/12/88, casque 740/12/92
+- [ ] **Que se passe-t-il quand la durabilité d'une pièce atteint zéro ?** → perte progressive de statistiques, ou pièce simplement désactivée ? Laisser descendre une pièce secondaire et photographier la fiche
+- [ ] **Où trouve-t-on la Tenue de faucon ?** → elle n'est pas dans les schémas au Protochrome mais existe en butin (Gants Rang V relevés). Photographier la source exacte (coffre, trésor mystique, zone) le jour où une autre pièce tombe
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
 - [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
