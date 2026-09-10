@@ -167,6 +167,26 @@ C'est le seul des dix ensembles qui fonctionne **aussi bien en attaque qu'en dé
 
 Là où les **Marées traîtresses** offrent −10 % **dès la première seconde**, sans condition, plus un bouclier automatique qui se déclenche tout seul sous 40 % de PV.
 
+### Quel ensemble choisir selon la situation (synthèse des onze fiches)
+
+| Situation | Recommandation | Pourquoi |
+|---|---|---|
+| **Assaut / rush PvP** | **Brave-tempête ×4 + Marées traîtresses ×2** | Roulades peu coûteuses, réduction cumulative jusqu'à −24 %, roulade explosive qui repousse et soigne (+20 % PV), le tout par-dessus les −10 % permanents |
+| **Défense de bunker (poste fixe)** | **Bastille ×4 + Marées traîtresses ×2** | +40 % de dégâts et jusqu'à **60 % des PV max en bouclier** en position accroupie, avec le filet de sécurité automatique sous 40 % de PV |
+| **Duel / PvP mobile** | **Marées traîtresses ×4 + Brave-tempête ×2** | Réduction permanente dès la première seconde, dégâts croissants quand ça tourne mal, bouclier automatique |
+| **Zone de pollution (ferme, exploration)** | **Marées traîtresses ×4** | Le seul ensemble qui **réduit de 40 % la perte de PV max due à la santé mentale** — et qui transforme cette baisse en **+28 % de dégâts** |
+| **Farm de groupes d'ennemis** | **Lien fantôme ×4** + pièce clé **Congère** | Surcharge inflige des dégâts de zone (50 % de l'Intensité Psi/s dans 3 m) ; le Congère ajoute +25 % pendant 25 s après collecte de particules |
+| **Boss / Grands Anciens** | **Loup solitaire ×4 + Renégat ×2** | +60 % de dégâts critiques à pleine pile sur un combat long, plus +10 % aux points faibles et +10 % de vitesse de rechargement |
+| **Farm solo risqué** | **Sauveur ×4** | Soin automatique sous 30 % de PV et bouclier renouvelable : l'ensemble qui pardonne les erreurs quand personne ne peut vous relever |
+| **Build élémentaire** | **Protectrice ×4** ou **Blackstone ×4** | Protectrice cumule jusqu'à +30 % de dégâts élémentaires et **−15 % de dégâts de statut** ; Blackstone monte plus haut mais dépend de la température (10-30 °C) |
+| **Assaut vertical (base à étages)** | **Marée de gravité ×4** | −20 % de dégâts subis en l'air et cumuls gagnés en sautant : la seule à récompenser l'exposition aérienne |
+| **Build compétences de combat** | **Résonance des Os des Ténèbres ×4** | −50 % de temps de recharge en consommant 30 Pouvoir déviant, plus +30 % de dégâts liés à l'Énergie consommée |
+| **Polyvalent, un seul investissement** | **Marées traîtresses ×4** | Le seul ensemble sans condition d'activation : utile en PvP, en farm, en zone de pollution, à l'attaque comme en défense |
+
+**Le choix par défaut**, si vous ne deviez en monter qu'un : **Marées traîtresses**. C'est le seul dont les quatre paliers fonctionnent en permanence, sans posture, sans cumul à monter et sans dépendance à un type de dégâts.
+
+**Ordre d'achat conseillé** (2 000 Protochrome le schéma, limite hebdomadaire 30 000) : les 4 pièces de Marées traîtresses d'abord (8 000), puis 2 pièces de Brave-tempête (4 000) pour la version assaut, ou 2 pièces de Bastille pour la version défense de bunker.
+
 ### Comment fonctionnent les paliers d'ensemble ✅ (confirmé 10/09/2026)
 
 **Le nombre de pièces portées = le nombre de paliers actifs.** Les captures le montrent directement :
