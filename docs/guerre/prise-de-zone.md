@@ -114,6 +114,31 @@ Trois règles logistiques qui changent tout :
 - Visez un élément pour afficher sa durabilité — comptez vos cibles **avant** de dépenser.
 - ⚠️ La **réparation est très bon marché** pour le défenseur (4 bois le plafond, 1 brique la fondation) : concentrez le feu sur UN point et engouffrez-vous, ne saupoudrez jamais.
 
+## Quel équipement porter pour l'assaut ? (analyse des ensembles relevés, 10/09/2026)
+
+Les [dix ensembles relevés en jeu](../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026) ne se valent pas du tout selon qu'on attaque ou qu'on défend. Le profil de l'assaillant est l'opposé de celui du défenseur : **il se déplace, il est à découvert, il change de cible sans arrêt et il ne peut pas s'arrêter pour se soigner**.
+
+**Les deux meilleurs candidats à l'assaut :**
+
+| Ensemble | Pourquoi il colle au rush |
+|---|---|
+| **Brave-tempête** | Tout son kit récompense le mouvement sous le feu : **−20 % de coût d'endurance des roulades**, **−4 % de dégâts subis par cumul jusqu'à −24 %** simplement en encaissant, et surtout une **roulade explosive qui repousse les ennemis proches** en rendant **+5 % de PV par ennemi touché** (jusqu'à +20 %). C'est l'outil pour percer une ligne de défenseurs groupés et se soigner dans le même geste. |
+| **Marées traîtresses** | **−10 % de dégâts d'arme subis en permanence**, sans condition — donc valable pendant toute l'approche à découvert — et un **bouclier automatique de 20 % des PV max sous 40 % de PV**, exactement le moment où un assaut tourne mal. Bonus : **+12 % de dégâts sous 70 % de PV**, jusqu'à +28 % quand la santé mentale baisse. |
+
+**Les ensembles à ne PAS prendre en assaut :**
+
+- **Bastille** : ses 60 % de bouclier exigent d'être **accroupi et immobile**, et sortir du mode **empêche de sprinter** avec une consommation d'endurance doublée pendant 3 s. C'est un piège en rush — mais c'est le meilleur set du jeu **une fois la brèche faite**, pour tenir la position prise.
+- **Renégat** : sa Concentration d'archer se **divise par deux à chaque changement de cible**. En zone d'affrontements où l'on passe d'un défenseur à une structure puis à un autre défenseur, le bonus ne monte jamais.
+- **Loup solitaire** : +60 % de dégâts critiques, mais il faut **20 coups critiques** pour arriver à pleine pile. Excellent sur un siège qui dure, inadapté à un rush de trente secondes.
+
+**Cas particulier — l'assaut vertical** : la **Marée de gravité** donne **−20 % de dégâts subis en l'air** et des cumuls gagnés en parcourant des mètres en l'air. Sur une base à étages où l'on saute de toit en toit pour atteindre le générateur, c'est le seul ensemble qui transforme l'exposition aérienne en avantage. À tester.
+
+**Ce qu'aucun ensemble ne fait** : aucun des dix ne donne de bonus **contre les structures**. Percer reste le travail des [explosifs](../craft/explosifs.md) — l'armure ne sert qu'à survivre à l'approche et à gagner le duel contre les défenseurs.
+
+*(Piste non vérifiée : la compétence du Berceau **Brawl Boost**, qui réduirait de 20 % les dégâts reçus des joueurs humains. Si elle existe sur console, elle se cumule avec l'ensemble choisi et devient la priorité n°1 pour le GvG. À chercher dans l'écran du Berceau.)*
+
+*(Piste non vérifiée : rien ne dit qu'on ne peut pas **mélanger deux ensembles** — 2 pièces Brave-tempête pour les roulades + 2 pièces Marées traîtresses pour la réduction permanente cumuleraient leurs paliers 1 et 2. À tester en jeu.)*
+
 ## La checklist du raid
 
 Leçon du premier assaut (arrêté faute de munitions) — chaque membre emporte :
