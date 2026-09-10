@@ -141,6 +141,7 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | **Sync / Surcharge** | ✅ Cumul de dégâts et dégâts de zone (Tenue du lien fantôme) |
 | **Tireur rapide** | ✅ État cité par la pièce clé « Envoûté Mag » |
 | **Bombe instable** | ✅ Objet cité par la pièce clé « Haut de mine explosive » |
+| **Surtension** | ✅ Statut cité par la pièce clé « Moment Magnétique » — attire les ennemis dans 7 m (mode d'application à identifier) |
 | **Concentration d'archer** | ✅ Cumul de dégâts aux points faibles (Tenue de renégat) |
 | **Énergie déviante** | ✅ Cumul de dégâts élémentaires (Tenue protectrice) |
 | **Protection énergétique** | ✅ Cumul de réduction de dégâts (Tenue brave-tempête) |

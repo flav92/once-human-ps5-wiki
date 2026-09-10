@@ -245,8 +245,13 @@ L'onglet des schémas de protection contient aussi des pièces marquées **« Pr
 | **Envoûté Mag** | En état **Tireur rapide**, plus les munitions sont basses, plus la chance de tirer une balle supplémentaire est élevée — **jusqu'à 40 %** |
 | **Cape de doyen** | Quand l'effet **Gelé** prend fin sur une cible, elle subit des dégâts de Gel égaux à **50 % des dégâts totaux infligés pendant le Gel** |
 | **Haut de mine explosive** | **Bombe instable** : délai d'explosion +0,3 s et **multiplicateur de dégâts +30 %** |
+| **Moment Magnétique** | Les cibles affectées par **Surtension attirent en continu les unités ennemies** dans un rayon de **7 m** |
 
 Ces pièces ouvrent une piste que les guides ignorent totalement : mélanger un **ensemble à 4 pièces** avec **une pièce clé** dont l'effet unique est puissant. Le **Congère** (+25 % de dégâts pendant 25 s) et le **Haut de mine explosive** (+30 % sur les Bombes instables) méritent un test.
+
+**Le Moment Magnétique est le seul effet de contrôle de foule relevé à ce jour** : regrouper les ennemis dans un rayon de 7 m. Combiné à la **Surcharge** de la Tenue du lien fantôme (dégâts de zone dans 3 m) ou à des explosifs, c'est une piste sérieuse pour un rôle d'anti-groupe en zone d'affrontements — à condition de savoir comment on applique **Surtension**, ce qui reste à identifier.
+
+*(Cinq Protections clés relevées ; la liste complète n'est pas connue.)*
 
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
 
