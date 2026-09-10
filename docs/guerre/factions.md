@@ -39,6 +39,48 @@ Chaque joueur dispose d'un **Code d'invitation spéciale** (profil → « Voir l
 - C'est la **Ruche** (pas la faction) qui prend le contrôle des [zones d'affrontements](prise-de-zone.md).
 - Astuce budget : un seul membre débloque un nœud/établi coûteux et **produit pour tout le monde** sur ses établis partagés.
 
+## Organiser une faction de 30 : la répartition des rôles
+
+Deux couches de spécialisation, qui n'obéissent pas aux mêmes règles :
+
+**1. L'armure est individuelle et non partageable.** Les schémas sont liés au compte (« Les plans sont partagés entre tous les personnages de ce compte ») : chaque membre achète les siens, **2 000 Protochrome la pièce, 8 000 pour un ensemble complet**. Personne ne peut équiper un camarade. La complémentarité se joue donc sur **qui monte quoi**.
+
+**2. La production est mutualisable.** Les nœuds Tech coûteux et les établis peuvent bénéficier à toute la Ruche via les établis partagés — inutile que trente personnes débloquent la même chose. *(Mécanique de partage à confirmer précisément : voir l'écran « Gérer les partages ».)*
+
+### Composition d'escouade proposée (6 joueurs)
+
+À 30 membres, tout le monde n'est jamais connecté en même temps : raisonnez par **escouades de 6 autonomes**, pas par groupe de 30.
+
+| Rôle | Ensemble | Mission en zone d'affrontements |
+|---|---|---|
+| **2 × Brise-ligne** | Brave-tempête ×4 | Entrent les premiers, roulade explosive pour disperser les défenseurs groupés, encaissent pendant que les autres avancent |
+| **1 × Tenue de point** | Bastille ×4 | Une fois la brèche faite, s'accroupit dans l'ouverture : +40 % de dégâts et 60 % de PV en bouclier, il tient le couloir |
+| **2 × Porteurs du kit** | Marées traîtresses ×4 | Transportent Équipement de sécurité, générateur et explosifs ; réduction permanente pour survivre à l'approche à découvert, et ce sont eux qui posent après la prise |
+| **1 × Soutien** | Sauveur ×4 ou Lien fantôme ×4 | Sauveur si l'escouade meurt souvent (soin automatique) ; Lien fantôme si les défenseurs se regroupent (dégâts de zone via Surcharge) |
+
+Les rôles **démolisseur** (explosifs), **guetteur** et **producteur arrière** se superposent à cette grille : ils dépendent de l'inventaire et de la position, pas de l'armure.
+
+### Spécialisation de production (à l'échelle des 30)
+
+Une seule personne par filière suffit à alimenter tout le monde. Répartition suggérée :
+
+| Filière | Ce que le spécialiste débloque et produit |
+|---|---|
+| **Acide** | Ferme à eau : pompes, Filtre à eau compact, Cuve de brassage — alimente poudre à canon, tungstène et Équipements de sécurité |
+| **Explosifs** | Soufre en continu, Explosifs variés, Explosifs surpuissants (nœud Tech 180 points) |
+| **Munitions** | Fourneau électrique, tungstène, Établi de fournitures avancé — les perforantes pour toute l'escouade |
+| **Défenses** | Nœuds Tech des tourelles fixes, Entraves protoïdes, Équipement de sécurité |
+| **Rétro-ingénierie** | Banc de synthèse technologique : récupère tous les objets à icône jaune de la faction et redistribue les crafts débloqués |
+
+**Le principe** : personne ne paie deux fois le même déblocage. Ce qui est cher se débloque une fois et profite à tous ; ce qui est individuel (l'armure) se répartit par rôle.
+
+### Ordre de priorité pour une faction qui démarre
+
+1. **Les porteurs du kit d'abord** — Marées traîtresses est l'ensemble le plus polyvalent, il sert en attaque, en défense et en zone de pollution. Si seulement quelques membres peuvent investir tout de suite, c'est celui-là.
+2. **Un ou deux brise-ligne** — Brave-tempête, pour ouvrir les assauts.
+3. **Un tenue de point** — Bastille, indispensable dès que vous occupez une zone à défendre.
+4. Le reste au fil du Protochrome (limite hebdomadaire : 30 000 par personne).
+
 ## Règles PvP à connaître
 
 - PvP **bloqué sous le niveau 10** (État de Chaos inactivable).
