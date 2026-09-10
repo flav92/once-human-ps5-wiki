@@ -10,7 +10,10 @@
 ## 🏠 Base, matériaux et Corrosion
 
 - [x] ~~**Comparatif matériaux**~~ ✅ 09/09 : coûts de réparation unitaires relevés (béton = brique + bois + acier ; pierre = brique + bois ; plafond pierre = brique). Rythme mesuré : **−10 %/jour** des PV max (base à Note 129), identique mur et caisse. *(Bois : toujours aucune donnée.)*
-- [ ] **Effet de la taille de base sur la Corrosion** → refaire la comparaison avec la base voisine (Note 55) **sans réparation entre les deux relevés** — la mesure du 09/09 a été invalidée (réparation probable le matin)
+- [ ] **Effet de la taille de base sur la Corrosion** → refaire la comparaison avec la base voisine (Note 55) **sans réparation entre les deux relevés** — la mesure du 09/09 a été invalidée (réparation probable le matin). Et noter si sa base est **hors Zone de Pollution** : d'après le dev blog officiel, la Corrosion continue est propre aux Zones de Pollution — l'emplacement pourrait compter plus que la taille
+- [ ] **Fiche d'une pièce d'armure avec « Résistance à la pollution »** → nom FR exact de la stat + valeurs par palier (les 9/12/16 points viennent de guides PC)
+- [ ] **Fiche de la Tenue de sujet d'essai** (ou son équivalent FR) → l'ensemble anti-pollution de début de partie, à confirmer sur console
+- [ ] **Fiche des Bières Stardust** (malt / maïs) → confirmer « +100 Résistance à la pollution pendant 1 800 s » sur console
 - [ ] **Même structure visée à 2 moments HORODATÉS** → affiner le rythme de Corrosion (mesuré 08→09/09 : ~10 %/jour à Note de construction 129, heures exactes non notées)
 - [ ] **Écran « Renforcement de territoire »** (Terminal, touche Carré) → coût et durée de la protection anti-Corrosion
 - [ ] **La « valeur de pollution »** du territoire → où elle s'affiche — la **Note de construction** (129 vs 55) semble être le facteur principal du rythme de Corrosion, la pollution reste à situer
