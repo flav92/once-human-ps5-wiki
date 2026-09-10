@@ -137,6 +137,12 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | **Conversion de schéma** | ✅ Système à compteur de tentatives (9/18 relevé) — fonctionnement à documenter |
 | **Ombre solitaire** | ✅ « Lone Shadow » des guides — cumul de dégâts critiques de la Tenue de loup solitaire |
 | **État Bastille** | ✅ État obtenu accroupi et immobile 0,5 s (Tenue Bastille) |
+| **Concentration d'archer** | ✅ Cumul de dégâts aux points faibles (Tenue de renégat) |
+| **Énergie déviante** | ✅ Cumul de dégâts élémentaires (Tenue protectrice) |
+| **Protection énergétique** | ✅ Cumul de réduction de dégâts (Tenue brave-tempête) |
+| **Sensation de chaleur** | ✅ Cumul élémentaire lié à la température (Tenue Blackstone) |
+| **Upper Hand** | ✅ Cumul de dégâts gagné en l'air (Tenue Marée de gravité) — nom anglais conservé en FR |
+| **Pouvoir déviant / Rassasié** | ✅ Ressource et statut cités par la Tenue de Résonance des Os des Ténèbres |
 
 ## Ensembles d'armure (correspondance FR/EN)
 
@@ -144,17 +150,17 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 
 | Nom français vu en jeu | Nom anglais des guides | Statut console |
 |---|---|---|
-| **Loup solitaire** | Lonewolf | ✅ présent |
-| **Bastille** | Bastille | ✅ présent |
-| **Renégat** | Renegade | ✅ présent |
-| **Sauveur** | Savior | ✅ présent |
-| **Protectrice** | — (absent des guides EN) | ✅ présent |
-| **Brave-tempête** | — | ✅ présent |
-| **Blackstone** | — | ✅ présent |
-| **Marées traîtresses** | — | ✅ présent |
-| **Gravité** (marée gravitationnelle ?) | — | ✅ présent |
-| **Résonance des ténèbres** | — | ✅ présent |
-| **Lien fantôme** | — | ✅ présent |
+| **Loup solitaire** | Lonewolf | ✅ bonus relevés |
+| **Bastille** | Bastille | ✅ bonus relevés |
+| **Renégat** | Renegade | ✅ bonus relevés |
+| **Sauveur** | Savior | ✅ bonus relevés |
+| **Protectrice** | — (absent des guides EN) | ✅ bonus relevés |
+| **Brave-tempête** | — | ✅ bonus relevés |
+| **Blackstone** | — | ✅ bonus relevés |
+| **Marées traîtresses** | — | ✅ bonus relevés — meilleure réduction de dégâts du jeu |
+| **Marée de gravité** | — | ✅ bonus relevés |
+| **Résonance des Os des Ténèbres** | — | ✅ présent, bonus relevés |
+| **Lien fantôme** | — | ⏳ présent, bonus à relever |
 | **Faucon** | Falcon | ❌ **pas trouvé** — cohérent avec une obtention à Red Sands (zone niv. 40+, derrière le mur rouge en phase 1) |
 
 **Ce que ça apprend** : la moitié des ensembles disponibles sur console (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme) **n'est commentée par aucun guide anglophone**. Les classements « top 10 » ignorent donc une partie du contenu réellement accessible. Bonus de set de chacun : à relever.

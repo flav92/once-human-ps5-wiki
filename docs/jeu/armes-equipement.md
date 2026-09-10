@@ -64,6 +64,95 @@ D'après ces sources, la statistique **Résistance à la pollution** se trouvera
 
 Soit **+60 % de dégâts critiques** à pleine pile — le set de dégâts de référence, et la traduction française d'« Ombre solitaire » confirme le « Lone Shadow » des guides.
 
+**Tenue de renégat** — points faibles :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Vitesse de rechargement **+10 %** |
+| 2 | Dégâts aux points faibles **+10 %** |
+| 3 | **Concentration d'archer** : +4 % de dégâts aux points faibles par cumul en touchant le même ennemi, **10 cumuls max** ; les cumuls sont **divisés par deux en changeant de cible** |
+| 4 | Au rechargement, pour chaque 1 % de tirs aux points faibles du chargeur précédent, **+0,6 % de munitions supplémentaires**, jusqu'à +30 % |
+
+**Tenue de sauveur** — soins automatiques et bouclier :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Vitesse de recharge de médicament **0,2** |
+| 2 | Sous protection, dégâts d'arme et de statut **+10 %** |
+| 3 | Consomme **8 % des PV actuels** à un coup pour générer un **bouclier de 5 % des PV max** (30 s, recharge 0,5 s) ; au-delà de 40 % de bouclier, les coups réussis prolongent sans coûter de PV. Les PV consommés donnent **+5 % de dégâts**, cumulables 4 fois pendant 12 s |
+| 4 | **Utilise automatiquement le soin le moins puissant du sac** sous 30 % de PV (recharge 40 s) |
+
+**Tenue des marées traîtresses** — la meilleure surprise du lot :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | **Réduction des dégâts d'arme subis : −10 %** (permanent, sans condition) |
+| 2 | Sous 70 % de PV, dégâts d'arme et de statut **+12 %** |
+| 3 | La perte de PV max due à une **faible santé mentale est réduite de 40 %** ; dégâts **+10 %**, montant jusqu'à **+28 %** à mesure que la santé mentale baisse (à 30 % de santé mentale) |
+| 4 | **Bouclier de 20 % des PV max** dès que les PV passent sous 40 % (recharge 8 s) |
+
+**Tenue protectrice** — dégâts élémentaires et résistance aux statuts :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | **Réduction des dégâts de statut : −15 %** |
+| 2 | Dégâts élémentaires (Embrasement, Gel, Choc, Explosion) **+8 %** |
+| 3 | Chaque coup donne 1 cumul d'**énergie déviante** : +1 % de dégâts élémentaires, **20 cumuls max** ; recharger en supprime la moitié |
+| 4 | Cumul max **+10** ; toucher un point faible donne **2 cumuls** au lieu d'un |
+
+**Tenue brave-tempête** — réduction de dégâts cumulative et contrôle :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Coût en endurance des roulades **−20 %** |
+| 2 | Capacité du chargeur **+15 %** |
+| 3 | Subir des dégâts donne **Protection énergétique** : **−4 % de dégâts subis** pendant 10 s, **cumulable 6 fois** (soit −24 %) |
+| 4 | La roulade consomme 3 charges de Protection et déclenche une **explosion qui repousse les ennemis** ; **+5 % de PV par ennemi touché**, jusqu'à +20 % (recharge 10 s) |
+
+**Tenue de Résonance des Os des Ténèbres** — autour du Pouvoir déviant :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | L'Ultime accorde **10 % de bouclier temporaire** pendant 10 s |
+| 2 | Quand le Pouvoir déviant n'est **pas Rassasié**, dégâts d'arme et de statut **+12 %** |
+| 3 | Chaque point d'**Énergie consommé** donne **+0,6 %** de dégâts, jusqu'à **+30 %** |
+| 4 | Consommer **30 Pouvoir déviant** sur une Compétence de combat **réduit son temps de recharge de 50 %** |
+
+**Tenue Blackstone** — élémentaire, dépendante de la température :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Résistance au froid et à la chaleur **2,5** |
+| 2 | Infliger des dégâts élémentaires donne 1 cumul de **Sensation de chaleur** (+2 % de dégâts élémentaires), toutes les 2 s, **5 cumuls max** |
+| 3 | Entre **10 et 30 °C**, statut **Chaud** : **+18 % de dégâts élémentaires** |
+| 4 | Avec 5 à 10 cumuls, le statut est considéré Chaud ; entre 10 et 30 °C, **+7 %** de dégâts élémentaires supplémentaires |
+
+**Tenue Marée de gravité** — jeu aérien :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Hauteur de saut **+10 %** |
+| 2 | Capacité du chargeur **+15 %** |
+| 3 | **En l'air : −20 % de dégâts subis** ; chaque 5 m parcourus en l'air donne 1 cumul d'**Upper Hand** (+2 % de dégâts), **12 cumuls max**, perdu 1 par 5 s |
+| 4 | Au-delà de 8 cumuls d'Upper Hand, dégâts **+15 %** ; après 30 m parcourus en l'air, les cumuls **cessent de diminuer pendant 30 s** |
+
+### Le classement défensif réel (10 ensembles relevés, 10/09/2026)
+
+C'est le point où les guides anglophones se trompent le plus : **quatre ensembles jamais commentés offrent de la survie**, et le meilleur n'est pas celui qu'ils désignent.
+
+| Ensemble | Réduction de dégâts | Bouclier | Condition |
+|---|---|---|---|
+| **Marées traîtresses** | **−10 % permanent**, sans condition | 20 % des PV max sous 40 % de PV | Aucune — et le set **récompense** les PV bas (+28 % de dégâts) |
+| **Bastille** | — | Jusqu'à **60 % des PV max** | Accroupi et immobile ; pénalité de mobilité à la sortie |
+| **Brave-tempête** | Jusqu'à **−24 %** (6 cumuls) | — | Il faut subir des dégâts pour empiler ; soin par roulade |
+| **Marée de gravité** | **−20 %** | — | Uniquement en l'air |
+| **Sauveur** | — | 5 % des PV max, renouvelable + soin auto sous 30 % PV | Coûte 8 % des PV actuels par bouclier |
+| **Protectrice** | −15 % **de statut** uniquement | — | Aucune |
+
+**Lecture pour la défense de zone GvG** : les **Marées traîtresses** sont le seul ensemble à offrir une réduction de dégâts **permanente et inconditionnelle**, doublée d'un filet de sécurité automatique sous 40 % de PV — et son palier 3 en fait le seul set qui reste performant en zone de pollution, puisqu'il compense la perte de PV max due à la santé mentale. **Bastille** reste supérieur pour tenir un point de tir fixe (60 % de PV en bouclier), **Brave-tempête** pour un défenseur mobile qui encaisse en continu. Combinaisons à tester : rien n'empêche de mélanger 2 pièces de deux ensembles pour cumuler leurs paliers 1 et 2.
+
+*(Ensemble **Lien fantôme** : pas encore relevé.)*
+
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
 
 Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la place de plusieurs d'entre eux : voir le détail des divergences sur la page [Builds, combos et compétences](../craft/builds.md#ou-les-sources-divergent).

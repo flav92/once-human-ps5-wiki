@@ -76,8 +76,10 @@
 - [ ] 🔥 **Écran des compétences du Berceau** → noms FR exacts et effets réels ; confirmer en priorité **Tactical Combo** (+25 % après changement d'arme) et **Brawl Boost** (−20 % dégâts des humains, la compétence GvG)
 - [x] ~~**Fiches Bastille et Loup solitaire**~~ ✅ 10/09 : bonus de set complets relevés — Bastille donne jusqu'à **60 % de PV max en bouclier**, Loup solitaire **+60 % de dégâts critiques** à pleine pile
 - [x] ~~**Machine à vœux**~~ ✅ 10/09 : n'existe pas sous ce nom — les schémas s'achètent en **Protochrome** (2 000 l'unité)
-- [ ] 🔥 **Fiches des sept ensembles inconnus des guides** : Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme → leurs bonus de set (l'un d'eux cache peut-être mieux que Bastille)
-- [ ] **Fiches Renégat et Sauveur** → compléter le comparatif défensif
+- [x] ~~**Fiches des ensembles inconnus des guides**~~ ✅ 10/09 : neuf relevés (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Marée de gravité, Résonance des Os des Ténèbres, Renégat, Sauveur + les deux déjà faits). **Marées traîtresses** ressort comme le meilleur set défensif du jeu
+- [ ] **Fiche de la Tenue Lien fantôme** → le dernier ensemble non relevé
+- [ ] **Statistiques de base d'un torse et d'un masque** → la résistance à la pollution par emplacement (12 sur la capuche ; les autres emplacements donnent normalement plus)
+- [ ] **Test de mélange d'ensembles** → peut-on cumuler les paliers 1 et 2 de deux ensembles (ex. 2 pièces Marées traîtresses + 2 pièces Bastille) ?
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
 - [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
