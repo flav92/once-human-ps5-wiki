@@ -15,16 +15,20 @@
 
 **Exemple relevé — « Grand frein de bouche »** (emplacement Bouche) : **+10 % vitesse de balle, +22 % Précision** ; équipable sur fusils d'assaut, mitrailleuses légères et fusils de sniper. Coût : 4 composants de Précision.
 
-## Protection et résistance à la pollution (recoupé sources web — à vérifier sur PS5)
+## Protection et résistance à la pollution (hypothèses issues de sources web)
 
-La statistique **Résistance à la pollution** se trouve sur les **casques, armures de torse et masques**. Tant que votre résistance dépasse la valeur de pollution de la zone, la perte de santé mentale est fortement ralentie ; il n'existe **aucune immunité totale**.
+⚠️ **Aucune de ces données n'a été vérifiée sur PS5.** Elles proviennent de guides PC, dont plusieurs sont antérieurs à la refonte des Zones de Pollution de janvier 2026.
 
-- Ordres de grandeur rapportés : pièce de palier I ≈ 9 points (casque) à 12 points (torse, masque), portés à 12-16 points au palier II via l'Établi d'équipement.
+D'après ces sources, la statistique **Résistance à la pollution** se trouverait sur les **casques, armures de torse et masques**, et tant qu'elle dépasse la valeur de pollution de la zone, la perte de santé mentale serait fortement ralentie — sans **aucune immunité totale**.
+
+- Ordres de grandeur rapportés : pièce de palier I ≈ 9 points (casque) à 12 points (torse, masque), 12-16 points au palier II. **Chiffres probablement périmés** : le dev blog officiel de janvier 2026 annonce explicitement une *réduction de la résistance à la pollution apportée par l'équipement*.
 - Début de partie : la **Tenue de sujet d'essai** (Test Subject Outfit) est citée par plusieurs sources comme le meilleur ensemble anti-pollution, chaque pièce ajoutant de la résistance.
 - Consommables : **Bière de malt Stardust / Bière de maïs Stardust** (+100 de résistance pendant 1 800 s d'après le dev blog officiel de janvier 2026), Gommes de santé mentale, thés aux fruits ; le lit soigne les dégâts de pollution.
 - Côté base : le nœud Tech **Voile de la tranquillité** ✅ (relevé en jeu, 4 000 points) crée des zones sûres dans les Zones de Pollution.
 
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
+
+Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la place de plusieurs d'entre eux : voir le détail des divergences sur la page [Builds, combos et compétences](../craft/builds.md#ou-les-sources-divergent).
 
 | Ensemble | Obtention rapportée | Orientation |
 |---|---|---|
@@ -37,7 +41,7 @@ La statistique **Résistance à la pollution** se trouve sur les **casques, armu
 | **Heavy Duty** | Trésors mystiques (Chalk Peak) | Dégâts élémentaires |
 | **Shelterer** | Machine à vœux | Dégâts élémentaires (version supérieure) |
 
-Convergence des classements 2026 (quatre guides recoupés) : **Lonewolf** domine en dégâts toutes situations, **Savior** est l'ensemble défensif de référence (soins), **Bastille** et **Heavy Duty** assurent la survie (Bastille en position statique — profil adapté à la défense de bunker, Heavy Duty avec réduction de dégâts de proximité et +10 % PV max), **Falcon** couvre le PvP d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques (régénération de PV en Fortress Warfare) + fusil AWS.338.
+Tendance générale des classements 2026, avec les réserves ci-dessus : **Lonewolf** revient le plus souvent en tête pour les dégâts, **Savior** est présenté comme l'ensemble de soutien/survie, **Bastille** et **Heavy Duty** comme des options défensives (Bastille en position statique — profil qui rappellerait la défense de bunker), **Falcon** pour le jeu d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques + fusil AWS.338. Aucun de ces ensembles n'a été vu sur console pour l'instant.
 
 ⚠️ Noms français PS5, disponibilité par phase et valeurs exactes : **à vérifier en jeu** — ces données viennent de guides PC/web. Les coffres « Trésors mystiques » de Chalk Peak et Red Sands sont derrière le mur rouge en phase 1 ; ceux d'**Iron River (ensemble Agent)** sont accessibles dès maintenant.
 
