@@ -127,6 +127,17 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Shooting Dummy | Mannequin de tir | ✅ **Mannequin de tir** (confirmé en jeu, 06/09/2026) |
 | Advanced Synthesis Bench | Établi de synthèse avancé | ✅ **Grand établi de synthèse** (confirmé en jeu, 06/09/2026) |
 
+## Monnaies et systèmes d'équipement
+
+| Terme | Vérifié en jeu |
+|---|---|
+| **Protochrome** | ✅ Monnaie de déverrouillage et d'amélioration des schémas (10/09/2026) — 2 000 par schéma d'armure, limite hebdomadaire 30 000 |
+| **Schémas de protection** | ✅ Onglet des schémas d'armure, classés par emplacement |
+| **Niveau de collection** | ✅ Monte en déverrouillant/optimisant des plans |
+| **Conversion de schéma** | ✅ Système à compteur de tentatives (9/18 relevé) — fonctionnement à documenter |
+| **Ombre solitaire** | ✅ « Lone Shadow » des guides — cumul de dégâts critiques de la Tenue de loup solitaire |
+| **État Bastille** | ✅ État obtenu accroupi et immobile 0,5 s (Tenue Bastille) |
+
 ## Ensembles d'armure (correspondance FR/EN)
 
 **Relevé dans l'écran des schémas console le 10/09/2026 ✅** — onze ensembles vus à l'écran :

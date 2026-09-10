@@ -26,6 +26,44 @@ D'après ces sources, la statistique **Résistance à la pollution** se trouvera
 - Consommables : **Bière de malt Stardust / Bière de maïs Stardust** (+100 de résistance pendant 1 800 s d'après le dev blog officiel de janvier 2026), Gommes de santé mentale, thés aux fruits ; le lit soigne les dégâts de pollution.
 - Côté base : le nœud Tech **Voile de la tranquillité** ✅ (relevé en jeu, 4 000 points) crée des zones sûres dans les Zones de Pollution.
 
+### Comment on obtient les ensembles : le Protochrome ✅ (vérifié 10/09/2026)
+
+**Correction importante** : les guides anglophones attribuent ces ensembles à une « Machine à vœux ». Sur console, les schémas d'armure se **déverrouillent avec du Protochrome**, la monnaie affichée en haut de l'écran Schémas.
+
+- Écran **Schémas → Schémas de protection**, classés par emplacement (casques, masques, torses, pantalons, gants, bottes).
+- **Coût de déverrouillage relevé : 2 000 Protochrome** par schéma (capuche Bastille et capuche de loup solitaire, toutes deux **Rang V**).
+- **Limite hebdomadaire d'obtention : 30 000 Protochrome.**
+- Le Protochrome sert aussi à **améliorer les plans**, pour que les pièces nouvellement fabriquées soient plus puissantes dès le départ.
+- **Les plans sont partagés entre tous les personnages du compte** — un déverrouillage profite à toute votre progression, y compris après un changement de saison.
+- Un système de **Conversion de schéma** existe (compteur de tentatives, 9/18 relevé) — fonctionnement à documenter.
+- Le **Niveau de collection** (12 relevé) monte en déverrouillant ou en optimisant des plans ; c'est lui qui alimente les composants de Précision des accessoires (voir plus haut).
+
+### Bonus de set relevés en jeu ✅ (10/09/2026)
+
+**Statistiques de base d'une capuche Rang V** (identiques sur les deux ensembles) : **740 PV, 12 Résistance à la pollution, 92 Intensité Psi**. Les ensembles comptent **4 paliers de bonus** (affichage « 0/4 ») répartis sur 6 emplacements d'armure.
+
+**Tenue Bastille** — le set défensif que les guides avaient mal compris :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Dégâts d'arme **+10 %** quand les PV sont supérieurs à 70 % |
+| 2 | Vitesse de rechargement **+15 %** |
+| 3 | Rester **accroupi et immobile 0,5 s** fait passer en **état Bastille** : **+40 % de dégâts d'arme**. En quittant l'état : sprint impossible et consommation d'endurance **+100 % pendant 3 s** |
+| 4 | 3 s après la sortie du mode Bastille, gain d'**1 charge de Protection par seconde jusqu'à 60**. En mode Bastille, **chaque charge donne un bouclier égal à 1 % des PV max** |
+
+⚠️ **Le palier 4 change tout** : à pleine charge, c'est un **bouclier de 60 % des PV max** en position de tir. Aucun des guides consultés ne mentionne ce mécanisme — ils décrivaient Bastille comme un set de dégâts « immobile et risqué ». Sur console, c'est un vrai set de tenue de position : exactement le profil d'un défenseur de bunker en zone d'affrontements.
+
+**Tenue de loup solitaire** — conforme à ce que décrivaient les guides :
+
+| Palier | Effet exact |
+|---|---|
+| 1 | Capacité du chargeur **+10 %** |
+| 2 | Taux de coup critique **+5 %** |
+| 3 | Tous les **2 coups critiques**, 1 cumul d'**Ombre solitaire** : **+6 % de dégâts critiques** pendant 30 s, **8 cumuls max** |
+| 4 | Cumul max porté à **10** ; après rechargement, taux critique **+8 % pendant 2 s** |
+
+Soit **+60 % de dégâts critiques** à pleine pile — le set de dégâts de référence, et la traduction française d'« Ombre solitaire » confirme le « Lone Shadow » des guides.
+
 ### Ensembles d'armure notables (schémas — sources web, noms anglais)
 
 Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la place de plusieurs d'entre eux : voir le détail des divergences sur la page [Builds, combos et compétences](../craft/builds.md#ou-les-sources-divergent).

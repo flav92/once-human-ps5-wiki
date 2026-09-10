@@ -9,6 +9,8 @@
 
 **1. Ces builds sont liés à des scénarios précis.** Les guides consultés parlent de Manibus, Way of Winter, Prismverse Clash, Lunacy ou Endless Dream. Le serveur console suit son propre scénario, avec ses phases : la disponibilité des armes, des ensembles et des nœuds Tech peut être différente.
 
+**1 bis. L'obtention décrite est fausse sur console** ✅ : les guides parlent d'une « Machine à vœux ». En réalité, les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 par schéma), et **les plans sont partagés entre tous les personnages du compte**.
+
 **2. L'équipement se ré-acquiert à chaque saison.** D'après plusieurs sources, les **schémas, fragments de schémas, accessoires et mods se conservent** entre saisons, mais **l'équipement fabriqué et les Mémétiques sont remis à zéro**. Un « meilleur build » est donc toujours un build de fin de saison, pas quelque chose qu'on possède d'emblée.
 
 **3. Les listes de compétences sont partielles.** Une base de données recense **168 compétences du Berceau** ; les guides n'en commentent qu'une poignée, et un correctif 1.4 en a ajouté. Ce qui est listé ci-dessous est un extrait, pas un classement exhaustif.
@@ -32,6 +34,8 @@ Si une seule idée de cette page mérite d'être testée en jeu, c'est celle-là
 | **Tank Fortress Warfare** | AWS.338 Black Panther | S870 Sandstorm | Renegade ×4 + bottes en cuir uniques | ScreenRant |
 
 Notez la première ligne et la deuxième : **deux guides décrivent le même build avec deux ensembles d'armure différents**. C'est représentatif de l'ensemble.
+
+✅ **Point vérifié depuis** : les bonus du **Loup solitaire** décrits par les guides sont **exacts** (Ombre solitaire, +6 % de dégâts critiques par cumul, 10 cumuls max) — voir les fiches relevées sur [Armes et équipement](../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026). Les guides sont donc fiables sur ce qu'ils décrivent ; leur problème est ce qu'ils **omettent**.
 
 ### Le combo Shrapnel, tel que décrit par ScreenRant
 
@@ -116,9 +120,9 @@ Ces points-là recoupent nos propres observations de terrain, ce qui les rend pl
 
 À garder en tête avant de dépenser des ressources :
 
-1. **Quel ensemble pour le build Shrapnel** : Lonewolf ×4 (ScreenRant) contre Falcon ×4 (Skycoach) — pour un build identique par ailleurs.
+1. **Quel ensemble pour le build Shrapnel** : Lonewolf ×4 (ScreenRant) contre Falcon ×4 (Skycoach) — pour un build identique par ailleurs. *Sans objet sur console pour l'instant : la Tenue de faucon n'est pas accessible en phase 1.*
 2. **Quel est « le meilleur ensemble »** : Lonewolf pour les uns, Falcon « le meilleur à tous les stades » pour les autres.
-3. **Bastille** : classé parmi les ensembles défensifs par deux guides, relégué 8ᵉ et jugé risqué (immobilité) par un troisième.
+3. **Bastille** : ✅ **tranché en jeu (10/09/2026), et aucun guide n'avait raison**. Sa fiche console révèle un 4ᵉ palier ignoré partout : jusqu'à **60 charges de Protection donnant chacune un bouclier de 1 % des PV max** en mode Bastille, soit **+60 % de PV effectifs** en position de tir. Ce n'est donc pas un simple set de dégâts « risqué » : c'est le set de tenue de position. Détail complet sur [Armes et équipement](../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026).
 4. **Le meilleur ensemble défensif** : Savior (soins) selon TheGamer, Heavy Duty (réduction de dégâts) ou Bastille selon d'autres, Renegade dans le build tank de ScreenRant. Aucun consensus.
 5. **Résistance à la pollution** : les valeurs 9 / 12 / 16 points circulent dans plusieurs articles, mais le dev blog officiel de janvier 2026 annonce explicitement une **réduction de la résistance apportée par l'équipement** — ces chiffres sont probablement périmés.
 6. **Les listes de compétences** varient d'un guide à l'autre selon la version et le scénario.

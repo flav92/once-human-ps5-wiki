@@ -74,9 +74,12 @@
 ## 🎯 Builds et compétences (page [Builds](builds.md) — 100 % sources web, rien de vérifié console)
 
 - [ ] 🔥 **Écran des compétences du Berceau** → noms FR exacts et effets réels ; confirmer en priorité **Tactical Combo** (+25 % après changement d'arme) et **Brawl Boost** (−20 % dégâts des humains, la compétence GvG)
-- [ ] 🔥 **Fiches des trois ensembles en jeu** : chercher **« loup solitaire »**, **« faucon »** et **« Bastille »** dans l'écran des schémas → capturer les **bonus de set réels (2/3/4 pièces)** pour trancher les contradictions entre guides
-- [ ] **Écran de la Machine à vœux** → quels ensembles y sont réellement proposés sur console
-- [ ] **Liste complète des ensembles dans l'écran des schémas** → confirmer les 19 ensembles répertoriés (les guides n'en commentent que 10)
+- [x] ~~**Fiches Bastille et Loup solitaire**~~ ✅ 10/09 : bonus de set complets relevés — Bastille donne jusqu'à **60 % de PV max en bouclier**, Loup solitaire **+60 % de dégâts critiques** à pleine pile
+- [x] ~~**Machine à vœux**~~ ✅ 10/09 : n'existe pas sous ce nom — les schémas s'achètent en **Protochrome** (2 000 l'unité)
+- [ ] 🔥 **Fiches des sept ensembles inconnus des guides** : Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme → leurs bonus de set (l'un d'eux cache peut-être mieux que Bastille)
+- [ ] **Fiches Renégat et Sauveur** → compléter le comparatif défensif
+- [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
+- [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
 - [ ] **Écran de fabrication d'une arme avec calibration** → confirmer que la calibration s'applique bien **à la fabrication** (changement de janvier 2026) et non après coup
 - [ ] **Écran des mods d'arme** → noms FR des mods clés (Obliterate, Vulnerability Amplifier, Explosive Shrapnel)
