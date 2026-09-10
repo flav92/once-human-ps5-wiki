@@ -71,6 +71,14 @@
 - [ ] **Récompenses du Code d'invitation spéciale** → ce que gagnent le parrain et l'invité (utile pour recruter)
 - [ ] **Écran Niveau de collection / Schémas** → rythme d'obtention des composants de Précision (accessoires d'armes)
 
+## 🎯 Builds et compétences (page [Builds](builds.md) — 100 % sources web, rien de vérifié console)
+
+- [ ] 🔥 **Écran des compétences du Berceau** → noms FR exacts et effets réels ; confirmer en priorité **Tactical Combo** (+25 % après changement d'arme) et **Brawl Boost** (−20 % dégâts des humains, la compétence GvG)
+- [ ] **Écran de la Machine à vœux** → quels ensembles d'armure y sont réellement proposés sur console
+- [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
+- [ ] **Écran de fabrication d'une arme avec calibration** → confirmer que la calibration s'applique bien **à la fabrication** (changement de janvier 2026) et non après coup
+- [ ] **Écran des mods d'arme** → noms FR des mods clés (Obliterate, Vulnerability Amplifier, Explosive Shrapnel)
+
 ## Divers utile
 
 - [ ] **Entrée dans une zone noircie de la carte** → confirmer l'hypothèse « zones irradiées » avant de s'y faire piéger

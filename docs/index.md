@@ -54,6 +54,11 @@
 <span class="oh-card-desc">Répartition des rôles entre Ruche et faction armée, création et recrutement, règles du PvP.</span>
 </a>
 
+<a class="oh-card" href="craft/builds/" markdown>
+<span class="oh-card-title">Builds, combos et compétences</span>
+<span class="oh-card-desc">Synthèse de quinze guides : builds de référence, armes classées, mods, compétences du Berceau, Déviants et défense de territoire. Données web, à vérifier sur console.</span>
+</a>
+
 </div>
 
 ## Production et base
