@@ -160,6 +160,19 @@ C'est le seul des dix ensembles qui fonctionne **aussi bien en attaque qu'en dé
 
 Là où les **Marées traîtresses** offrent −10 % **dès la première seconde**, sans condition, plus un bouclier automatique qui se déclenche tout seul sous 40 % de PV.
 
+### Comment fonctionnent les paliers d'ensemble ✅ (confirmé 10/09/2026)
+
+**Le nombre de pièces portées = le nombre de paliers actifs.** Les captures le montrent directement :
+
+- **Tenue protectrice (1/4)** : une seule pièce possédée (les bottes, surlignées dans la liste d'emplacements) → **seul le palier 1 est actif** (marqué en vert sur la fiche).
+- **Tenue Marée de gravité (2/4)** : deux pièces (pantalon et masque surlignés) → **paliers 1 et 2 actifs**.
+
+Donc : 1 pièce = palier 1, 2 pièces = paliers 1-2, 3 pièces = paliers 1-3, 4 pièces = les quatre. Les paliers ne se choisissent pas, ils se débloquent dans l'ordre.
+
+**Le mélange de deux ensembles est autorisé** ✅ (confirmé en jeu) : avec **6 emplacements d'armure** et des ensembles plafonnés à **4 paliers**, on peut donc porter 4 pièces d'un ensemble (paliers 1-4) **+ 2 pièces d'un autre** (paliers 1-2), ou deux fois 3 pièces (paliers 1-3 chacun).
+
+**Conséquence stratégique** : un ensemble dont les meilleurs effets sont aux paliers 1-2 est un excellent complément à 2 pièces, tandis qu'un ensemble dont la valeur est aux paliers 3-4 exige l'engagement complet. C'est exactement l'opposition entre les Marées traîtresses (forts en 1-2) et Brave-tempête (forts en 3-4).
+
 ### La combinaison à tester : 4 Brave-tempête + 2 Marées traîtresses
 
 Les ensembles comptent **4 paliers** pour **6 emplacements d'armure** — il reste donc **2 emplacements libres** une fois un ensemble complété. Or les deux ensembles ont leur valeur à des paliers opposés :
@@ -167,7 +180,9 @@ Les ensembles comptent **4 paliers** pour **6 emplacements d'armure** — il res
 - **Brave-tempête** met ses effets forts aux **paliers 3 et 4** (réduction cumulative, roulade explosive) : il faut donc **4 pièces**.
 - **Marées traîtresses** met les siens aux **paliers 1 et 2** (**−10 % de dégâts subis permanents**, **+12 % de dégâts sous 70 % de PV**) : **2 pièces suffisent**.
 
-D'où l'hypothèse : **4 pièces Brave-tempête + 2 pièces Marées traîtresses** cumuleraient la réduction progressive, la roulade explosive, la réduction permanente et le bonus de dégâts en mauvaise posture — sans rien perdre. **À vérifier en jeu** : rien ne confirme encore que le jeu autorise le cumul de deux ensembles partiels.
+D'où la combinaison : **4 pièces Brave-tempête + 2 pièces Marées traîtresses** cumule la réduction progressive (−24 %), la roulade explosive, la **réduction permanente de −10 %** et le **+12 % de dégâts sous 70 % de PV** — sans rien perdre. Le cumul de deux ensembles partiels étant **confirmé autorisé**, cette combinaison est réalisable ; reste à la monter (6 schémas = 12 000 Protochrome).
+
+*(Question ouverte : le rang du schéma — Rang V sur toutes les fiches relevées — et les améliorations payées en Protochrome modifient-ils les **statistiques de base** de la pièce, les **effets d'ensemble**, ou les deux ? À élucider.)*
 
 *(Ensemble **Lien fantôme** : pas encore relevé.)*
 

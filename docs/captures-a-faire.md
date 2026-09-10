@@ -79,7 +79,10 @@
 - [x] ~~**Fiches des ensembles inconnus des guides**~~ ✅ 10/09 : neuf relevés (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Marée de gravité, Résonance des Os des Ténèbres, Renégat, Sauveur + les deux déjà faits). **Marées traîtresses** ressort comme le meilleur set défensif du jeu
 - [ ] **Fiche de la Tenue Lien fantôme** → le dernier ensemble non relevé
 - [ ] **Statistiques de base d'un torse et d'un masque** → la résistance à la pollution par emplacement (12 sur la capuche ; les autres emplacements donnent normalement plus)
-- [ ] **Test de mélange d'ensembles** → peut-on cumuler les paliers 1 et 2 de deux ensembles (ex. 2 pièces Marées traîtresses + 2 pièces Bastille) ?
+- [x] ~~**Test de mélange d'ensembles**~~ ✅ 10/09 : le cumul de deux ensembles partiels **est autorisé**, et le nombre de pièces portées = le nombre de paliers actifs (vu sur les fiches « 1/4 » et « 2/4 »)
+- [ ] 🔥 **Le « boost d'équipement du même type »** → écran et fonctionnement exacts, à capturer
+- [ ] **Effet du rang de schéma (Rang V) et des améliorations Protochrome** → modifient-ils les statistiques de base, les effets d'ensemble, ou les deux ?
+- [ ] **Statistiques de base d'un torse et d'un masque** → résistance à la pollution par emplacement, pour chiffrer une tenue complète
 - [ ] **Écran « Conversion de schéma »** → à quoi sert le compteur de tentatives (9/18)
 - [ ] **Où farmer le Protochrome** → sources et rythme (limite hebdo 30 000, 8 137 en réserve au 10/09)
 - [ ] **Fiche d'un Déviant Nutcracker** → existe-t-il sur console, combien peut-on en poser, persiste-t-il hors connexion ?
