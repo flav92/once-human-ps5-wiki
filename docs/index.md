@@ -1,17 +1,17 @@
-# Accueil
-
 <div class="oh-hero" markdown>
+<div class="oh-hero__inner" markdown>
 
-<h1>WIKI ONCE HUMAN — PS5</h1>
+<h1>Once Human<em>Wiki de terrain — PS5</em></h1>
 
-<p>Documentation de terrain de la version PlayStation 5, en français. Les données publiées ici sont relevées en jeu, captures d'écran à l'appui : points de vie des structures, recettes de fabrication, mécaniques territoriales. Les informations non vérifiées sont explicitement signalées comme telles.</p>
+<p>Documentation de la version PlayStation 5, en français. Les données publiées ici sont relevées en jeu, captures d'écran à l'appui : points de vie des structures, recettes de fabrication, statistiques d'équipement, mécaniques territoriales. Les informations non vérifiées sont explicitement signalées comme telles.</p>
 
 <div class="oh-badges">
-<span class="oh-badge">Données mesurées en jeu, datées</span>
-<span class="oh-badge">Guides validés en conditions réelles</span>
-<span class="oh-badge oh-badge--amber">Terminologie française vérifiée à l'écran</span>
+<span class="oh-badge">Mesuré en jeu et daté</span>
+<span class="oh-badge oh-badge--violet">Validé en conditions réelles</span>
+<span class="oh-badge oh-badge--amber">Terminologie FR vérifiée à l'écran</span>
 </div>
 
+</div>
 </div>
 
 ## Dernières observations
