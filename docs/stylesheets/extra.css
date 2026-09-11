@@ -517,10 +517,12 @@ body::after {
 /* ------------------------------------------------------------
    10. Apparition au défilement
    ------------------------------------------------------------ */
+/* Les cartes entrent depuis un état déjà lisible : jamais opacity 0,
+   pour qu'une page chargée mais non défilée n'ait aucun trou. */
 .oh-reveal {
-  opacity: 0;
-  transform: translateY(14px);
-  transition: opacity 0.65s var(--oh-ease), transform 0.65s var(--oh-ease);
+  opacity: 0.45;
+  transform: translateY(10px);
+  transition: opacity 0.55s var(--oh-ease), transform 0.55s var(--oh-ease);
 }
 .oh-reveal.oh-in { opacity: 1; transform: none; }
 .oh-grid .oh-card.oh-reveal { transition-delay: calc(var(--oh-i, 0) * 70ms); }
@@ -604,3 +606,92 @@ body::after {
 }
 [data-md-color-scheme="default"] .md-header { color: #0f1a22; }
 /* Le héros reste sombre en mode clair : c'est une bannière, pas du contenu */
+
+/* ------------------------------------------------------------
+   15. Chiffres alignés
+   Ce wiki est un wiki de mesures : les colonnes de PV, de
+   résistance et de coûts doivent se comparer à l'œil.
+   ------------------------------------------------------------ */
+.md-typeset .md-typeset__table table td,
+.md-typeset .md-typeset__table table th {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "tnum" 1;
+}
+
+/* ------------------------------------------------------------
+   16. Système de statut de vérification
+   C'est la convention éditoriale propre à ce wiki : chaque donnée
+   est soit relevée en jeu, soit une hypothèse, soit à confirmer.
+   Trois couleurs distinctes de l'accent décoratif, reprises de la
+   sémantique du jeu : menthe (HUD), ambre (ressources), rouille
+   (alerte).
+   ------------------------------------------------------------ */
+.oh-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.34rem;
+  padding: 0.1rem 0.46rem;
+  font-family: "Chakra Petch", sans-serif;
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  white-space: nowrap;
+  vertical-align: middle;
+  clip-path: polygon(0 0, calc(100% - 5px) 0, 100% 5px, 100% 100%, 5px 100%, 0 calc(100% - 5px));
+}
+.oh-status::before {
+  content: "";
+  width: 5px;
+  height: 5px;
+  flex: 0 0 auto;
+  background: currentColor;
+}
+/* Relevé en jeu, capture à l'appui */
+.oh-status--verifie {
+  color: var(--oh-mint);
+  background: rgba(95, 232, 208, 0.12);
+  border: 1px solid rgba(95, 232, 208, 0.45);
+}
+/* Déduction cohérente mais non prouvée à l'écran */
+.oh-status--hypothese {
+  color: var(--oh-amber);
+  background: rgba(245, 165, 36, 0.12);
+  border: 1px solid rgba(245, 165, 36, 0.45);
+}
+/* Donnée manquante : capture à faire */
+.oh-status--aconfirmer {
+  color: var(--oh-rust);
+  background: rgba(227, 93, 74, 0.12);
+  border: 1px solid rgba(227, 93, 74, 0.45);
+}
+[data-md-color-scheme="default"] .oh-status--verifie  { color: #0f766e; background: rgba(13, 148, 136, 0.10); border-color: rgba(13, 148, 136, 0.45); }
+[data-md-color-scheme="default"] .oh-status--hypothese { color: #a16207; background: rgba(161, 98, 7, 0.10);  border-color: rgba(161, 98, 7, 0.45); }
+[data-md-color-scheme="default"] .oh-status--aconfirmer { color: #b91c1c; background: rgba(185, 28, 28, 0.09); border-color: rgba(185, 28, 28, 0.42); }
+
+/* Légende compacte des trois statuts */
+.oh-legend {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem 1.4rem;
+  margin: 1.2rem 0 1.6rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--oh-line-soft);
+  border-left: 3px solid var(--oh-mint);
+  background: var(--oh-panel);
+}
+.oh-legend p { display: contents; margin: 0; }
+.oh-legend > span, .oh-legend > p > span {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.5rem;
+  font-size: 0.68rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+}
+[data-md-color-scheme="default"] .oh-legend { border-left-color: var(--oh-cyan-deep); }
+@media (max-width: 640px) {
+  .oh-legend { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
+  .oh-legend > span, .oh-legend > p > span { align-items: flex-start; }
+}

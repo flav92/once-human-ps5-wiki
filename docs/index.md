@@ -14,6 +14,12 @@
 </div>
 </div>
 
+<div class="oh-legend">
+<span><span class="oh-status oh-status--verifie">Vérifié</span> Relevé en jeu sur PS5, capture d'écran à l'appui et daté.</span>
+<span><span class="oh-status oh-status--hypothese">Hypothèse</span> Déduction cohérente, non prouvée à l'écran.</span>
+<span><span class="oh-status oh-status--aconfirmer">À confirmer</span> Donnée manquante, capture à faire.</span>
+</div>
+
 ## Dernières observations
 
 | Date | Observation |

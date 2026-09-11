@@ -29,19 +29,20 @@
     update();
   }
 
-  /* ---- 2. Apparition au défilement ---- */
+  /* ---- 2. Animations d'entrée ----
+     Règle : le contenu est lisible dès le chargement. Rien n'est
+     masqué en attendant un défilement — on n'anime que des éléments
+     décoratifs (cartes) et un liseré sous les titres. */
   function reveal() {
-    var targets = document.querySelectorAll(
-      ".md-content .oh-card, .md-content .oh-hero, " +
-      ".md-content .md-typeset h2, .md-content .md-typeset__table, " +
-      ".md-content .md-typeset .admonition"
-    );
-    if (!targets.length) return;
+    var cards = document.querySelectorAll(".md-content .oh-card");
+    var heads = document.querySelectorAll(".md-content .md-typeset h2");
 
-    if (reduced || !("IntersectionObserver" in window)) {
-      Array.prototype.forEach.call(targets, function (el) { el.classList.add("oh-in"); });
-      return;
+    function showAll() {
+      Array.prototype.forEach.call(cards, function (el) { el.classList.add("oh-in"); });
+      Array.prototype.forEach.call(heads, function (el) { el.classList.add("oh-in"); });
     }
+
+    if (reduced || !("IntersectionObserver" in window)) { showAll(); return; }
 
     /* Décalage en cascade pour les cartes d'une même grille */
     document.querySelectorAll(".md-content .oh-grid").forEach(function (grid) {
@@ -57,12 +58,17 @@
           io.unobserve(entry.target);
         }
       });
-    }, { rootMargin: "0px 0px -8% 0px", threshold: 0.08 });
+    }, { rootMargin: "0px 0px -6% 0px", threshold: 0.05 });
 
-    Array.prototype.forEach.call(targets, function (el) {
+    Array.prototype.forEach.call(cards, function (el) {
       el.classList.add("oh-reveal");
       io.observe(el);
     });
+    Array.prototype.forEach.call(heads, function (el) { io.observe(el); });
+
+    /* Filet de sécurité : si quoi que ce soit empêche l'observateur
+       de se déclencher, tout redevient visible au bout d'1,5 s. */
+    window.setTimeout(showAll, 1500);
   }
 
   function init() { progressBar(); reveal(); }

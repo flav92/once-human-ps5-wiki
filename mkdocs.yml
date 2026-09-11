@@ -9,8 +9,8 @@ theme:
   name: material
   language: fr
   font:
-    text: Inter
-    code: JetBrains Mono
+    text: IBM Plex Sans
+    code: IBM Plex Mono
   palette:
     - scheme: slate
       primary: custom
