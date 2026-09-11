@@ -18,6 +18,7 @@
 
 | Date | Observation |
 |---|---|
+| 11/09 | **Les Munitions de démolition coûtent exactement le même prix que les perforantes** — 7 tungstène, 2 poudre à canon, 20 sources protoplasmiques pour 240 balles — avec les mêmes +15 % de dégâts et d'Intensité Psi. Seule la spécialisation change : dégâts supplémentaires aux structures au lieu du bonus anti-blindage. Passer à l'anti-structure ne coûte donc rien. |
 | 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
 | 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
 | 10/09 | **Une pièce de butin peut dépasser un schéma** en statistiques brutes — une *Veste tactique de givre* affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué — **mais elle ne vaut que si elle est réparable et refabricable**, ce qui reste à vérifier. Une pièce qu'on ne peut pas refaire est un consommable, pas un équipement. |
@@ -135,6 +136,7 @@
 | Quart de plafond en bois, zone d'affrontements | 3 200 PV, soit 3 Explosifs surpuissants |
 | Explosifs surpuissants | 3 639 dégâts — Arbre technologique, 180 points, accessible en phase 1 |
 | Munitions perforantes (×240) | 7 lingots de tungstène, 2 poudres à canon, 20 Sources protoplasmiques |
+| Munitions de démolition, calibre moyen (×240) | Coût identique aux perforantes — +15 % DÉG, +15 % Psi, dégâts supplémentaires aux structures |
 | Acide | 20 eaux contaminées par unité (conversions 2:1 puis 10:1) |
 | Équipement de sécurité | 20 cuivre, 10 fer, 8 pièces, 3 composants, 5 acide, 1 câble |
 | Schéma d'armure (déverrouillage) | 2 000 Protochrome — limite hebdomadaire 30 000 |

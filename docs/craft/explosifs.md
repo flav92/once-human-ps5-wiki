@@ -71,6 +71,26 @@ Tout se fabrique à l'**Établi de fournitures avancé** (5 s par craft) :
 |---|---|---|
 | **Munitions à noyau d'acier de calibre moyen** | 7 Lingots d'acier + 2 Poudre à canon + 12 Source protoplasmique | +8 % DÉG par tir, +8 % Intensité Psi |
 | **Munitions perforantes de calibre moyen** | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **+20 % contre les unités blindées** |
+| **Munition de démolition de calibre moyen** ✅ | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **« Inflige des dégâts supplémentaires aux structures »** |
+
+### Munitions de démolition : la fiche exacte ✅ (11/09/2026)
+
+Fiche relevée à l'Établi de fournitures avancé, variante **calibre moyen** :
+
+- **Lot de 240** par fabrication, **5 secondes** de craft.
+- **Coût : 7 lingots de tungstène + 2 poudre à canon + 20 sources protoplasmiques.**
+- Bonus : **+15 % de dégâts par tir**, **+15 % d'Intensité Psi**, et *« Inflige des dégâts supplémentaires aux structures »*.
+- Compatibilité : **fusils, mitrailleuses légères et pistolets mitrailleurs.**
+
+**Le constat qui compte** : la munition de démolition coûte **exactement le même prix que la perforante** — mêmes trois matériaux, mêmes quantités (7 / 2 / 20) — et accorde **les mêmes +15 % / +15 %**. La seule différence est la ligne de spécialisation : *dégâts supplémentaires aux structures* au lieu de *+20 % contre les unités blindées*.
+
+Autrement dit, **le passage à la munition anti-structure est gratuit** : on ne sacrifie aucun dégât brut, on échange un bonus anti-blindage contre un bonus anti-bâtiment, à coût identique. Pour un rôle de démolisseur, il n'y a aucune raison de partir en raid avec des perforantes.
+
+⚠️ **Ce que la fiche ne dit pas** : le **montant** des dégâts supplémentaires aux structures. Le texte reste qualitatif là où la perforante chiffre son bonus (+20 %). Tant que ce nombre n'est pas mesuré, **impossible de comparer les munitions de démolition aux Explosifs surpuissants** (3 639 dégâts) — c'est-à-dire de savoir si un raid doit se mener au fusil ou à l'explosif.
+
+**Protocole de mesure proposé** : tirer un nombre connu de balles sur une structure de PV connus (mur en béton = 3 200 PV, mur en brique = 1 800 PV), relever les PV restants, puis recommencer avec des munitions à noyau d'acier pour isoler le bonus anti-structure. À faire à la prochaine sortie en zone d'affrontements.
+
+*(Les noms des trois matériaux sont déduits des icônes et de la stricte identité des quantités avec la recette des perforantes, relevée au même établi. À confirmer en ouvrant le détail de la recette.)*
 
 Les ingrédients intermédiaires :
 
@@ -101,7 +121,7 @@ L'**Acide** n'entre donc pas directement dans les balles : il passe par la **pou
 
 Nœuds observés dans l'onglet Combat de l'écran Tech (personnage niveau 37, Niveau de technologie 10) :
 
-- **Munitions de démolition** en quatre variantes — pistolet, fusil de chasse, **calibre moyen**, fusil de précision — plus des **Flèches de démolition**. Des munitions spécialisées anti-structure jamais documentées : leur rapport coût/dégâts face aux Explosifs surpuissants est **la prochaine donnée à établir** (fiches à capturer).
+- **Munitions de démolition** en quatre variantes — pistolet, fusil de chasse, **calibre moyen**, fusil de précision — plus des **Flèches de démolition**. Fiche du calibre moyen relevée ✅ (voir ci-dessus) : même coût et mêmes bonus que la perforante, avec des dégâts supplémentaires aux structures à la place du bonus anti-blindage. Le **montant** de ces dégâts supplémentaires reste à mesurer.
 - **Piège de défense – III**, **Matrix Bouclier**, **Lance-flammes Feu grégeois**, **Missiles plasmiques en argent**, lance-roquettes de M. W… — à documenter.
 - **Voile de la tranquillité** (4 000 points de tech) : *« Débloque la capacité de créer des zones sûres dans les Zones de Pollution »* — installation alimentée par le minerai de Protoplasme. Voir [Base et territoire](../jeu/base-territoire.md).
 - Confirmé par message du jeu : **l'Amélioration de structure exige le nœud Tech correspondant** (« Vous devez débloquer le nœud Tech correspondant avant d'améliorer »).

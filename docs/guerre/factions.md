@@ -100,7 +100,7 @@ Cas réel (XR1, septembre 2026), avec le rôle que chacun veut tenir :
 
 **Coût par joueur** : 6 schémas = **12 000 Protochrome**, soit moins d'une semaine de plafond (30 000).
 
-**Rappel pour le démolisseur** : sa puissance ne vient pas de l'armure mais de son inventaire — Explosifs surpuissants, et surtout les **Munitions de démolition** de l'arbre Tech Combat, dont le rapport coût/dégâts contre les structures reste à mesurer.
+**Rappel pour le démolisseur** : sa puissance ne vient pas de l'armure mais de son inventaire — Explosifs surpuissants et **Munitions de démolition**. Ces dernières sont à fabriquer par défaut ✅ : elles coûtent **exactement le même prix que les perforantes** (7 tungstène + 2 poudre à canon + 20 sources protoplasmiques pour 240 balles) et donnent les mêmes +15 % de dégâts et d'Intensité Psi, en échangeant simplement le bonus anti-blindage contre des dégâts supplémentaires aux structures. Le démolisseur doit donc porter un **fusil, une mitrailleuse légère ou un pistolet mitrailleur** — les seules armes compatibles en calibre moyen. Le montant exact du bonus anti-structure reste à mesurer.
 
 ### Spécialisation de production (à l'échelle des 30)
 

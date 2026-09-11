@@ -34,7 +34,9 @@
 - [ ] **Fiche de la Grenade HE** → sa ligne « très efficace niv. X »
 - [ ] **Fiche de la Source protoplasmique** → où ça s'obtient réellement (12 à 20 par craft de munitions — c'est le prochain goulot)
 - [ ] **Recette du Mélange de carburant portatif** → ingrédients exacts (pour les roquettes)
-- [ ] 🔥 **Fiches des Munitions de démolition** (arbre Tech Combat) → dégâts contre les structures et coût — le comparatif face aux Explosifs surpuissants peut changer la doctrine de raid
+- [x] ~~**Fiche des Munitions de démolition (calibre moyen)**~~ ✅ 11/09 : ×240 par craft, 5 s, **7 tungstène + 2 poudre à canon + 20 sources protoplasmiques** — soit le **coût exact de la perforante**. Bonus : +15 % DÉG, +15 % Psi, « dégâts supplémentaires aux structures ». Pour fusils, mitrailleuses légères et PM
+- [ ] 🔥 **Combien valent les « dégâts supplémentaires aux structures » ?** → la fiche ne les chiffre pas. Tirer un nombre connu de balles sur un mur en béton (3 200 PV) ou en brique (1 800 PV), relever les PV restants, puis refaire le test aux munitions à noyau d'acier pour isoler le bonus. **C'est la mesure qui décide si un raid se mène au fusil ou à l'explosif**
+- [ ] **Fiches des trois autres variantes de démolition** (pistolet, fusil de chasse, fusil de précision) + **Flèches de démolition** → même coût que leurs équivalents perforants ?
 - [ ] **Voile de la tranquillité une fois posée** → effet exact de la « zone sûre » en zone de pollution (protège-t-elle de la Corrosion ? des raids ?)
 - [ ] **Conditions du nœud « Tech avancée »** (bouton en bas de l'écran Tech) → ce qu'il contient
 - [ ] **Banc de synthèse technologique avec un objet jaune inséré** → coût en ossements affiché, ce qu'on débloque
