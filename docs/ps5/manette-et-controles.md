@@ -1,6 +1,6 @@
 # Manette DualSense et contrôles
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 17 septembre 2026*
 
 ## Fonctionnalités DualSense
 
@@ -23,6 +23,9 @@ La version PS5 est **compatible clavier/souris** — utile pour la construction 
 
 - **Remappage des touches** disponible dans les options.
 - *À compléter : schéma de contrôles par défaut (mapping complet DualSense), sensibilités recommandées, aim assist (présence et réglages).*
+
+!!! danger "Une raison concrète de remapper `✕`"
+    La popup **« Nouvelle inscription au scénario disponible »** se valide par `R1` + `✕` et **efface votre base**. Deux joueurs l'ont déclenchée par accident en septembre 2026. Si `✕` est bien la touche de saut par défaut (*à confirmer — le mapping n'est pas encore relevé*), sauter en maintenant `R1` pendant l'affichage de la popup suffit à tout perdre. Voir [Inscription au nouveau scénario](../jeu/inscription-nouveau-scenario.md).
 
 ## Sources
 

@@ -24,6 +24,7 @@
 
 | Date | Observation |
 |---|---|
+| 17/09 | **Deux bases perdues par validation accidentelle de la popup d'inscription, dans la même faction.** La double validation `R1` + `✕` n'est pas une sécurité suffisante : la popup reste affichée pendant le jeu normal et revient à chaque connexion. **Aucun retour en arrière n'existe** — ni en jeu, ni par le support. La seule vraie parade : traiter la popup immobile dès l'apparition, et **sauvegarder son plan de base dès maintenant**, avant d'en avoir besoin. |
 | 17/09 | **La popup « Nouvelle inscription au scénario disponible » n'annonce pas la fin de votre serveur** — elle annonce l'ouverture d'un *autre* serveur. Accepter (`R1` + `✕`) transfère immédiatement et remet niveau, équipement, Déviations et territoire à zéro, en clôturant le cycle de récompenses en cours sans règlement. Refuser ne coûte rien : le message revient à chaque connexion tant que la fenêtre d'inscription est ouverte. En Zone de Raid, la vraie échéance est **le préfixe du nom de serveur** — `Weekly_` 7 j, `Biweekly_` 14 j, `Monthly_` 28 j. |
 | 11/09 | **Les Munitions de démolition coûtent exactement le même prix que les perforantes** — 7 tungstène, 2 poudre à canon, 20 sources protoplasmiques pour 240 balles — avec les mêmes +15 % de dégâts et d'Intensité Psi. Seule la spécialisation change : dégâts supplémentaires aux structures au lieu du bonus anti-blindage. Passer à l'anti-structure ne coûte donc rien. |
 | 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
@@ -76,7 +77,7 @@
 
 <a class="oh-card" href="jeu/inscription-nouveau-scenario/" markdown>
 <span class="oh-card-title">Inscription au nouveau scénario <span class="oh-verified">MESSAGE CAPTURÉ</span></span>
-<span class="oh-card-desc">Ce que vous perdez vraiment en acceptant la popup, pourquoi elle revient à chaque connexion, et comment lire la vraie date de reset de votre serveur.</span>
+<span class="oh-card-desc">Ce que vous perdez vraiment en acceptant la popup, pourquoi elle revient à chaque connexion, le risque de miss-click (deux bases perdues) et ce qui reste récupérable.</span>
 </a>
 
 <a class="oh-card" href="craft/builds/" markdown>

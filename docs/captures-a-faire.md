@@ -124,6 +124,8 @@ Page concernée : [Inscription au nouveau scénario](jeu/inscription-nouveau-sce
 - [ ] **Une annulation d'inscription est-elle possible** pendant les 4 h de verrouillage (3.0.5) ? Capture du bouton s'il existe
 - [ ] **L'écran de règlement de fin de cycle** → liste exacte des récompenses, et confirmation du prérequis « niveau 20 »
 - [ ] **Terminologie** : le jeu dit-il « phase de règlement » et « Terre éternelle » sur console ? (entrées ❓ du [glossaire](glossaire.md))
+- [ ] 🔥 **L'écran de mapping par défaut de la manette** (Options → Contrôles) → `✕` est-il bien le saut, et quelle action est sur `R1` ? Deux bases ont été perdues par validation accidentelle de la popup : cette capture dit s'il faut conseiller un remappage à toute la faction
+- [ ] 🔥 **L'onglet Plans de maison après un départ anticipé** → le plan de la base est-il auto-sauvegardé hors fin de saison ? C'est ce qui décide si une base perdue est reconstructible ou définitivement effacée
 
 ## Comment envoyer
 

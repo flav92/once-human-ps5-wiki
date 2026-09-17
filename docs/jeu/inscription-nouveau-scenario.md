@@ -1,6 +1,6 @@
 # « Nouvelle inscription au scénario disponible » — faut-il accepter ?
 
-*Dernière mise à jour : 17 septembre 2026 — message relevé en jeu sur PS5 ✅*
+*Dernière mise à jour : 17 septembre 2026 — message relevé en jeu sur PS5 ✅, deux bases perdues par validation accidentelle dans la même faction*
 
 !!! danger "La réponse courte"
     **Ce n'est pas un reset de votre serveur.** C'est l'ouverture d'un **nouveau serveur**, et le jeu vous propose d'y aller. **Accepter = repartir de zéro tout de suite.** Refuser ne coûte rien : votre partie continue normalement jusqu'à la date de fin de votre propre serveur.
@@ -82,6 +82,38 @@ Nuance importante : ce qui part en Terre éternelle n'est pas automatiquement r�
 !!! warning "Une inscription n'est pas annulable à la légère"
     Depuis la 3.0.5 (2 septembre 2026), la période de **verrouillage** après inscription est de **quatre heures**. Considérez « Oui » comme définitif : le personnage du cycle en cours n'est pas récupérable.
 
+## Le miss-click est un vrai risque, pas une hypothèse
+
+!!! danger "Constaté sur le terrain — deux bases perdues dans la même faction (septembre 2026)"
+    Deux joueurs de la même faction ont validé la popup **sans l'avoir voulu**, et ont perdu leur base et leur progression de cycle. La double validation `R1` + bouton n'est donc **pas** une sécurité suffisante en pratique : elle se déclenche pendant le jeu normal.
+
+**Hypothèse sur la cause** — *à confirmer, le mapping PS5 par défaut n'est pas encore relevé* : `✕` est la touche de **saut**, et `R1` une touche de combat ou de déplacement couramment maintenue. Sauter en maintenant `R1` pendant que la popup est affichée revient alors à répondre « Oui ». Comme le message **revient à chaque connexion**, la fenêtre d'exposition dure tout le cycle d'inscription — et pas seulement quelques secondes.
+
+**Consignes à passer à la faction** tant que ce n'est pas tranché :
+
+1. **Répondre `R1` + `◯` dès l'apparition de la popup**, avant de bouger. Une popup active est un piège ouvert.
+2. À la connexion, **rester immobile** le temps de la traiter — pas de sprint, pas de saut, pas de véhicule.
+3. **Remapper `✕`** (le [remappage des touches](../ps5/manette-et-controles.md) existe dans les options du jeu) si vous jouez beaucoup en déplacement : c'est la seule parade réellement fiable aujourd'hui.
+4. **Prévenir les nouveaux** à l'entrée dans la faction — les deux cas connus sont des joueurs qui ne savaient pas ce que faisait le message.
+
+## Que faire après un « Oui » accidentel
+
+**La mauvaise nouvelle d'abord : le transfert ne se rembobine pas.** Il n'existe aucune procédure de restauration du personnage à son état précédent — ni en jeu, ni côté support. La *Carte de sortie de scénario* (*Scenario Exit Card*) sert à **quitter** un scénario en cours, pas à **revenir** sur un serveur quitté. Un ticket au support reste un coup de poker : s'il est tenté, il faut y joindre la date et l'heure exactes, le nom du serveur quitté et celui d'arrivée.
+
+Ce qui reste réellement récupérable :
+
+| | Scénario PvE classique | Mode Zone de Raid |
+|---|---|---|
+| Plan de la base | ✅ si un plan avait été **sauvegardé manuellement** (onglet *Plans de maison* du mode construction) — recollable pour le prix des matériaux | ❓ à confirmer |
+| Équipement, ressources, Déviations | ✅ déposés en Terre éternelle, réimportables en partie (points d'héritage) | ❌ rien ne sort du mode |
+| Schémas, mods, devises | ✅ permanents, liés au compte | ❌ inutilisables dans le mode, mais conservés sur le compte |
+| Niveau, arbre technologique, structures posées | ❌ perdus | ❌ perdus |
+
+!!! warning "Le point qui coince — à vérifier"
+    Les sources PC indiquent que le jeu **sauvegarde automatiquement un plan de la base à la fin d'une saison**. Un départ anticipé n'est **pas** une fin de saison : rien ne garantit que l'auto-sauvegarde se déclenche. Concrètement, un joueur qui n'a jamais appuyé sur *Ajouter un plan* a probablement perdu le design aussi. **Dites à toute la faction de sauvegarder son plan maintenant** — c'est gratuit, instantané, et ça ne s'improvise pas après coup.
+
+**Pour le joueur concerné**, dans l'ordre : ouvrir le mode construction sur le nouveau serveur → onglet **Plans de maison** → vérifier si un plan existe ; vérifier les schémas et devises (intacts, eux) ; et si un plan est là, la reconstruction ne coûte que des matériaux.
+
 ## À confirmer sur PS5 — captures bienvenues
 
 - [ ] Le nom exact et la périodicité des serveurs Zone de Raid côté **console EU** (`Weekly_` / `Biweekly_` / `Monthly_` ?).
@@ -89,6 +121,9 @@ Nuance importante : ce qui part en Terre éternelle n'est pas automatiquement r�
 - [ ] Le transfert est-il instantané ou différé à l'ouverture du serveur ?
 - [ ] Existe-t-il un bouton d'annulation d'inscription pendant les 4 h de verrouillage ?
 - [ ] Le texte exact de l'écran de règlement de fin de cycle (récompenses listées).
+- [ ] **Le mapping PS5 par défaut de `✕` et `R1`** → confirme (ou non) l'hypothèse « saut + touche maintenue = validation accidentelle ».
+- [ ] L'onglet **Plans de maison** après un départ anticipé → le plan de la base est-il auto-sauvegardé, ou seulement en fin de saison ?
+- [ ] Les plans de maison sont-ils utilisables en **Mode Zone de Raid**, ou bloqués comme les schémas PvE ?
 
 ## Sources
 
@@ -100,4 +135,6 @@ Nuance importante : ce qui part en Terre éternelle n'est pas automatiquement r�
 - [Once Human améliore RaidZone avec la mise à jour 3.0.5](https://infinity-area.com/article/once-human-ameliore-raidzone-avec-sa-mise-a-jour-3-0-5) (verrouillage d'inscription ramené à 4 h, 2 septembre 2026)
 - [MMORPG.com — RaidZone : serveurs, resets et équilibrage](https://www.mmorpg.com/news/once-human-raidzone-launches-tomorrow-details-on-servers-resets-and-balance-changes-released-2000135618)
 - [Meta-builds — ce qui est conservé lors d'un reset](https://meta-builds.net/guides/once-human-server-scenario-reset-what-do-you-keep/) (tableau PvE, à confirmer sur console)
-- Message relevé en jeu sur PS5 le 17/09/2026 (capture archivée)
+- [Steam — « Accidently signed up for another server »](https://steamcommunity.com/app/2139460/discussions/0/573791755377394713/) (pas de rollback possible ; rôle de la Carte de sortie de scénario)
+- [Comment sauvegarder le plan de son territoire](https://once-human.wiki/save-territory-blueprint/) et [TheGamer — poser un plan sauvegardé](https://www.thegamer.com/once-human-how-to-save-territory-blueprint-guide/)
+- Message relevé en jeu sur PS5 le 17/09/2026 (capture archivée) ; deux validations accidentelles constatées dans la même faction (septembre 2026)
