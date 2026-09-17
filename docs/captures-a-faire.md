@@ -1,6 +1,6 @@
 # 📸 Captures à faire — la liste de vérification
 
-*Dernière mise à jour : 9 septembre 2026 — liste recentrée sur ce qui change votre façon de jouer : guerre, craft, base. Le reste du wiki garde ses marques « à confirmer » sur ses pages.*
+*Dernière mise à jour : 17 septembre 2026 — liste recentrée sur ce qui change votre façon de jouer : guerre, craft, base. Le reste du wiki garde ses marques « à confirmer » sur ses pages.*
 
 !!! warning "Pourquoi cette page"
     Ce wiki ne garde que des infos **prouvées par capture d'écran PS5**. Tout ce qui est listé ici est **incertain, estimé, hérité des guides PC ou basé sur la mémoire** — donc potentiellement faux. Une capture = une ligne rayée et un ✅ daté sur le wiki.
@@ -112,6 +112,18 @@
 - [x] ~~**Écran du garage**~~ ✅ 09/09 : les véhicules se **fabriquent** (onglet Confectionner) — Moto de rue, Ailes biplace, Pieds, Coupé rétro, Tout-terrain de montagne. *(Coût complet de la Moto de rue : à relever.)*
 
 **Et le [glossaire](glossaire.md)** : ~25 termes encore « ❓ » — pas besoin de captures dédiées, n'importe quelle capture où le terme est lisible suffit.
+
+## 🔁 Cycle de serveur et inscription au nouveau scénario
+
+Page concernée : [Inscription au nouveau scénario](jeu/inscription-nouveau-scenario.md). La popup FR est capturée (17/09), tout le reste vient de sources PC.
+
+- [x] ~~**La popup « Nouvelle inscription au scénario disponible »**~~ ✅ 17/09 : libellé FR complet + invites `R1` + `✕` / `R1` + `◯`, aucune option « ne plus afficher »
+- [ ] 🔥 **Le nom complet de votre serveur** (écran de sélection ou Progression du scénario) → confirme la périodicité réelle côté console EU : `Weekly_` (7 j), `Biweekly_` (14 j) ou `Monthly_` (28 j). **C'est la donnée qui dit quand vous perdez votre base** — elle manque au wiki
+- [ ] 🔥 **L'écran de Progression du scénario avec son chrono** en Zone de Raid → durée totale du cycle et phase en cours
+- [ ] **L'écran atteint après `R1` + `✕`** → choisit-on son serveur, ou l'inscription est-elle immédiate ? Le transfert est-il instantané ou différé ?
+- [ ] **Une annulation d'inscription est-elle possible** pendant les 4 h de verrouillage (3.0.5) ? Capture du bouton s'il existe
+- [ ] **L'écran de règlement de fin de cycle** → liste exacte des récompenses, et confirmation du prérequis « niveau 20 »
+- [ ] **Terminologie** : le jeu dit-il « phase de règlement » et « Terre éternelle » sur console ? (entrées ❓ du [glossaire](glossaire.md))
 
 ## Comment envoyer
 

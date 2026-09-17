@@ -1,6 +1,6 @@
 # Serveurs et régions
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 17 septembre 2026*
 
 ## Régions
 
@@ -22,6 +22,22 @@ Votre personnage appartient à sa région : choisissez bien dès le départ, not
 ## Scénarios (saisons)
 
 Once Human fonctionne par **scénarios saisonniers** (Manibus, Evolution's Call, The Way of Winter, etc. sur PC). *À compléter : quels scénarios sont proposés aux nouveaux serveurs console, durée des saisons console, et si le calendrier est synchronisé avec le PC (les développeurs annoncent le même contenu et les mêmes événements que PC/mobile, avec possibles différences ponctuelles par plateforme).*
+
+### Durée de vie d'un serveur Zone de Raid
+
+En **Mode Zone de Raid**, un serveur a une **date de péremption inscrite dans son nom**, au format `Périodicité_Étiquette-Numéro` (ex. `Biweekly_Hard-A001`) :
+
+| Préfixe | Remise à zéro | Étiquette |
+|---|---|---|
+| `Weekly_` | 7 jours | `Easy` — moins de joueurs simultanés, PvP plus rare |
+| `Biweekly_` | 14 jours | `Hard` — plus de joueurs, confrontations fréquentes |
+| `Monthly_` | 28 jours | |
+
+Le chrono précis se lit dans **Progression du scénario**. *À confirmer : quelles périodicités sont réellement ouvertes côté console EU.*
+
+### « Nouvelle inscription au scénario disponible »
+
+La popup qui s'affiche à chaque connexion n'annonce **pas** la fin de votre serveur, mais l'ouverture d'un **autre** serveur. Accepter vous y transfère immédiatement et remet tout à zéro → [page dédiée](../jeu/inscription-nouveau-scenario.md).
 
 ## Sources
 

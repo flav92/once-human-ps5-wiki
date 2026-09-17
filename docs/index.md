@@ -24,6 +24,7 @@
 
 | Date | Observation |
 |---|---|
+| 17/09 | **La popup « Nouvelle inscription au scénario disponible » n'annonce pas la fin de votre serveur** — elle annonce l'ouverture d'un *autre* serveur. Accepter (`R1` + `✕`) transfère immédiatement et remet niveau, équipement, Déviations et territoire à zéro, en clôturant le cycle de récompenses en cours sans règlement. Refuser ne coûte rien : le message revient à chaque connexion tant que la fenêtre d'inscription est ouverte. En Zone de Raid, la vraie échéance est **le préfixe du nom de serveur** — `Weekly_` 7 j, `Biweekly_` 14 j, `Monthly_` 28 j. |
 | 11/09 | **Les Munitions de démolition coûtent exactement le même prix que les perforantes** — 7 tungstène, 2 poudre à canon, 20 sources protoplasmiques pour 240 balles — avec les mêmes +15 % de dégâts et d'Intensité Psi. Seule la spécialisation change : dégâts supplémentaires aux structures au lieu du bonus anti-blindage. Passer à l'anti-structure ne coûte donc rien. |
 | 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
 | 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
@@ -71,6 +72,11 @@
 <a class="oh-card" href="guerre/factions/" markdown>
 <span class="oh-card-title">Factions armées et Ruches</span>
 <span class="oh-card-desc">Répartition des rôles entre Ruche et faction armée, création et recrutement, règles du PvP.</span>
+</a>
+
+<a class="oh-card" href="jeu/inscription-nouveau-scenario/" markdown>
+<span class="oh-card-title">Inscription au nouveau scénario <span class="oh-verified">MESSAGE CAPTURÉ</span></span>
+<span class="oh-card-desc">Ce que vous perdez vraiment en acceptant la popup, pourquoi elle revient à chaque connexion, et comment lire la vraie date de reset de votre serveur.</span>
 </a>
 
 <a class="oh-card" href="craft/builds/" markdown>

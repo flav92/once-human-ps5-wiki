@@ -1,6 +1,6 @@
 # Glossaire FR / EN des menus et termes du jeu
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 17 septembre 2026*
 
 !!! warning "Pourquoi cette page"
     La plupart des guides sont en anglais, et les traductions varient d'un site à l'autre. Cette page recense **le nom exact affiché dans le jeu sur PS5 en français** pour chaque terme utilisé sur le wiki. Les entrées « ❓ à vérifier » attendent une confirmation en jeu — c'est LA page où contribuer en priorité : corrigez dès que vous voyez le vrai nom à l'écran.
@@ -36,6 +36,12 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Disassembly Bench | Bureau de démontage / démantèlement | ❓ à vérifier |
 | Supplies Workbench | Établi de fournitures | ❓ à vérifier |
 | Advanced Supplies Workbench | Établi de fournitures avancé | ✅ **Établi de fournitures avancé** (info-bulle en jeu, 06/09/2026 — utilisé en Mode Zone de Raid) |
+| RaidZone | Mode Zone de Raid | ✅ **Mode Zone de Raid** (info-bulle en jeu, 06/09/2026) |
+| Scenario Sign-up | Inscription au scénario | ✅ **« Nouvelle inscription au scénario disponible »** (popup relevée en jeu, 17/09/2026 — « Le scénario est entré dans une nouvelle phase. L'inscription pour le nouveau serveur est disponible. ») |
+| Scenario Progress | Progression du scénario | ✅ **Progression du scénario** (menu du scénario, 06/09/2026 — chrono « Se termine dans Xj Xh ») |
+| Settlement (phase) | Phase de règlement | ❓ à vérifier (terme PC — écran de fin de cycle non encore capturé sur PS5) |
+| Eternaland | Terre éternelle | ❓ à vérifier (nom console à confirmer) |
+| Resource Inheritance Points | Points d'héritage de ressources | ❓ à vérifier |
 | Gear Workbench | Établi d'équipement | ❓ à vérifier |
 | Advanced Gear Workbench | Établi d'équipement avancé | ✅ **Établi d'équipement avancé** (confirmé en jeu, 06/09/2026 — fabrique les roquettes de lance-roquettes) |
 | Mixed Explosives | Explosifs mixtes | ✅ **Explosifs variés** (confirmé en jeu, 06/09/2026) |
