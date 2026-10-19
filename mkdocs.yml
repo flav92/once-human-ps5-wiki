@@ -73,6 +73,9 @@ nav:
           - Ressources de Nalcott: scenarios/evolutions-call/ressources.md
           - PvP et phases de serveur: scenarios/evolutions-call/multijoueur-pvp.md
       - Way of Winter: scenarios/way-of-winter.md
+      - Déviation: scenarios/deviation.md
+      - Serveur privé RaidZone: scenarios/raidzone.md
+  - Carnet de terrain historique: carnet-de-terrain-historique.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
       - Comment contribuer: contribuer.md
