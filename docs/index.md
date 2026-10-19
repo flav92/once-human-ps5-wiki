@@ -60,9 +60,9 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-desc">Traits, fusion et notes sur les anomalies.</span>
 </a>
 
-<a class="oh-card" href="scenarios/evolutions-call/ressources/" markdown>
+<a class="oh-card" href="jeu/ressources.md" markdown>
 <span class="oh-card-title">Ressources et collecte</span>
-<span class="oh-card-desc">Repères de collecte et ressources de Nalcott. Les particularités de scénario sont précisées dans le guide concerné.</span>
+<span class="oh-card-desc">Mécaniques générales de collecte et ressources de base. Pour les emplacements propres à une carte, ouvrez le guide du scénario.</span>
 </a>
 
 <a class="oh-card" href="craft/explosifs/" markdown>
@@ -117,9 +117,9 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 
 </div>
 
-## PvE, PvP et PvPvE : comment s’y retrouver ?
+## PvE, PvP et PvPvE : comprendre les différences
 
-Le type d’activité peut varier à l’intérieur d’un scénario. Consultez les règles propres à votre serveur avant de vous fier à un guide de combat ou de territoire.
+**Ne choisissez pas uniquement sur une étiquette.** Un scénario peut mélanger progression PvE et activités PvP selon ses phases, ses zones ou les règles du serveur. Vérifiez toujours le détail indiqué dans sa fiche. Les règles de RaidZone, par exemple, sont propres à un serveur privé et ne doivent pas être généralisées.
 
 <div class="oh-grid" markdown>
 
