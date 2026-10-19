@@ -90,38 +90,6 @@ Les observations du serveur privé restent séparées des règles officielles ; 
 
 </div>
 
-<details markdown="1">
-<summary>Historique détaillé des observations (septembre–octobre 2026)</summary>
-
-| Date | Observation |
-|---|---|
-| 11/09 | **Les Munitions de démolition coûtent exactement le même prix que les perforantes** — 7 tungstène, 2 poudre à canon, 20 sources protoplasmiques pour 240 balles — avec les mêmes +15 % de dégâts et d'Intensité Psi. Seule la spécialisation change : dégâts supplémentaires aux structures au lieu du bonus anti-blindage. Passer à l'anti-structure ne coûte donc rien. |
-| 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
-| 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
-| 10/09 | **Une pièce de butin peut dépasser un schéma** en statistiques brutes — une *Veste tactique de givre* affiche **2 026 PV** contre 1 924 pour un haut Rang V fabriqué — **mais elle ne vaut que si elle est réparable et refabricable**, ce qui reste à vérifier. Une pièce qu'on ne peut pas refaire est un consommable, pas un équipement. |
-| 10/09 | **Correction — la Tenue de faucon existe sur console**, contrairement à ce que cette page indiquait : elle n'apparaît pas dans les schémas au Protochrome parce qu'elle s'obtient **en butin**. Des *Gants de faucon* Rang V ont été relevés en jeu. |
-| 10/09 | L'équipement possède une **durabilité** qui décroît à l'usage et se restaure à l'Établi d'équipement : **400 points en Rang V, 240 en Rang IV** — un avantage du rang que ne mentionne aucun guide. |
-| 10/09 | **La Ruche est plafonnée à 8 membres** sur console (les guides PC annoncent 12), la faction armée à 30. Comme seule la Ruche contrôle les zones d'affrontements, ces 8 places sont la vraie ressource rare d'une faction. |
-| 10/09 | Les **effets d'ensemble sont identiques quel que soit l'emplacement** (vérifié sur 11 capuches, 11 vestes et 11 paires de chaussures) ; seules les statistiques de base changent : haut 1 924 PV / 16 pollution, chaussures 1 480 / 12, casque 740 / 12. |
-| 10/09 | Découverte d'une seconde famille d'équipement, les **« Protections clés »** : pas d'effet d'ensemble mais un **effet clé unique** (un seul actif à la fois), ignorée par tous les guides. |
-| 10/09 | **Onze ensembles d'armure relevés palier par palier.** Le meilleur ensemble défensif du jeu est la **Tenue des marées traîtresses** — −10 % de dégâts d'arme subis en permanence, bouclier automatique de 20 % des PV max sous 40 % de PV — un ensemble qu'aucun guide anglophone ne mentionne. |
-| 10/09 | **Tenue Bastille** : son 4ᵉ palier, absent de tous les guides consultés, accorde jusqu'à **60 charges de Protection** valant chacune 1 % des PV max en bouclier — soit +60 % de PV effectifs en position de tir. |
-| 10/09 | Les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 l'unité, limite hebdomadaire 30 000) et non via une « Machine à vœux » comme l'écrivent les guides PC. Les plans sont partagés entre tous les personnages du compte. |
-| 10/09 | Onze ensembles d'armure relevés dans l'écran des schémas console. **Sept d'entre eux ne sont commentés par aucun guide anglophone** — les classements « top 10 » des sites de guides ignorent une partie du contenu réellement accessible sur console. |
-| 09/09 | L'arbre Tech Combat contient des **Munitions de démolition** (quatre variantes anti-structure) et le nœud **Voile de la tranquillité** (4 000 points), qui crée des zones sûres dans les Zones de Pollution. |
-| 09/09 | Le béton n'est pas le palier maximal : l'onglet **Amélioration de structure** du Terminal ouvre des filières supérieures (Pierre, Métallique, Alliage — dont des fondations en marbre), verrouillées par technologies. |
-| 09/09 | La sortie d'une pompe à eau dépend de sa zone : eau contaminée en zone de pollution, pétrole brut en champ pétrolifère, eau de mer en zone océanique. Cadence relevée : une unité toutes les 98 s par pompe. |
-| 09/09 | Rythme de Corrosion mesuré : environ **10 % des PV max par jour** (base à Note de construction 129), perte proportionnelle aux PV max de chaque élément — identique pour un mur et une caisse. |
-| 09/09 | Coûts de réparation unitaires relevés : mur en béton (brique + bois + lingot d'acier), mur en pierre (brique + bois), caisses de rangement (fer + caoutchouc + pièce, ou bois + ferraille). |
-| 08/09 | La dégradation des structures est nommée **Corrosion** dans le jeu. Elle progresse jusqu'à destruction complète, s'accélère avec le nombre de bâtiments et la valeur de pollution, et peut être suspendue temporairement par le **Renforcement de territoire**. |
-| 08/09 | Le palier de construction « pierre » correspond à la brique : la fiche du « Mur en pierre 01 » le décrit comme « Mur de briques ». Il n'existe pas deux paliers distincts. |
-| 08/09 | Chaîne de production de l'acide établie : Filtre à eau compact (2:1) puis Cuve de brassage (10:1), soit 20 eaux contaminées par unité d'acide. |
-| 08/09 | Recettes de munitions relevées à l'Établi de fournitures avancé, dont les munitions perforantes au tungstène (+20 % contre les unités blindées). |
-| 06/09 | Les enchères de guerres de frontières sont fermées durant la phase 1 du scénario. Seule la couche « zone d'affrontements », contrôlée par la Ruche, est active. |
-| 06/09 | Destruction d'un quart de plafond en bois en zone d'affrontements : 3 Explosifs surpuissants. La réparation côté défenseur coûte une fraction de ce montant. |
-
-</details>
-
 ## Guerre et territoires
 
 <div class="oh-grid" markdown>
