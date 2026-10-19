@@ -75,6 +75,27 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 - Once Human Wiki (Fandom), page « Adv. Fishing Rod ».
 
 
+## Relevés ponctuels des centres publics de chaosium
+
+Ces valeurs sont des observations rapportées pendant une session, pas des seuils universels ni des valeurs garanties à la date actuelle.
+
+| Centre ou zone citée | Bonus de zone observé | Bonus personnel observé | Cœurs affichés |
+|---|---:|---:|---:|
+| Forge de givre, zone de blizzard | niveau 4 | niveau 0 | 232 |
+| Mer Ardente, zone de tempête volcanique | niveau 2 | non relevé | 130 |
+| Autre centre public | niveau 6 | non relevé | non relevé |
+
+Un dépôt cumulé d'environ **80 cœurs de chaosium** dans des centres publics a également été rapporté. Ces nombres ne suffisent pas à déduire comment la contribution personnelle modifie le bonus individuel ou collectif : il faudrait comparer l'interface du même centre avant et après un dépôt.
+
+## Repères de terrain pour la roche chaude — coordonnées non confirmées
+
+- Une sortie a rapporté environ **350 minerais** dans un secteur comptant jusqu'à **sept filons** ; l'effet de gravité y compliquait le minage.
+- Des coordonnées prononcées oralement autour de **−3641 / 3490** ont été associées à des repères transcrits comme « Royaume virtuel », carrière de soufre, centre de recherche du Dieu du Feu et grotte ensoleillée. **L'ordre des axes, le lieu exact et le nom affiché ne sont pas confirmés** : ne pas utiliser ces coordonnées comme itinéraire.
+- Des noms de lieux cités pendant la recherche incluent le Sanctuaire ou la forteresse de la Gorge de feu, Sunshroud Cave et Abandoned Refinery ; les libellés français et leur relation avec les coordonnées restent à vérifier.
+- Le secteur des « fontaines roses » a été associé à un rendement rapporté d'environ **300 unités**, mais la ressource et le point exact ne sont pas identifiés avec certitude.
+
+Ces observations sont conservées comme pistes de reconnaissance, distinctes du repère externe Ember Forge (−5186, 4394) cité plus haut.
+
 ## Température et équipement : repères à confirmer
 
 - **Lanterne de chaosium** : une observation de l'infobulle indiquait **+15 de température sous 10 °C** et **−15 au-dessus de 30 °C**. Les seuils et l'effet exact doivent être revérifiés sur la fiche PS5 avant d'en faire une règle garantie.
