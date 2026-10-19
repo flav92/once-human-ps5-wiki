@@ -161,3 +161,13 @@ Le joueur avait également indiqué avoir déposé environ **80 cœurs** dans de
 - L'armure en peau de crocodile, la nourriture et la lanterne ont été utilisées comme moyens complémentaires. Les valeurs de résistance exactes doivent être lues sur les infobulles des pièces réellement équipées.
 - Le joueur avait fabriqué de la glace pour préparer du **Froidium** et utilisait des plats à base de viande pour mieux supporter le froid. Les quantités, durées et recettes exactes restent à documenter avec des captures.
 
+
+
+### Contradiction à résoudre avant de publier un guide de fabrication
+
+Deux souvenirs de la conversation se contredisent sur le coût du chaosium :
+
+- une première estimation orale évoquait **30 acides par unité de chaosium** ;
+- une correction ultérieure évoquait **1 acide + 30 minerais de roche chaude pour 30 chaosium**.
+
+Ces deux formulations ne peuvent pas être utilisées simultanément comme recette fiable. Jusqu'à vérification de l'interface de fabrication sur PS5, **ne calcule pas le rendement attendu à partir de l'une ou l'autre**. Il faudra relever sur le même écran le coût des ingrédients, la quantité produite par fabrication et le nombre de fabrications possibles. Cette vérification permettra ensuite de corriger aussi le carnet historique pour qu'il ne propage pas la contradiction.
