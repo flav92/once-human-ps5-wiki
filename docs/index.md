@@ -60,7 +60,7 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-desc">Traits, fusion et notes sur les anomalies.</span>
 </a>
 
-<a class="oh-card" href="jeu/ressources.md" markdown>
+<a class="oh-card" href="jeu/ressources/" markdown>
 <span class="oh-card-title">Ressources et collecte</span>
 <span class="oh-card-desc">Mécaniques générales de collecte et ressources de base. Pour les emplacements propres à une carte, ouvrez le guide du scénario.</span>
 </a>
@@ -91,26 +91,30 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 
 <div class="oh-grid" markdown>
 
-<a class="oh-card" href="scenarios/evolutions-call/index.md" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/" markdown>
 <span class="oh-card-title">Evolution’s Call</span>
-<span class="oh-card-desc">Phases du serveur, Ruches, factions, zones d’affrontements et guerres de frontières.</span>
+<span class="oh-badge oh-badge--amber">PvP à phases</span>
+<span class="oh-card-desc">Progression sur Nalcott et activités territoriales PvP : Ruches, factions, zones d’affrontements et guerres de frontières.</span>
 <span class="oh-home-link">Ouvrir le scénario →</span>
 </a>
 
-<a class="oh-card" href="scenarios/way-of-winter.md" markdown>
+<a class="oh-card" href="scenarios/way-of-winter/" markdown>
 <span class="oh-card-title">Way of Winter</span>
+<span class="oh-badge">Orientation PvE</span>
 <span class="oh-card-desc">Température, météo extrême, Chaosium, roche chaude et équipement thermique.</span>
 <span class="oh-home-link">Ouvrir le scénario →</span>
 </a>
 
-<a class="oh-card" href="scenarios/deviation.md" markdown>
+<a class="oh-card" href="scenarios/deviation/" markdown>
 <span class="oh-card-title">Déviation</span>
+<span class="oh-badge oh-badge--violet">Défis et progression</span>
 <span class="oh-card-desc">Défis d’arène, score de symbiose et conditions de validation observées sur PS5.</span>
 <span class="oh-home-link">Ouvrir le scénario →</span>
 </a>
 
-<a class="oh-card" href="scenarios/raidzone.md" markdown>
+<a class="oh-card" href="scenarios/raidzone/" markdown>
 <span class="oh-card-title">Serveurs privés — RaidZone</span>
+<span class="oh-badge oh-badge--amber">PvP privé</span>
 <span class="oh-card-desc">Notes séparées sur ce serveur privé : ne pas confondre ses règles avec celles des scénarios officiels.</span>
 <span class="oh-home-link">Ouvrir le guide serveur →</span>
 </a>
@@ -128,17 +132,17 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-desc">Bases du jeu, exploration et progression initiale.</span>
 </a>
 
-<a class="oh-card" href="scenarios/evolutions-call/multijoueur-pvp.md" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/multijoueur-pvp/" markdown>
 <span class="oh-card-title">PvP et phases de serveur</span>
 <span class="oh-card-desc">Repères sur les règles PvP documentées pour Evolution’s Call ; les règles d’autres scénarios peuvent différer.</span>
 </a>
 
-<a class="oh-card" href="scenarios/evolutions-call/prise-de-zone.md" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/prise-de-zone/" markdown>
 <span class="oh-card-title">Zones d’affrontements</span>
 <span class="oh-card-desc">Étapes de prise de zone et préparation des structures.</span>
 </a>
 
-<a class="oh-card" href="scenarios/evolutions-call/frontieres.md" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/frontieres/" markdown>
 <span class="oh-card-title">Guerres de frontières</span>
 <span class="oh-card-desc">Phases et enchères d’Evolution’s Call, avec les points encore à confirmer clairement signalés.</span>
 </a>
