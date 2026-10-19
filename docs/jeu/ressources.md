@@ -5,6 +5,14 @@
 !!! note
     Constaté en jeu sur PS5, septembre 2026. À confirmer/compléter. Les emplacements précis dépendent de la carte du scénario : voir [Ressources de Nalcott (Evolution's Call)](../scenarios/evolutions-call/ressources.md).
 
+## Choisir le guide adapté au scénario
+
+Les bases de collecte ci-dessous sont utiles comme repères généraux. En revanche, **les emplacements, les ressources spéciales et les routes de farm dépendent du scénario et de sa carte**.
+
+- [Ressources de Nalcott — Evolution's Call](../scenarios/evolutions-call/ressources.md) : zones et repères propres à cette carte.
+- [Way of Winter](../scenarios/way-of-winter.md#roche-chaude) : roche chaude, Chaosium et repères de terrain encore à confirmer.
+- [RaidZone / Red Zone](../scenarios/raidzone.md#préparation-des-raids-et-gestion-du-soufre) : observations de soufre et préparation des raids propres à un serveur privé ; ne pas généraliser ses règles.
+
 ## Ressources de base
 
 | Ressource | Comment |
