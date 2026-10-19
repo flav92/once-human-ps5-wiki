@@ -115,7 +115,7 @@ Piste sérieuse issue du dev blog officiel de janvier 2026 (système actuel des 
 - Le **plan de l'aquarium** s'obtient chez **Margerie** (Deadsville ou Marché de Meyer) via une ligne de dialogue cachée : « l'Échange de poissons ».
 - Il coûte un **poisson spécifique entier** (pas des crédits).
 - Sa fabrication requiert du **Verre** (gravier + charbon au fourneau).
-- **Pêche dans la lave** : impossible avec la canne normale, et la canne avancée semble introuvable. Voir [Way of Winter — retours de terrain](../scenarios/way-of-winter.md#peche-dans-la-lave-bloquee).
+- **Pêche dans la lave** : impossible avec la canne normale, et la canne avancée semble introuvable. Voir [Way of Winter — retours de terrain](../scenarios/way-of-winter.md#peche-dans-la-lave).
 
 ## Sources
 

@@ -25,24 +25,23 @@ Si l'écran clignote en rouge, que les icônes de faim/soif sont vides et que la
 
 ## Buffs de nourriture et de boisson
 
-*Ajouté le 19 octobre 2026.*
+*Relevés faits dans le scénario Way of Winter, octobre 2026.*
 
-- ⚠️ Le jeu n'autorise **qu'un buff de nourriture et un buff de boisson à la fois** ; un nouveau remplace l'ancien. Constaté en jeu ✅ : la bière annule le ragoût toutes saisons. Les gommes de santé mentale n'écrasent aucun buff. ⚠️ La spécialisation Chef donne deux emplacements de chaque.
-- Stratégie pratique : la **bière en zone polluée**, le ragoût toutes saisons seulement quand il fait vraiment froid.
-- **Fruits en conserve, « Tête froide »** ✅ : +25 % de dégâts aux points faibles tant que la santé mentale est au-dessus de 80. À manger au début d'un combat.
-- **Viande en boîte** ✅ : boost de PV.
-- **Hamburger au bacon** ✅ : l'extraction minière et l'abattage ne demandent qu'un coup pendant 10 minutes. Inutile avec une perceuse, qui casse déjà en un coup.
+- Boire une bière fait disparaître le buff du ragoût toutes saisons ✅.
+- **Fruits en conserve, « Tête froide »** ✅ : +25 % de dégâts aux points faibles tant que la santé mentale est au-dessus de 80.
+- **Viande en boîte** ✅ : bonus de PV.
+- **Hamburger au bacon** ✅ : pendant 10 minutes, l'extraction minière et l'abattage ne demandent qu'un coup.
 - **Agent chimique** ✅ : augmente la résistance à la pollution, mais donne des douleurs gastriques.
-- La santé mentale remonte d'elle-même dans votre base ✅.
+- La santé mentale remonte dans votre territoire ✅.
 
-## Inventaire et objets utiles
+## Objets utiles
 
-*Ajouté le 19 octobre 2026.*
+*Relevés faits dans le scénario Way of Winter, octobre 2026.*
 
-- **Extension de sac à dos** ✅ : +80 de charge max, **durabilité de 7 jours**, non fabricable. Si votre encombrement grimpe d'un coup (65 % au lieu de 21 % dans le cas relevé), vérifiez qu'elle n'a pas expiré.
-- **Perceuse ou pioche** ✅ : sur un filon de roche chaude, la perceuse rapporte deux fois plus (50 contre 25). La pioche dorée ramasse aussi des épices, mais s'use plus vite.
-- **Album photo** ✅ : ouvrez le mode photo depuis le menu radial ; l'option « Album » est affichée en bas de l'écran.
-- **Jardinière portable** (classe Jardinier) ✅ : une jardinière déjà garnie attaque seule l'ennemi le plus proche, à 900 % de l'intensité psi, avec +20 % de dégâts par allié proche. ⚠️ La plante est détruite si un monstre la touche.
+- **Extension de sac à dos** ✅ : +80 de charge maximale, durabilité de 7 jours, non fabricable. Quand elle expire, l'encombrement remonte d'un coup.
+- **Pioche dorée** ✅ : permet de récolter des épices, mais s'use plus vite.
+- **Album photo** ✅ : depuis le mode photo (menu radial), option « Album » en bas de l'écran.
+- **Jardinière portable** (classe Jardinier) ✅ : garnie, elle attaque en continu l'ennemi le plus proche (900 % de l'intensité psi) ; texte en jeu : « pour chaque agent supplémentaire à proximité, tous les agents bénéficient d'un bonus de dégâts de 20 % ».
 
 ## Mort et récupération
 
