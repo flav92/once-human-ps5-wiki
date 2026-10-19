@@ -64,6 +64,9 @@ Choisissez la page correspondant au scénario ou au type de serveur que vous jou
 
 | Date | Observation |
 |---|---|
+| 20/10 | **Way of Winter** : consolidation des relevés sur les centres publics de chaosium, les pistes de roche chaude et les valeurs thermiques ; les coordonnées et recettes contradictoires restent explicitement à confirmer. Voir [le guide Way of Winter](scenarios/way-of-winter.md). |
+| 20/10 | **Déviation** : le défi d'arène près du Verdoyant reste non résolu ; champion à trois anomalies et limite observée de quatre minutes, mais condition de validation inconnue. Voir [le guide Déviation](scenarios/deviation.md). |
+| 20/10 | **RaidZone / Red Zone** : observations spécifiques du serveur séparées des règles officielles ; durée rapportée d'environ 1 300 jours et pertes de butin à confirmer par capture. Voir [le guide des serveurs privés](scenarios/raidzone.md). |
 | 11/09 | **Les Munitions de démolition coûtent exactement le même prix que les perforantes** — 7 tungstène, 2 poudre à canon, 20 sources protoplasmiques pour 240 balles — avec les mêmes +15 % de dégâts et d'Intensité Psi. Seule la spécialisation change : dégâts supplémentaires aux structures au lieu du bonus anti-blindage. Passer à l'anti-structure ne coûte donc rien. |
 | 10/09 | **Les chaussures sont le deuxième emplacement le plus important**, contre l'intuition : 1 480 PV en Rang V, soit le double d'un casque (740) et 77 % d'un haut. Ordre de montée recommandé : haut → chaussures → gants → casque. |
 | 10/09 | **Le rang d'une pièce pèse plus lourd que son ensemble** : des chaussures Rang IV valent 640 PV contre 1 480 en Rang V, soit **+131 % pour un seul rang**. Aucun palier d'ensemble n'approche ce gain — il faut donc tout monter en Rang V avant d'optimiser la cohérence d'ensemble. |
