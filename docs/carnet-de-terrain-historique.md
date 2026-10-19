@@ -1,65 +1,41 @@
-# Carnet de terrain historique — Once Human PS5
+# Méthode de vérification communautaire — Once Human PS5
 
 *Dernière mise à jour : 20 octobre 2026*
 
-Ce fichier archive des observations issues de conversations de jeu. Il ne s'agit pas d'une source officielle. Les valeurs ci-dessous sont datées et doivent être revérifiées en jeu avant d'être présentées comme des règles générales.
+Ce document définit une méthode commune pour améliorer le wiki. Il ne sert pas de journal de progression individuel : les pages publiques doivent privilégier les mécaniques, lieux, recettes et stratégies réutilisables par l'ensemble des joueurs.
 
-## Way of Winter — progression
+## Niveaux de fiabilité
 
-- Le joueur rapportait être niveau 50, avec les missions principales presque terminées et une progression estimée à environ 95 % ou davantage. 🎮
-- Lors de l'événement final décrit, un antagoniste dans une immense machine s'envolait et un PNJ indiquait que l'histoire n'était pas terminée. Le joueur attendait d'éventuelles nouvelles missions. 🎮
-- Le joueur a vaincu seul le Seigneur de l'Oubli niveau 40. Une version niveau 70 rencontrée dans un autre contexte avait été trop difficile en solo. 🎮
+- **Vérifié en jeu** : information relevée sur PS5, idéalement accompagnée d'une capture montrant le texte complet, la valeur et le contexte.
+- **Observation de terrain** : résultat observé pendant une partie, mais qui peut dépendre du niveau, de l'équipement, du scénario ou d'une mise à jour.
+- **À confirmer** : nom de lieu incertain, recette non relue, valeur issue d'un souvenir ou mécanique dont la condition de réussite n'est pas établie.
+- **Source externe** : information tirée d'un guide ou d'une annonce ; citer la source et préciser si elle concerne PC, console ou une ancienne version.
 
-## Way of Winter — chaosium et tour personnelle
+## Fiche minimale pour une nouvelle information
 
-- Le joueur a construit une tour solaire personnelle et débloqué plusieurs améliorations liées au réacteur et au thermosatique. Les noms exacts des améliorations doivent être confirmés à partir de l'interface.
-- Le joueur avait contribué environ 80 cœurs de chaosium à des emplacements publics et cherchait à distinguer sa contribution personnelle des bonus collectifs. 🎮
-- Observations ponctuelles rapportées dans des interfaces publiques : Forge de givre, bonus de zone niveau 4, bonus personnel niveau 0 et 232 cœurs ; Mer Ardente, bonus de zone niveau 2 et 130 cœurs. Ces chiffres ne sont pas des valeurs actuelles garanties. 🎮
-- Le joueur avait trouvé un secteur comptant jusqu'à sept filons de roche chaude et rapporté environ 350 minerais lors d'une sortie. Les grenades et un effet de gravité rendaient l'extraction particulière. Les coordonnées précises sont à revérifier avant de publier un itinéraire. 🎮
-- Le joueur estimait le coût du chaosium brut à 30 acides par unité et disposait d'environ 900 acides lorsqu'il envisageait d'en fabriquer environ 1 000. Cette estimation doit être vérifiée contre la recette actuelle avant toute recommandation. 🎮
-- Une culture destinée à produire des batteries aurait donné quatre unités par plantation, selon son observation. Le nom exact de la plante et la recette restent à confirmer. 🎮
+Pour une recette, une statistique ou une mécanique, noter :
 
-## Way of Winter — températures et équipement
+1. Le nom exact tel qu'affiché dans l'interface française.
+2. Le scénario, la plateforme et, si possible, la date ou la version du jeu.
+3. Les prérequis et le contexte : niveau, difficulté, équipement, météo, phase de scénario ou type de serveur.
+4. La valeur observée et son unité ; pour une recette, relever à la fois les ingrédients consommés et la quantité produite.
+5. Une capture d'écran lisible, lorsque c'est possible.
+6. Ce qui reste inconnu ou contradictoire.
 
-- Le joueur rapportait que la lanterne de chaosium affichait +15 de température sous 10 °C et -15 au-dessus de 30 °C. À confirmer par capture d'écran. 🎮
-- Il avait comparé des pièces d'armure en peau de crocodile bleues et dorées pour la résistance au froid. Les valeurs +10 et +15 avaient été évoquées, mais doivent être revérifiées sur les pièces exactes. 🎮
-- Il utilisait des plats de viande pour gérer le froid et avait fabriqué de la glace pour préparer du Froidium. Les recettes et durées exactes ne sont pas conservées ici.
-- Il est mort pendant un événement de pêche après avoir oublié sa lanterne. 🎮
-- Il recherchait des peaux de crocodile dorées et a signalé en avoir trouvé dans une caisse de butin d'avènement stellaire à Ashenton. 🎮
+## Coordonnées et itinéraires
 
-## Way of Winter — lieux et événements
+- Indiquer le système de coordonnées et l'ordre des axes seulement s'ils sont confirmés par la carte.
+- Associer les coordonnées à un repère visible et à la ressource ou à l'objectif réellement trouvé.
+- Ne pas transformer une transcription vocale approximative en itinéraire certain.
+- Distinguer un emplacement fixe d'un point dont l'apparition varie selon la phase, la météo ou le serveur.
 
-- Le joueur a décrit un secteur de roche chaude vers la Gorge de feu et a évoqué des coordonnées autour de -3641 / 3490. L'ordre des axes et le point exact sont à confirmer sur la carte avant publication.
-- Autres observations consignées dans la page Way of Winter : théâtre spatial à Ashenton validé en assistant à un dialogue ; miroir faisant apparaître un double qui suit le personnage sans l'attaquer ; accès à une caisse mystique de Taiga Containment par un passage près d'un rideau ; crise du destroyer avec munitions récupérées aux entrepôts 1 et 3, tourelles, pont et réserve de carburant ; Opération Chiron avec défense de trois piliers puis combat contre un Déviant Prime. 🎮
+## Recettes et données contradictoires
 
-## Evolution's Call
+Quand deux valeurs se contredisent, ne pas choisir arbitrairement celle qui paraît la plus plausible. Marquer l'information « à confirmer », vérifier l'interface de fabrication et mettre à jour toutes les pages qui la reprennent.
 
-- Le joueur envisageait de reprendre Evolution's Call après Way of Winter, dans un scénario officiel, en précisant qu'il ne voulait ni Manibus ni le serveur privé RaidZone ni l'option permanente qu'il appelait Vita Eternam. 🎮
-- Avant un éventuel changement, des objets se trouvaient dans une base partagée avec un ami ; le joueur voulait les récupérer. Les règles actuelles de transfert et de stockage doivent être vérifiées dans l'interface officielle.
-- Le wiki possède une page dédiée décrivant Evolution's Call comme un scénario PvP à phases sur Nalcott, avec six phases relevées sur console en septembre 2026. Voir [la page du scénario](scenarios/evolutions-call/index.md).
+## Politique éditoriale du wiki public
 
-## Règles éditoriales pour ces notes
-
-- Conserver la distinction entre observations du joueur, sources externes et informations inconnues.
-- Ne pas traiter des quantités de ressources ou des bonus observés à un instant donné comme des valeurs permanentes.
-- Ne pas transformer les noms issus de la reconnaissance vocale en noms officiels sans vérification.
-- Ajouter si possible une capture PS5, la date et la version du jeu à chaque nouvelle observation.
-- Les pages de scénario ne doivent pas mélanger les règles communes, les particularités d'un scénario officiel et celles d'un serveur privé.
-
-
-### Contradiction de recette à vérifier — chaosium brut
-
-L'historique contient deux estimations incompatibles : **30 acides par unité** dans une première estimation orale, puis **1 acide + 30 minerais de roche chaude pour 30 chaosium** dans une correction ultérieure. Aucune des deux ne doit être publiée comme recette certaine sans contrôle sur l'écran de fabrication PS5. Vérifier le coût des ingrédients et le nombre d'unités produites par fabrication, puis mettre à jour ce carnet et la page Way of Winter ensemble.
-
-
-## Déviation — défi d'arène et préparation de combat
-
-Voir aussi les notes détaillées de [Déviation](scenarios/deviation.md).
-
-- Lors de la reprise de ce scénario, le personnage se trouvait dans une zone de début de progression affichée **niveau 5**. L'objectif mentionné était de terminer les défis d'arène près du **Verdoyant** afin d'atteindre le score de symbiose requis pour une Déviation **niveau 25**. 🎮
-- Le joueur avait parlé à **Venaud**, puis rejoint un lieu transcrit comme **Verdoyant / Ham dynamique / Arène rocher**. Ces noms doivent être vérifiés sur l'écran PS5 avant d'en faire des noms de lieux officiels.
-- Le champion affichait **trois anomalies** et un compte à rebours de **quatre minutes**. Le joueur l'a mis à terre plusieurs fois sans obtenir la validation attendue. On ne sait pas si les anomalies doivent être détruites, si une condition de phase a été manquée ou si un autre critère contrôle la réussite. **Ne pas affirmer de solution sans nouvel essai.**
-- Arsenal rapporté : **MP5** (arme que le joueur n'aime pas), environ **20 flèches** à un moment du parcours, quelques **grenades de liaison** et **trois potions de récupération basiques**. Le manque de ressources était une contrainte réelle ; éviter de recommander des essais coûteux sans expliquer ce qu'ils testent.
-- **Monsieur Nounours niveau 7** était la Déviation de combat mentionnée. D'autres Déviations servaient à l'extraction de minerais ou à la récolte, dont un lapin ; les noms exacts de certaines restent à confirmer. Le joueur envisageait de mettre les Déviations utilitaires en capsules avant l'arène.
-- Pour reprendre proprement : photographier le texte complet de l'objectif, observer les barres de vie et marqueurs des trois anomalies, puis noter ce qui change au moment où le champion tombe. Cela permettra de séparer les exigences du défi des hypothèses.
-
+- Conserver les informations utiles à tous les joueurs et supprimer les détails de progression, d'inventaire ou de situation propres à une personne.
+- Ne pas publier de données personnelles, de comptes rendus privés ou d'informations sur les habitudes d'un joueur.
+- Ne pas présenter un serveur privé comme une règle générale du jeu.
+- Préférer des instructions reproductibles, des captures et des sources aux souvenirs non vérifiés.
