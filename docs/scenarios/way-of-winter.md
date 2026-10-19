@@ -27,7 +27,8 @@ Silos disponibles 🎮 : **Taurus, Delta, X1 et Psi**. Le niveau des ennemis dé
 
 - Les **cœurs de chaosium** se déposent dans les nœuds de chaosium.
 - **Activer l'effet** : résistances au froid, à la chaleur, au gel et aux brûlures, plus de l'endurance, dans la zone du nœud.
-- **Attirer le tisseur du chaos** (un boss) : impossible sans météo extrême dans la zone. Message affiché : « cette zone n'a pas de conditions météorologiques extrêmes ».
+- **Attirer le tisseur du chaos** : impossible sans météo extrême dans la zone. Message affiché : « cette zone n'a pas de conditions météorologiques extrêmes ».
+- ⚠️ Nom anglais : **Chaosweaver** ; les nœuds s'appellent **Chaosium Hubs** en anglais. D'après le site officiel, c'est l'ennemi le plus dangereux du scénario, il apporte la météo extrême, et le vaincre après l'avoir invoqué dissipe les effets de température.
 - Bonus de zone relevé sur un nœud de **niveau 6** : « Fléau ». Texte : vaincre les tisseurs du chaos accorde « Frénésie sanguine ».
 - L'onglet d'informations d'un nœud indique les animaux à chasser et les zones de tungstène.
 - Défi « débloquer une compétence de héros depuis le centre de chaosium » : validé en y déposant **5 chaosium**.
@@ -67,6 +68,8 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 ## Sources
 
 - Constaté en jeu sur PS5, 17-19 octobre 2026.
+- [Site officiel — Notice on Chaosweaver Spawn Coordinates](https://www.oncehuman.game/news/update/20241108/40780_1192380.html)
+- [Site officiel — June Update Preview: The Way of Winter Scenario Optimizations](https://www.oncehuman.game/news/update/20250530/40780_1237884.html)
 - [Destructoid — Zone of Haze (Black Sector), all mechanics explained](https://www.destructoid.com/zone-of-haze-black-sector-all-mechanics-explained-once-human/)
 - [Destructoid — Where to get Hot Rock Ore](https://www.destructoid.com/where-to-get-hot-rock-ore-in-once-human/)
 - Once Human Wiki (Fandom), page « Adv. Fishing Rod ».

@@ -190,6 +190,8 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 |---|---|---|
 | The Bull's Eye | Dans le mille | ✅ **Dans le mille** (fiches de mods, octobre 2026) |
 | Frost Vortex | Vortex de givre | ✅ **Vortex de givre** (filtre des mods, octobre 2026) |
+| Chaosweaver | Tisseur du chaos | 🎮 « tisseur du chaos » (texte d'un nœud de chaosium, Way of Winter, octobre 2026) |
+| Chaosium Hub | Nœud de chaosium | 🎮 « nœud de chaosium » (Way of Winter, octobre 2026) |
 
 ## Comment contribuer à cette page
 
