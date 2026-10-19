@@ -50,3 +50,16 @@ Ce fichier archive des observations issues de conversations de jeu. Il ne s'agit
 ### Contradiction de recette à vérifier — chaosium brut
 
 L'historique contient deux estimations incompatibles : **30 acides par unité** dans une première estimation orale, puis **1 acide + 30 minerais de roche chaude pour 30 chaosium** dans une correction ultérieure. Aucune des deux ne doit être publiée comme recette certaine sans contrôle sur l'écran de fabrication PS5. Vérifier le coût des ingrédients et le nombre d'unités produites par fabrication, puis mettre à jour ce carnet et la page Way of Winter ensemble.
+
+
+## Déviation — défi d'arène et préparation de combat
+
+Voir aussi les notes détaillées de [Déviation](scenarios/deviation.md).
+
+- Lors de la reprise de ce scénario, le personnage se trouvait dans une zone de début de progression affichée **niveau 5**. L'objectif mentionné était de terminer les défis d'arène près du **Verdoyant** afin d'atteindre le score de symbiose requis pour une Déviation **niveau 25**. 🎮
+- Le joueur avait parlé à **Venaud**, puis rejoint un lieu transcrit comme **Verdoyant / Ham dynamique / Arène rocher**. Ces noms doivent être vérifiés sur l'écran PS5 avant d'en faire des noms de lieux officiels.
+- Le champion affichait **trois anomalies** et un compte à rebours de **quatre minutes**. Le joueur l'a mis à terre plusieurs fois sans obtenir la validation attendue. On ne sait pas si les anomalies doivent être détruites, si une condition de phase a été manquée ou si un autre critère contrôle la réussite. **Ne pas affirmer de solution sans nouvel essai.**
+- Arsenal rapporté : **MP5** (arme que le joueur n'aime pas), environ **20 flèches** à un moment du parcours, quelques **grenades de liaison** et **trois potions de récupération basiques**. Le manque de ressources était une contrainte réelle ; éviter de recommander des essais coûteux sans expliquer ce qu'ils testent.
+- **Monsieur Nounours niveau 7** était la Déviation de combat mentionnée. D'autres Déviations servaient à l'extraction de minerais ou à la récolte, dont un lapin ; les noms exacts de certaines restent à confirmer. Le joueur envisageait de mettre les Déviations utilitaires en capsules avant l'arène.
+- Pour reprendre proprement : photographier le texte complet de l'objectif, observer les barres de vie et marqueurs des trois anomalies, puis noter ce qui change au moment où le champion tombe. Cela permettra de séparer les exigences du défi des hypothèses.
+
