@@ -37,6 +37,19 @@ Le manque de soufre a été signalé sur ce serveur, sans mesure précise du ren
 
 Ces conseils sont une méthode de vérification et ne présument pas de multiplicateurs inconnus.
 
+## Préparation de guerre : données déjà relevées sur PS5
+
+Ces recettes sont documentées dans le wiki comme relevés PS5. Elles donnent des repères concrets pour préparer des raids, mais **ne prouvent pas que RaidZone applique les mêmes coûts ou multiplicateurs**.
+
+- **Munitions de démolition, calibre moyen** : 240 munitions pour 7 tungstène, 2 poudre à canon et 20 sources protoplasmiques ; le relevé indique aussi +15 % de dégâts, +15 % Psi et des dégâts supplémentaires aux structures.
+- **Munitions à noyau d'acier** : 240 munitions pour 7 acier, 2 poudre à canon et 12 sources protoplasmiques.
+- **Poudre à canon** : 6 soufre, 3 charbon et 3 acide pour la recette relevée.
+- **Structures de référence** : mur en béton 01 relevé à 3 200 PV ; mur/plafond en pierre 01 relevé à 1 800 PV.
+
+Pour décider quelles munitions sont les plus rentables contre une base, le wiki signale qu'il manque encore une mesure comparative des dégâts réels sur une structure avec un nombre connu de tirs. Ne pas annoncer un nombre de balles ou d'explosifs nécessaire à la destruction tant que ce test n'est pas fait.
+
+Voir aussi la [liste des captures et tests à réaliser](../captures-a-faire.md), qui conserve les mesures manquantes prioritaires sur les explosifs, les structures et les règles de guerre.
+
 ## Données encore manquantes
 
 - Capture de la fiche du serveur avec son nom exact, sa région et sa durée.
