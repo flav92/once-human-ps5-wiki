@@ -74,8 +74,8 @@ nav:
           - PvP et phases de serveur: scenarios/evolutions-call/multijoueur-pvp.md
       - Way of Winter: scenarios/way-of-winter.md
       - Déviation: scenarios/deviation.md
-      - Serveur privé RaidZone: scenarios/raidzone.md
-  - Carnet de terrain historique: carnet-de-terrain-historique.md
+      - Serveurs privés: scenarios/raidzone.md
+  - Méthode de vérification communautaire: carnet-de-terrain-historique.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
       - Comment contribuer: contribuer.md
