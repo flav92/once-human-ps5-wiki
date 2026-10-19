@@ -45,3 +45,8 @@ Ce fichier archive des observations issues de conversations de jeu. Il ne s'agit
 - Ne pas transformer les noms issus de la reconnaissance vocale en noms officiels sans vérification.
 - Ajouter si possible une capture PS5, la date et la version du jeu à chaque nouvelle observation.
 - Les pages de scénario ne doivent pas mélanger les règles communes, les particularités d'un scénario officiel et celles d'un serveur privé.
+
+
+### Contradiction de recette à vérifier — chaosium brut
+
+L'historique contient deux estimations incompatibles : **30 acides par unité** dans une première estimation orale, puis **1 acide + 30 minerais de roche chaude pour 30 chaosium** dans une correction ultérieure. Aucune des deux ne doit être publiée comme recette certaine sans contrôle sur l'écran de fabrication PS5. Vérifier le coût des ingrédients et le nombre d'unités produites par fabrication, puis mettre à jour ce carnet et la page Way of Winter ensemble.
