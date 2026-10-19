@@ -54,6 +54,8 @@ nav:
   - Survie:
       - Premiers pas sur Nalcott: jeu/premiers-pas.md
       - Astuces de survie: jeu/astuces-survie.md
+      - Multijoueur: jeu/multijoueur.md
+      - Ressources: jeu/ressources.md
       - Anomalies, fusion et traits: jeu/anomalies.md
   - Craft:
       - Armes et équipement: jeu/armes-equipement.md
@@ -68,8 +70,8 @@ nav:
           - Factions armées et Ruches: scenarios/evolutions-call/factions.md
           - Prendre une zone d'affrontements: scenarios/evolutions-call/prise-de-zone.md
           - Guerres de frontières et enchères: scenarios/evolutions-call/frontieres.md
-          - Ressources — où trouver quoi: scenarios/evolutions-call/ressources.md
-          - Multijoueur, PvP et phases: scenarios/evolutions-call/multijoueur-pvp.md
+          - Ressources de Nalcott: scenarios/evolutions-call/ressources.md
+          - PvP et phases de serveur: scenarios/evolutions-call/multijoueur-pvp.md
       - Way of Winter: scenarios/way-of-winter.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
@@ -107,7 +109,6 @@ plugins:
         guerre/prise-de-zone.md: scenarios/evolutions-call/prise-de-zone.md
         guerre/frontieres.md: scenarios/evolutions-call/frontieres.md
         jeu/conquete-bastion.md: scenarios/evolutions-call/gvg.md
-        jeu/ressources.md: scenarios/evolutions-call/ressources.md
         jeu/multijoueur-pvp.md: scenarios/evolutions-call/multijoueur-pvp.md
 
 copyright: Wiki non officiel, sans affiliation avec NetEase / Starry Studio.

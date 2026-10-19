@@ -16,7 +16,7 @@
 - **Éclairage sans électricité** : torches (ne coûtent que du bois) ou stations de fabrication (feu de camp, fourneaux) qui éclairent autour d'elles.
 - **Appliques murales décoratives** : les plans s'obtiennent souvent via des fragments trouvés en exploration. L'applique doit être fixée à un **mur construit** (hologramme bleu) puis raccordée via un câble (**X**).
 
-Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (générateurs et lampes), verre (ampoules) — voir [Ressources](../scenarios/evolutions-call/ressources.md).
+Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (générateurs et lampes), verre (ampoules) — voir [Ressources](ressources.md).
 
 ## Installations importantes (Mémétiques)
 
@@ -115,7 +115,7 @@ Piste sérieuse issue du dev blog officiel de janvier 2026 (système actuel des 
 - Le **plan de l'aquarium** s'obtient chez **Margerie** (Deadsville ou Marché de Meyer) via une ligne de dialogue cachée : « l'Échange de poissons ».
 - Il coûte un **poisson spécifique entier** (pas des crédits).
 - Sa fabrication requiert du **Verre** (gravier + charbon au fourneau).
-- **Pêche dans la lave** : impossible avec la canne normale, et la canne avancée semble introuvable. Voir [Way of Winter — retours de terrain](../scenarios/way-of-winter.md#peche-dans-la-lave).
+- **Pêche dans la lave** : impossible avec la canne normale, et la canne avancée semble introuvable. Voir [Way of Winter](../scenarios/way-of-winter.md#peche-dans-la-lave).
 
 ## Sources
 

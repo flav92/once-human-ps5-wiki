@@ -27,21 +27,21 @@ Si l'écran clignote en rouge, que les icônes de faim/soif sont vides et que la
 
 *Relevés faits dans le scénario Way of Winter, octobre 2026.*
 
-- Boire une bière fait disparaître le buff du ragoût toutes saisons ✅.
-- **Fruits en conserve, « Tête froide »** ✅ : +25 % de dégâts aux points faibles tant que la santé mentale est au-dessus de 80.
-- **Viande en boîte** ✅ : bonus de PV.
-- **Hamburger au bacon** ✅ : pendant 10 minutes, l'extraction minière et l'abattage ne demandent qu'un coup.
-- **Agent chimique** ✅ : augmente la résistance à la pollution, mais donne des douleurs gastriques.
-- La santé mentale remonte dans votre territoire ✅.
+- Boire une bière fait disparaître le buff du ragoût toutes saisons 🎮.
+- **Fruits en conserve, « Tête froide »** 🎮 : +25 % de dégâts aux points faibles tant que la santé mentale est au-dessus de 80.
+- **Viande en boîte** 🎮 : bonus de PV.
+- **Hamburger au bacon** 🎮 : pendant 10 minutes, l'extraction minière et l'abattage ne demandent qu'un coup.
+- **Agent chimique** 🎮 : augmente la résistance à la pollution, mais donne des douleurs gastriques.
+- La santé mentale remonte dans votre territoire 🎮.
 
 ## Objets utiles
 
 *Relevés faits dans le scénario Way of Winter, octobre 2026.*
 
-- **Extension de sac à dos** ✅ : +80 de charge maximale, durabilité de 7 jours, non fabricable. Quand elle expire, l'encombrement remonte d'un coup.
-- **Pioche dorée** ✅ : permet de récolter des épices, mais s'use plus vite.
-- **Album photo** ✅ : depuis le mode photo (menu radial), option « Album » en bas de l'écran.
-- **Jardinière portable** (classe Jardinier) ✅ : garnie, elle attaque en continu l'ennemi le plus proche (900 % de l'intensité psi) ; texte en jeu : « pour chaque agent supplémentaire à proximité, tous les agents bénéficient d'un bonus de dégâts de 20 % ».
+- **Extension de sac à dos** 🎮 : +80 de charge maximale, durabilité de 7 jours, non fabricable. Quand elle expire, l'encombrement remonte d'un coup.
+- **Pioche dorée** 🎮 : permet de récolter des épices, mais s'use plus vite.
+- **Album photo** 🎮 : depuis le mode photo (menu radial), option « Album » en bas de l'écran.
+- **Jardinière portable** (classe Jardinier) 🎮 : garnie, elle attaque en continu l'ennemi le plus proche (900 % de l'intensité psi) ; texte en jeu : « pour chaque agent supplémentaire à proximité, tous les agents bénéficient d'un bonus de dégâts de 20 % ».
 
 ## Mort et récupération
 

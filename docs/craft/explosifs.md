@@ -27,7 +27,7 @@ Conséquence : la **Grenade** de base (« très efficace niv. 1 ») devrait donc
 
 ## Le goulot de toute la chaîne : Explosifs variés → soufre
 
-Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Delta de Broken, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../scenarios/evolutions-call/ressources.md#soufre). File de production en continu !
+Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Delta de Broken, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../jeu/ressources.md#soufre). File de production en continu !
 
 ## Arbre de production des roquettes
 
@@ -136,4 +136,4 @@ Nœuds observés dans l'onglet Combat de l'écran Tech (personnage niveau 37, Ni
 ## Voir aussi
 
 - [Prendre une zone d'affrontements](../scenarios/evolutions-call/prise-de-zone.md) — les PV des structures et combien de bombes prévoir
-- [Ressources : où trouver quoi](../scenarios/evolutions-call/ressources.md)
+- [Ressources : où trouver quoi](../jeu/ressources.md)

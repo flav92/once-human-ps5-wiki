@@ -128,4 +128,4 @@ Une seule personne par filière suffit à alimenter tout le monde. Répartition 
 - PvP **bloqué sous le niveau 10** (État de Chaos inactivable).
 - **Pas de tir ami** dans l'équipe/faction, même aux explosifs.
 - Hors zones GvG : base personnelle **impillable**, aucun dégât joueur subi, sauf **État de Chaos** activé volontairement (⚠️ ramasser une Pierre d'Écho l'active automatiquement).
-- Voir aussi [Multijoueur, PvP et phases](multijoueur-pvp.md).
+- Voir aussi [PvP et phases de serveur](multijoueur-pvp.md).

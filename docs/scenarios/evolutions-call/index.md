@@ -23,7 +23,7 @@ Le détail de ce que chaque phase ouvre est sur la page [Guerres de frontières]
 - [Factions armées et Ruches](factions.md)
 - [Prendre une zone d'affrontements](prise-de-zone.md)
 - [Guerres de frontières et enchères](frontieres.md)
-- [Ressources : où trouver quoi](ressources.md) (zones de Nalcott)
-- [Multijoueur, PvP et phases de serveur](multijoueur-pvp.md)
+- [Ressources de Nalcott](ressources.md)
+- [PvP et phases de serveur](multijoueur-pvp.md)
 
 Les mécaniques communes à tous les scénarios (armes, base, explosifs, anomalies) sont dans les sections **Survie** et **Craft**.

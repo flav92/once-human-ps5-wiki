@@ -15,6 +15,20 @@ Merci de vouloir aider ! Le jeu vient de sortir sur PS5, chaque info vérifiée 
 2. **PS5 d'abord** : les mécaniques générales du jeu sont documentées ailleurs — ici on se concentre sur ce qui est spécifique ou différent sur PS5.
 3. Mettez à jour la ligne *Dernière mise à jour* de la page modifiée.
 4. En français, ton simple et direct.
+5. Pas d'avis ni de conseil présenté comme un fait : le wiki rapporte ce qui a été constaté ou sourcé.
+
+## Niveaux de fiabilité
+
+Chaque information porte une marque :
+
+| Marque | Signification |
+|---|---|
+| ✅ | Prouvé par une **capture d'écran PS5** |
+| 🎮 | **Constaté en jeu, sans capture** (rapporté à l'oral ou de mémoire) : les noms et les chiffres peuvent contenir des erreurs |
+| ⚠️ | **Source web** (lien en bas de page), non vérifiée sur console |
+| *À compléter* | Inconnu |
+
+Une capture fait passer une info 🎮 ou ⚠️ en ✅.
 
 ## Comment proposer une modification
 

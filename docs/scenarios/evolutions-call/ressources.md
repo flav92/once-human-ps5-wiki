@@ -1,38 +1,28 @@
-# Ressources : où trouver quoi
+# Ressources de Nalcott
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 19 octobre 2026*
 
 !!! note
-    Localisations constatées en jeu (zones de départ : Dayton Wetlands, Delta de Broken, Iron River). À confirmer/compléter.
+    Localisations constatées en jeu sur la carte de Nalcott (zones de départ : Dayton Wetlands, Delta de Broken, Iron River), septembre 2026. À confirmer/compléter. Comment obtenir chaque ressource : [Ressources](../../jeu/ressources.md).
 
-## Ressources de base
+## Où trouver les ressources de base
 
-| Ressource | Où / comment |
+| Ressource | Où |
 |---|---|
-| **Gravier** | Automatique en cassant les rochers gris classiques |
-| **Cuivre** | Rochers avec incrustations jaune/orange oxydé (très présents en zones de départ : Dayton Wetlands, Delta de Broken). À fondre au Fourneau |
-| **Étain** | Rochers argentés (Delta de Broken) |
-| **Fer** | Rochers rouge sombre (Delta de Broken) |
-| **Algues** | Eaux peu profondes et plages (ex : l'île au sud de la carte) |
-| **Maïs** | Autour des anciennes zones agricoles (Marché de Meyer, ferme de Dayton Wetlands) |
-| **Caoutchouc** | Recyclage de bric-à-brac (pneus, gants) à l'Atelier de démontage. Les zones niveau 20+ (Iron River) en regorgent |
-| **Charbon** | En début de partie : brûlez du bois dans un Fourneau → charbon de bois. Le vrai minerai de charbon se pioche bien plus tard en zones de haut niveau |
-| **Verre** | Gravier fondu au Fourneau (avec du charbon) |
-| **Pièces électroniques** | Bric-à-brac technologique (claviers, écrans, jouets chien robot) démantelé au Bureau de démontage |
-| **Ferraille / pièces rouillées** | Déchets et coffres de voitures, démantelés au Bureau de démontage |
+| **Cuivre** | Très présent en zones de départ : Dayton Wetlands, Delta de Broken |
+| **Étain** | Delta de Broken |
+| **Fer** | Delta de Broken |
+| **Algues** | Ex : l'île au sud de la carte |
+| **Maïs** | Marché de Meyer, ferme de Dayton Wetlands |
+| **Caoutchouc** | Les zones niveau 20+ (Iron River) regorgent de bric-à-brac à recycler |
+| **Soufre** | Rochers à cristaux jaunes, très présents dans le Delta de Broken et à Iron River |
 
-## Soufre
-
-- **Exploration** : détruisez les gros rochers parsemés de **cristaux jaunes**, très présents dans le Delta de Broken et à Iron River.
-- **Automatique** : placez le Déviant **Garçon Digby** dans une unité de confinement pour farmer passivement autour de la base.
-
-## Graines de pommier (agriculture)
+## Graines de pommier
 
 En zone de départ (Dayton Wetlands / Delta de Broken) :
 
-- **Abattre des pommiers sauvages** autour de Deadsville et du Marché de Meyer (taux de drop faible — hache ou tronçonneuse).
-- **Fouiller les réfrigérateurs** dans les maisons (ex : Brookham).
-- **Distributeurs de joueurs** : achetables avec des Liens d'énergie dans les Vending Machines des camps d'autres joueurs.
+- Pommiers sauvages autour de Deadsville et du Marché de Meyer.
+- Réfrigérateurs dans les maisons (ex : Brookham).
 
 ## Meilleures zones de fouille (Delta de Broken)
 
