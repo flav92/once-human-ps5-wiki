@@ -73,3 +73,42 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 - [Destructoid — Zone of Haze (Black Sector), all mechanics explained](https://www.destructoid.com/zone-of-haze-black-sector-all-mechanics-explained-once-human/)
 - [Destructoid — Where to get Hot Rock Ore](https://www.destructoid.com/where-to-get-hot-rock-ore-in-once-human/)
 - Once Human Wiki (Fandom), page « Adv. Fishing Rod ».
+
+
+## Carnet complémentaire : progression et observations du joueur
+
+Cette section rassemble des observations plus anciennes de parties PS5. Les chiffres correspondent au moment où ils ont été rapportés : ils ne garantissent pas les valeurs actuelles du jeu. Pour les notes transversales et l'historique complet, voir aussi le [carnet de terrain historique](../carnet-de-terrain-historique.md).
+
+### Progression de fin de scénario
+
+- Le joueur indiquait être **niveau 50** et estimer avoir terminé environ **95 %** du scénario, avec les missions principales accomplies. Il attendait l'arrivée éventuelle de nouvelles missions. 🎮
+- Lors de la séquence finale décrite, l'antagoniste se trouvait dans une immense machine qui s'est envolée. Un PNJ indiquait que le combat n'était pas terminé. Cette observation ne confirme pas, à elle seule, qu'une suite est sortie depuis. 🎮
+- Le **Seigneur de l'Oubli niveau 40** a été vaincu en solo par le joueur. Une version de niveau 70 rencontrée dans un autre contexte avait été trop difficile en solo. 🎮
+
+### Froid, chaleur et équipement
+
+- Le joueur a rapporté utiliser une **lanterne de chaosium** pour survivre au froid, et avoir perdu un combat/événement de pêche après avoir oublié de l'équiper. 🎮
+- Valeurs relevées oralement pour la lanterne : **+15 de température sous 10 °C** et **−15 au-dessus de 30 °C**. À vérifier sur la fiche de l'objet en jeu avant de les présenter comme valeurs actuelles. 🎮
+- L'armure en peau de crocodile a été comparée en versions bleue et dorée pour la résistance au froid. Les valeurs évoquées étaient **+10** pour la bleue et **+15** pour la dorée ; le bonus exact dépend potentiellement de la pièce et de son amélioration, donc vérifier les infobulles. 🎮
+- Le joueur utilisait des plats à base de viande pour mieux supporter les températures négatives et avait préparé de la glace pour fabriquer du **Froidium**. Les recettes, durées et valeurs précises ne sont pas archivées ici.
+- Les peaux de crocodile dorées étaient un objectif d'équipement ; une observation de caisse à Ashenton est déjà notée dans la section « Lieux et événements ».
+
+### Chaosium brut, acide et batteries
+
+- Le joueur envisageait de produire du chaosium brut à partir de l'acide. Il rapportait un coût de **30 acides par unité** et un stock d'environ **900 acides** à ce moment-là. Cette recette et son rendement doivent être vérifiés dans l'interface avant de calculer une quantité de production.
+- Une culture destinée aux batteries aurait donné **quatre batteries pour une plantation** d'après son essai. Le nom de la plante, la recette et les conditions exactes restent à confirmer. 🎮
+- Le joueur avait construit une **tour solaire personnelle** et débloqué plusieurs améliorations liées au réacteur et au thermosatique. Les noms exacts des nœuds d'amélioration doivent être recopiés depuis l'interface PS5.
+- Il avait contribué environ **80 cœurs de chaosium** à des centres publics et cherchait à comprendre la différence entre contribution personnelle et bonus de zone. Les niveaux et nombres de cœurs rapportés à ce moment-là sont consignés dans le [carnet de terrain historique](../carnet-de-terrain-historique.md).
+
+### Roche chaude : observations de terrain à ne pas confondre
+
+- Une autre sortie de minage a permis au joueur de rapporter environ **350 minerais** en exploitant un secteur qui comptait jusqu'à **sept filons**. Il signalait un effet de gravité gênant pendant l'extraction. 🎮
+- Des coordonnées approximatives autour de **−3641 / 3490** ont été prononcées dans la conversation, mais le format exact, l'ordre des axes et le filon correspondant ne sont pas suffisamment établis pour en faire une consigne de navigation fiable.
+- Ne pas confondre ces coordonnées incertaines avec le repère externe **Ember Forge (−5186, 4394)** cité plus haut à partir de Destructoid. Avant de publier un itinéraire précis, relever les coordonnées affichées en jeu et ajouter une capture de carte.
+
+### Conseils de rédaction pour les données de cette page
+
+1. Les observations marquées 🎮 sont des retours de partie du joueur, pas nécessairement des mécaniques universelles.
+2. Les valeurs de température, de résistance, les coûts de fabrication, les multiplicateurs et les stocks peuvent changer avec les mises à jour ou les améliorations d'équipement.
+3. Les coordonnées issues de reconnaissance vocale doivent rester « à vérifier » jusqu'à confirmation visuelle.
+4. Quand une valeur exacte est importante pour une stratégie, joindre une capture PS5 de l'infobulle, de la recette ou de la carte.
