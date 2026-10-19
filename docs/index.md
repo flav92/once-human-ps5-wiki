@@ -20,6 +20,46 @@
 <span><span class="oh-status oh-status--aconfirmer">À confirmer</span> Donnée manquante, capture à faire.</span>
 </div>
 
+## Accès rapide aux scénarios
+
+Choisissez la page correspondant au scénario ou au type de serveur que vous jouez :
+
+<div class="grid cards" markdown>
+
+-   **Evolution's Call**
+
+    ---
+
+    Scénario à phases sur Nalcott : factions, Ruches, zones d'affrontements, guerres de frontières et ressources.
+
+    [Ouvrir le guide Evolution's Call](scenarios/evolutions-call/index.md)
+
+-   **Way of Winter**
+
+    ---
+
+    Chaosium, météo extrême, roche chaude, équipement thermique et activités propres au scénario. Les valeurs non capturées sont signalées comme observations à confirmer.
+
+    [Ouvrir le guide Way of Winter](scenarios/way-of-winter.md)
+
+-   **Déviation**
+
+    ---
+
+    Notes PS5 sur les défis d'arène, le score de symbiose et les conditions de validation encore à vérifier.
+
+    [Ouvrir le guide Déviation](scenarios/deviation.md)
+
+-   **Serveurs privés — RaidZone / Red Zone**
+
+    ---
+
+    Observations propres à ce serveur privé PvP ; elles ne doivent pas être confondues avec les règles des scénarios officiels.
+
+    [Ouvrir le guide des serveurs privés](scenarios/raidzone.md)
+
+</div>
+
 ## Dernières observations
 
 | Date | Observation |
