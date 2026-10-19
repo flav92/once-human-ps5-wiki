@@ -2,46 +2,49 @@
 
 *Dernière mise à jour : 20 octobre 2026*
 
-Cette page documente les mécaniques et précautions utiles sur un serveur privé décrit comme orienté **PvP / Red Zone**. Les réglages peuvent différer d'un serveur à l'autre : les points ci-dessous sont des observations à vérifier dans la fiche du serveur et en jeu, et non des règles universelles d'Once Human.
+Cette page rassemble les observations disponibles sur un serveur privé appelé **RaidZone**, décrit comme orienté PvP et associé au mode ou aux règles **Red Zone**. Il s'agit d'un cas de serveur particulier, pas d'une description de tous les serveurs privés d'Once Human.
 
-## Red Zone : points de vigilance
+## Observations spécifiques rapportées
 
-- **Risque de perte de butin** : les zones rouges sont décrites comme punitives, avec un risque de perdre des objets à la mort. Le contenu exact perdu et les exceptions doivent être vérifiés sur le serveur concerné.
-- **Combats PvP** : vérifier quand le PvP est actif, quelles zones sont concernées et si des règles spéciales s'appliquent aux combats ou à l'extraction.
-- **Raids** : consulter les règles de raid et les conditions de protection des bases avant de stocker des ressources rares ou de lancer une attaque.
-- **Chaos et paramètres personnalisés** : des paramètres de chaos renforcés ont été signalés sur le serveur décrit, mais leur valeur et leurs effets exacts ne sont pas documentés ici.
-- **Durée du serveur** : une longue durée annoncée ne garantit pas l'absence de réinitialisation ou de changement de règles ; vérifier le calendrier et les annonces de l'administrateur.
+Les points ci-dessous proviennent d'observations communiquées en octobre 2026. Aucune capture de la fiche du serveur n'est archivée pour les confirmer ; ils doivent donc rester identifiés comme des observations rapportées.
 
-## Ressources et préparation
+- **Durée annoncée : environ 1 300 jours.** C'est la durée rapportée pour ce serveur à ce moment-là, pas une durée universelle des serveurs privés.
+- **PvP et zone rouge :** le serveur est décrit comme punitif, avec des pertes de butin en zone rouge. Le détail des objets perdus, les exceptions et les conditions précises de mort restent à confirmer.
+- **Raids :** des raids sont pratiqués sur ce serveur. Les conditions, horaires, cibles autorisées et protections de base n'ont pas été consignés précisément.
+- **Chaos renforcé :** des paramètres de chaos plus élevés que d'habitude ont été évoqués, mais aucune valeur ni aucun effet précis n'a été relevé.
+- **Soufre :** le soufre a été signalé comme un goulot d'étranglement pour préparer les activités de raid. Aucun multiplicateur de récolte ou de fabrication n'est connu à ce stade.
 
-### Soufre et consommables
+## Red Zone : vérifications utiles en jeu
 
-Le soufre a été signalé comme une ressource à surveiller pour soutenir les activités de combat et de raid. La disponibilité dépend toutefois des réglages du serveur et des routes de farm.
+Avant de risquer du matériel ou des ressources, vérifier directement sur le serveur :
 
-Conseils généraux :
-- repérer plusieurs points de récolte et éviter de dépendre d'une seule route ;
-- comparer le rendement réel des gisements avec les multiplicateurs affichés par le serveur ;
-- anticiper les besoins en munitions et consommables avant un raid ;
-- ne pas confondre un manque ponctuel de ressources avec un taux de récolte universellement faible.
+1. Ce qui est perdu à la mort en zone rouge et ce qui est conservé.
+2. Si les règles changent selon le lieu, l'état PvP, le type de mort ou l'équipement transporté.
+3. Les conditions d'activation du PvP et les éventuelles zones sécurisées.
+4. Les règles de raid, les horaires et les protections des bases.
+5. Les multiplicateurs de récolte et de fabrication, notamment pour le soufre et les munitions.
+6. La durée restante du serveur et les éventuels changements annoncés par son administrateur.
 
-### Stockage et pertes
+## Préparation des raids et gestion du soufre
 
-Avant d'emporter des ressources importantes dans une zone à risque :
-1. lire les règles de perte de butin affichées ou publiées par l'administrateur ;
-2. faire un essai avec un équipement peu coûteux si les règles restent floues ;
-3. séparer les ressources indispensables du matériel destiné au combat ;
-4. vérifier les règles de protection des bases et de stockage hors ligne.
+Le manque de soufre a été signalé sur ce serveur, sans mesure précise du rendement. Pour déterminer si le problème vient des réglages ou de la route de récolte :
 
-## À vérifier sur chaque serveur
+- relever le rendement d'un gisement et l'outil utilisé ;
+- comparer plusieurs points de récolte dans les mêmes conditions ;
+- vérifier les multiplicateurs affichés par le serveur ;
+- calculer le coût réel des munitions et consommables avant de lancer une session de raid ;
+- distinguer les observations faites sur ce serveur des données de scénarios officiels.
 
-- Nom exact et région du serveur.
-- Activation du PvP et limites des zones rouges.
-- Objets perdus à la mort, exceptions et éventuelles pénalités.
-- Conditions, horaires et restrictions des raids.
-- Multiplicateurs de récolte et de fabrication, notamment pour le soufre et les munitions.
-- Réglages de chaos et durée réelle du scénario.
-- Règles de transfert vers un autre serveur ou un scénario officiel.
+Ces conseils sont une méthode de vérification et ne présument pas de multiplicateurs inconnus.
+
+## Données encore manquantes
+
+- Capture de la fiche du serveur avec son nom exact, sa région et sa durée.
+- Texte précis des règles Red Zone et liste des objets perdus à la mort.
+- Conditions et horaires des raids, ainsi que les règles de protection des bases.
+- Valeurs des multiplicateurs de récolte, de fabrication et de chaos.
+- Rendement mesuré du soufre et coût des munitions sur ce serveur.
 
 ## Fiabilité
 
-Les éléments relatifs au risque de perte en zone rouge, aux raids, aux paramètres de chaos et au besoin de soufre sont des observations rapportées pour un serveur privé précis. Ils doivent être confirmés par l'interface du serveur ou une capture récente avant d'être présentés comme des caractéristiques exactes. Ne pas généraliser ces réglages à tous les serveurs privés ni aux scénarios officiels.
+Les cinq observations spécifiques ci-dessus sont rapportées oralement en octobre 2026, mais n'ont pas été accompagnées de captures. Elles sont conservées car elles peuvent être utiles à d'autres joueurs qui connaissent ce serveur, sans être présentées comme des règles confirmées. Ne pas extrapoler ces réglages à tous les serveurs privés ni aux scénarios officiels.
