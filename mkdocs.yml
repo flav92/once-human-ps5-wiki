@@ -55,6 +55,10 @@ nav:
       - Premiers pas sur Nalcott: jeu/premiers-pas.md
       - Astuces de survie: jeu/astuces-survie.md
       - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
+      - Anomalies, fusion et traits: jeu/anomalies.md
+      - Mods et calibrages: jeu/mods-calibrages.md
+  - Scénarios:
+      - Way of Winter: scenarios/way-of-winter.md
   - Craft:
       - Ressources — où trouver quoi: jeu/ressources.md
       - Explosifs et munitions: craft/explosifs.md

@@ -182,6 +182,23 @@ Quand le nom exact PS5 est confirmé, les pages du wiki sont mises à jour pour 
 | Lone Wolf Wastes | — | ✅ **Lone Wolf Wastes** (nom conservé en FR — écran de scénario, 07/09/2026) |
 | Blackheart Region | Région de Blackheart | ✅ **Région de Blackheart** (écran de scénario, 07/09/2026) |
 | Meyer's Market | Marché de Meyer | ❓ à vérifier |
+| Fire Throat Fortress | Forteresse de la Gorge de feu | ✅ **Forteresse de la gorge de feu** (carte, octobre 2026) |
+
+## Combat, mods et anomalies (Way of Winter)
+
+| Terme anglais | Nom utilisé sur le wiki | Nom exact en jeu (PS5 FR) |
+|---|---|---|
+| The Bull's Eye | Dans le mille | ✅ **Dans le mille** (fiches de mods, octobre 2026) |
+| Frost Vortex | Vortex de givre | ✅ **Vortex de givre** (filtre des mods, octobre 2026) |
+| Vulnerability Amplifier | Amplificateur de vulnérabilité | ✅ **Amplificateur de vulnérabilité** (fiche de mod, octobre 2026) |
+| Hunter's Perk | Atout de chasseur | ✅ **Atout de chasseur** (fiche de mod, octobre 2026) |
+| Secret Servant | Serviteur Secret | ✅ **Serviteur secret** (boss de la Zone de Brume, octobre 2026) |
+| Chaosweaver | Tisseur de chaos | ❓ à vérifier |
+| Chaosium Core | Cœur de chaosium | ✅ **Cœurs de chaosium** (inventaire, octobre 2026) |
+| Worn-Out | Usé | ✅ **Usé** (trait d'anomalie, octobre 2026) |
+| Power Rewind | Rembobiner | ✅ **Rembobiner** (trait d'anomalie, octobre 2026) |
+| Growing Pains | Douleur de croissance | ✅ **Douleur de croissance** (trait d'anomalie, octobre 2026) |
+| Butterfly's Emissary | Émissaire du papillon | ❓ à vérifier |
 
 ## Comment contribuer à cette page
 
