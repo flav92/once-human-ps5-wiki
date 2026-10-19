@@ -88,7 +88,7 @@ Cas réel (XR1, septembre 2026), avec le rôle que chacun veut tenir :
 | **Tank** | Tenir le point | **Bastille ×4** | Marées traîtresses ×2 | La combinaison la plus résistante du jeu : **60 % des PV max en bouclier** accroupi, **−10 % permanents** et un second bouclier automatique sous 40 % de PV |
 | **Démolisseur** | Détruire les structures | **Marées traîtresses ×4** | Sauveur ×2 | ⚠️ **Aucun ensemble n'augmente les dégâts aux structures** — le démolisseur est immobile et vulnérable pendant qu'il pose ses charges. Il lui faut donc de la survie **passive** : −10 % permanents, et surtout un **bouclier de 20 % des PV max toutes les 8 s** sous 40 % de PV, bien plus fréquent que le soin automatique du Sauveur (40 s) |
 
-**État d'avancement réel ✅ (10/09/2026)** : le rôle **anti-joueurs a déjà ses 4 pièces de Lien fantôme**, les quatre paliers de l'ensemble sont donc actifs. Il ne lui reste que les 2 pièces de complément (Marées traîtresses, 4 000 Protochrome) — et surtout à s'assurer que **les six pièces sont bien en Rang V** : à ce stade, un rang manquant coûte plus cher qu'un palier d'ensemble (voir [Le rang prime sur l'ensemble](../jeu/armes-equipement.md#le-rang-prime-sur-lensemble-releve-10092026)).
+**État d'avancement réel ✅ (10/09/2026)** : le rôle **anti-joueurs a déjà ses 4 pièces de Lien fantôme**, les quatre paliers de l'ensemble sont donc actifs. Il ne lui reste que les 2 pièces de complément (Marées traîtresses, 4 000 Protochrome) — et surtout à s'assurer que **les six pièces sont bien en Rang V** : à ce stade, un rang manquant coûte plus cher qu'un palier d'ensemble (voir [Le rang prime sur l'ensemble](../../jeu/armes-equipement.md#le-rang-prime-sur-lensemble-releve-10092026)).
 
 **Ce que cette répartition donne à l'escouade** : trois des quatre portent au moins les paliers 1-2 des Marées traîtresses, donc **−10 % de dégâts subis en permanence pour presque tout le monde**, sans que personne d'autre que le démolisseur n'y consacre son ensemble principal. Chacun garde sa spécialité, et le socle défensif est mutualisé.
 
@@ -128,4 +128,4 @@ Une seule personne par filière suffit à alimenter tout le monde. Répartition 
 - PvP **bloqué sous le niveau 10** (État de Chaos inactivable).
 - **Pas de tir ami** dans l'équipe/faction, même aux explosifs.
 - Hors zones GvG : base personnelle **impillable**, aucun dégât joueur subi, sauf **État de Chaos** activé volontairement (⚠️ ramasser une Pierre d'Écho l'active automatiquement).
-- Voir aussi [Multijoueur, PvP et phases](../jeu/multijoueur-pvp.md).
+- Voir aussi [Multijoueur, PvP et phases](multijoueur-pvp.md).

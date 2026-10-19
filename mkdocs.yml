@@ -54,22 +54,23 @@ nav:
   - Survie:
       - Premiers pas sur Nalcott: jeu/premiers-pas.md
       - Astuces de survie: jeu/astuces-survie.md
-      - Multijoueur, PvP et phases: jeu/multijoueur-pvp.md
       - Anomalies, fusion et traits: jeu/anomalies.md
-      - Mods et calibrages: jeu/mods-calibrages.md
-  - Scénarios:
-      - Way of Winter: scenarios/way-of-winter.md
   - Craft:
-      - Ressources — où trouver quoi: jeu/ressources.md
+      - Armes et équipement: jeu/armes-equipement.md
+      - Mods et calibrages: jeu/mods-calibrages.md
       - Explosifs et munitions: craft/explosifs.md
       - Builds, combos et compétences: craft/builds.md
-      - Armes et équipement: jeu/armes-equipement.md
       - Base et territoire: jeu/base-territoire.md
-  - Guerre & territoires:
-      - Factions armées et Ruches: guerre/factions.md
-      - Prendre une zone d'affrontements: guerre/prise-de-zone.md
-      - Guerres de frontières et enchères: guerre/frontieres.md
-      - GvG — par où commencer: jeu/conquete-bastion.md
+  - Scénarios:
+      - Evolution's Call:
+          - scenarios/evolutions-call/index.md
+          - GvG — par où commencer: scenarios/evolutions-call/gvg.md
+          - Factions armées et Ruches: scenarios/evolutions-call/factions.md
+          - Prendre une zone d'affrontements: scenarios/evolutions-call/prise-de-zone.md
+          - Guerres de frontières et enchères: scenarios/evolutions-call/frontieres.md
+          - Ressources — où trouver quoi: scenarios/evolutions-call/ressources.md
+          - Multijoueur, PvP et phases: scenarios/evolutions-call/multijoueur-pvp.md
+      - Way of Winter: scenarios/way-of-winter.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
       - Comment contribuer: contribuer.md
@@ -100,5 +101,13 @@ markdown_extensions:
 plugins:
   - search:
       lang: fr
+  - redirects:
+      redirect_maps:
+        guerre/factions.md: scenarios/evolutions-call/factions.md
+        guerre/prise-de-zone.md: scenarios/evolutions-call/prise-de-zone.md
+        guerre/frontieres.md: scenarios/evolutions-call/frontieres.md
+        jeu/conquete-bastion.md: scenarios/evolutions-call/gvg.md
+        jeu/ressources.md: scenarios/evolutions-call/ressources.md
+        jeu/multijoueur-pvp.md: scenarios/evolutions-call/multijoueur-pvp.md
 
 copyright: Wiki non officiel, sans affiliation avec NetEase / Starry Studio.

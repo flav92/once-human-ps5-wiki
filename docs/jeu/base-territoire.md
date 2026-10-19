@@ -16,7 +16,7 @@
 - **Éclairage sans électricité** : torches (ne coûtent que du bois) ou stations de fabrication (feu de camp, fourneaux) qui éclairent autour d'elles.
 - **Appliques murales décoratives** : les plans s'obtiennent souvent via des fragments trouvés en exploration. L'applique doit être fixée à un **mur construit** (hologramme bleu) puis raccordée via un câble (**X**).
 
-Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (générateurs et lampes), verre (ampoules) — voir [Ressources](ressources.md).
+Matériaux utiles : cuivre (câbles et circuits), pièces électroniques (générateurs et lampes), verre (ampoules) — voir [Ressources](../scenarios/evolutions-call/ressources.md).
 
 ## Installations importantes (Mémétiques)
 

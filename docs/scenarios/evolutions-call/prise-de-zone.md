@@ -17,7 +17,7 @@ Sur la carte : **« Zone d'affrontements »** ✅ (avec un « Niveau de gestion 
 
 ## La séquence de prise
 
-**1. Raser les défenses de l'occupant.** Vérifié en jeu : **le bois tombe même sous les balles** dans ces zones (lent mais gratuit). Les explosifs servent à aller vite et à percer la pierre — voir [Explosifs et munitions](../craft/explosifs.md).
+**1. Raser les défenses de l'occupant.** Vérifié en jeu : **le bois tombe même sous les balles** dans ces zones (lent mais gratuit). Les explosifs servent à aller vite et à percer la pierre — voir [Explosifs et munitions](../../craft/explosifs.md).
 
 **2. Détruire ce qui tient la zone**, dans l'ordre :
 
@@ -116,7 +116,7 @@ Trois règles logistiques qui changent tout :
 
 ## Quel équipement porter pour l'assaut ? (analyse des ensembles relevés, 10/09/2026)
 
-Les [dix ensembles relevés en jeu](../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026) ne se valent pas du tout selon qu'on attaque ou qu'on défend. Le profil de l'assaillant est l'opposé de celui du défenseur : **il se déplace, il est à découvert, il change de cible sans arrêt et il ne peut pas s'arrêter pour se soigner**.
+Les [dix ensembles relevés en jeu](../../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026) ne se valent pas du tout selon qu'on attaque ou qu'on défend. Le profil de l'assaillant est l'opposé de celui du défenseur : **il se déplace, il est à découvert, il change de cible sans arrêt et il ne peut pas s'arrêter pour se soigner**.
 
 **Les deux meilleurs candidats à l'assaut :**
 
@@ -133,7 +133,7 @@ Les [dix ensembles relevés en jeu](../jeu/armes-equipement.md#bonus-de-set-rele
 
 **Cas particulier — l'assaut vertical** : la **Marée de gravité** donne **−20 % de dégâts subis en l'air** et des cumuls gagnés en parcourant des mètres en l'air. Sur une base à étages où l'on saute de toit en toit pour atteindre le générateur, c'est le seul ensemble qui transforme l'exposition aérienne en avantage. À tester.
 
-**Ce qu'aucun ensemble ne fait** : aucun des dix ne donne de bonus **contre les structures**. Percer reste le travail des [explosifs](../craft/explosifs.md) — l'armure ne sert qu'à survivre à l'approche et à gagner le duel contre les défenseurs.
+**Ce qu'aucun ensemble ne fait** : aucun des dix ne donne de bonus **contre les structures**. Percer reste le travail des [explosifs](../../craft/explosifs.md) — l'armure ne sert qu'à survivre à l'approche et à gagner le duel contre les défenseurs.
 
 *(Piste non vérifiée : la compétence du Berceau **Brawl Boost**, qui réduirait de 20 % les dégâts reçus des joueurs humains. Si elle existe sur console, elle se cumule avec l'ensemble choisi et devient la priorité n°1 pour le GvG. À chercher dans l'écran du Berceau.)*
 
@@ -151,12 +151,12 @@ Leçon du premier assaut (arrêté faute de munitions) — chaque membre emporte
 
 Répartition : 1-2 démolisseurs, 1 guetteur, 1 porteur du kit qui re-teste la prise après chaque destruction. À la base arrière : un membre **produit pendant l'assaut**.
 
-**Doctrine de butin ✅** : ne détruisez pas tout — **récupérez les installations ennemies** et tout objet à **icône jaune** quand c'est possible : passés à l'établi de [rétro-ingénierie](../craft/explosifs.md#la-retro-ingenierie-lautre-voie-de-deblocage), ils débloquent des crafts gratuits ou donnent des **ossements**.
+**Doctrine de butin ✅** : ne détruisez pas tout — **récupérez les installations ennemies** et tout objet à **icône jaune** quand c'est possible : passés à l'établi de [rétro-ingénierie](../../craft/explosifs.md#la-retro-ingenierie-lautre-voie-de-deblocage), ils débloquent des crafts gratuits ou donnent des **ossements**.
 
 **Astuce logistique** : déplacez le **territoire** d'un membre (déménagement gratuit, ~10 min de recharge) en bordure de zone → base avancée avec établis, coffres et lit de réapparition. C'est comme ça que les grosses équipes ont leurs forteresses sur place.
 
 ## Voir aussi
 
-- [Explosifs et munitions](../craft/explosifs.md) — quoi fabriquer, à quel coût
+- [Explosifs et munitions](../../craft/explosifs.md) — quoi fabriquer, à quel coût
 - [Guerres de frontières](frontieres.md) — l'autre système, avec enchères et batailles programmées
 - [Factions armées et Ruches](factions.md)

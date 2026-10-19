@@ -27,7 +27,7 @@ Conséquence : la **Grenade** de base (« très efficace niv. 1 ») devrait donc
 
 ## Le goulot de toute la chaîne : Explosifs variés → soufre
 
-Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Delta de Broken, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../jeu/ressources.md#soufre). File de production en continu !
+Grenades, surpuissants, roquettes : **tout** consomme des **Explosifs variés** ✅ (fabriqués au **Grand établi de synthèse**, à base de **soufre**). La puissance de feu se mesure donc en soufre : rochers à **cristaux jaunes** (Delta de Broken, Iron River) ou Déviant **Garçon Digby** en farm passif — voir [Ressources](../scenarios/evolutions-call/ressources.md#soufre). File de production en continu !
 
 ## Arbre de production des roquettes
 
@@ -61,7 +61,7 @@ flowchart TD
 
 - **Le lanceur** (« RPG7 — Schéma : lance-roquette » ✅) : Mémétiques (points mémétiques), coffres mystérieux, ou Machine à vœux. Stats rang II relevées : **297 DÉG**, chargeur de **1**, +25 % critique/points faibles, trait *« très efficace contre les structures de niv. 3 ou inférieur »*. Existe en rangs II → V — refabriquez-le à un rang supérieur au fil de la saison.
 - **Les Coquilles de roquette** se **lootent** aussi (conteneurs, ennemis) et s'achètent aux **distributeurs** d'autres joueurs.
-- Le **Résonateur protoïde** (détection des Entraves en guerre de frontières) se fabrique au Grand établi de synthèse — voir [Guerres de frontières](../guerre/frontieres.md).
+- Le **Résonateur protoïde** (détection des Entraves en guerre de frontières) se fabrique au Grand établi de synthèse — voir [Guerres de frontières](../scenarios/evolutions-call/frontieres.md).
 
 ## Munitions : les recettes exactes (capturées ✅ 08/09/2026)
 
@@ -135,5 +135,5 @@ Nœuds observés dans l'onglet Combat de l'écran Tech (personnage niveau 37, Ni
 
 ## Voir aussi
 
-- [Prendre une zone d'affrontements](../guerre/prise-de-zone.md) — les PV des structures et combien de bombes prévoir
-- [Ressources : où trouver quoi](../jeu/ressources.md)
+- [Prendre une zone d'affrontements](../scenarios/evolutions-call/prise-de-zone.md) — les PV des structures et combien de bombes prévoir
+- [Ressources : où trouver quoi](../scenarios/evolutions-call/ressources.md)

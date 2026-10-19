@@ -53,7 +53,7 @@
 
 <div class="oh-grid" markdown>
 
-<a class="oh-card" href="guerre/prise-de-zone/" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/prise-de-zone/" markdown>
 <span class="oh-card-title">Prendre une zone d'affrontements <span class="oh-verified">VALIDÉ EN JEU</span></span>
 <span class="oh-card-desc">Séquence de prise complète, exécutée et vérifiée : neutralisation du générateur, Entraves protoïdes, pose de l'Équipement de sécurité, fortification.</span>
 </a>
@@ -63,12 +63,12 @@
 <span class="oh-card-desc">Comparatif de rentabilité contre les structures, recettes relevées en jeu, arbre de production des roquettes, déblocages par phase.</span>
 </a>
 
-<a class="oh-card" href="guerre/frontieres/" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/frontieres/" markdown>
 <span class="oh-card-title">Guerres de frontières</span>
 <span class="oh-card-desc">Les huit frontières du serveur et leurs points régionaux, les six phases du scénario, le fonctionnement des enchères.</span>
 </a>
 
-<a class="oh-card" href="guerre/factions/" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/factions/" markdown>
 <span class="oh-card-title">Factions armées et Ruches</span>
 <span class="oh-card-desc">Répartition des rôles entre Ruche et faction armée, création et recrutement, règles du PvP.</span>
 </a>
@@ -89,7 +89,7 @@
 <span class="oh-card-desc">Ferme à eau industrielle et rendements constatés, chaîne de l'acide, règles de la Corrosion, points de vie et coûts de réparation mesurés.</span>
 </a>
 
-<a class="oh-card" href="jeu/ressources/" markdown>
+<a class="oh-card" href="scenarios/evolutions-call/ressources/" markdown>
 <span class="oh-card-title">Ressources</span>
 <span class="oh-card-desc">Localisation du soufre, du cuivre, du fer et de l'acide ; zones de fouille et méthodes de collecte automatisée.</span>
 </a>
