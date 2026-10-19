@@ -16,6 +16,18 @@ Un essai a signalé que mettre le champion à terre ne suffisait pas à valider 
 
 **Ne pas affirmer qu'il faut détruire les anomalies tant que cela n'a pas été confirmé.**
 
+## Détails de l'essai PS5 rapporté
+
+Ces détails décrivent un essai précis et ne constituent pas une recommandation d'équipement universelle.
+
+- La zone était affichée **niveau 5** et l'équipement disponible était jugé faible pour le champion.
+- L'essai utilisait une **MP5** ; à un moment, il restait environ **20 flèches**. Les **grenades de liaison** avaient manqué avant d'en retrouver.
+- Les soins disponibles à un moment de l'essai étaient **3 potions de récupération basiques**.
+- La Déviation de combat mentionnée était **Monsieur Nounours niveau 7** ; d'autres Déviations étaient réservées à la collecte ou à l'extraction de minerais. Un lapin de récolte était aussi évoqué, mais le nom exact de cette Déviation reste à confirmer.
+- Le joueur voulait tester l'usage de pièges et éviter de gaspiller ses flèches. Rien dans cet essai ne confirme que les pièges soient obligatoires ou qu'ils modifient la validation du défi.
+
+Ces éléments aident à comprendre les contraintes de cet essai, mais la condition de réussite reste inconnue tant qu'elle n'a pas été vérifiée directement dans l'arène.
+
 ## Méthode de vérification
 
 1. Relever le texte complet de la mission, le score demandé et les conditions affichées.
