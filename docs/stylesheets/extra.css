@@ -991,3 +991,101 @@ body::after {
     margin: 0.55rem 0 0;
   }
 }
+
+
+/* ------------------------------------------------------------
+   20. Ambiance immersive inspirée du site officiel Once Human
+   Fond organique animé : on abandonne la grille « carrelage ».
+   ------------------------------------------------------------ */
+body::before {
+  background-image:
+    radial-gradient(ellipse at 18% 18%, rgba(180, 24, 42, 0.15), transparent 32%),
+    radial-gradient(ellipse at 82% 35%, rgba(95, 36, 76, 0.13), transparent 35%),
+    radial-gradient(ellipse at 50% 90%, rgba(20, 112, 111, 0.08), transparent 38%);
+  background-size: 145% 145%;
+  background-position: 0% 0%;
+  opacity: 0.9;
+  mask-image: none;
+  animation: oh-atmosphere 28s ease-in-out infinite alternate;
+}
+body::after {
+  background:
+    radial-gradient(ellipse 48% 58% at 0% 35%, rgba(214, 28, 49, 0.12), transparent 72%),
+    radial-gradient(ellipse 42% 52% at 100% 68%, rgba(102, 45, 104, 0.12), transparent 72%),
+    linear-gradient(180deg, rgba(5, 7, 10, 0.03), rgba(5, 7, 10, 0.28));
+  opacity: 1;
+  animation: oh-veil-drift 34s ease-in-out infinite alternate;
+}
+@keyframes oh-atmosphere {
+  0%   { background-position: 0% 0%; transform: scale(1); }
+  50%  { background-position: 65% 35%; transform: scale(1.035); }
+  100% { background-position: 100% 80%; transform: scale(1.07); }
+}
+@keyframes oh-veil-drift {
+  from { transform: translate3d(-1.5%, -1%, 0); }
+  to   { transform: translate3d(1.5%, 1%, 0); }
+}
+/* L'accueil gagne une profondeur plus cinématique, sans dépendre
+   d'une image distante ni ralentir le chargement. */
+.md-typeset .oh-hero {
+  background: linear-gradient(118deg,
+    rgba(255, 55, 67, 0.88) 0%,
+    rgba(108, 34, 58, 0.58) 27%,
+    rgba(31, 42, 53, 0.88) 58%,
+    rgba(95, 232, 208, 0.38) 100%);
+  background-size: 220% 220%;
+  animation: oh-hero-current 15s ease-in-out infinite alternate;
+}
+.md-typeset .oh-hero__inner {
+  background:
+    radial-gradient(ellipse 70% 120% at 8% 5%, rgba(215, 30, 52, 0.22), transparent 65%),
+    radial-gradient(ellipse 65% 110% at 100% 100%, rgba(85, 53, 115, 0.2), transparent 65%),
+    linear-gradient(155deg, rgba(12, 16, 22, 0.96), rgba(5, 8, 12, 0.98));
+}
+@keyframes oh-hero-current {
+  from { background-position: 0% 30%; }
+  to   { background-position: 100% 70%; }
+}
+/* Scan plus lent et plus visible, façon signal/anomalie. */
+.md-typeset .oh-hero__inner::after {
+  width: 48%;
+  background: linear-gradient(100deg,
+    transparent 0%,
+    rgba(255, 48, 65, 0.04) 25%,
+    rgba(255, 65, 82, 0.22) 48%,
+    rgba(95, 232, 208, 0.12) 58%,
+    transparent 100%);
+  animation-duration: 9s;
+}
+/* Reflets rouge sombre dans les cartes, tout en gardant leur texte lisible. */
+.md-typeset .oh-card::after {
+  background:
+    radial-gradient(ellipse 70% 95% at 100% 100%, rgba(211, 34, 55, 0.15), transparent 68%),
+    linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.035) 50%, transparent 70%);
+  background-size: 100% 100%, 220% 100%;
+}
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .md-typeset .oh-card:hover::after {
+    opacity: 1;
+    animation: oh-card-glint 1.1s ease-out both;
+  }
+}
+@keyframes oh-card-glint {
+  from { background-position: 0 0, 130% 0; }
+  to   { background-position: 0 0, -30% 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  body::before,
+  body::after,
+  .md-typeset .oh-hero,
+  .md-typeset .oh-hero__inner,
+  .md-typeset .oh-hero__inner::before,
+  .md-typeset .oh-hero__inner::after,
+  .md-typeset .oh-grid .oh-card {
+    animation: none !important;
+  }
+  .md-typeset .oh-card,
+  .md-typeset .oh-card:hover {
+    transform: none !important;
+  }
+}
