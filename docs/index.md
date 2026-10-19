@@ -24,10 +24,10 @@
 
 <div class="oh-grid oh-home-actions" markdown>
 
-<a class="oh-card" href="demarrage/installation/" markdown>
-<span class="oh-card-title">Je découvre le jeu</span>
-<span class="oh-card-desc">Installation, choix du serveur, liaison de compte et premiers pas sur PS5.</span>
-<span class="oh-home-link">Commencer →</span>
+<a class="oh-card" href="#regles-de-base" markdown>
+<span class="oh-card-title">Je comprends les règles</span>
+<span class="oh-card-desc">Différences entre scénarios orientés PvE, scénarios à phases PvP et serveurs privés.</span>
+<span class="oh-home-link">Voir les règles de base →</span>
 </a>
 
 <a class="oh-card" href="#guides-communs" markdown>
@@ -121,9 +121,16 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 
 </div>
 
-## PvE, PvP et PvPvE : comprendre les différences
+## Règles de base : PvE, PvP et PvPvE { #regles-de-base }
 
-**Ne choisissez pas uniquement sur une étiquette.** Un scénario peut mélanger progression PvE et activités PvP selon ses phases, ses zones ou les règles du serveur. Vérifiez toujours le détail indiqué dans sa fiche. Les règles de RaidZone, par exemple, sont propres à un serveur privé et ne doivent pas être généralisées.
+Avant de choisir, retenez ces repères :
+
+- **PvE** : priorité à l’exploration, aux ressources, aux missions et aux combats contre l’environnement. **Way of Winter** est présenté ici comme un scénario principalement PvE.
+- **PvP à phases** : la progression et l’exploration coexistent avec des activités territoriales et des règles qui évoluent selon la phase. **Evolution’s Call** entre dans cette catégorie ; il ne faut donc pas le décrire comme un scénario exclusivement PvE.
+- **PvPvE** : les deux dimensions peuvent coexister dans un même environnement ou selon les zones et les activités. Il faut vérifier les règles précises du serveur.
+- **Serveur privé PvP** : **RaidZone** est un cas particulier. Ses règles ne doivent jamais être appliquées par défaut aux scénarios officiels.
+
+Ces repères servent à s’orienter, pas à remplacer la fiche détaillée de chaque scénario.
 
 <div class="oh-grid" markdown>
 
