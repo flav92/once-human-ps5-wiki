@@ -3,7 +3,7 @@
 *Dernière mise à jour : 19 octobre 2026*
 
 !!! note "Fiabilité"
-    Relevés faits sur PS5 dans le scénario Way of Winter, octobre 2026.
+    Relevés faits sur PS5 dans le scénario Way of Winter, octobre 2026. Cette page sert de référence commune, mais les comportements décrits n’ont pas tous été revérifiés dans chaque scénario : si un scénario présente une différence, elle doit être documentée sur sa page.
 
     Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)).
 
