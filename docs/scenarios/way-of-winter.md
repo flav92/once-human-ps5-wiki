@@ -1,6 +1,6 @@
 # Way of Winter
 
-*Dernière mise à jour : 19 octobre 2026*
+*Dernière mise à jour : 20 octobre 2026*
 
 !!! note "Fiabilité"
     Relevés faits sur PS5 dans le scénario **Way of Winter**, au niveau 50, du 17 au 19 octobre 2026. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)).
@@ -95,7 +95,7 @@ Cette section rassemble des observations plus anciennes de parties PS5. Les chif
 
 ### Chaosium brut, acide et batteries
 
-- Correction d'après un autre passage de l'historique : la recette évoquée était **30 minerais de roche chaude + 1 acide pour produire 30 chaosium**. Le joueur disposait d'environ **900 acides** à ce moment-là. La recette doit tout de même être vérifiée sur l'établi avant d'appliquer ce calcul à la version actuelle du jeu.
+- Correction d'après un autre passage de l'historique : la recette évoquée était **30 minerais de roche chaude + 1 acide pour produire 30 chaosium**. Le joueur disposait d'environ **900 acides** à ce moment-là. Une autre estimation orale de production ne concorde pas clairement avec cette recette ; ne pas en déduire une quantité finale sans vérifier la recette et les stocks de minerais dans l'interface PS5.
 - Une culture destinée aux batteries aurait donné **quatre batteries pour une plantation** d'après son essai. Le nom de la plante, la recette et les conditions exactes restent à confirmer. 🎮
 - Le joueur avait construit une **tour solaire personnelle** et débloqué plusieurs améliorations liées au réacteur et au thermosatique. Les noms exacts des nœuds d'amélioration doivent être recopiés depuis l'interface PS5.
 - Il avait contribué environ **80 cœurs de chaosium** à des centres publics et cherchait à comprendre la différence entre contribution personnelle et bonus de zone. Les niveaux et nombres de cœurs rapportés à ce moment-là sont consignés dans le [carnet de terrain historique](../carnet-de-terrain-historique.md).
