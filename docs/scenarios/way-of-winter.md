@@ -95,7 +95,7 @@ Cette section rassemble des observations plus anciennes de parties PS5. Les chif
 
 ### Chaosium brut, acide et batteries
 
-- Le joueur envisageait de produire du chaosium brut à partir de l'acide. Il rapportait un coût de **30 acides par unité** et un stock d'environ **900 acides** à ce moment-là. Cette recette et son rendement doivent être vérifiés dans l'interface avant de calculer une quantité de production.
+- Correction d'après un autre passage de l'historique : la recette évoquée était **30 minerais de roche chaude + 1 acide pour produire 30 chaosium**. Le joueur disposait d'environ **900 acides** à ce moment-là. La recette doit tout de même être vérifiée sur l'établi avant d'appliquer ce calcul à la version actuelle du jeu.
 - Une culture destinée aux batteries aurait donné **quatre batteries pour une plantation** d'après son essai. Le nom de la plante, la recette et les conditions exactes restent à confirmer. 🎮
 - Le joueur avait construit une **tour solaire personnelle** et débloqué plusieurs améliorations liées au réacteur et au thermosatique. Les noms exacts des nœuds d'amélioration doivent être recopiés depuis l'interface PS5.
 - Il avait contribué environ **80 cœurs de chaosium** à des centres publics et cherchait à comprendre la différence entre contribution personnelle et bonus de zone. Les niveaux et nombres de cœurs rapportés à ce moment-là sont consignés dans le [carnet de terrain historique](../carnet-de-terrain-historique.md).
@@ -112,3 +112,15 @@ Cette section rassemble des observations plus anciennes de parties PS5. Les chif
 2. Les valeurs de température, de résistance, les coûts de fabrication, les multiplicateurs et les stocks peuvent changer avec les mises à jour ou les améliorations d'équipement.
 3. Les coordonnées issues de reconnaissance vocale doivent rester « à vérifier » jusqu'à confirmation visuelle.
 4. Quand une valeur exacte est importante pour une stratégie, joindre une capture PS5 de l'infobulle, de la recette ou de la carte.
+
+
+### Autres lieux cités pendant la recherche de ressources
+
+Dans les échanges sur le farm de chaosium et de minerais, les noms suivants ont été évoqués :
+
+- **Forteresse de la Gorge de feu** et **Sanctuaire de la Gorge de feu** (noms français rapportés oralement ; vérifier le libellé exact en jeu).
+- **Sunshroud Cave** et **Abandoned Refinery** (noms anglais mentionnés dans une recherche de farm).
+- Secteur de **fontaines roses**, où le joueur rapportait avoir récupéré environ **300** unités/ressources ; la ressource exacte et le lieu précis sont à confirmer.
+- Secteur proche du **Royaume virtuel**, d'une **carrière de soufre**, du **centre de recherche du Dieu du Feu** ou de la **grotte ensoleillée** : ces repères ont été cités oralement autour de coordonnées approximatives **−3641 / 3490**. Faute de capture, ne pas utiliser ces coordonnées comme itinéraire confirmé.
+
+Le joueur a aussi cherché du **minerai de cristal froid** et de l'acide pendant ces sorties. La roche chaude peut être difficile à miner dans les secteurs affectés par la gravité. 🎮
