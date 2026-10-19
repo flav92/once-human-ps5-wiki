@@ -75,6 +75,27 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 - Once Human Wiki (Fandom), page « Adv. Fishing Rod ».
 
 
+## Température et équipement : repères à confirmer
+
+- **Lanterne de chaosium** : une observation de l'infobulle indiquait **+15 de température sous 10 °C** et **−15 au-dessus de 30 °C**. Les seuils et l'effet exact doivent être revérifiés sur la fiche PS5 avant d'en faire une règle garantie.
+- **Armure en peau de crocodile** : les valeurs évoquées étaient **+10** pour une version bleue et **+15** pour une version dorée en résistance au froid. Il faut confirmer la pièce exacte, le palier d'amélioration et le nom français de la statistique.
+- Les plats de viande ont été utilisés pour mieux supporter le froid, et la glace pour fabriquer du Froidium ; les recettes et durées exactes ne sont pas relevées ici.
+- Des peaux de crocodile dorées ont été trouvées dans une caisse de butin d'avènement stellaire à **Ashenton** (observation PS5).
+
+Ces repères sont conservés car ils peuvent aider à préparer une traversée par météo extrême, mais les bonus chiffrés restent à confirmer.
+
+## Chaosium brut : recette contradictoire à vérifier
+
+Deux formulations incompatibles ont été rapportées :
+- une estimation de **30 acides par unité** de chaosium ;
+- une correction indiquant **1 acide + 30 minerais de roche chaude pour produire 30 chaosium**.
+
+Aucune des deux ne doit être traitée comme certaine sans relire l'écran de fabrication PS5. Il faut relever ensemble les ingrédients consommés et le nombre d'unités obtenues, puis mettre à jour cette page et toute autre page qui cite la recette.
+
+## Batteries cultivées : rendement à confirmer
+
+Une observation de culture a indiqué un rendement de **quatre batteries par plantation**, mais le nom exact de la plante, les conditions de culture et la recette ne sont pas établis. Ne pas présenter ce rendement comme universel avant de refaire le test et de relever le nom de la graine et le résultat complet.
+
 ## Vérifications à faire avant de publier une recette
 
 Les recettes, les rendements de minage et les bonus de température peuvent dépendre des outils, des améliorations et de la version du jeu. Avant de publier une valeur précise :
