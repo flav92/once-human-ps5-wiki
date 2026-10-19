@@ -1,42 +1,38 @@
-# Déviation — notes de terrain PS5
+# Déviation — défis d'arène sur PS5
 
 *Dernière mise à jour : 20 octobre 2026*
 
-!!! warning "État des données"
-    Cette page conserve les observations rapportées pendant nos échanges de jeu. Elles n'ont pas toutes été confirmées par capture d'écran. Les formulations incertaines restent explicitement marquées « à confirmer ». Ne pas les transformer en règles générales sans nouvelle vérification.
+Cette page rassemble les éléments à vérifier pour le défi d'arène associé à l'objectif de score de symbiose. Les noms exacts des lieux et les conditions de validation doivent être confirmés sur l'interface française de la version PS5.
 
-## Progression et blocage rencontré
+## Objectif et lieu
 
-- Le personnage était dans une zone de début de progression affichée **niveau 5**, avec un équipement jugé faible. 🎮
-- Mission en cours : terminer les défis d'arène près du **Verdoyant** pour atteindre le score de symbiose requis ; l'objectif de progression affiché concernait une **Déviation de niveau 25**. 🎮
-- Le joueur a parlé à **Venaud**, présenté comme expert en sécurisation, puis s'est dirigé vers le **Verdoyant / Ham dynamique / Arène rocher**. Les libellés exacts du lieu sont à revérifier à l'écran. 🎮
-- Le champion d'arène rencontré affichait **trois anomalies** et un temps limite de **quatre minutes**. 🎮
-- Le joueur a réussi à mettre le champion à terre à plusieurs reprises, mais n'a pas validé le défi. La nécessité de détruire ou neutraliser les anomalies du champion n'a pas été confirmée. **À vérifier en jeu.**
+- Objectif rapporté : terminer les défis d'arène près du **Verdoyant** afin d'atteindre le score de symbiose requis pour une Déviation de **niveau 25**. **À confirmer avec le journal de mission.**
+- Le trajet mentionne **Venaud**, présenté comme expert en sécurisation, et des libellés transcrits comme **Ham dynamique / Arène rocher**. Vérifier les noms à l'écran avant de les traiter comme des noms officiels.
+- Un champion rencontré affichait **trois anomalies** et un compte à rebours de **quatre minutes**. Cette observation ne prouve pas que ces valeurs s'appliquent à toutes les arènes.
 
-## Équipement et ressources pendant l'essai
+## Condition de réussite : inconnue à confirmer
 
-- Arme utilisée : **MP5**, que le joueur n'apprécie pas. 🎮
-- Munitions limitées à certains moments : environ **20 flèches** restantes. 🎮
-- Le joueur a manqué de **grenades de liaison**, puis en a retrouvé. 🎮
-- Soins disponibles à un moment du parcours : **3 potions de récupération basiques**. 🎮
-- Le joueur souhaitait pouvoir utiliser des pièges et éviter de gaspiller ses flèches. 🎮
-- L'équipement et les armes disponibles étaient considérés comme trop faibles pour ce combat. Il s'agit du constat du joueur, pas d'une exigence officielle du jeu.
+Un essai a signalé que mettre le champion à terre ne suffisait pas à valider le défi. La condition exacte reste inconnue : il faut déterminer si les anomalies sont des cibles obligatoires, si elles indiquent une mécanique de phase ou si une autre condition doit être remplie.
 
-## Déviations et préparation
+**Ne pas affirmer qu'il faut détruire les anomalies tant que cela n'a pas été confirmé.**
 
-- Configuration mentionnée : **Monsieur Nounours niveau 7**, avec d'autres Déviations destinées à la collecte ou à l'extraction de minerais. 🎮
-- Des Déviations utilitaires, dont un lapin destiné à la récolte, étaient envisagées pour être placées dans des capsules pendant le combat. Les noms exacts de certaines Déviations de récolte restent à confirmer.
-- Le joueur cherchait à garder Monsieur Nounours pour le combat et à limiter les pertes de ressources pendant les défis. 🎮
+## Méthode de vérification
 
-## Protocole de vérification proposé pour reprendre le défi
+1. Relever le texte complet de la mission, le score demandé et les conditions affichées.
+2. Observer les anomalies : barre de vie, marqueur d'objectif, vulnérabilité et comportement.
+3. Noter le compteur avant et après chaque action, notamment lorsque le champion tombe.
+4. Vérifier les conditions d'échec et de réussite, puis refaire un essai pour distinguer une règle reproductible d'un événement ponctuel.
+5. Consigner les armes, consommables et pièges uniquement s'ils sont nécessaires pour expliquer une mécanique ou reproduire la stratégie ; éviter les inventaires propres à une personne.
 
-1. Relever exactement le nom du défi, le score de symbiose demandé et les conditions affichées dans le journal de mission.
-2. Observer si les trois anomalies du champion ont une barre de vie, un marqueur d'objectif ou un comportement qui indique qu'elles doivent être éliminées.
-3. Après avoir vaincu le champion, vérifier précisément ce qui fait avancer ou échouer le compteur de défi.
-4. Noter les munitions et objets réellement consommés, ainsi que les pièges disponibles sur la version PS5.
-5. Capturer les écrans de mission, d'arène et de récompense pour faire passer les informations de 🎮 à ✅.
+## Préparation générale
 
-## Sources et fiabilité
+- Prévoir une arme adaptée au niveau de la zone et suffisamment de munitions.
+- Emporter des soins et les consommables réellement autorisés ou utiles pour l'arène.
+- Si des Déviations utilitaires sont équipées, vérifier si elles doivent être retirées ou placées en capsules avant le combat ; ne pas supposer que cela modifie le défi.
+- Éviter de répéter des tentatives coûteuses avant d'avoir identifié la condition de validation.
 
-- 🎮 Historique de jeu rapporté oralement, échanges du 15 octobre 2026 et jours suivants.
-- Aucune source externe n'est utilisée ici pour confirmer les règles de cette arène.
+## Fiabilité et sources
+
+- Les trois anomalies, la limite de quatre minutes et le problème de validation proviennent d'une observation de jeu rapportée ; ils sont à confirmer par une nouvelle vérification.
+- Aucune source externe ne confirme actuellement la mécanique exacte de cette arène.
+- Voir la [méthode de vérification communautaire](../carnet-de-terrain-historique.md) pour documenter les futurs relevés.
