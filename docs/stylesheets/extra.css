@@ -913,3 +913,81 @@ body::after {
     letter-spacing: 0.16em;
   }
 }
+
+
+/* ------------------------------------------------------------
+   19. Correctifs de rendu et animations discrètes
+   ------------------------------------------------------------ */
+/* Empêche les règles globales des titres de casser les titres du héros. */
+.md-typeset .oh-hero h1 {
+  display: block;
+}
+.md-typeset .oh-hero h1::after,
+.md-typeset .oh-hero h1::before {
+  content: none;
+}
+.md-typeset .oh-hero h1 em {
+  display: block;
+}
+/* Les cartes sont des liens complets : garder une hauteur cohérente
+   sans couper le contenu sur les écrans étroits. */
+.md-typeset .oh-card {
+  height: 100%;
+  box-sizing: border-box;
+  overflow-wrap: anywhere;
+}
+.md-typeset .oh-card .oh-card-title,
+.md-typeset .oh-card .oh-card-desc,
+.md-typeset .oh-card .oh-home-link {
+  overflow-wrap: anywhere;
+}
+.md-typeset .oh-home-actions .oh-card {
+  min-height: 13rem;
+}
+.md-typeset .oh-home-actions .oh-card .oh-card-desc {
+  margin-bottom: 0.5rem;
+}
+.md-typeset .oh-grid:not(.oh-home-actions) .oh-card {
+  min-height: 10rem;
+}
+/* Mouvement d'arrivée léger, sans faire bouger toute la page. */
+@keyframes oh-card-enter {
+  from { opacity: 0; transform: translateY(12px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .md-typeset .oh-grid .oh-card {
+    animation: oh-card-enter 0.55s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .md-typeset .oh-grid .oh-card:nth-child(2) { animation-delay: 70ms; }
+  .md-typeset .oh-grid .oh-card:nth-child(3) { animation-delay: 140ms; }
+  .md-typeset .oh-grid .oh-card:nth-child(4) { animation-delay: 210ms; }
+  .md-typeset .oh-grid .oh-card:nth-child(5) { animation-delay: 280ms; }
+  .md-typeset .oh-grid .oh-card:nth-child(6) { animation-delay: 350ms; }
+  .md-typeset .oh-grid .oh-card:nth-child(7) { animation-delay: 420ms; }
+  .md-typeset .oh-hero__inner {
+    animation: oh-card-enter 0.7s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  }
+  .md-typeset .oh-home-actions .oh-card:hover {
+    transform: translateY(-6px) scale(1.012);
+  }
+}
+@media (max-width: 760px) {
+  .md-typeset .oh-grid {
+    grid-template-columns: 1fr;
+  }
+  .md-typeset .oh-grid .oh-card {
+    min-height: 0;
+  }
+  .md-typeset .oh-home-actions .oh-card {
+    min-height: 0;
+  }
+  .md-typeset h2 {
+    display: block;
+  }
+  .md-typeset h2::after {
+    display: block;
+    width: 4rem;
+    margin: 0.55rem 0 0;
+  }
+}
