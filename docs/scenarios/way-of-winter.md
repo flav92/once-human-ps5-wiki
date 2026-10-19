@@ -124,3 +124,40 @@ Dans les échanges sur le farm de chaosium et de minerais, les noms suivants ont
 - Secteur proche du **Royaume virtuel**, d'une **carrière de soufre**, du **centre de recherche du Dieu du Feu** ou de la **grotte ensoleillée** : ces repères ont été cités oralement autour de coordonnées approximatives **−3641 / 3490**. Faute de capture, ne pas utiliser ces coordonnées comme itinéraire confirmé.
 
 Le joueur a aussi cherché du **minerai de cristal froid** et de l'acide pendant ces sorties. La roche chaude peut être difficile à miner dans les secteurs affectés par la gravité. 🎮
+
+
+## Complément de terrain — préparation et farm
+
+### Centres publics et contribution personnelle
+
+Les valeurs ci-dessous sont des relevés ponctuels racontés pendant la partie, pas des valeurs garanties aujourd'hui :
+
+| Centre / zone cité | Bonus de zone observé | Bonus personnel observé | Cœurs affichés |
+|---|---:|---:|---:|
+| Forge de givre (zone de blizzard) | niveau 4 | niveau 0 | 232 |
+| Mer Ardente (zone de tempête volcanique) | niveau 2 | non relevé | 130 |
+| Autre centre public | niveau 6 | non relevé | non relevé |
+
+Le joueur avait également indiqué avoir déposé environ **80 cœurs** dans des emplacements publics. Ces données ne permettent pas, à elles seules, de déduire la formule qui transforme les contributions en bonus personnel ou collectif. Pour expliquer le calcul, il faudra comparer l'interface avant et après un dépôt, sur le même centre.
+
+### Préparer une session de farm de roche chaude
+
+1. Repérer les filons sur place et noter les coordonnées affichées par la carte PS5 ; ne pas naviguer sur la seule base de coordonnées issues de la reconnaissance vocale.
+2. Vérifier l'outil utilisé : le relevé de terrain indique environ **50 minerais avec une perceuse** et **25 avec une pioche par filon**. À recontrôler si les outils ou leurs bonus ont changé.
+3. Prévoir les consommables adaptés à l'effet de température et de gravité du secteur. Le joueur a signalé que la gravité pouvait rendre le minage pénible.
+4. Le joueur a rapporté une sortie d'environ **350 minerais** dans une zone comprenant jusqu'à sept filons. C'est un résultat de session, pas une garantie de rendement.
+5. Avant de fabriquer du chaosium, vérifier la recette affichée et le nombre d'unités produites : l'historique contient des estimations orales contradictoires sur le coût en acide. La recette rapportée ensuite était **30 minerais de roche chaude + 1 acide → 30 chaosium** ; conserver cette valeur comme « à vérifier en jeu » tant qu'une capture de la recette n'est pas disponible.
+
+### Ressources et stocks : ne pas confondre les essais
+
+- Le joueur disposait d'environ **900 acides** lors d'une estimation de fabrication. Ce stock est historique et ne décrit pas son inventaire actuel.
+- Une plantation testée pour obtenir des batteries aurait produit **quatre batteries par plantation**. Le nom exact de la plante et les conditions de l'essai n'ont pas été conservés avec assez de précision.
+- Le joueur utilisait encore des **munitions en cuivre** et signalait manquer d'acide et de munitions à certains moments. C'est un point de gestion de progression, pas une recommandation universelle de build.
+- Avant de conseiller un gros lot de fabrication, calculer le besoin à partir de la recette affichée en jeu et du stock réellement disponible ; ne pas reprendre les estimations anciennes sans les recalculer.
+
+### Températures : routine de préparation observée
+
+- Vérifier l'icône de température et équiper la **lanterne de chaosium** avant d'entrer dans un secteur extrême. Le joueur a rapporté avoir échoué à un événement de pêche après avoir oublié la lanterne.
+- L'armure en peau de crocodile, la nourriture et la lanterne ont été utilisées comme moyens complémentaires. Les valeurs de résistance exactes doivent être lues sur les infobulles des pièces réellement équipées.
+- Le joueur avait fabriqué de la glace pour préparer du **Froidium** et utilisait des plats à base de viande pour mieux supporter le froid. Les quantités, durées et recettes exactes restent à documenter avec des captures.
+
