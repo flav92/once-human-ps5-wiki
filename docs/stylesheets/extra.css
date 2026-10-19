@@ -695,3 +695,64 @@ body::after {
   .oh-legend { flex-direction: column; align-items: flex-start; gap: 0.6rem; }
   .oh-legend > span, .oh-legend > p > span { align-items: flex-start; }
 }
+
+/* ------------------------------------------------------------
+   17. Accueil compact : observations récentes et navigation mobile
+   ------------------------------------------------------------ */
+.oh-latest {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin: 1rem 0 1.4rem;
+}
+.oh-latest__item {
+  min-width: 0;
+  padding: 1rem 1.05rem;
+  background: linear-gradient(155deg, var(--oh-panel-2), var(--oh-panel));
+  border: 1px solid var(--oh-line-soft);
+  border-top: 2px solid var(--oh-mint);
+  font-size: 0.76rem;
+  line-height: 1.55;
+}
+.oh-latest__item p { margin: 0.55rem 0; }
+.oh-latest__item a {
+  display: inline-block;
+  margin-top: 0.35rem;
+  font-family: "Chakra Petch", sans-serif;
+  font-weight: 700;
+  font-size: 0.7rem;
+  text-decoration: none;
+}
+.oh-latest__tag {
+  display: inline-block;
+  color: var(--oh-mint);
+  font-family: "Chakra Petch", sans-serif;
+  font-size: 0.61rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+}
+.oh-latest__tag--violet { color: var(--oh-violet); }
+.oh-latest__tag--amber { color: var(--oh-amber); }
+[data-md-color-scheme="default"] .oh-latest__item {
+  background: linear-gradient(155deg, #fff, #f4f7f9);
+}
+[data-md-color-scheme="default"] .oh-latest__tag { color: var(--oh-cyan-deep); }
+[data-md-color-scheme="default"] .oh-latest__tag--violet { color: #7c3aed; }
+[data-md-color-scheme="default"] .oh-latest__tag--amber { color: #a16207; }
+
+/* L'historique reste disponible, mais n'allonge plus l'accueil par défaut. */
+.md-typeset details > summary {
+  cursor: pointer;
+}
+.md-typeset details[open] > summary {
+  border-bottom: 1px solid var(--oh-line-soft);
+  margin-bottom: 0.8rem;
+}
+@media (max-width: 760px) {
+  .oh-latest { grid-template-columns: 1fr; gap: 0.6rem; }
+  .oh-latest__item { padding: 0.85rem 0.9rem; }
+  .md-typeset .grid.cards { grid-template-columns: 1fr; }
+  .md-typeset .grid.cards > ul { grid-template-columns: 1fr; }
+  .md-typeset h2 { margin-top: 1.6em; }
+}
+
