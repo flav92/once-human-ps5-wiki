@@ -19,6 +19,10 @@ Boss de fin de donjon, **niveau 60** 🎮.
 - Le jeu redonne **3 doses d'adrénaline à chaque tentative** 🎮.
 - Un tir de sniper pose la marque « Dans le mille » sur le boss 🎮 (voir [mods et calibrages](../jeu/mods-calibrages.md)).
 
+## Seigneur de l'Oubli — retour de combat à confirmer
+
+Un retour de terrain rapporte une victoire **en solo contre le Seigneur de l'Oubli niveau 40** dans le contexte de Way of Winter. C'est un indice qu'une victoire en solo est possible dans ces conditions, pas une garantie pour tous les builds : l'équipement, la difficulté et la version exacte ne sont pas consignés avec assez de précision pour en tirer une stratégie reproductible. Une rencontre de niveau 70 dans un autre contexte avait été jugée trop difficile en solo ; ne pas confondre les deux niveaux.
+
 ## Silos de confinement
 
 Silos disponibles 🎮 : **Taurus, Delta, X1 et Psi**. Le niveau des ennemis dépend de la difficulté choisie ; en **Cauchemar**, il est de **70** 🎮.
