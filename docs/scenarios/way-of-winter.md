@@ -2,10 +2,19 @@
 
 *Dernière mise à jour : 20 octobre 2026*
 
-!!! note "Fiabilité"
-    Relevés faits sur PS5 dans le scénario **Way of Winter**, au niveau 50, du 17 au 19 octobre 2026. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)).
+**Orientation : scénario principalement PvE**, centré ici sur l'exploration, les températures extrêmes, le Chaosium et les combats de boss. Les activités exactes et les règles peuvent varier selon la version et le serveur.
 
-    Mécaniques communes à tous les scénarios : [anomalies et fusion](../jeu/anomalies.md), [mods et calibrages](../jeu/mods-calibrages.md), [buffs de nourriture](../jeu/astuces-survie.md#buffs-de-nourriture-et-de-boisson).
+!!! note "Fiabilité et périmètre"
+    Relevés faits sur PS5 dans Way of Winter, octobre 2026. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)). Les températures, recettes et coordonnées encore incertaines restent explicitement marquées à confirmer.
+
+!!! info "Guides communs — pas besoin de les chercher dans chaque scénario"
+    - [Armes et équipement](../jeu/armes-equipement.md)
+    - [Anomalies et fusion](../jeu/anomalies.md)
+    - [Mods et calibrages](../jeu/mods-calibrages.md)
+    - [Buffs de nourriture et de boisson](../jeu/astuces-survie.md#buffs-de-nourriture-et-de-boisson)
+    - [Ressources générales](../jeu/ressources.md) ; les repères propres à Way of Winter sont conservés dans cette page.
+    - [Base et territoire](../jeu/base-territoire.md)
+    - [Explosifs et munitions](../craft/explosifs.md)
 
 ## Boss de la Zone de Brume : le Serviteur Secret
 
