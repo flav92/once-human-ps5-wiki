@@ -57,39 +57,6 @@
   --md-accent-fg-color: var(--oh-cyan-deep);
 }
 
-/* ------------------------------------------------------------
-   2. Fond : grille technique + vignette, fixes et discrets
-   ------------------------------------------------------------ */
-body::before {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background-image:
-    linear-gradient(var(--oh-line-soft) 1px, transparent 1px),
-    linear-gradient(90deg, var(--oh-line-soft) 1px, transparent 1px);
-  background-size: 64px 64px;
-  opacity: 0.5;
-  mask-image: radial-gradient(ellipse at 50% 0%, #000 0%, transparent 78%);
-}
-body::after {
-  content: "";
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background:
-    radial-gradient(ellipse 90% 55% at 8% -18%,  rgba(45, 212, 191, 0.07), transparent 62%),
-    radial-gradient(ellipse 80% 50% at 96% -8%,  rgba(167, 139, 250, 0.05), transparent 62%);
-  animation: oh-drift 26s ease-in-out infinite alternate;
-}
-[data-md-color-scheme="default"] body::after { opacity: 0.45; }
-
-@keyframes oh-drift {
-  from { transform: translate3d(0, 0, 0) scale(1); }
-  to   { transform: translate3d(2%, 1.5%, 0) scale(1.08); }
-}
 
 .md-container, .md-header, .md-footer { position: relative; z-index: 1; }
 
@@ -997,34 +964,6 @@ body::after {
    20. Ambiance immersive inspirée du site officiel Once Human
    Fond organique animé : on abandonne la grille « carrelage ».
    ------------------------------------------------------------ */
-body::before {
-  background-image:
-    radial-gradient(ellipse at 18% 18%, rgba(180, 24, 42, 0.15), transparent 32%),
-    radial-gradient(ellipse at 82% 35%, rgba(95, 36, 76, 0.13), transparent 35%),
-    radial-gradient(ellipse at 50% 90%, rgba(20, 112, 111, 0.08), transparent 38%);
-  background-size: 145% 145%;
-  background-position: 0% 0%;
-  opacity: 0.9;
-  mask-image: none;
-  animation: oh-atmosphere 28s ease-in-out infinite alternate;
-}
-body::after {
-  background:
-    radial-gradient(ellipse 48% 58% at 0% 35%, rgba(214, 28, 49, 0.12), transparent 72%),
-    radial-gradient(ellipse 42% 52% at 100% 68%, rgba(102, 45, 104, 0.12), transparent 72%),
-    linear-gradient(180deg, rgba(5, 7, 10, 0.03), rgba(5, 7, 10, 0.28));
-  opacity: 1;
-  animation: oh-veil-drift 34s ease-in-out infinite alternate;
-}
-@keyframes oh-atmosphere {
-  0%   { background-position: 0% 0%; transform: scale(1); }
-  50%  { background-position: 65% 35%; transform: scale(1.035); }
-  100% { background-position: 100% 80%; transform: scale(1.07); }
-}
-@keyframes oh-veil-drift {
-  from { transform: translate3d(-1.5%, -1%, 0); }
-  to   { transform: translate3d(1.5%, 1%, 0); }
-}
 /* L'accueil gagne une profondeur plus cinématique, sans dépendre
    d'une image distante ni ralentir le chargement. */
 .md-typeset .oh-hero {
@@ -1092,47 +1031,50 @@ body::after {
 
 
 /* ------------------------------------------------------------
-   21. Quatre univers d'ambiance : fonds illustrés + transition
+   21. Fond d'ambiance : quatre illustrations qui alternent
+   Une seule couche fixe (body::before), à la taille de la fenêtre.
+   - background-size: cover + no-repeat : l'image remplit l'écran
+     sans se répéter, quel que soit le format (PC large, téléphone).
+   - height: 100lvh : la hauteur suit la plus grande fenêtre du
+     mobile. Elle ne change donc pas quand la barre d'adresse se
+     replie au défilement, et l'image ne se recadre pas.
+   - Le script oh.js change data-oh-world toutes les 9 s ; Chrome
+     fond les deux images, les autres navigateurs basculent.
    ------------------------------------------------------------ */
 :root {
   --oh-world-accent: #ff4058;
-  --oh-world-glow: rgba(255, 40, 68, .22);
+  --oh-world-glow: rgba(255, 40, 68, .20);
+  --oh-world-image: url("../images/world-red.svg");
 }
+body[data-oh-world="red"]    { --oh-world-accent: #ff4058; --oh-world-glow: rgba(255, 40, 68, .20);  --oh-world-image: url("../images/world-red.svg"); }
+body[data-oh-world="green"]  { --oh-world-accent: #42f5a1; --oh-world-glow: rgba(28, 235, 133, .20); --oh-world-image: url("../images/world-green.svg"); }
+body[data-oh-world="violet"] { --oh-world-accent: #b38aff; --oh-world-glow: rgba(147, 83, 255, .22); --oh-world-image: url("../images/world-violet.svg"); }
+body[data-oh-world="amber"]  { --oh-world-accent: #ffc45c; --oh-world-glow: rgba(255, 177, 52, .20); --oh-world-image: url("../images/world-amber.svg"); }
+
 body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100lvh;
+  z-index: 0;
+  pointer-events: none;
+  background-color: #05080c;
   background-image:
-    linear-gradient(115deg, rgba(4, 7, 11, .08) 0%, rgba(4, 7, 11, .52) 58%, rgba(4, 7, 11, .72) 100%),
-    url("../images/world-red.svg");
-  background-size: cover, cover;
-  background-position: center, center;
-  opacity: .92;
-  mask-image: none;
-  animation: oh-world-pan 32s ease-in-out infinite alternate;
-  transition: background-image 1.8s ease-in-out, opacity 1.8s ease-in-out;
+    linear-gradient(115deg, rgba(4, 7, 11, .10) 0%, rgba(4, 7, 11, .50) 58%, rgba(4, 7, 11, .72) 100%),
+    var(--oh-world-image);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  transition: background-image 1.8s ease-in-out;
 }
-body::after {
-  background:
-    linear-gradient(115deg, var(--oh-world-glow), transparent 55%, rgba(3, 6, 10, .42)),
-    radial-gradient(ellipse at 10% 0%, var(--oh-world-glow), transparent 55%);
-  opacity: .7;
-  transition: background 1.8s ease-in-out, opacity 1.8s ease-in-out;
-}
-body[data-oh-world="red"] { --oh-world-accent:#ff4058; --oh-world-glow:rgba(255,40,68,.20); }
-body[data-oh-world="green"] { --oh-world-accent:#42f5a1; --oh-world-glow:rgba(28,235,133,.20); }
-body[data-oh-world="violet"] { --oh-world-accent:#b38aff; --oh-world-glow:rgba(147,83,255,.22); }
-body[data-oh-world="amber"] { --oh-world-accent:#ffc45c; --oh-world-glow:rgba(255,177,52,.20); }
-body[data-oh-world="green"]::before {
-  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-green.svg");
-}
-body[data-oh-world="violet"]::before {
-  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-violet.svg");
-}
-body[data-oh-world="amber"]::before {
-  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-amber.svg");
-}
-.md-typeset a, .md-typeset h2::after, .md-typeset .oh-card:hover {
-  transition: color .8s ease, border-color .8s ease, box-shadow .8s ease, transform .3s ease;
-}
-.md-typeset a { color: var(--oh-world-accent); }
+body::after { content: none; }
+.md-container, .md-header, .md-footer { position: relative; z-index: 1; }
+
+/* L'accent du monde ne colore que le décor (héros, survol des
+   cartes) ; les liens gardent une couleur fixe et lisible. */
 .md-typeset .oh-card:hover {
   border-color: color-mix(in srgb, var(--oh-world-accent) 70%, transparent);
   box-shadow: 0 12px 38px var(--oh-world-glow);
@@ -1140,87 +1082,10 @@ body[data-oh-world="amber"]::before {
 .md-typeset .oh-hero {
   background: linear-gradient(115deg, color-mix(in srgb, var(--oh-world-accent) 72%, #101820) 0%, rgba(15,20,28,.92) 48%, color-mix(in srgb, var(--oh-world-accent) 35%, #0b1119) 100%);
   background-size: 200% 200%;
-}
-@keyframes oh-world-pan {
-  from { background-position: center, 0% 0%; transform: scale(1); }
-  to { background-position: center, 100% 100%; transform: scale(1.045); }
+  transition: background .8s ease;
 }
 @media (prefers-reduced-motion: reduce) {
-  body::before { animation: none !important; }
-}
-
-
-/* Crossfade réel entre les quatre fonds illustrés locaux. */
-body::before {
-  background: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.48) 58%, rgba(4,7,11,.70));
-  opacity: 1;
-  mask-image: none;
-  animation: none;
-}
-.oh-world-background {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  overflow: hidden;
-  pointer-events: none;
-  background: #05080c;
-}
-.oh-world-background__layer {
-  position: absolute;
-  inset: -2%;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  opacity: 0;
-  transform: scale(1.015);
-  transition: opacity 2.4s ease-in-out;
-  will-change: opacity, transform;
-  animation: oh-world-pan 36s ease-in-out infinite alternate;
-}
-.oh-world-background__layer.is-active { opacity: 1; }
-@keyframes oh-world-pan {
-  from { transform: scale(1.015) translate3d(-.4%, -.2%, 0); }
-  to { transform: scale(1.07) translate3d(.4%, .2%, 0); }
-}
-@media (prefers-reduced-motion: reduce) {
-  .oh-world-background__layer { animation: none; transition: none; }
-}
-
-
-/* 22. Fond du monde : dimensions du viewport, sans répétition ni débordement */
-html, body {
-  max-width: 100%;
-  overflow-x: clip;
-}
-.oh-world-background {
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  height: 100dvh;
-  overflow: hidden;
-}
-.oh-world-background__layer {
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  background-repeat: no-repeat !important;
-  background-position: center center !important;
-  background-size: cover !important;
-  transform: scale(1.025);
-}
-@keyframes oh-world-pan {
-  from { transform: scale(1.025) translate3d(-.15%, -.1%, 0); }
-  to   { transform: scale(1.055) translate3d(.15%, .1%, 0); }
-}
-@media (max-width: 768px) {
-  .oh-world-background__layer {
-    background-position: center center !important;
-    transform: scale(1.015);
-  }
+  body::before { transition: none; }
 }
 
 
@@ -1281,38 +1146,72 @@ html, body {
 }
 
 
-/* 24. Correctif réel du fond : le décor est porté par body::before.
-   Le calque .oh-world-background n'est pas créé par le script actuel,
-   donc ses règles seules ne pouvaient pas corriger le fond affiché. */
-body {
-  position: relative;
-  isolation: isolate;
+/* ------------------------------------------------------------
+   24. Lisibilité du contenu sur le fond illustré
+   ------------------------------------------------------------ */
+html, body { max-width: 100%; overflow-x: clip; }
+
+/* Mode sombre : panneau translucide derrière l'article, pour que
+   le texte reste lisible sur les zones claires des illustrations. */
+[data-md-color-scheme="slate"] .md-content__inner {
+  padding: 0.9rem 1.2rem 1.4rem;
+  background: rgba(7, 10, 14, 0.80);
+  border: 1px solid var(--oh-line-soft);
+  border-radius: 3px;
+  -webkit-backdrop-filter: blur(6px);
+  backdrop-filter: blur(6px);
 }
-body::before {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: auto;
-  bottom: auto;
-  width: 100vw;
-  height: 100vh;
-  height: 100dvh;
-  background-repeat: no-repeat, no-repeat !important;
-  background-size: 100% 100%, cover !important;
-  background-position: center center, center center !important;
-  transform-origin: center center;
-}
-body[data-oh-world="green"]::before,
-body[data-oh-world="violet"]::before,
-body[data-oh-world="amber"]::before {
-  background-repeat: no-repeat, no-repeat !important;
-  background-size: 100% 100%, cover !important;
-  background-position: center center, center center !important;
-}
-@media (max-width: 768px) {
-  body::before {
-    width: 100vw;
-    height: 100dvh;
-    background-size: 100% 100%, cover !important;
+[data-md-color-scheme="slate"] .md-content__inner::before { display: none; }
+@media (max-width: 44.9375em) {
+  [data-md-color-scheme="slate"] .md-content__inner,
+  [data-md-color-scheme="default"] .md-content__inner {
+    margin-left: 0.4rem;
+    margin-right: 0.4rem;
+    padding: 0.7rem 0.6rem 1.2rem;
   }
 }
+
+/* Titres collants des barres latérales : pas de bloc opaque
+   avec ombre sur le fond illustré. */
+@media screen and (min-width: 60em) {
+  .md-nav--secondary .md-nav__title { background: transparent; box-shadow: none; }
+}
+@media screen and (min-width: 76.25em) {
+  .md-nav--primary > .md-nav__title,
+  .md-nav--lifted > .md-nav__list > .md-nav__item--active > .md-nav__link {
+    background: transparent;
+    box-shadow: none;
+  }
+}
+
+/* Mode clair : fond uni (les illustrations sont sombres), en-tête
+   et onglets en texte foncé, liens et accents en cyan profond. */
+body[data-md-color-scheme="default"]::before { background-image: none; background-color: #f5f8fa; }
+[data-md-color-scheme="default"] .md-tabs { color: #0f1a22; }
+[data-md-color-scheme="default"] .md-header__button,
+[data-md-color-scheme="default"] .md-source { color: #0f1a22; }
+[data-md-color-scheme="default"] .md-search__input { background: rgba(15, 26, 34, 0.07); color: #0f1a22; }
+[data-md-color-scheme="default"] .md-search__input::placeholder,
+[data-md-color-scheme="default"] .md-search__icon { color: #4a5a66; }
+[data-md-color-scheme="default"] .md-content__inner {
+  padding: 0.9rem 1.2rem 1.4rem;
+  background: #ffffff;
+  border: 1px solid var(--oh-line-soft);
+  border-radius: 3px;
+}
+[data-md-color-scheme="default"] .md-typeset .oh-status--web { color: #6d28d9; background: rgba(109, 40, 217, 0.08); border-color: rgba(109, 40, 217, 0.40); }
+
+/* Quatrième marque de fiabilité : source externe */
+.oh-status--web {
+  color: var(--oh-violet);
+  background: rgba(167, 139, 250, 0.12);
+  border: 1px solid rgba(167, 139, 250, 0.45);
+}
+
+/* Héros d'accueil plus compact : il ne doit pas occuper tout le
+   premier écran sur PC. */
+.md-typeset .oh-hero__inner {
+  padding-top: clamp(2.2rem, 4.5vw, 3.4rem);
+  padding-bottom: clamp(2rem, 4vw, 2.8rem);
+}
+.md-typeset .oh-hero h1 { font-size: clamp(1.9rem, 4vw, 2.9rem); }
