@@ -1,8 +1,8 @@
-# Premiers pas sur Nalcott
+# Premiers pas dans Once Human
 
 *Dernière mise à jour : 6 septembre 2026*
 
-Once Human est un jeu de **survie multijoueur post-apocalyptique** dans un monde ouvert surnaturel : le continent de Nalcott, contaminé par la Stardust. Les piliers du jeu :
+Once Human est un jeu de **survie multijoueur post-apocalyptique** dans un monde ouvert surnaturel, marqué par la Stardust. Nalcott est le continent principal, mais les lieux, règles et objectifs dépendent du scénario choisi. Les piliers du jeu :
 
 - **Exploration libre** d'un monde ouvert
 - **Capture de Déviants** (créatures anormales qui vous assistent en combat, à la base, etc.)
