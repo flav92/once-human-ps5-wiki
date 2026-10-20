@@ -1185,3 +1185,40 @@ body::before {
 @media (prefers-reduced-motion: reduce) {
   .oh-world-background__layer { animation: none; transition: none; }
 }
+
+
+/* 22. Fond du monde : dimensions du viewport, sans répétition ni débordement */
+html, body {
+  max-width: 100%;
+  overflow-x: clip;
+}
+.oh-world-background {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  overflow: hidden;
+}
+.oh-world-background__layer {
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat !important;
+  background-position: center center !important;
+  background-size: cover !important;
+  transform: scale(1.025);
+}
+@keyframes oh-world-pan {
+  from { transform: scale(1.025) translate3d(-.15%, -.1%, 0); }
+  to   { transform: scale(1.055) translate3d(.15%, .1%, 0); }
+}
+@media (max-width: 768px) {
+  .oh-world-background__layer {
+    background-position: center center !important;
+    transform: scale(1.015);
+  }
+}
