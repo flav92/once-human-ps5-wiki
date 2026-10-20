@@ -81,11 +81,6 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-desc">Combinaisons, mods et pistes de build ; les données non vérifiées sur PS5 sont identifiées.</span>
 </a>
 
-<a class="oh-card" href="jeu/arenes-deviants/" markdown>
-<span class="oh-card-title">Défis d’arène</span>
-<span class="oh-card-desc">Score de symbiose et condition de validation encore inconnue : méthode de vérification.</span>
-</a>
-
 <a class="oh-card" href="glossaire/" markdown>
 <span class="oh-card-title">Glossaire français / anglais</span>
 <span class="oh-card-desc">Retrouver les termes français des menus PS5 à partir des guides anglophones.</span>
@@ -108,6 +103,13 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-title">Way of Winter</span>
 <span class="oh-badge">Orientation PvE</span>
 <span class="oh-card-desc">Température, météo extrême, Chaosium, roche chaude et équipement thermique.</span>
+<span class="oh-home-link">Ouvrir le scénario →</span>
+</a>
+
+<a class="oh-card" href="scenarios/deviation/" markdown>
+<span class="oh-card-title">Déviation</span>
+<span class="oh-badge oh-badge--violet">Défis d’arène</span>
+<span class="oh-card-desc">Défis d’arène et score de symbiose : condition de validation encore inconnue.</span>
 <span class="oh-home-link">Ouvrir le scénario →</span>
 </a>
 

@@ -22,7 +22,7 @@ Votre personnage appartient à sa région : choisissez bien dès le départ, not
 
 ## Scénarios (saisons)
 
-Once Human fonctionne par **scénarios saisonniers** (Manibus, Evolution's Call, Way of Winter, etc.). Sur PS5, le wiki documente pour l'instant [Evolution's Call](../scenarios/evolutions-call/index.md) et [Way of Winter](../scenarios/way-of-winter.md). *À compléter : quels scénarios sont proposés aux nouveaux serveurs console, durée des saisons console, et si le calendrier est synchronisé avec le PC (les développeurs annoncent le même contenu et les mêmes événements que PC/mobile, avec possibles différences ponctuelles par plateforme).*
+Once Human fonctionne par **scénarios saisonniers** (Manibus, Evolution's Call, Way of Winter, etc.). Sur PS5, le wiki documente pour l'instant [Evolution's Call](../scenarios/evolutions-call/index.md), [Way of Winter](../scenarios/way-of-winter.md) et [Déviation](../scenarios/deviation.md). *À compléter : quels scénarios sont proposés aux nouveaux serveurs console, durée des saisons console, et si le calendrier est synchronisé avec le PC (les développeurs annoncent le même contenu et les mêmes événements que PC/mobile, avec possibles différences ponctuelles par plateforme).*
 
 ## Sources
 

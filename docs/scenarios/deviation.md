@@ -1,9 +1,9 @@
-# Défis d'arène et score de symbiose
+# Déviation — défis d'arène
 
 *Dernière mise à jour : 20 octobre 2026*
 
 !!! warning "Fiabilité et périmètre"
-    Une seule observation PS5 rapportée oralement (octobre 2026), sans capture 🎮. Le scénario n'a pas été noté. Les noms de lieux ci-dessous viennent d'une transcription vocale et peuvent être faux : vérifiez-les à l'écran.
+    Une seule observation PS5 dans le scénario Déviation, rapportée oralement (octobre 2026), sans capture 🎮. Les noms de lieux ci-dessous viennent d'une transcription vocale et peuvent être faux : vérifiez-les à l'écran.
 
 ## Ce qui a été observé
 
@@ -28,3 +28,4 @@ Contexte de l'essai, pour comparaison : zone affichée niveau 5, une MP5, une vi
 
 - 🎮 Observation rapportée, octobre 2026. Aucune source externe ne décrit cette arène pour l'instant.
 - [Méthode de relevé](../carnet-de-terrain-historique.md)
+- Guides communs : [Anomalies et fusion](../jeu/anomalies.md), [Armes et équipement](../jeu/armes-equipement.md).

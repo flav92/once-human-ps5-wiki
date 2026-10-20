@@ -57,7 +57,6 @@ nav:
       - Multijoueur: jeu/multijoueur.md
       - Ressources: jeu/ressources.md
       - Anomalies, fusion et traits: jeu/anomalies.md
-      - Défis d'arène: jeu/arenes-deviants.md
   - Craft:
       - Armes et équipement: jeu/armes-equipement.md
       - Mods et calibrages: jeu/mods-calibrages.md
@@ -74,6 +73,7 @@ nav:
           - Ressources de Nalcott: scenarios/evolutions-call/ressources.md
           - PvP et phases de serveur: scenarios/evolutions-call/multijoueur-pvp.md
       - Way of Winter: scenarios/way-of-winter.md
+      - Déviation: scenarios/deviation.md
       - Serveur privé RaidZone / Red Zone: scenarios/raidzone.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
@@ -113,6 +113,5 @@ plugins:
         guerre/frontieres.md: scenarios/evolutions-call/frontieres.md
         jeu/conquete-bastion.md: scenarios/evolutions-call/gvg.md
         jeu/multijoueur-pvp.md: scenarios/evolutions-call/multijoueur-pvp.md
-        scenarios/deviation.md: jeu/arenes-deviants.md
 
 copyright: Wiki non officiel, sans affiliation avec NetEase / Starry Studio.
