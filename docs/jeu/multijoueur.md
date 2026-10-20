@@ -5,6 +5,10 @@
 !!! note
     Astuces issues de l'expérience en jeu sur PS5, septembre 2026. À confirmer/compléter. Règles du PvP et phases du serveur : [PvP et phases de serveur (Evolution's Call)](../scenarios/evolutions-call/multijoueur-pvp.md).
 
+## Inviter et rejoindre des amis
+
+- **Invitation par code** : ouvrez le menu social/amis et recherchez l’option permettant de saisir ou partager un code d’invitation. Les intitulés exacts et la disponibilité de cette fonction sont à confirmer sur PS5 selon la version ; ne confondez pas ce code avec le choix du serveur ou du monde.
+
 ## Jouer avec des amis
 
 - **Rejoindre un ami sur le même serveur** : même sur le même serveur, vous pouvez être dans des **« Mondes » (instances) différents**. Allez à une **Tour de téléportation**, utilisez l'option **« Changer de monde »** (au lieu de la téléportation normale) et choisissez le même numéro de monde que votre ami.
