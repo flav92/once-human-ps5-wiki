@@ -5,6 +5,10 @@
 !!! danger "Statut : hypothèses, pas des recommandations"
     **Rien sur cette page n'a été vérifié sur PS5.** Tout provient de guides web et PC (une vingtaine de sources croisées), et ces sources **se contredisent sur plusieurs points** — voir la section « Où les sources divergent ». À lire comme des pistes à tester, jamais comme des consignes. Les noms sont ceux des guides anglophones ; les intitulés français console restent à relever.
 
+## Périmètre : scénarios classiques, pas Red Zone
+
+Les informations de cette page concernent les scénarios classiques de Once Human évoqués par les sources, pas le serveur privé Red Zone / RaidZone, dont les règles de fabrication, mods, calibrages et dégâts sont spécifiques. Ne transposez pas ces valeurs à Red Zone sans vérification dédiée.
+
 ## Trois réserves qui touchent toute la page
 
 **1. Ces builds sont liés à des scénarios précis.** Les guides consultés parlent de Manibus, Way of Winter, Prismverse Clash, Lunacy ou Endless Dream. Le serveur console suit son propre scénario, avec ses phases : la disponibilité des armes, des ensembles et des nœuds Tech peut être différente.
