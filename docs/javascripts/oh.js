@@ -71,7 +71,33 @@
     window.setTimeout(showAll, 1500);
   }
 
-  function init() { progressBar(); reveal(); }
+
+  /* ---- 3. Univers d'ambiance qui changent automatiquement ----
+     Les fonds sont des SVG locaux : aucun service externe requis. */
+  function rotatingWorlds() {
+    var worlds = ["red", "green", "violet", "amber"];
+    var index = 0;
+    var durations = 9000;
+    var body = document.body;
+    function setWorld(name) {
+      body.setAttribute("data-oh-world", name);
+      /* Petit repère accessible pour les lecteurs d'écran. */
+      body.setAttribute("data-oh-world-label", {
+        red: "Contamination rouge",
+        green: "Nature mutante verte",
+        violet: "Anomalie violette",
+        amber: "Tempête ambrée"
+      }[name]);
+    }
+    setWorld(worlds[0]);
+    if (reduced) return;
+    window.setInterval(function () {
+      index = (index + 1) % worlds.length;
+      setWorld(worlds[index]);
+    }, durations);
+  }
+
+  function init() { progressBar(); reveal(); rotatingWorlds(); }
 
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", init);
