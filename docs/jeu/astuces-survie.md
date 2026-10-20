@@ -7,7 +7,8 @@
 
 ## Eau
 
-- **Ne buvez jamais d'eau sale ni d'eau de mer.** Récoltez l'eau et faites-la bouillir sur un feu de camp (Boiled Water), ou buvez de l'eau purifiée.
+- **Eau** : évitez l'eau sale et l'eau de mer sans traitement. Faites bouillir l'eau sur un feu de camp ou utilisez de l'eau purifiée. Consultez aussi les descriptions des boissons et aliments : certains peuvent contribuer à l'hydratation ou apporter des effets temporaires.
+- **Bonus** : les consommables peuvent accorder des effets temporaires. Vérifiez leur description et leur durée plutôt que de considérer ces bonus comme permanents.
 
 ## Nourriture
 
