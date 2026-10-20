@@ -1089,3 +1089,62 @@ body::after {
     transform: none !important;
   }
 }
+
+
+/* ------------------------------------------------------------
+   21. Quatre univers d'ambiance : fonds illustrés + transition
+   ------------------------------------------------------------ */
+:root {
+  --oh-world-accent: #ff4058;
+  --oh-world-glow: rgba(255, 40, 68, .22);
+}
+body::before {
+  background-image:
+    linear-gradient(115deg, rgba(4, 7, 11, .08) 0%, rgba(4, 7, 11, .52) 58%, rgba(4, 7, 11, .72) 100%),
+    url("../images/world-red.svg");
+  background-size: cover, cover;
+  background-position: center, center;
+  opacity: .92;
+  mask-image: none;
+  animation: oh-world-pan 32s ease-in-out infinite alternate;
+  transition: background-image 1.8s ease-in-out, opacity 1.8s ease-in-out;
+}
+body::after {
+  background:
+    linear-gradient(115deg, var(--oh-world-glow), transparent 55%, rgba(3, 6, 10, .42)),
+    radial-gradient(ellipse at 10% 0%, var(--oh-world-glow), transparent 55%);
+  opacity: .7;
+  transition: background 1.8s ease-in-out, opacity 1.8s ease-in-out;
+}
+body[data-oh-world="red"] { --oh-world-accent:#ff4058; --oh-world-glow:rgba(255,40,68,.20); }
+body[data-oh-world="green"] { --oh-world-accent:#42f5a1; --oh-world-glow:rgba(28,235,133,.20); }
+body[data-oh-world="violet"] { --oh-world-accent:#b38aff; --oh-world-glow:rgba(147,83,255,.22); }
+body[data-oh-world="amber"] { --oh-world-accent:#ffc45c; --oh-world-glow:rgba(255,177,52,.20); }
+body[data-oh-world="green"]::before {
+  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-green.svg");
+}
+body[data-oh-world="violet"]::before {
+  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-violet.svg");
+}
+body[data-oh-world="amber"]::before {
+  background-image: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.52) 58%, rgba(4,7,11,.72)), url("../images/world-amber.svg");
+}
+.md-typeset a, .md-typeset h2::after, .md-typeset .oh-card:hover {
+  transition: color .8s ease, border-color .8s ease, box-shadow .8s ease, transform .3s ease;
+}
+.md-typeset a { color: var(--oh-world-accent); }
+.md-typeset .oh-card:hover {
+  border-color: color-mix(in srgb, var(--oh-world-accent) 70%, transparent);
+  box-shadow: 0 12px 38px var(--oh-world-glow);
+}
+.md-typeset .oh-hero {
+  background: linear-gradient(115deg, color-mix(in srgb, var(--oh-world-accent) 72%, #101820) 0%, rgba(15,20,28,.92) 48%, color-mix(in srgb, var(--oh-world-accent) 35%, #0b1119) 100%);
+  background-size: 200% 200%;
+}
+@keyframes oh-world-pan {
+  from { background-position: center, 0% 0%; transform: scale(1); }
+  to { background-position: center, 100% 100%; transform: scale(1.045); }
+}
+@media (prefers-reduced-motion: reduce) {
+  body::before { animation: none !important; }
+}
