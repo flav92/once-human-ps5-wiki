@@ -1,6 +1,6 @@
 # Contribuer au wiki
 
-Ce wiki est construit progressivement à partir de l'expérience de jeu sur PS5, de vérifications effectuées au fil des sessions et de sources externes. Il s'agit d'un travail communautaire en évolution : certaines informations peuvent être incomplètes, imprécises ou devenir obsolètes après une mise à jour. Les indications de fiabilité servent à rendre ces limites visibles, pas à garantir que chaque donnée est exacte.
+Ce wiki est construit progressivement à partir de l'expérience de jeu sur PS5, de vérifications effectuées au fil des sessions et de sources externes. Il s'agit d'un travail communautaire en évolution : certaines informations peuvent être incomplètes, imprécises ou devenir obsolètes après une mise à jour. Les indications de fiabilité servent à rendre ces limites visibles, pas à garantir que chaque donnée est exacte. Les informations ont été recueillies progressivement en jouant et complétées par des sources externes, qui peuvent se contredire ou devenir obsolètes. Même une capture PS5 ne garantit pas qu'une observation s'applique à tous les scénarios, niveaux ou mises à jour : certaines données restent à reconfirmer.
 
 ## Ce qu'on cherche en priorité
 
