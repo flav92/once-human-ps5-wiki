@@ -1222,3 +1222,60 @@ html, body {
     transform: scale(1.015);
   }
 }
+
+
+/* 23. Cartes plus compactes et grille responsive cohérente */
+.md-typeset .oh-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr));
+  align-items: stretch;
+  gap: 0.8rem;
+  margin-top: 0.9rem;
+  margin-bottom: 2rem;
+}
+.md-typeset .oh-grid:not(.oh-home-actions) .oh-card {
+  min-height: 0;
+  padding: 1rem 1.05rem 1.1rem;
+}
+.md-typeset .oh-card .oh-card-title {
+  font-size: 0.94rem;
+  line-height: 1.3;
+  margin-bottom: 0.4rem;
+}
+.md-typeset .oh-card .oh-card-desc {
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+.md-typeset .oh-card .oh-badge {
+  font-size: 0.62rem;
+  margin-bottom: 0.5rem;
+}
+.md-typeset .oh-home-actions .oh-card {
+  min-height: 10rem;
+  padding: 1.2rem;
+}
+.md-typeset .oh-home-actions .oh-card .oh-card-title {
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+.md-typeset .oh-home-actions .oh-card .oh-card-desc {
+  font-size: 0.76rem;
+  line-height: 1.5;
+}
+@media (min-width: 761px) {
+  .md-typeset .oh-home-actions {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (max-width: 760px) {
+  .md-typeset .oh-grid {
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+    gap: 0.65rem;
+  }
+  .md-typeset .oh-home-actions {
+    grid-template-columns: 1fr;
+  }
+  .md-typeset .oh-home-actions .oh-card {
+    min-height: 0;
+    padding: 1rem;
+  }
+}
