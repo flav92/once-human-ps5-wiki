@@ -1279,3 +1279,40 @@ html, body {
     padding: 1rem;
   }
 }
+
+
+/* 24. Correctif réel du fond : le décor est porté par body::before.
+   Le calque .oh-world-background n'est pas créé par le script actuel,
+   donc ses règles seules ne pouvaient pas corriger le fond affiché. */
+body {
+  position: relative;
+  isolation: isolate;
+}
+body::before {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: auto;
+  bottom: auto;
+  width: 100vw;
+  height: 100vh;
+  height: 100dvh;
+  background-repeat: no-repeat, no-repeat !important;
+  background-size: 100% 100%, cover !important;
+  background-position: center center, center center !important;
+  transform-origin: center center;
+}
+body[data-oh-world="green"]::before,
+body[data-oh-world="violet"]::before,
+body[data-oh-world="amber"]::before {
+  background-repeat: no-repeat, no-repeat !important;
+  background-size: 100% 100%, cover !important;
+  background-position: center center, center center !important;
+}
+@media (max-width: 768px) {
+  body::before {
+    width: 100vw;
+    height: 100dvh;
+    background-size: 100% 100%, cover !important;
+  }
+}
