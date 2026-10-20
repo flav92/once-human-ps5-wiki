@@ -23,7 +23,7 @@ Les bases de collecte ci-dessous sont utiles comme repères généraux. En revan
 | **Fer** | Rochers rouge sombre |
 | **Algues** | Eaux peu profondes et plages |
 | **Maïs** | Autour des anciennes zones agricoles |
-| **Caoutchouc** | Recyclage de bric-à-brac (pneus, gants) à l'Atelier de démontage |
+| **Caoutchouc** | Démontez les objets qui en fournissent à l'Atelier de démontage. Gardez les pneus et les gants si vous en avez besoin pour d'autres fabrications : ne les recyclez pas automatiquement. |
 | **Charbon** | En début de partie : brûlez du bois dans un Fourneau → charbon de bois. Le vrai minerai de charbon se pioche bien plus tard en zones de haut niveau |
 | **Verre** | Gravier fondu au Fourneau (avec du charbon) |
 | **Pièces électroniques** | Bric-à-brac technologique (claviers, écrans, jouets chien robot) démantelé au Bureau de démontage |
