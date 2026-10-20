@@ -2,17 +2,17 @@
 
 *Dernière mise à jour : 20 octobre 2026*
 
-**Orientation : scénario principalement PvE**, centré ici sur l'exploration, les températures extrêmes, le Chaosium et les combats de boss. Les activités exactes et les règles peuvent varier selon la version et le serveur.
+**Orientation : scénario principalement PvE**, centré sur l'exploration, les températures extrêmes, le chaosium et les combats de boss. Les activités et règles peuvent varier selon la version et le serveur.
 
 !!! note "Fiabilité et périmètre"
-    Relevés faits sur PS5 dans Way of Winter, octobre 2026. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)). Les températures, recettes et coordonnées encore incertaines restent explicitement marquées à confirmer.
+    Relevés faits sur PS5 dans Way of Winter, octobre 2026. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source externe ([détail](../contribuer.md#niveaux-de-fiabilite)). Les températures, recettes et coordonnées incertaines sont marquées « à confirmer ».
 
-!!! info "Guides communs — pas besoin de les chercher dans chaque scénario"
+!!! info "Guides communs"
     - [Armes et équipement](../jeu/armes-equipement.md)
     - [Anomalies et fusion](../jeu/anomalies.md)
     - [Mods et calibrages](../jeu/mods-calibrages.md)
     - [Buffs de nourriture et de boisson](../jeu/astuces-survie.md#buffs-de-nourriture-et-de-boisson)
-    - [Ressources générales](../jeu/ressources.md) ; les repères propres à Way of Winter sont conservés dans cette page.
+    - [Ressources : collecte et recyclage](../jeu/ressources.md)
     - [Base et territoire](../jeu/base-territoire.md)
     - [Explosifs et munitions](../craft/explosifs.md)
 
@@ -28,15 +28,15 @@ Boss de fin de donjon, **niveau 60** 🎮.
 - Le jeu redonne **3 doses d'adrénaline à chaque tentative** 🎮.
 - Un tir de sniper pose la marque « Dans le mille » sur le boss 🎮 (voir [mods et calibrages](../jeu/mods-calibrages.md)).
 
-## Seigneur de l'Oubli — retour de combat à confirmer
+## Seigneur de l'Oubli
 
-Un retour de terrain rapporte une victoire **en solo contre le Seigneur de l'Oubli niveau 40** dans le contexte de Way of Winter. C'est un indice qu'une victoire en solo est possible dans ces conditions, pas une garantie pour tous les builds : l'équipement, la difficulté et la version exacte ne sont pas consignés avec assez de précision pour en tirer une stratégie reproductible. Une rencontre de niveau 70 dans un autre contexte avait été jugée trop difficile en solo ; ne pas confondre les deux niveaux.
+Une victoire **en solo contre le Seigneur de l'Oubli niveau 40** a été rapportée 🎮. L'équipement et la difficulté n'ont pas été notés : c'est un indice que le solo est possible, pas une stratégie reproductible.
 
 ## Silos de confinement
 
 Silos disponibles 🎮 : **Taurus, Delta, X1 et Psi**. Le niveau des ennemis dépend de la difficulté choisie ; en **Cauchemar**, il est de **70** 🎮.
 
-## Nœuds de chaosium 🎮
+## Nœuds de chaosium 🎮 { #noeuds-de-chaosium }
 
 - Les **cœurs de chaosium** se déposent dans les nœuds de chaosium.
 - **Activer l'effet** : résistances au froid, à la chaleur, au gel et aux brûlures, plus de l'endurance, dans la zone du nœud.
@@ -45,6 +45,27 @@ Silos disponibles 🎮 : **Taurus, Delta, X1 et Psi**. Le niveau des ennemis dé
 - Bonus de zone relevé sur un nœud de **niveau 6** : « Fléau ». Texte : vaincre les tisseurs du chaos accorde « Frénésie sanguine ».
 - L'onglet d'informations d'un nœud indique les animaux à chasser et les zones de tungstène.
 - Défi « débloquer une compétence de héros depuis le centre de chaosium » : validé en y déposant **5 chaosium**.
+
+### Relevés ponctuels de centres publics
+
+Valeurs vues pendant une session 🎮, pas des seuils fixes :
+
+| Centre ou zone | Bonus de zone | Bonus personnel | Cœurs affichés |
+|---|---:|---:|---:|
+| Forge de givre, zone de blizzard | niveau 4 | niveau 0 | 232 |
+| Mer Ardente, zone de tempête volcanique | niveau 2 | non relevé | 130 |
+| Autre centre public | niveau 6 | non relevé | non relevé |
+
+Un dépôt cumulé d'environ **80 cœurs** dans des centres publics a été rapporté. Ces chiffres ne disent pas comment un dépôt personnel modifie le bonus : il faudrait relever le même centre avant et après un dépôt.
+
+### Chaosium brut : recette contradictoire
+
+Deux versions incompatibles ont été rapportées 🎮 :
+
+- environ **30 acides par unité** de chaosium ;
+- **1 acide + 30 minerais de roche chaude pour 30 chaosium**.
+
+*À confirmer* sur l'écran de fabrication, en relevant les ingrédients et la quantité produite.
 
 ## Évolutions de la tour solaire 🎮
 
@@ -58,11 +79,27 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 - les jeunes animaux nés près de la tour ont le trait « force et robustesse » ;
 - +1 aux sous-produits normaux et rares de l'élevage.
 
+## Température et équipement
+
+Repères *à confirmer* sur les fiches PS5 :
+
+- **Lanterne de chaosium** 🎮 : infobulle lue comme **+15 de température sous 10 °C** et **−15 au-dessus de 30 °C**.
+- **Armure en peau de crocodile** 🎮 : **+10** de résistance au froid pour la version bleue, **+15** pour la dorée. Pièce exacte, palier et nom de la statistique à relever.
+- Les plats de viande ont servi à mieux supporter le froid, et la glace à fabriquer du Froidium 🎮 ; recettes et durées non relevées.
+
 ## Roche chaude
 
 - La **perceuse** donne **50** minerais sur un filon, la **pioche** **25** 🎮.
 - Tâche « 30 minerais de roche chaude » : un filon fait avancer le compteur de **5** 🎮.
-- Spots ⚠️ (Destructoid) : **Ember Forge** (−5186, 4394), le col de Snakeye, la forteresse de la Gorge de feu. Destructoid conseille de refroidir les filons avec des grenades givrantes avant de miner. Ember Forge : jusqu'à 7 filons relevés en même temps, et un seul certains jours 🎮.
+- Spots ⚠️ (Destructoid) : **Ember Forge** (−5186, 4394), le col de Snakeye, la forteresse de la Gorge de feu. Destructoid conseille de refroidir les filons avec des grenades givrantes avant de miner.
+- Ember Forge : jusqu'à 7 filons en même temps, et un seul certains jours 🎮.
+
+### Pistes de terrain non confirmées
+
+- Une sortie a rapporté environ **350 minerais** dans un secteur de **sept filons**, avec un effet de gravité qui gênait le minage 🎮.
+- Coordonnées entendues autour de **−3641 / 3490**, associées à des repères transcrits « Royaume virtuel », carrière de soufre, centre de recherche du Dieu du Feu et grotte ensoleillée. **Ordre des axes, lieu et noms non confirmés** : ne pas s'en servir comme itinéraire.
+- Autres noms cités : Sanctuaire ou forteresse de la Gorge de feu, Sunshroud Cave, Abandoned Refinery. Libellés français à vérifier.
+- Un secteur de « fontaines roses » a été associé à environ **300 unités**, sans certitude sur la ressource ni sur le point exact.
 
 ## Pêche dans la lave
 
@@ -78,65 +115,16 @@ Une seule évolution à choisir parmi celles proposées. Effets relevés :
 - **Crise du destroyer** : récupérer les munitions aux entrepôts 1 et 3, les charger dans les grosses tourelles, puis détruire le pont et la réserve de carburant du destroyer 🎮.
 - **Opération Chiron** : défendre trois piliers contre des vagues, puis tuer un déviant Prime 🎮.
 
+## Batteries cultivées
+
+Un rendement de **quatre batteries par plantation** a été rapporté 🎮. Nom de la plante, conditions et recette inconnus : *à confirmer*.
+
 ## Sources
 
-- Constaté en jeu sur PS5, 17-19 octobre 2026.
+- Constaté en jeu sur PS5, octobre 2026.
 - [Site officiel — Notice on Chaosweaver Spawn Coordinates](https://www.oncehuman.game/news/update/20241108/40780_1192380.html)
 - [Site officiel — June Update Preview: The Way of Winter Scenario Optimizations](https://www.oncehuman.game/news/update/20250530/40780_1237884.html)
 - [Destructoid — Zone of Haze (Black Sector), all mechanics explained](https://www.destructoid.com/zone-of-haze-black-sector-all-mechanics-explained-once-human/)
 - [Destructoid — Where to get Hot Rock Ore](https://www.destructoid.com/where-to-get-hot-rock-ore-in-once-human/)
 - Once Human Wiki (Fandom), page « Adv. Fishing Rod ».
-
-
-## Relevés ponctuels des centres publics de chaosium
-
-Ces valeurs sont des observations rapportées pendant une session, pas des seuils universels ni des valeurs garanties à la date actuelle.
-
-| Centre ou zone citée | Bonus de zone observé | Bonus personnel observé | Cœurs affichés |
-|---|---:|---:|---:|
-| Forge de givre, zone de blizzard | niveau 4 | niveau 0 | 232 |
-| Mer Ardente, zone de tempête volcanique | niveau 2 | non relevé | 130 |
-| Autre centre public | niveau 6 | non relevé | non relevé |
-
-Un dépôt cumulé d'environ **80 cœurs de chaosium** dans des centres publics a également été rapporté. Ces nombres ne suffisent pas à déduire comment la contribution personnelle modifie le bonus individuel ou collectif : il faudrait comparer l'interface du même centre avant et après un dépôt.
-
-## Repères de terrain pour la roche chaude — coordonnées non confirmées
-
-- Une sortie a rapporté environ **350 minerais** dans un secteur comptant jusqu'à **sept filons** ; l'effet de gravité y compliquait le minage.
-- Des coordonnées prononcées oralement autour de **−3641 / 3490** ont été associées à des repères transcrits comme « Royaume virtuel », carrière de soufre, centre de recherche du Dieu du Feu et grotte ensoleillée. **L'ordre des axes, le lieu exact et le nom affiché ne sont pas confirmés** : ne pas utiliser ces coordonnées comme itinéraire.
-- Des noms de lieux cités pendant la recherche incluent le Sanctuaire ou la forteresse de la Gorge de feu, Sunshroud Cave et Abandoned Refinery ; les libellés français et leur relation avec les coordonnées restent à vérifier.
-- Le secteur des « fontaines roses » a été associé à un rendement rapporté d'environ **300 unités**, mais la ressource et le point exact ne sont pas identifiés avec certitude.
-
-Ces observations sont conservées comme pistes de reconnaissance, distinctes du repère externe Ember Forge (−5186, 4394) cité plus haut.
-
-## Température et équipement : repères à confirmer
-
-- **Lanterne de chaosium** : une observation de l'infobulle indiquait **+15 de température sous 10 °C** et **−15 au-dessus de 30 °C**. Les seuils et l'effet exact doivent être revérifiés sur la fiche PS5 avant d'en faire une règle garantie.
-- **Armure en peau de crocodile** : les valeurs évoquées étaient **+10** pour une version bleue et **+15** pour une version dorée en résistance au froid. Il faut confirmer la pièce exacte, le palier d'amélioration et le nom français de la statistique.
-- Les plats de viande ont été utilisés pour mieux supporter le froid, et la glace pour fabriquer du Froidium ; les recettes et durées exactes ne sont pas relevées ici.
-- Des peaux de crocodile dorées ont été trouvées dans une caisse de butin d'avènement stellaire à **Ashenton** (observation PS5).
-
-Ces repères sont conservés car ils peuvent aider à préparer une traversée par météo extrême, mais les bonus chiffrés restent à confirmer.
-
-## Chaosium brut : recette contradictoire à vérifier
-
-Deux formulations incompatibles ont été rapportées :
-- une estimation de **30 acides par unité** de chaosium ;
-- une correction indiquant **1 acide + 30 minerais de roche chaude pour produire 30 chaosium**.
-
-Aucune des deux ne doit être traitée comme certaine sans relire l'écran de fabrication PS5. Il faut relever ensemble les ingrédients consommés et le nombre d'unités obtenues, puis mettre à jour cette page et toute autre page qui cite la recette.
-
-## Batteries cultivées : rendement à confirmer
-
-Une observation de culture a indiqué un rendement de **quatre batteries par plantation**, mais le nom exact de la plante, les conditions de culture et la recette ne sont pas établis. Ne pas présenter ce rendement comme universel avant de refaire le test et de relever le nom de la graine et le résultat complet.
-
-## Vérifications à faire avant de publier une recette
-
-Les recettes, les rendements de minage et les bonus de température peuvent dépendre des outils, des améliorations et de la version du jeu. Avant de publier une valeur précise :
-
-- relever les ingrédients et la quantité produite sur le même écran de fabrication ;
-- comparer la quantité récoltée avec l'outil réellement utilisé ;
-- noter les bonus d'équipement et les conditions météo ;
-- garder les coordonnées comme « à confirmer » tant que le point n'a pas été revérifié sur la carte PS5.
-
-Pour les niveaux de fiabilité et la méthode de relevé, voir la [méthode de vérification communautaire](../carnet-de-terrain-historique.md).
+- Méthode pour relever une recette ou des coordonnées : [Méthode de relevé](../carnet-de-terrain-historique.md).

@@ -66,7 +66,7 @@
 - [ ] **Règle d'enchère visible** → confirmer l'enchère **à l'aveugle** sur console
 - [ ] **Écran de déclaration de guerre** sur une frontière occupée → conditions, coût
 
-## 🛡️ Faction (pour XR1)
+## 🛡️ Faction
 
 - [ ] **Onglet Boutique de la faction** → ce qu'on y achète, avec quelle monnaie
 - [ ] **Écran d'extension de capacité** → comment dépasser les 30 places

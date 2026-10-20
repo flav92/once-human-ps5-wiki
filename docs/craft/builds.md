@@ -1,19 +1,21 @@
 # Builds, combos et compétences — hypothèses de travail
 
-*Dernière mise à jour : 10 septembre 2026*
+*Dernière mise à jour : 20 octobre 2026*
 
 !!! danger "Statut : hypothèses, pas des recommandations"
     **Rien sur cette page n'a été vérifié sur PS5.** Tout provient de guides web et PC (une vingtaine de sources croisées), et ces sources **se contredisent sur plusieurs points** — voir la section « Où les sources divergent ». À lire comme des pistes à tester, jamais comme des consignes. Les noms sont ceux des guides anglophones ; les intitulés français console restent à relever.
 
-## Périmètre : scénarios classiques, pas Red Zone
+## Périmètre : scénarios officiels, pas Red Zone
 
-Les informations de cette page concernent les scénarios classiques de Once Human évoqués par les sources, pas le serveur privé Red Zone / RaidZone, dont les règles de fabrication, mods, calibrages et dégâts sont spécifiques. Ne transposez pas ces valeurs à Red Zone sans vérification dédiée.
+- Les guides cités décrivent des scénarios officiels, surtout sur PC.
+- Les vérifications marquées ✅ ont été faites sur PS5 dans **Evolution's Call** (septembre 2026).
+- Le serveur privé [RaidZone / Red Zone](../scenarios/raidzone.md) peut avoir ses propres règles de fabrication, de mods, de calibrage et de dégâts. **Aucune de ces valeurs n'y a été vérifiée** : ne les transposez pas sans test sur ce serveur.
 
 ## Trois réserves qui touchent toute la page
 
 **1. Ces builds sont liés à des scénarios précis.** Les guides consultés parlent de Manibus, Way of Winter, Prismverse Clash, Lunacy ou Endless Dream. Le serveur console suit son propre scénario, avec ses phases : la disponibilité des armes, des ensembles et des nœuds Tech peut être différente.
 
-**1 bis. L'obtention décrite est fausse sur console** ✅ : les guides parlent d'une « Machine à vœux ». En réalité, les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 par schéma), et **les plans sont partagés entre tous les personnages du compte**.
+**1 bis. L'obtention décrite est fausse sur console** ✅ (Evolution's Call, 10/09/2026) : les guides parlent d'une « Machine à vœux ». En réalité, les schémas d'armure se déverrouillent avec du **Protochrome** (2 000 par schéma), et **les plans sont partagés entre tous les personnages du compte**.
 
 **2. L'équipement se ré-acquiert à chaque saison.** D'après plusieurs sources, les **schémas, fragments de schémas, accessoires et mods se conservent** entre saisons, mais **l'équipement fabriqué et les Mémétiques sont remis à zéro**. Un « meilleur build » est donc toujours un build de fin de saison, pas quelque chose qu'on possède d'emblée.
 
@@ -76,7 +78,7 @@ Sous-stats que les guides priorisent : dégâts critiques, dégâts d'arme, capa
 
 Débloquées après le premier boss de région (~niveau 10), **8 emplacements** d'après les guides.
 
-| Compétence | Effet annoncé | Pourquoi elle nous intéresserait |
+| Compétence | Effet annoncé | Intérêt possible |
 |---|---|---|
 | **Tactical Combo** | +25 % dégâts d'arme pendant 4 s après changement d'arme ou rechargement | Citée dans presque tous les builds |
 | **Brawl Boost** | −20 % de dégâts subis des humains (effet réduit après avoir tué un joueur) | La seule explicitement PvP — donc GvG |
@@ -94,7 +96,7 @@ Débloquées après le premier boss de région (~niveau 10), **8 emplacements** 
 | **Invincible Sun** / **Snowsprite** | Builds Burn / Frost |
 | **Nutcracker** | **Défense de base** : jusqu'à 20 posés, difficiles à tuer, retardent les assaillants |
 
-Le **Nutcracker** est la piste la plus intéressante pour nous : si l'unité existe sur console et **persiste hors connexion**, elle répondrait au problème des tourelles portatives qui disparaissent. Rien ne le confirme pour l'instant.
+Le **Nutcracker** est une piste pour la défense de base : si l'unité existe sur console et **persiste hors connexion**, elle répondrait au problème des tourelles portatives qui disparaissent. Rien ne le confirme pour l'instant.
 
 ## Défense de territoire en PvP (pistes recoupées)
 
@@ -105,9 +107,9 @@ Points sur lesquels au moins deux sources convergent :
 - Murs **en couches successives** et exploitation du relief : falaises, ponts, goulots.
 - **Le réseau électrique doit tenir la charge** : les défenses tombent avec le courant — cohérent avec ce qu'on a constaté en zone (générateur = point faible).
 - **Ne rien stocker près des murs extérieurs** ; les ressources de valeur au cœur de la structure.
-- **Séparer production (zone sûre) et combat (zone PvP)** — cohérent avec notre organisation actuelle.
+- **Séparer production (zone sûre) et combat (zone PvP)**.
 
-Ces points-là recoupent nos propres observations de terrain, ce qui les rend plus crédibles que le reste de la page.
+Le point sur le réseau électrique recoupe une observation faite en zone d'affrontements d'Evolution's Call 🎮 ; les autres restent des conseils de guides.
 
 **Principes de fortification décrits par les guides de construction** (à tester, jamais vérifiés console) :
 
@@ -124,25 +126,25 @@ Ces points-là recoupent nos propres observations de terrain, ce qui les rend pl
 
 À garder en tête avant de dépenser des ressources :
 
-1. **Quel ensemble pour le build Shrapnel** : Lonewolf ×4 (ScreenRant) contre Falcon ×4 (Skycoach) — pour un build identique par ailleurs. *Sans objet sur console pour l'instant : la Tenue de faucon n'est pas accessible en phase 1.*
+1. **Quel ensemble pour le build Shrapnel** : Lonewolf ×4 (ScreenRant) contre Falcon ×4 (Skycoach) — pour un build identique par ailleurs. *Sur console, la Tenue de faucon s'obtient par butin, pas par schéma ✅ (voir [Armes et équipement](../jeu/armes-equipement.md#ensembles-darmure-notables-schemas-sources-web-noms-anglais)).*
 2. **Quel est « le meilleur ensemble »** : Lonewolf pour les uns, Falcon « le meilleur à tous les stades » pour les autres.
 3. **Bastille** : ✅ **tranché en jeu (10/09/2026), et aucun guide n'avait raison**. Sa fiche console révèle un 4ᵉ palier ignoré partout : jusqu'à **60 charges de Protection donnant chacune un bouclier de 1 % des PV max** en mode Bastille, soit **+60 % de PV effectifs** en position de tir. Ce n'est donc pas un simple set de dégâts « risqué » : c'est le set de tenue de position. Détail complet sur [Armes et équipement](../jeu/armes-equipement.md#bonus-de-set-releves-en-jeu-10092026).
 4. **Le meilleur ensemble défensif** : ✅ **tranché en jeu, et aucun guide ne donnait la bonne réponse**. Sur les dix ensembles relevés le 10/09/2026, c'est la **Tenue des marées traîtresses** qui offre la seule réduction de dégâts **permanente et inconditionnelle** (−10 %), plus un bouclier automatique de 20 % des PV max sous 40 % de PV. Aucun guide anglophone ne mentionne cet ensemble. Comparatif complet : [Armes et équipement](../jeu/armes-equipement.md#le-classement-defensif-reel-10-ensembles-releves-10092026).
 5. **Résistance à la pollution** : les valeurs 9 / 12 / 16 points circulent dans plusieurs articles, mais le dev blog officiel de janvier 2026 annonce explicitement une **réduction de la résistance apportée par l'équipement** — ces chiffres sont probablement périmés.
 6. **Les listes de compétences** varient d'un guide à l'autre selon la version et le scénario.
-7. **Les classements d'armure sont incomplets** ✅ (vérifié console 10/09/2026) : sur onze ensembles vus dans l'écran des schémas, **sept ne sont commentés par aucun guide** (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme). Et la **Tenue de faucon**, présentée comme « le meilleur ensemble à tous les stades » par deux guides, **n'a pas été trouvée** — son obtention à Red Sands la place hors de portée en phase 1.
+7. **Les classements d'armure sont incomplets** ✅ (vérifié console 10/09/2026) : sur onze ensembles vus dans l'écran des schémas, **sept ne sont commentés par aucun guide** (Protectrice, Brave-tempête, Blackstone, Marées traîtresses, Gravité, Résonance des ténèbres, Lien fantôme). La **Tenue de faucon**, présentée comme « le meilleur ensemble à tous les stades » par deux guides, n'est pas dans cette liste : elle s'obtient par butin (gants de faucon relevés le 10/09/2026).
 
 Quand deux sources se contredisent, le wiki ne tranche pas : c'est une capture en jeu qui tranchera.
 
-## Ce qu'on en retient pour XR1
+## Pistes à tester en priorité
 
-Trois pistes à tester en priorité, dans l'ordre de ce qu'elles coûteraient à vérifier :
+Dans l'ordre de ce qu'elles coûteraient à vérifier :
 
 1. **Brawl Boost** — chercher la compétence dans l'écran du Berceau et lire son effet réel : si les −20 % de dégâts des humains existent sur console, c'est gratuit et directement utile en zone d'affrontements.
 2. **Le principe du combo** (débuff au secondaire, dégâts au principal, bascule pendant *Tactical Combo*) — testable avec les armes qu'on a déjà.
 3. **Le Nutcracker** — vérifier son existence, le nombre posable et sa persistance hors connexion.
 
-Le reste (ensembles d'armure, armes S+, mods) dépend d'objets qu'on ne possède pas et de scénarios qui ne sont peut-être pas les nôtres : à ne pas planifier tant que rien n'est vérifié en jeu.
+Le reste (armes S+, mods, ensembles cités par les guides) dépend d'objets et de scénarios qui ne sont pas forcément disponibles sur votre serveur : à ne pas planifier tant que rien n'est vérifié en jeu.
 
 ## Sources
 

@@ -1,13 +1,13 @@
 # Base et territoire
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 20 octobre 2026*
 
-!!! note
-    Astuces issues de l'expérience en jeu sur PS5. À confirmer/compléter.
+!!! note "Fiabilité et périmètre"
+    Relevés faits sur PS5 dans **Evolution's Call** (septembre 2026), sauf mention contraire. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source externe ([détail](../contribuer.md#niveaux-de-fiabilite)). La Corrosion, les PV des structures et les coûts de réparation peuvent dépendre du scénario, de la zone et du serveur ; ils n'ont pas été vérifiés sur [RaidZone / Red Zone](../scenarios/raidzone.md).
 
 ## Déménager sa base
 
-- Le déménagement de territoire est **gratuit**, avec un temps de recharge d'environ **10 minutes**. Toute la base se téléporte d'un bloc.
+- Le déménagement de territoire est **gratuit**, avec un temps de recharge d'environ **10 minutes**. Toute la base se téléporte d'un bloc 🎮.
 - 🎮 **Astuce manette PS5** : l'option « Déplacer le territoire » n'apparaît **pas** quand le catalogue de construction (l'écran vert avec les fondations) est ouvert. Fermez le catalogue (**Rond**) tout en restant en mode construction : l'option s'affiche alors (souvent via **L3** ou **R3**).
 
 ## Électricité et éclairage
@@ -62,7 +62,7 @@ Pompe à eau → Eau contaminée → FILTRE À EAU COMPACT (2:1) → Eau purifi�
 - **Filtre à eau compact** : sortie au choix — **Acide impur** (2:1) ou **Eau purifiée** (2:1). Fiche de l'Acide impur : *« Solution acide extraite d'eau contaminée, elle peut être purifiée davantage pour en faire de l'acide. »*
 - **Cuve de brassage** : recette affichée **« Eau purifiée >> Acide — Taux de conversion 10:1 »** (deux emplacements d'entrée, capacité 4 000 chacun ; le rôle exact du 2ᵉ emplacement — acide impur en complément ? — reste à préciser). Une seconde recette y est verrouillée derrière *« la technologie d'extraction minière du Caillot de… »* (Étoffe de M… — à documenter).
 
-**Le rendement en bout de chaîne** : à 2:1 puis 10:1, il faut ~20 eaux contaminées par acide → les ~900 eaux/2-3 h ≈ **45 acides**, et les ~40 000/semaine ≈ **2 000 acides/semaine**. C'est exactement ce que consomme l'industrie : la [poudre à canon (3 acides), le lingot de tungstène (1 acide)](../craft/explosifs.md#munitions--les-recettes-exactes-capturees-) et l'Équipement de sécurité (5 acides).
+**Le rendement en bout de chaîne** : à 2:1 puis 10:1, il faut ~20 eaux contaminées par acide → les ~900 eaux/2-3 h ≈ **45 acides**, et les ~40 000/semaine ≈ **2 000 acides/semaine**. C'est exactement ce que consomme l'industrie : la [poudre à canon (3 acides), le lingot de tungstène (1 acide)](../craft/explosifs.md#munitions-les-recettes-exactes-capturees-08092026) et l'Équipement de sécurité (5 acides).
 
 **Les matériaux — PV mesurés sur fiches (capturé ✅ 08/09/2026)** :
 

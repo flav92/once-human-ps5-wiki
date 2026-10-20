@@ -3,7 +3,7 @@
 *Dernière mise à jour : 19 octobre 2026*
 
 !!! note "Fiabilité"
-    Relevés faits sur PS5 dans le scénario Way of Winter, octobre 2026.
+    Relevés faits sur PS5 dans le scénario Way of Winter, octobre 2026. Les valeurs peuvent différer dans un autre scénario ; sur un serveur privé comme [RaidZone / Red Zone](../scenarios/raidzone.md), les règles de mods, de calibrage et de dégâts n'ont pas été relevées.
 
     Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source web ([détail](../contribuer.md#niveaux-de-fiabilite)).
 

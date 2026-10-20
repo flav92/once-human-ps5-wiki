@@ -11,20 +11,19 @@ Depuis le lancement console du 25 août 2026, Once Human supporte le **crossplay
 - PC (Windows)
 - iOS / Android
 
-Tous les joueurs partagent les mêmes serveurs — vous pouvez jouer avec vos amis PC ou mobile sans configuration particulière, du moment que vous êtes **dans la même région et sur le même serveur/scénario**.
+Sur les serveurs sans le préfixe « Console », vous pouvez jouer avec vos amis PC ou mobile sans configuration particulière, du moment que vous êtes **dans la même région et sur le même serveur**. Pour retrouver un ami, voir [Multijoueur](../jeu/multijoueur.md).
 
 ## La limite : les régions
 
-Le jeu est découpé en groupes de serveurs régionaux avec des centres de données séparés :
+Le jeu est découpé en groupes de serveurs régionaux. D'après la FAQ officielle, la version console couvre :
 
 | Région | Zone |
 |---|---|
 | EU | Europe |
 | NA | Amérique du Nord |
 | SA | Amérique du Sud |
-| SEA | Asie du Sud-Est |
+| JP, KR | Japon, Corée |
 | HK-MO-TW | Hong Kong / Macao / Taïwan |
-| JP-KR | Japon / Corée |
 
 **Pas de jeu inter-régions** : un joueur EU ne peut pas rejoindre un serveur NA avec son personnage EU.
 

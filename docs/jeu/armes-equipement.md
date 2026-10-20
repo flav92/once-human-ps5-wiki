@@ -1,9 +1,11 @@
 # Armes, accessoires et équipement
 
-*Dernière mise à jour : 6 septembre 2026*
+*Dernière mise à jour : 20 octobre 2026*
 
-!!! note
-    Astuces issues de l'expérience en jeu sur PS5. À confirmer/compléter.
+!!! note "Fiabilité et périmètre"
+    Relevés faits sur PS5 dans **Evolution's Call** (septembre 2026), sauf mention contraire. Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source externe ([détail](../contribuer.md#niveaux-de-fiabilite)). Les statistiques, coûts et listes d'ensembles peuvent changer avec le scénario ou une mise à jour ; elles n'ont pas été vérifiées sur le serveur privé [RaidZone / Red Zone](../scenarios/raidzone.md).
+
+    Les recommandations d'ensembles plus bas sont une **analyse des fiches**, pas des builds testés en combat.
 
 ## Accessoires d'armes (viseurs, freins de bouche, silencieux…)
 
@@ -87,7 +89,7 @@ Une fois les valeurs par emplacement connues, le classement des emplacements par
 | 4 | **Capuche / casque** | 740 | 38 % d'un haut |
 | — | Pantalon, masque | *Rang V à relever* | |
 
-**Les chaussures sont le deuxième emplacement le plus important du jeu**, et c'est contre-intuitif : on les traite spontanément comme une pièce secondaire, alors qu'elles valent **deux fois un casque**. Sur une configuration réelle relevée le 10/09/2026, remplacer des chaussures Rang IV (640 PV) par du Rang V (1 480 PV) rapporte **+840 PV**, soit **+12,7 % de points de vie totaux** pour une seule pièce.
+**Les chaussures sont le deuxième emplacement en PV** parmi ceux relevés, et c'est contre-intuitif : on les traite spontanément comme une pièce secondaire, alors qu'elles valent **deux fois un casque**. Sur une configuration réelle relevée le 10/09/2026, remplacer des chaussures Rang IV (640 PV) par du Rang V (1 480 PV) rapporte **+840 PV**, soit **+12,7 % de points de vie totaux** pour une seule pièce.
 
 **La règle qui en découle** : montez les emplacements dans l'ordre haut → chaussures → gants → casque, et à l'intérieur de cet ordre, traitez d'abord les pièces de Rang inférieur. Un haut de Rang V déjà en place ne se remplace pas ; des chaussures de Rang IV, si.
 
@@ -237,7 +239,7 @@ C'est le seul des dix ensembles qui fonctionne **aussi bien en attaque qu'en dé
 
 Là où les **Marées traîtresses** offrent −10 % **dès la première seconde**, sans condition, plus un bouclier automatique qui se déclenche tout seul sous 40 % de PV.
 
-### Quel ensemble choisir selon la situation (synthèse des onze fiches)
+### Quel ensemble choisir selon la situation (analyse des fiches, non testée en combat)
 
 | Situation | Recommandation | Pourquoi |
 |---|---|---|
@@ -328,9 +330,9 @@ Les sources **ne s'accordent pas** sur le meilleur ensemble défensif ni sur la 
 
 ⚠️ **Correction (10/09/2026)** — la **Tenue de faucon existe bel et bien sur console**, elle n'est simplement **pas dans la liste des schémas au Protochrome** : des **Gants de faucon Rang V** ont été relevés sur un personnage niveau 41, avec le compteur d'ensemble « Tenue de faucon (1/4) ». Elle s'obtient donc **par butin** (coffres / trésors mystiques), pas par déverrouillage de plan. Une première version de cette page concluait à tort à son absence : l'écran des schémas ne liste **pas** tout l'équipement du jeu.
 
-⚠️ Conséquence : **sept de ces onze ensembles ne sont commentés par aucun guide anglophone**. Les classements « top 10 » des sites de guides ignorent une partie du contenu réellement accessible sur console — leurs recommandations sont donc à prendre comme partielles. Les bonus de set de chaque ensemble restent à relever en jeu.
+⚠️ Conséquence : **sept de ces onze ensembles ne sont commentés par aucun guide anglophone**. Les classements « top 10 » des sites de guides ignorent une partie du contenu accessible sur console : leurs recommandations sont partielles. Les bonus des onze ensembles sont relevés plus haut ✅.
 
-Tendance générale des classements 2026, avec les réserves ci-dessus : **Lonewolf** revient le plus souvent en tête pour les dégâts, **Savior** est présenté comme l'ensemble de soutien/survie, **Bastille** et **Heavy Duty** comme des options défensives (Bastille en position statique — profil qui rappellerait la défense de bunker), **Falcon** pour le jeu d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques + fusil AWS.338. Aucun de ces ensembles n'a été vu sur console pour l'instant.
+Tendance générale des classements 2026, avec les réserves ci-dessus : **Lonewolf** revient le plus souvent en tête pour les dégâts, **Savior** est présenté comme l'ensemble de soutien/survie, **Bastille** et **Heavy Duty** comme des options défensives (Bastille en position statique — profil qui rappellerait la défense de bunker), **Falcon** pour le jeu d'esquive. Un build « tank » documenté associe 4 pièces **Renegade** + bottes en cuir uniques + fusil AWS.338. **Heavy Duty**, **Agent** et **Scout** ne figurent pas dans la liste des schémas relevée sur console ; Lonewolf (Loup solitaire), Savior (Sauveur), Bastille et Renegade (Renégat) l'ont été ✅.
 
 ⚠️ Noms français PS5, disponibilité par phase et valeurs exactes : **à vérifier en jeu** — ces données viennent de guides PC/web. Les coffres « Trésors mystiques » de Chalk Peak et Red Sands sont derrière le mur rouge en phase 1 ; ceux d'**Iron River (ensemble Agent)** sont accessibles dès maintenant.
 

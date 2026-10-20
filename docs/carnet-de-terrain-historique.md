@@ -1,41 +1,33 @@
-# Méthode de vérification communautaire — Once Human PS5
+# Méthode de relevé
 
 *Dernière mise à jour : 20 octobre 2026*
 
-Ce document définit une méthode commune pour améliorer le wiki. Il ne sert pas de journal de progression individuel : les pages publiques doivent privilégier les mécaniques, lieux, recettes et stratégies réutilisables par l'ensemble des joueurs.
-
-## Niveaux de fiabilité
-
-- **Vérifié en jeu** : information relevée sur PS5, idéalement accompagnée d'une capture montrant le texte complet, la valeur et le contexte.
-- **Observation de terrain** : résultat observé pendant une partie, mais qui peut dépendre du niveau, de l'équipement, du scénario ou d'une mise à jour.
-- **À confirmer** : nom de lieu incertain, recette non relue, valeur issue d'un souvenir ou mécanique dont la condition de réussite n'est pas établie.
-- **Source externe** : information tirée d'un guide ou d'une annonce ; citer la source et préciser si elle concerne PC, console ou une ancienne version.
+Cette page précise quoi noter pour qu'un relevé soit utile et réutilisable. Les marques de fiabilité (✅ 🎮 ⚠️ *À compléter*) sont définies sur la page [Contribuer](contribuer.md#niveaux-de-fiabilite).
 
 ## Fiche minimale pour une nouvelle information
 
 Pour une recette, une statistique ou une mécanique, noter :
 
-1. Le nom exact tel qu'affiché dans l'interface française.
-2. Le scénario, la plateforme et, si possible, la date ou la version du jeu.
-3. Les prérequis et le contexte : niveau, difficulté, équipement, météo, phase de scénario ou type de serveur.
-4. La valeur observée et son unité ; pour une recette, relever à la fois les ingrédients consommés et la quantité produite.
-5. Une capture d'écran lisible, lorsque c'est possible.
+1. Le nom exact affiché dans l'interface française.
+2. Le scénario, le serveur s'il est privé, la plateforme et la date.
+3. Le contexte : niveau, difficulté, équipement, météo, phase du scénario.
+4. La valeur et son unité ; pour une recette, à la fois les ingrédients consommés et la quantité produite.
+5. Une capture d'écran lisible, si possible.
 6. Ce qui reste inconnu ou contradictoire.
 
 ## Coordonnées et itinéraires
 
-- Indiquer le système de coordonnées et l'ordre des axes seulement s'ils sont confirmés par la carte.
-- Associer les coordonnées à un repère visible et à la ressource ou à l'objectif réellement trouvé.
-- Ne pas transformer une transcription vocale approximative en itinéraire certain.
-- Distinguer un emplacement fixe d'un point dont l'apparition varie selon la phase, la météo ou le serveur.
+- Indiquer l'ordre des axes seulement s'il est confirmé par la carte.
+- Associer les coordonnées à un repère visible et à ce qu'on y a réellement trouvé.
+- Une transcription vocale approximative ne devient pas un itinéraire certain.
+- Distinguer un emplacement fixe d'un point qui varie selon la phase, la météo ou le serveur.
 
-## Recettes et données contradictoires
+## Données contradictoires
 
-Quand deux valeurs se contredisent, ne pas choisir arbitrairement celle qui paraît la plus plausible. Marquer l'information « à confirmer », vérifier l'interface de fabrication et mettre à jour toutes les pages qui la reprennent.
+Quand deux valeurs se contredisent, ne pas choisir celle qui paraît la plus plausible. Les garder toutes les deux, marquer « à confirmer », vérifier à l'écran puis corriger toutes les pages qui reprennent la valeur.
 
-## Politique éditoriale du wiki public
+## Ce qui ne se publie pas
 
-- Conserver les informations utiles à tous les joueurs et supprimer les détails de progression, d'inventaire ou de situation propres à une personne.
-- Ne pas publier de données personnelles, de comptes rendus privés ou d'informations sur les habitudes d'un joueur.
-- Ne pas présenter un serveur privé comme une règle générale du jeu.
-- Préférer des instructions reproductibles, des captures et des sources aux souvenirs non vérifiés.
+- Les détails de progression, d'inventaire ou d'emploi du temps d'une personne.
+- Les données personnelles et les comptes rendus privés.
+- Les réglages d'un serveur privé présentés comme une règle générale du jeu.

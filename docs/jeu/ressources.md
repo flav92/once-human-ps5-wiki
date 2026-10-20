@@ -1,45 +1,60 @@
-# Ressources : comment les obtenir
+# Ressources : collecte et recyclage
 
-*Dernière mise à jour : 19 octobre 2026*
+*Dernière mise à jour : 20 octobre 2026*
 
-!!! note
-    Constaté en jeu sur PS5, septembre 2026. À confirmer/compléter. Les emplacements précis dépendent de la carte du scénario : voir [Ressources de Nalcott (Evolution's Call)](../scenarios/evolutions-call/ressources.md).
+!!! note "Fiabilité et périmètre"
+    Repères généraux constatés sur PS5 dans Evolution's Call (septembre 2026) et Way of Winter (octobre 2026). Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source externe ([détail](../contribuer.md#niveaux-de-fiabilite)). Les emplacements, les ressources spéciales et les rendements dépendent du scénario et du serveur.
 
-## Choisir le guide adapté au scénario
+## Guides par scénario
 
-Les bases de collecte ci-dessous sont utiles comme repères généraux. En revanche, **les emplacements, les ressources spéciales et les routes de farm dépendent du scénario et de sa carte**.
-
-- [Ressources de Nalcott — Evolution's Call](../scenarios/evolutions-call/ressources.md) : zones et repères propres à cette carte.
-- [Way of Winter](../scenarios/way-of-winter.md#roche-chaude) : roche chaude, Chaosium et repères de terrain encore à confirmer.
-- [RaidZone / Red Zone](../scenarios/raidzone.md#préparation-des-raids-et-gestion-du-soufre) : observations de soufre et préparation des raids propres à un serveur privé ; ne pas généraliser ses règles.
+- [Ressources de Nalcott — Evolution's Call](../scenarios/evolutions-call/ressources.md) : zones de récolte, fouille et chasse sur cette carte.
+- [Way of Winter](../scenarios/way-of-winter.md#roche-chaude) : roche chaude, chaosium et repères encore à confirmer.
+- [RaidZone / Red Zone](../scenarios/raidzone.md#preparation-des-raids-et-gestion-du-soufre) : serveur privé, multiplicateurs non relevés. Ne pas y appliquer les rendements des scénarios officiels.
 
 ## Ressources de base
 
-| Ressource | Comment |
+| Ressource | Où et comment 🎮 |
 |---|---|
-| **Gravier** | Automatique en cassant les rochers gris classiques |
-| **Cuivre** | Rochers avec incrustations jaune/orange oxydé. À fondre au Fourneau |
+| **Gravier** | En cassant les rochers gris |
+| **Cuivre** | Rochers avec incrustations jaune-orange oxydé ; à fondre au fourneau |
 | **Étain** | Rochers argentés |
 | **Fer** | Rochers rouge sombre |
+| **Soufre** | Gros rochers à **cristaux jaunes** (voir plus bas) |
 | **Algues** | Eaux peu profondes et plages |
-| **Maïs** | Autour des anciennes zones agricoles |
-| **Caoutchouc** | Démontez les objets qui en fournissent à l'Atelier de démontage. Gardez les pneus et les gants si vous en avez besoin pour d'autres fabrications : ne les recyclez pas automatiquement. |
-| **Charbon** | En début de partie : brûlez du bois dans un Fourneau → charbon de bois. Le vrai minerai de charbon se pioche bien plus tard en zones de haut niveau |
-| **Verre** | Gravier fondu au Fourneau (avec du charbon) |
-| **Pièces électroniques** | Bric-à-brac technologique (claviers, écrans, jouets chien robot) démantelé au Bureau de démontage |
-| **Ferraille / pièces rouillées** | Déchets et coffres de voitures, démantelés au Bureau de démontage |
+| **Maïs** | Anciennes zones agricoles |
+| **Charbon** | Au début, bois brûlé au fourneau (charbon de bois) ; le minerai de charbon vient plus tard, en zone de haut niveau |
+| **Verre** | Gravier fondu au fourneau, avec du charbon |
+
+## Outils de récolte
+
+- La **perceuse** récolte plus qu'une **pioche** sur un même filon : sur la roche chaude de Way of Winter, 50 minerais contre 25 🎮. Les autres minerais n'ont pas été mesurés.
+- Le **Hamburger au bacon** fait miner et abattre en un coup pendant 10 minutes 🎮 (Way of Winter).
+- La perceuse et les outils se réparent à l'**Établi d'équipement**, onglet Réparation 🎮 ([détail](armes-equipement.md#reparation-dequipement)).
+
+## Recyclage au Bureau de démontage
+
+Le **Bureau de démontage** transforme le bric-à-brac en matériaux. L'option « Tout insérer » fait gagner du temps 🎮, mais vérifiez d'abord ce que vous insérez.
+
+| Matériau obtenu | Objets à démonter 🎮 |
+|---|---|
+| **Pièces électroniques** | Bric-à-brac technologique : claviers, écrans, chiens robots |
+| **Caoutchouc** | Bric-à-brac en caoutchouc, comme les pneus et les gants |
+| **Ferraille, pièces rouillées** | Déchets et coffres de voitures |
+
+Avant de démonter des pneus ou des gants, vérifiez qu'aucune recette dont vous avez besoin ne les demande tels quels. Ne démontez pas non plus les objets à **icône jaune** : passés au Banc de synthèse technologique, ils débloquent une recette ([rétro-ingénierie](../craft/explosifs.md#la-retro-ingenierie-lautre-voie-de-deblocage)) ✅.
 
 ## Soufre
 
-- **Exploration** : détruisez les gros rochers parsemés de **cristaux jaunes**.
-- **Automatique** : placez le Déviant **Garçon Digby** dans une unité de confinement pour farmer passivement autour de la base.
+Le soufre alimente les Explosifs variés, donc grenades, explosifs et roquettes ([Explosifs et munitions](../craft/explosifs.md#le-goulot-de-toute-la-chaine-explosifs-varies-soufre)).
 
-## Graines de pommier (agriculture)
+- **Exploration** : détruisez les gros rochers à **cristaux jaunes** 🎮.
+- **À la base** : le Déviant **Garçon Digby**, placé dans une unité de confinement, produit du soufre en continu 🎮.
 
-- **Abattre des pommiers sauvages** (taux de drop faible — hache ou tronçonneuse).
-- **Fouiller les réfrigérateurs** dans les maisons.
-- **Distributeurs de joueurs** : achetables avec des Liens d'énergie dans les Vending Machines des camps d'autres joueurs.
+## Graines de pommier
+
+- Pommiers sauvages abattus (taux d'obtention faible) et réfrigérateurs des maisons 🎮.
+- Distributeurs d'autres joueurs, contre des Liens d'énergie 🎮.
 
 ## Sources
 
-- Constaté en jeu sur PS5 (recherches personnelles, septembre 2026) — à confirmer par la communauté.
+- Constaté en jeu sur PS5, septembre et octobre 2026.

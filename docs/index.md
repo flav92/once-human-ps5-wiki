@@ -15,9 +15,10 @@
 </div>
 
 <div class="oh-legend">
-<span><span class="oh-status oh-status--verifie">Vérifié</span> Relevé en jeu sur PS5, capture à l'appui.</span>
-<span><span class="oh-status oh-status--hypothese">Hypothèse</span> Déduction non confirmée.</span>
-<span><span class="oh-status oh-status--aconfirmer">À confirmer</span> Information incomplète ou capture manquante.</span>
+<span><span class="oh-status oh-status--verifie">✅ Capture</span> Relevé à l'écran sur PS5, dans un scénario donné.</span>
+<span><span class="oh-status oh-status--hypothese">🎮 En jeu</span> Constaté en jeu, sans capture.</span>
+<span><span class="oh-status oh-status--web">⚠️ Source externe</span> Guide ou annonce, non confirmé sur PS5.</span>
+<span><span class="oh-status oh-status--aconfirmer">À compléter</span> Information manquante.</span>
 </div>
 
 ## Par où commencer ?
@@ -26,7 +27,7 @@
 
 <a class="oh-card" href="#regles-de-base" markdown>
 <span class="oh-card-title">Je comprends les règles</span>
-<span class="oh-card-desc">Différences entre scénarios orientés PvE, scénarios à phases PvP et serveurs privés.</span>
+<span class="oh-card-desc">Différences entre scénarios orientés PvE, scénarios à phases PvP et serveurs privés comme Red Zone.</span>
 <span class="oh-home-link">Voir les règles de base →</span>
 </a>
 
@@ -80,6 +81,11 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-card-desc">Combinaisons, mods et pistes de build ; les données non vérifiées sur PS5 sont identifiées.</span>
 </a>
 
+<a class="oh-card" href="jeu/arenes-deviants/" markdown>
+<span class="oh-card-title">Défis d’arène</span>
+<span class="oh-card-desc">Score de symbiose et condition de validation encore inconnue : méthode de vérification.</span>
+</a>
+
 <a class="oh-card" href="glossaire/" markdown>
 <span class="oh-card-title">Glossaire français / anglais</span>
 <span class="oh-card-desc">Retrouver les termes français des menus PS5 à partir des guides anglophones.</span>
@@ -105,17 +111,10 @@ Ces sujets sont regroupés ici lorsqu’ils servent dans plusieurs scénarios. C
 <span class="oh-home-link">Ouvrir le scénario →</span>
 </a>
 
-<a class="oh-card" href="scenarios/deviation/" markdown>
-<span class="oh-card-title">Déviation</span>
-<span class="oh-badge oh-badge--violet">Défis et progression</span>
-<span class="oh-card-desc">Défis d’arène, score de symbiose et conditions de validation observées sur PS5.</span>
-<span class="oh-home-link">Ouvrir le scénario →</span>
-</a>
-
 <a class="oh-card" href="scenarios/raidzone/" markdown>
-<span class="oh-card-title">Serveurs privés — RaidZone</span>
+<span class="oh-card-title">Serveur privé RaidZone / Red Zone</span>
 <span class="oh-badge oh-badge--amber">PvP privé</span>
-<span class="oh-card-desc">Notes séparées sur ce serveur privé : ne pas confondre ses règles avec celles des scénarios officiels.</span>
+<span class="oh-card-desc">Ses règles de récolte, de fabrication, de dégâts et de mort peuvent différer : les guides communs n'y sont pas vérifiés.</span>
 <span class="oh-home-link">Ouvrir le guide serveur →</span>
 </a>
 
@@ -128,7 +127,7 @@ Avant de choisir, retenez ces repères :
 - **PvE** : priorité à l’exploration, aux ressources, aux missions et aux combats contre l’environnement. **Way of Winter** est présenté ici comme un scénario principalement PvE.
 - **PvP à phases** : la progression et l’exploration coexistent avec des activités territoriales et des règles qui évoluent selon la phase. **Evolution’s Call** entre dans cette catégorie ; il ne faut donc pas le décrire comme un scénario exclusivement PvE.
 - **PvPvE** : les deux dimensions peuvent coexister dans un même environnement ou selon les zones et les activités. Il faut vérifier les règles précises du serveur.
-- **Serveur privé PvP** : **RaidZone** est un cas particulier. Ses règles ne doivent jamais être appliquées par défaut aux scénarios officiels.
+- **Serveur privé PvP** : **RaidZone / Red Zone** est un cas particulier. Ses règles ne s'appliquent pas aux scénarios officiels, et les valeurs des guides communs (recettes, dégâts, mods) n'y sont pas vérifiées.
 
 Ces repères servent à s’orienter, pas à remplacer la fiche détaillée de chaque scénario.
 
@@ -179,4 +178,4 @@ Ces repères servent à s’orienter, pas à remplacer la fiche détaillée de c
 
 ---
 
-*Wiki communautaire non officiel, sans affiliation avec NetEase ou Starry Studio. Les observations spécifiques à un scénario ou à un serveur sont identifiées comme telles ; les valeurs non confirmées ne sont pas présentées comme des règles générales.*
+*Wiki communautaire non officiel, sans affiliation avec NetEase ou Starry Studio. Chaque relevé indique son scénario et sa provenance ; voir [Contribuer](contribuer.md#niveaux-de-fiabilite).*

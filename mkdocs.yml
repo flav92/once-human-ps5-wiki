@@ -52,11 +52,12 @@ nav:
       - Serveurs et régions: ps5/serveurs.md
       - Problèmes connus: ps5/problemes-connus.md
   - Survie:
-      - Premiers pas sur Nalcott: jeu/premiers-pas.md
+      - Premiers pas: jeu/premiers-pas.md
       - Astuces de survie: jeu/astuces-survie.md
       - Multijoueur: jeu/multijoueur.md
       - Ressources: jeu/ressources.md
       - Anomalies, fusion et traits: jeu/anomalies.md
+      - Défis d'arène: jeu/arenes-deviants.md
   - Craft:
       - Armes et équipement: jeu/armes-equipement.md
       - Mods et calibrages: jeu/mods-calibrages.md
@@ -73,12 +74,11 @@ nav:
           - Ressources de Nalcott: scenarios/evolutions-call/ressources.md
           - PvP et phases de serveur: scenarios/evolutions-call/multijoueur-pvp.md
       - Way of Winter: scenarios/way-of-winter.md
-      - Déviation: scenarios/deviation.md
-      - Serveurs privés: scenarios/raidzone.md
-  - Méthode de vérification communautaire: carnet-de-terrain-historique.md
+      - Serveur privé RaidZone / Red Zone: scenarios/raidzone.md
   - Glossaire FR/EN: glossaire.md
   - Contribuer:
       - Comment contribuer: contribuer.md
+      - Méthode de relevé: carnet-de-terrain-historique.md
       - 📸 Captures à faire: captures-a-faire.md
 
 extra_css:
@@ -113,5 +113,6 @@ plugins:
         guerre/frontieres.md: scenarios/evolutions-call/frontieres.md
         jeu/conquete-bastion.md: scenarios/evolutions-call/gvg.md
         jeu/multijoueur-pvp.md: scenarios/evolutions-call/multijoueur-pvp.md
+        scenarios/deviation.md: jeu/arenes-deviants.md
 
 copyright: Wiki non officiel, sans affiliation avec NetEase / Starry Studio.

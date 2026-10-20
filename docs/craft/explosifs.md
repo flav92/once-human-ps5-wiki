@@ -1,6 +1,9 @@
 # Explosifs et munitions
 
-*Dernière mise à jour : 6 septembre 2026 — recettes et fiches relevées en jeu PS5 ✅*
+*Dernière mise à jour : 20 octobre 2026*
+
+!!! note "Fiabilité et périmètre"
+    Recettes et fiches relevées sur PS5 dans **Evolution's Call** (septembre 2026, phase 1). Marques : ✅ capture d'écran, 🎮 constaté en jeu sans capture, ⚠️ source externe ([détail](../contribuer.md#niveaux-de-fiabilite)). Coûts, déblocages et dégâts peuvent différer dans un autre scénario. Sur le serveur privé [RaidZone / Red Zone](../scenarios/raidzone.md), aucune de ces valeurs n'a été vérifiée.
 
 Tout ce qui explose : quoi débloquer, quoi fabriquer, à quel coût — et lequel choisir selon la cible.
 
@@ -71,7 +74,7 @@ Tout se fabrique à l'**Établi de fournitures avancé** (5 s par craft) :
 |---|---|---|
 | **Munitions à noyau d'acier de calibre moyen** | 7 Lingots d'acier + 2 Poudre à canon + 12 Source protoplasmique | +8 % DÉG par tir, +8 % Intensité Psi |
 | **Munitions perforantes de calibre moyen** | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **+20 % contre les unités blindées** |
-| **Munition de démolition de calibre moyen** ✅ | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **« Inflige des dégâts supplémentaires aux structures »** |
+| **Munition de démolition de calibre moyen** (fiche ✅, matériaux à confirmer) | 7 Lingots de **tungstène** + 2 Poudre à canon + 20 Source protoplasmique | +15 % DÉG, +15 % Psi, **« Inflige des dégâts supplémentaires aux structures »** |
 
 ### Munitions de démolition : la fiche exacte ✅ (11/09/2026)
 
@@ -115,7 +118,7 @@ L'**Acide** n'entre donc pas directement dans les balles : il passe par la **pou
 
 **Onglet « Inventions technologiques »** ✅ : on y place des **matériaux** (« Matériaux d'invention ») → l'« Aperçu du résultat de l'invention » montre les machines/objets que la combinaison peut produire → **« Activer l'invention »** (~3 min). C'est une seconde voie de découverte : expérimentez des combinaisons de matériaux pour inventer de nouvelles installations. *(À documenter : les combinaisons connues.)*
 
-**Doctrine de la faction** : *favoriser la récupération des installations et la rétro-ingénierie* — en raid comme en exploration, **ramenez tout objet à icône jaune** au lieu de le broyer, et récupérez les installations ennemies quand c'est possible plutôt que de tout détruire. Chaque objet analysé = un craft gratuit ou des ossements.
+**Conseil** : en raid comme en exploration, **ramenez tout objet à icône jaune** au lieu de le broyer, et récupérez les installations ennemies quand c'est possible plutôt que de tout détruire. Chaque objet analysé = un craft gratuit ou des ossements.
 
 ## L'arbre Tech Combat (relevé ✅ 09/09/2026)
 

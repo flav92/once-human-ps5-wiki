@@ -79,7 +79,7 @@ Les rôles **démolisseur** (explosifs), **guetteur** et **producteur arrière**
 
 ### Exemple de répartition sur un noyau de quatre joueurs
 
-Cas réel (XR1, septembre 2026), avec le rôle que chacun veut tenir :
+Exemple observé dans une faction (septembre 2026), avec le rôle que chacun voulait tenir. Il s'agit d'une analyse des fiches, pas d'une composition testée en combat :
 
 | Joueur | Rôle voulu | Ensemble principal | Complément (2 pièces) | Raison |
 |---|---|---|---|---|
