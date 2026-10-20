@@ -1148,3 +1148,40 @@ body[data-oh-world="amber"]::before {
 @media (prefers-reduced-motion: reduce) {
   body::before { animation: none !important; }
 }
+
+
+/* Crossfade réel entre les quatre fonds illustrés locaux. */
+body::before {
+  background: linear-gradient(115deg, rgba(4,7,11,.08), rgba(4,7,11,.48) 58%, rgba(4,7,11,.70));
+  opacity: 1;
+  mask-image: none;
+  animation: none;
+}
+.oh-world-background {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  overflow: hidden;
+  pointer-events: none;
+  background: #05080c;
+}
+.oh-world-background__layer {
+  position: absolute;
+  inset: -2%;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0;
+  transform: scale(1.015);
+  transition: opacity 2.4s ease-in-out;
+  will-change: opacity, transform;
+  animation: oh-world-pan 36s ease-in-out infinite alternate;
+}
+.oh-world-background__layer.is-active { opacity: 1; }
+@keyframes oh-world-pan {
+  from { transform: scale(1.015) translate3d(-.4%, -.2%, 0); }
+  to { transform: scale(1.07) translate3d(.4%, .2%, 0); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .oh-world-background__layer { animation: none; transition: none; }
+}
